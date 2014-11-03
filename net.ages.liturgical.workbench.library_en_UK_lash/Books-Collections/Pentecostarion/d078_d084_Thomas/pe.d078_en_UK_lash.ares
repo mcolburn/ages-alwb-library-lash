@@ -1,0 +1,351 @@
+A_Resource_Whose_Name = pe.d078_en_UK_lash
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+peSV.Stichera1.mode = misc_en_UK_lash.Mode1
+peSV.Stichera1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+peSV.Stichera1.text = ""
+
+peSV.Stichera2.mode = misc_en_UK_lash.Mode1
+peSV.Stichera2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+peSV.Stichera2.text = ""
+
+peSV.Stichera3.mode = misc_en_UK_lash.Mode1
+peSV.Stichera3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+peSV.Stichera3.text = ""
+
+peSV.SticGlory.mode = misc_en_UK_lash.Mode2
+peSV.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peSV.SticGlory.text = ""
+
+peSV.Aposticha1.mode = misc_en_UK_lash.Mode2
+peSV.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.Aposticha1.text = ""
+
+peSV.Aposticha2.mode = misc_en_UK_lash.Mode2
+peSV.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.Aposticha2.text = ""
+
+peSV.Aposticha3.mode = misc_en_UK_lash.Mode2
+peSV.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.Aposticha3.text = ""
+
+peSV.AposGlory.mode = misc_en_UK_lash.Mode2
+peSV.AposGlory.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.AposGlory.text = ""
+
+peVE.Stichera01.poet = poets_en_UK_lash.IoannouMonachou
+peVE.Stichera01.mode = misc_en_UK_lash.Mode1
+peVE.Stichera01.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera01.text = "When the doors were shut and the Disciples assembled, you suddenly entered O All powerful One, Jesus, our God. You stood in their midst, gave them peace and filled them with the Holy Spirit. You ordered them to remain and on no account to leave Jerusalem until they had been clothed with power from on high. Therefore we cry to you: Our Illumination, our Resurrection and our Peace, glory to you’."
+
+peVE.Stichera02.mode = misc_en_UK_lash.Mode1
+peVE.Stichera02.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera02.text = "Eight days after your Rising, Lord, you appeared to your Disciples in the place where they were gathered, and having said to them ‘Peace be unto you’, you showed your hands and your immaculate side to the unbelieving Disciple. But he was convinced and cried to you ‘My Lord and my God, glory to you’."
+
+peVE.Stichera03.mode = misc_en_UK_lash.Mode1
+peVE.Stichera03.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera03.text = "Thomas, called Twin, was not with them, O Christ, when you entered when the doors were shut; therefore he did not believe what was told him confirming faith from unbelief. But you did not refuse, O Good One, to show him your immaculate side, and the wounds in your hands and feet. But he, having handled and seen, confessed you to be not simply God and not merely man, and he cried ‘My Lord and my God, glory to you’."
+
+peVE.Stichera04.mode = misc_en_UK_lash.Mode1
+peVE.Stichera04.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera04.text = "As the Disciples hesitated, O Saviour, you came on the eighth day, where they were gathered. you gave them peace and cried to Thomas, ‘Come here, Apostle, handle the palms in which they fixed the nails’. O excellent unbelief of Thomas, which led the hearts of the faithful to knowledge; and with fear he cried, ‘My Lord and my God, glory to you’. "
+
+peVE.Stichera05.mode = misc_en_UK_lash.Mode2
+peVE.Stichera05.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera05.text = "After your Rising, Lord, when your Disciples were gathered together and the doors were shut, you stood in the midst and gave them peace. But Thomas too, convinced by the sight of your hands and side, confessed you to be the Lord and God who saves those who hope in you, Lover of mankind."
+
+peVE.Stichera06.mode = misc_en_UK_lash.Mode2
+peVE.Stichera06.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera06.text = "When the doors were shut, Jesus came to the Disciples and gave them fearlessness and peace. Then he said to Thomas, ‘Why do you not believe me, that I have risen from the dead? Bring your hand here, and put it into my side, and see: for by your not believing, all have learnt both my Passion and my Resurrection, and to cry, ‘My Lord and my God, glory to you’."
+
+peVE.SticGlory.mode = misc_en_UK_lash.Mode6
+peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.SticGlory.text = "When the doors were shut, you came O Christ to your Disciples. Thomas, by divine dispensation, was not with them then; for he said ‘I will not believe, unless I too see the Master; see the side from which came the blood, the water, baptism; see the wound by which the deep wound, humanity, was healed; see that he was not like some spirit, but flesh and bones’. O Lord who trampled on death, and satisfied Thomas, glory to you."
+
+peVE.Lity1.mode = misc_en_UK_lash.Mode4
+peVE.Lity1.melody = misc_en_UK_lash.Idiomelon
+peVE.Lity1.text = "O Lord, when doors were shut you came in the unbearable blaze of your godhead and standing among your Disciples you bared your side. You showed them the scars of the wounds in your hands and feet, and banishing their dejection you cried out clearly: ‘The way you see me, my friends, I bear, not a spirit’s nature, but the flesh which I assumed’. To the doubting Disciple, ‘you were ready to handle me with dread’, he said, ‘you investigate all things, come then, do not hesitate’. But he, sensing with his hand your double being, with fear cried out in faith: ‘My Lord and my God, glory to you.’"
+
+peVE.Lity2.mode = misc_en_UK_lash.Mode8
+peVE.Lity2.melody = misc_en_UK_lash.Idiomelon
+peVE.Lity2.text = "‘Touch my side with your hand, Thomas, ‘Christ says, ‘and come, handle the marks of the nails; investigate with faith and become faithful to me. Be not faithless.’ But Thomas, as he touched the Master with his finger, cried out aloud: ‘You are my Lord and my God. O Compassionate, glory to you!’"
+
+peVE.LityGlory.poet = poets_en_UK_lash.Anatoliou
+peVE.LityGlory.mode = misc_en_UK_lash.Mode8
+peVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.LityGlory.text = "When the doors were shut and the Disciples assembled, the Saviour came where they were gathered; and standing among them he says to Thomas: ‘Come, handle me, and see the marks of the nails; stretch out your hand and touch my side, and be not faithless, but with faith proclaim my Resurrection from the dead.’"
+
+peVE.Aposticha1.mode = misc_en_UK_lash.Mode4
+peVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
+peVE.Aposticha1.text = "O amazing wonder! Unbelief has engendered firm faith for Thomas, who said ‘Unless I see, I will not believe’, having handled the side, acknowledged as God incarnate the same Son of God: he recognised that he had suffered in the flesh; he proclaimed the risen God and he cried in shining tones ‘My Lord and my God, glory to you’."
+
+peVE.Aposticha2.mode = misc_en_UK_lash.Mode4
+peVE.Aposticha2.melody = misc_en_UK_lash.Idiomelon
+peVE.Aposticha2.text = "O amazing wonder! The grass which touched the fire is safe: for Thomas having put his hand into the fiery side of Jesus Christ, God, was not burned up by his handling; for he fervently changed the doubt of his soul into true faith. He cried from the depths of his soul ‘You are my Master and my God, you who have been raised from the dead, glory to you."
+
+peVE.Aposticha3.mode = misc_en_UK_lash.Mode4
+peVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
+peVE.Aposticha3.text = "O amazing wonder! John leaned on the breast of the Word, but Thomas was found worthy to handle his side. But the former with awe drew thence the depths of Theology, the divine dispensation; the latter was found worthy to initiate us, for he clearly provided proofs of your Rising, as he cried out ‘My Lord and my God, glory to you’."
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode5
+peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.AposGlory.text = "O lover of mankind, great and immeasurable is the multitude of your mercies; for you endured being struck by the Jews, handled by the Apostle and investigated by those who reject you. How did you become incarnate? How were you crucified, you who are sinless? But make us understand, as you did Thomas, so that he cried to you ‘My Lord and my God, glory to you’."
+
+peVE.Apolytikion1.mode = misc_en_UK_lash.Mode7
+peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.text = oc.m7.d1_en_UK_lash.ocMA.Kathisma21.text
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode1
+peMA.Kathisma11.melody = he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
+peMA.Kathisma11.text = ""
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode1
+peMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.name
+peMA.Kathisma21.text = ""
+
+peMA.Kathisma31.mode = misc_en_UK_lash.Mode1
+peMA.Kathisma31.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.name
+peMA.Kathisma31.text = ""
+
+peMA.Prokeimenon.text = "" //for media
+
+peMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostles.text
+
+peMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+peMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
+peMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
+peMA.PostGospelIdiomelon.text = ho.s03_en_UK_lash.hoMA.SunPostGospelIdiomelon.text
+
+peMA.C1Poet = poets_en_UK_lash.IoannouMonachou
+
+peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode1C11.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
+peMA.Ode1C11.text = "" 
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode1C12.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
+peMA.Ode1C12.text = "" 
+
+peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode1C13.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
+peMA.Ode1C13.text = "" 
+
+peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereosonMeChriste.text
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode3C11.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
+peMA.Ode3C11.text = "" 
+
+peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode3C12.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
+peMA.Ode3C12.text = "" 
+
+peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode3C13.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
+peMA.Ode3C13.text = "" 
+
+peMA.Hypakoe.mode = misc_en_UK_lash.Mode6
+peMA.Hypakoe.melody  = ""
+peMA.Hypakoe.text = ""
+
+peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode4C1H.text = he.h.m1_en_UK_lash.MegaToMystirion.text
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode4C11.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C11.text = "" 
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode4C12.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C12.text = "" 
+
+peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode4C13.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C13.text = "" 
+
+peMA.Ode4C14.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C14.mode = misc_en_UK_lash.Mode1
+peMA.Ode4C14.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C14.text = "" 
+
+peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode5C11.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C11.text = "" 
+
+peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode5C12.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C12.text = "" 
+
+peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode5C13.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C13.text = "" 
+
+peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode6C11.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
+peMA.Ode6C11.text = "" 
+
+peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode6C12.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
+peMA.Ode6C12.text = "" 
+
+peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode6C13.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
+peMA.Ode6C13.text = "" 
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
+peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.text = ""
+
+peMA.Oikos1.text = ""
+
+peMA.Synaxarion1.Com = ""
+peMA.Synaxarion1.Ver1 = ""
+peMA.Synaxarion1.Ver2 = ""
+peMA.Synaxarion1.Nar = ""
+peMA.Synaxarion.LastLine = ""
+
+peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode7C1H.text = he.h.m1_en_UK_lash.EikoniLatrevein.text
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode7C11.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C11.text = "" 
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode7C12.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C12.text = "" 
+
+peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode7C13.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C13.text = "" 
+
+peMA.Ode7C14.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C14.mode = misc_en_UK_lash.Mode1
+peMA.Ode7C14.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C14.text = "" 
+
+peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode8C1H.text = he.h.m1_en_UK_lash.TonEnFlogiPyros.text
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode8C11.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.name
+peMA.Ode8C11.text = "" 
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode8C12.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.name
+peMA.Ode8C12.text = "" 
+
+peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode8C13.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.name
+peMA.Ode8C13.text = "" 
+
+peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
+peMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode9C1H.text = he.h.m1_en_UK_lash.SeTinFaeinin.text
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode1
+peMA.Ode9C11.melody =he.h.m1_en_UK_lash.SeTinFaeinin.name 
+peMA.Ode9C11.text = "" 
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode1
+peMA.Ode9C12.melody = he.h.m1_en_UK_lash.SeTinFaeinin.name
+peMA.Ode9C12.text = "" 
+
+peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C13.mode = misc_en_UK_lash.Mode1
+peMA.Ode9C13.melody = he.h.m1_en_UK_lash.SeTinFaeinin.name
+peMA.Ode9C13.text = "" 
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+peMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+peMA.Exaposteilarion1.text = ""
+
+peMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+peMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+peMA.Exaposteilarion2.text = ""
+
+peMA.Lauds1.mode = misc_en_UK_lash.Mode1
+peMA.Lauds1.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+peMA.Lauds1.text = ""
+
+peMA.Lauds2.mode = misc_en_UK_lash.Mode1
+peMA.Lauds2.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+peMA.Lauds2.text = ""
+
+peMA.Lauds3.mode = misc_en_UK_lash.Mode1
+peMA.Lauds3.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+peMA.Lauds3.text = ""
+
+peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.LaudsGlory.text = ""
+
+peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
+peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+
+peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
+peLI.TheotokosHymn.text = peMA.Ode9C1H.text
+
+peLI.CommunionHymn.text = "" //for media
+
+peMegalynarion.text = ""
