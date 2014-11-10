@@ -645,7 +645,7 @@ trGC.Ode3C213.mode = misc_en_UK_lash.Mode6
 trGC.Ode3C213.melody = he.h.m6_en_UK_lash.StereosonKyrie.name
 trGC.Ode3C213.text = ""
 
-trGC.Ode3C214.ode = "misc_en_UK_lash.Ode3" // not in cog here but in first week
+trGC.Ode3C214.ode = misc_en_UK_lash.Ode3
 trGC.Ode3C214.mode = misc_en_UK_lash.Mode6
 trGC.Ode3C214.melody = he.h.m6_en_UK_lash.StereosonKyrie.name
 trGC.Ode3C214.text = ""

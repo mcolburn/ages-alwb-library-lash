@@ -47,7 +47,7 @@ trMA.C1Poet = poets_en_UK_lash.Iosif
 trMA.C2Poet = poets_en_UK_lash.Theodorou
 
 trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
-trMA.Ode5C11.mode = "misc_en_UK_lash.Mode1" // cog has wrong mode
+trMA.Ode5C11.mode = misc_en_UK_lash.Mode1
 trMA.Ode5C11.melody = he.h.m1_en_UK_lash.OFotisasTiEllampsei.name
 trMA.Ode5C11.text = ""
 
