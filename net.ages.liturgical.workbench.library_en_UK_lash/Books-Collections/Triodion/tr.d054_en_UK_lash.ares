@@ -1188,11 +1188,11 @@ trGC.Ode6C2H.mode = misc_en_UK_lash.Mode6
 trGC.Ode6C2H.melody = misc_en_UK_lash.Heirmos
 trGC.Ode6C2H.text = he.h.m6_en_UK_lash.EvoisaEnOliKardiaMou.text
 
-trMA.Kontakion.mode = misc_en_UK_lash.Mode6
-trMA.Kontakion.melody = ""
-trMA.Kontakion.text = ""
+trMA.Kontakion1.mode = misc_en_UK_lash.Mode6
+trMA.Kontakion1.melody = ""
+trMA.Kontakion1.text = ""
 
-trMA.Oikos.text = ""
+trMA.Oikos1.text = ""
 
 trMA.Synaxarion1.Com = ""
 trMA.Synaxarion1.Ver1 = ""
