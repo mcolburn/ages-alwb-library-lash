@@ -220,9 +220,9 @@ trMA.Ode6C1T.mode = misc_en_UK_lash.Mode4
 trMA.Ode6C1T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 trMA.Ode6C1T.text = ""
 
-trMA.Kontakion.mode = misc_en_UK_lash.Mode7
-trMA.Kontakion.melody = misc_en_UK_lash.Automelon
-trMA.Kontakion.text = tr.d043_en_UK_lash.trMA.Kontakion.text
+trMA.Kontakion1.mode = misc_en_UK_lash.Mode7
+trMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+trMA.Kontakion1.text = tr.d043_en_UK_lash.trMA.Kontakion1.text
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C11.mode = misc_en_UK_lash.Mode8
