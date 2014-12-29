@@ -2,59 +2,59 @@ A_Resource_Whose_Name = oc.m6.d4_en_UK_lash
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera1.melody = he.a.m6_en_UK_lash.IApegnosmeni.name
-ocVE.Stichera1.text = ""
+ocVE.Stichera1.text = "God, who wish that should be saved, look upon and see my prayer, and do no reject my tears as vain. For who ever approached you, falling down before you, and was not immediately saved? Who ever cried out fervently to you, and was not immediately heard? For you, Master and Lord are found swift to save all those who ask you, through your great mercy."
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera2.melody = he.a.m6_en_UK_lash.IApegnosmeni.name
-ocVE.Stichera2.text = ""
+ocVE.Stichera2.text = "In your love for mankind, O Compassionate, raise me up, who have been swallowed down by sins and torn in pieces by love of pleasures. Do not let me become an object of malignant joy to demons. Do not dismiss me as unworthy of your dread mysteries. But accept me as you are merciful before the groans and tears of my departure, and free from the passions."
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera3.melody = he.a.m6_en_UK_lash.IApegnosmeni.name
-ocVE.Stichera3.text = ""
+ocVE.Stichera3.text = "Lament, my soul, before your departure; fall down before the Creator in repentance; offer tears from your whole heart; cry out to Christ in compunction, ‘I have sinned against you, O Word, do not despise me, do not reject me, just Judge, nor send me away to fire, O Long-suffering, through your great mercy.’"
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera4.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
-ocVE.Stichera4.text = ""
+ocVE.Stichera4.text = "‘The marriage of the heavenly Bridegroom has been prepared’, cry the heralds. Why do you willingly delay, my black soul? Truly everything about is filthy, your garments are those of sensuality, and so how, wretch, are you going to enter? Come, fall down, crying out before the end to her who did not know wedlock, ‘Sprinkle me with the hyssop of your intercessions, pure Virgin, cleanse me and make me worthy of the bridal chamber, that I may magnify you."
 
 ocVE.Stichera5.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera5.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
-ocVE.Stichera5.text = ""
+ocVE.Stichera5.text = "With purity of mind, O holy, all-pure Virgin, Isaias foretold that you would give birth to the Maker of all creation. For you appeared from eternity as alone all-blameless. Therefore I beg you, purify my defiled heart, and make me a partaker in the divine radiance of your Son, O Maiden, and of a place at his right hand, when, as it is written, he takes his throne to judge the whole world."
 
 ocVE.Stichera6.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera6.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
-ocVE.Stichera6.text = ""
+ocVE.Stichera6.text = "The Harlot, when of old she emptied out the alabaster jar of sweet myrrh upon your feet, Master, was freed of all that she had done. The Thief was no sooner seen to remember you, than you led at once into Paradise. But what shall I do, wretch that I am? I have no sweet myrrh, no compunction. Have mercy on me freely, take pity on me, O Word, your immaculate Mother entreats, whom you have given to your world as a mighty refuge."
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.SticTheotokion.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
-ocVE.SticTheotokion.text = ""
+ocVE.SticTheotokion.text = "‘The judges of Israel condemned you to a judgement that carried death with it, my Son, standing you, Saviour, who judge the dead and the living, before a tribunal as one to be judged; and they set you before Pilate and condemned you trial. Ah, the lawless ones! And as I see it, I am wounded and condemned with you, O Lord. Therefore I judge that to die is better than to live’ cried the Mother of God with groans, O only Merciful."
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode6
-ocVE.Aposticha1.melody  = ""
-ocVE.Aposticha1.text = ""
+ocVE.Aposticha1.melody = ""
+ocVE.Aposticha1.text = "Your Cross, Lord, is life and resurrection for your people, and trusting in it we sing your praise, our God who was crucified in the flesh. Have mercy on us."
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode6
-ocVE.Aposticha2.melody  = ""
-ocVE.Aposticha2.text = ""
+ocVE.Aposticha2.melody = ""
+ocVE.Aposticha2.text = "Your Cross, Lord, opened Paradise to the human race, and freed from corruption we sing your praise, our God who was crucified in the flesh. Have mercy on us."
 ocVE.Aposticha2.similarto = oc.m6.d1_en_UK_lash.ocMA.Lauds2.text
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode6
-ocVE.Aposticha3.melody  = ""
-ocVE.Aposticha3.text = ""
+ocVE.Aposticha3.melody = ""
+ocVE.Aposticha3.text = "The Martyrs, Champions and citizens of heaven, having struggled on earth, endured many torments. At their intercessions and prayers, Lord, keep us all."
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.AposTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "When she saw you crucified, O Christ, she who bore you cried out, ‘What is the strange mystery I see, my Son? How are you, the giver of life, hanged in the flesh, dying on a Tree?"
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode6
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma33.text
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode6
-ocMA.Kathisma11.melody  = ""
+ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_UK_lash.Mode6
-ocMA.Kathisma12.melody  = ""
+ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_UK_lash.Mode6
@@ -62,11 +62,11 @@ ocMA.Kathisma13.melody = he.a.m6_en_UK_lash.ElpisTouKosmouAgathi.name
 ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_UK_lash.Mode6
-ocMA.Kathisma21.melody  = ""
+ocMA.Kathisma21.melody = ""
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_UK_lash.Mode6
-ocMA.Kathisma22.melody  = ""
+ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_UK_lash.Mode6
@@ -78,11 +78,11 @@ ocMA.Kathisma31.melody = he.a.m6_en_UK_lash.ElpisTouKosmouAgathi.name
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode6
-ocMA.Kathisma32.melody  = ""
+ocMA.Kathisma32.melody = ""
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode6
-ocMA.Kathisma33.melody  = ""
+ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.text = ""
 
 ocMA.C1Acrostic.text = ""
@@ -460,15 +460,15 @@ ocMA.OdeW9C24.melody = he.h.m6_en_UK_lash.TheonAnthropois.name
 ocMA.OdeW9C24.text = ""
 
 ocMA.Aposticha1.mode = misc_en_UK_lash.Mode6
-ocMA.Aposticha1.melody  = ""
+ocMA.Aposticha1.melody = ""
 ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = misc_en_UK_lash.Mode6
-ocMA.Aposticha2.melody  = ""
+ocMA.Aposticha2.melody = ""
 ocMA.Aposticha2.text = ""
 
 ocMA.Aposticha3.mode = misc_en_UK_lash.Mode6
-ocMA.Aposticha3.melody  = ""
+ocMA.Aposticha3.melody = ""
 ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode6
@@ -476,7 +476,7 @@ ocMA.AposTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.name
 ocMA.AposTheotokion.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode6
-ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = ""
 
 ocLI.Beatitudes1.mode = misc_en_UK_lash.Mode6
@@ -515,19 +515,19 @@ octrMA.Triadic3.mode = misc_en_UK_lash.Mode6
 octrMA.Triadic3.text = oc.m6.d2_en_UK_lash.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_UK_lash.Mode6
-octrMA.Kathisma11.melody  = ""
+octrMA.Kathisma11.melody = ""
 octrMA.Kathisma11.text = ocMA.Kathisma21.text
 
 octrMA.Kathisma12.mode = misc_en_UK_lash.Mode6
-octrMA.Kathisma12.melody  = ""
+octrMA.Kathisma12.melody = ""
 octrMA.Kathisma12.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = misc_en_UK_lash.Mode6
-octrMA.Kathisma1T.melody  = ""
-octrMA.Kathisma1T.text  = ocMA.Kathisma13.text
+octrMA.Kathisma1T.melody = ""
+octrMA.Kathisma1T.text = ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode6
-octrMA.Ode7Martyricon.melody  = oc.m6.d3_en_UK_lash.ocMA.Kathisma32.melody
+octrMA.Ode7Martyricon.melody = oc.m6.d3_en_UK_lash.ocMA.Kathisma32.melody
 octrMA.Ode7Martyricon.text = oc.m6.d3_en_UK_lash.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_UK_lash.Mode6
