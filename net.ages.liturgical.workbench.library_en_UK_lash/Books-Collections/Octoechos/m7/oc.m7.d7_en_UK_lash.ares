@@ -14,15 +14,15 @@ ocVE.Stichera3.text = oc.m7.d5_en_UK_lash.ocVE.Aposticha3.text
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode7
 ocVE.Stichera4.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.name
-ocVE.Stichera4.text = ""
+ocVE.Stichera4.text = "Saviour, do not be ashamed of me, who have done deeds of shame, when you come to judge the whole world."
 
 ocVE.Stichera5.mode = misc_en_UK_lash.Mode7
 ocVE.Stichera5.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.name
-ocVE.Stichera5.text = ""
+ocVE.Stichera5.text = "Numberless my offences against you, numberless punishments I deserve; my God take pity on me and save me."
 
 ocVE.Stichera6.mode = misc_en_UK_lash.Mode7
 ocVE.Stichera6.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.name
-ocVE.Stichera6.text = ""
+ocVE.Stichera6.text = "Give rest in your courts, O Master, to those who have fallen asleep in faith, and grant them your Kingdom."
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode7
 ocVE.SticTheotokion.melody = ""
@@ -34,21 +34,21 @@ ocVE.Aposticha1.text = oc.m7.d2_en_UK_lash.ocVE.Aposticha3.text
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode7
 ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.text = ""
+ocVE.Aposticha2.text = "At the beginning you fashioned mankind in your image and likeness, you placed him in Paradise to rule over your creatures; but deceived by the envy of the devil, he shared the food and became a transgressor of your commandments; and so you condemned him to return again to the earth from which he had been taken, Lord, and to ask for rest."
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode7
 ocVE.Aposticha3.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.name
-ocVE.Aposticha3.text = ""
+ocVE.Aposticha3.text = "Give rest, O Saviour giver of life, to our brothers whom you have translated from temporary things and who cry: Lord, glory to you!"
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode7
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "Daniel saw you as a holy, divine mountain, honoured one, and wise Isaias proclaimed you to be Mother of God, who contained God in flesh who fashioned Adam; the Cherubim tremble at him incarnate, as they hymn and glorify him with the never-silent thrice holy song; but ask him that our souls may be saved."
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode7
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m7.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
-ocMA.Alleluia.mode = misc_en_UK_lash.Mode7 // for mode-specific media e.g. Triodion
+ocMA.Alleluia.mode = "misc_en_UK_lash.Mode7" // for mode-specific media e.g. Triodion
 ocMA.Alleluia.text = prayers_en_UK_lash.Allilouia3.text
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode7

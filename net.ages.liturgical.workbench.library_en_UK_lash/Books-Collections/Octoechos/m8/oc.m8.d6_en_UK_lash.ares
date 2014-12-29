@@ -2,58 +2,58 @@ A_Resource_Whose_Name = oc.m8.d6_en_UK_lash
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode8
 ocVE.Stichera1.melody = he.a.m8_en_UK_lash.OAngelosSouKyrie.name
-ocVE.Stichera1.text = ""
+ocVE.Stichera1.text = "The lawless people condemned you, my Jesu, the Lord and Creator of the whole world, to be crucified between lawless men; and when it saw their shameless deed the whole earth quaked, revealing you, Master, to be the Maker of all things."
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode8
 ocVE.Stichera2.melody = he.a.m8_en_UK_lash.OAngelosSouKyrie.name
-ocVE.Stichera2.text = ""
+ocVE.Stichera2.text = "We are all redeemed from the curse of the law and from accusations; for the Lord of the law was lifted up on the precious Cross, becoming a source of inexhaustible blessing, grace and mercy for us who hymn his divine sufferings."
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode8
 ocVE.Stichera3.melody = he.a.m8_en_UK_lash.OAngelosSouKyrie.name
-ocVE.Stichera3.text = ""
+ocVE.Stichera3.text = "When your hands were wounded, Lover of mankind, you healed our wounds; you directed all to ways of salvation, Lord, when your feet were gouged through on the Cross, which when the First-formed man saw them in Paradise, he hid himself."
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode8
 ocVE.Stichera4.melody = he.a.m8_en_UK_lash.OTouParadoxou.name
-ocVE.Stichera4.text = ""
+ocVE.Stichera4.text = "Hail Lady, Mother of God; hail sceptre of David; hail heavenly gate; hail bush unburned; hail shaded mountain; hail lampstand; hail all-immaculate; hail jar; hail palace; hail all-unblemished Mother of our God; hail tongs; hail divine table; hail hope of the world."
 
 ocVE.Stichera5.mode = misc_en_UK_lash.Mode8
 ocVE.Stichera5.melody = he.a.m8_en_UK_lash.OTouParadoxou.name
-ocVE.Stichera5.text = ""
+ocVE.Stichera5.text = "The waves of my sins, Sovereign Lady, as on a dread ocean, lifted high above my head threaten to drown me; but stretch out your hand to me, as one was once to Peter as he was sinking, and save and guide me to a harbour of repentance, I beg, immaculate, all-praised, Mother of God, hope of all the world."
 
 ocVE.Stichera6.mode = misc_en_UK_lash.Mode8
 ocVE.Stichera6.melody = he.a.m8_en_UK_lash.OTouParadoxou.name
-ocVE.Stichera6.text = ""
+ocVE.Stichera6.text = "Fearfully darkened by the passions of sin, I am hastening, wretch that I am, to fall into the precipice of despair; but do you, blessed Lady, full of God's grace, take pity on me; make the light of your compassion shine for me, and guide me to straight ways, I entreat, I fall down, I beg. Do not despise me."
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode8
 ocVE.SticTheotokion.melody = he.a.m8_en_UK_lash.OiMartyresSouKyrie.name
-ocVE.SticTheotokion.text = ""
+ocVE.SticTheotokion.text = "When the All-pure saw you, O Christ, willingly hanged on a cross, knowing your power, she was seized with grief and in lamentation cried aloud to you: My Child, do not leave me, who gave you birth; give me a word, my Son; do not pass from your servant in silence, O Word of God."
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode8
-ocVE.Aposticha1.melody  = ""
+ocVE.Aposticha1.melody = ""
 ocVE.Aposticha1.text = oc.m8.d4_en_UK_lash.ocVE.Aposticha1.text
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode8
-ocVE.Aposticha2.melody  = ""
+ocVE.Aposticha2.melody = ""
 ocVE.Aposticha2.text = oc.m8.d4_en_UK_lash.ocVE.Aposticha2.text
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode8
-ocVE.Aposticha3.melody  = ""
+ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = oc.m8.d2_en_UK_lash.ocVE.Aposticha3.text
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode8
 ocVE.AposTheotokion.melody = he.a.m8_en_UK_lash.OiMartyresSouKyrie.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = "As she saw you crucified and put to death, the Mother of God cried: Alas! How do you endure pains, my sweetest Son? The lance strikes my heart, your passion burns my inward parts. But yet I confess you, for willing you suffer all this to save mankind."
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode8
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = oc.m8.d4_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode8
-ocMA.Kathisma11.melody  = ""
+ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.text = oc.m8.d4_en_UK_lash.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = misc_en_UK_lash.Mode8
-ocMA.Kathisma12.melody  = ""
+ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.text = oc.m8.d4_en_UK_lash.ocMA.Kathisma12.text
 
 ocMA.Kathisma13.mode = misc_en_UK_lash.Mode8
@@ -85,7 +85,7 @@ ocMA.Kathisma31.melody = he.a.m8_en_UK_lash.AnestisEkNekron.name
 ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode8
-ocMA.Kathisma32.melody  = ""
+ocMA.Kathisma32.melody = ""
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode8
@@ -505,7 +505,7 @@ ocMA.OdeW9C24.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
 ocMA.OdeW9C24.text = ""
 
 ocMA.Aposticha1.mode = misc_en_UK_lash.Mode8
-ocMA.Aposticha1.melody  = ""
+ocMA.Aposticha1.melody = ""
 ocMA.Aposticha1.text = oc.m8.d4_en_UK_lash.ocMA.Aposticha1.text
 
 ocMA.Aposticha2.mode = misc_en_UK_lash.Mode8
@@ -521,31 +521,31 @@ ocMA.AposTheotokion.melody = misc_en_UK_lash.Automelon
 ocMA.AposTheotokion.text = he.a.m8_en_UK_lash.OTouParadoxou.text
 
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode8
-ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = oc.m8.d4_en_UK_lash.ocMA.ApolTheotokion.text
 
 ocLI.Beatitudes1.mode = misc_en_UK_lash.Mode8
-ocLI.Beatitudes1.melody  = ""
+ocLI.Beatitudes1.melody = ""
 ocLI.Beatitudes1.text = oc.m8.d1_en_UK_lash.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_UK_lash.Mode8
-ocLI.Beatitudes2.melody  = ""
+ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_UK_lash.Mode8
-ocLI.Beatitudes3.melody  = ""
+ocLI.Beatitudes3.melody = ""
 ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_UK_lash.Mode8
-ocLI.Beatitudes4.melody  = ""
+ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode8
-ocLI.BeatitudesGlory.melody  = ""
+ocLI.BeatitudesGlory.melody = ""
 ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode8
-ocLI.BeatitudesBoth.melody  = ""
+ocLI.BeatitudesBoth.melody = ""
 ocLI.BeatitudesBoth.text = ""
 
 //Octoechos in Triodion
@@ -560,19 +560,19 @@ octrMA.Triadic3.mode = misc_en_UK_lash.Mode8
 octrMA.Triadic3.text = oc.m8.d2_en_UK_lash.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_UK_lash.Mode8
-octrMA.Kathisma11.melody  = ""
+octrMA.Kathisma11.melody = ""
 octrMA.Kathisma11.text = ""
 
 octrMA.Kathisma12.mode = misc_en_UK_lash.Mode8
-octrMA.Kathisma12.melody  = ""
+octrMA.Kathisma12.melody = ""
 octrMA.Kathisma12.text = ""
 
 octrMA.Kathisma1T.mode = misc_en_UK_lash.Mode8
-octrMA.Kathisma1T.melody  = ""
+octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.text = ""
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode8
-octrMA.Ode7Martyricon.melody  = ""
+octrMA.Ode7Martyricon.melody = ""
 octrMA.Ode7Martyricon.text = ""
 
 octrMA.Photogogic.mode = misc_en_UK_lash.Mode8
