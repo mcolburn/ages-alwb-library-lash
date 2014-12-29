@@ -142,7 +142,7 @@ ocMO.Ode3T.melody = he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
 ocMO.Ode3T.text = "Without change made like to mortals in all things, O Word of God, you came forth clearly from a pure Maiden, and to all you revealed the Godhead of triple light and single in the essence of identical hypostases."
 
 ocMO.Kathisma11.mode = misc_en_UK_lash.Mode7
-ocMO.Kathisma11.melody = "For my sake you endured."
+ocMO.Kathisma11.melody = he.a.m7_en_UK_lash.ODiEmeAnaschomenos.name
 ocMO.Kathisma11.text = "Have mercy, holy Trinity, on your servants who have sinned, and receive them, O Compassionate, as they repent to you, and grant them pardon."
 
 ocMO.Kathisma12.mode = misc_en_UK_lash.Mode7
@@ -200,12 +200,12 @@ ocMO.Ode6T.melody = he.h.m7_en_UK_lash.NaftionToSalo.name
 ocMO.Ode6T.text = "The Word, born from the Sun, the Father by an ineffable word as another Sun before the ages, dawned in these last times from the Virgin and taught that God who is beyond understanding is single in three persons."
 
 ocMO.Kathisma21.mode = misc_en_UK_lash.Mode7
-ocMO.Kathisma21.melody = "More luminous than fire."
+ocMO.Kathisma21.melody = he.a.m7_en_UK_lash.PyrosFoteinoteron.name
 ocMO.Kathisma21.text = "Consubstantial Trinity, three-personned Unity, have mercy on those you fashioned, burning up, O Immortal, the vices of the those who fall and enlightening the hearts of those who sing the praise of your compassion. Our God, glory to you."
 
 ocMO.Kathisma22.mode = misc_en_UK_lash.Mode7
-ocMO.Kathisma22.melody = "More luminous than fire."
-ocMO.Kathisma22.text = "More luminous than fire, more brilliant than light is the mercy of your grace, Sovereign Lady. It burns up the sins of mortals and bedews the thoughts of those who sing the praise of your mighty works, all-blameless Mother of God."
+ocMO.Kathisma22.melody = misc_en_UK_lash.Automelon
+ocMO.Kathisma22.text = he.a.m7_en_UK_lash.PyrosFoteinoteron.text
 
 ocMO.Ode71.mode = misc_en_UK_lash.Mode7
 ocMO.Ode71.ode = misc_en_UK_lash.Ode7
