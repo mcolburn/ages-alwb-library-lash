@@ -771,7 +771,7 @@ ocMA.Lauds1.melody = misc_en_UK_lash.Automelon
 ocMA.Lauds1.text = he.a.m8_en_UK_lash.KyrieEiKaiKritirio.text
 
 ocMA.Lauds2.mode = misc_en_UK_lash.Mode8
-ocMA.Lauds1.text = he.a.m8_en_UK_lash.KyrieEiKaiKritirio.name
+ocMA.Lauds2.melody = he.a.m8_en_UK_lash.KyrieEiKaiKritirio.name
 ocMA.Lauds2.text = "Lord, though Jews had laid you as a corpse in a grave, yet soldiers were guarding you as a sleeping king, and they sealed you with a seal as treasure-house of life; but you arose and granted incorruption to our souls."
 
 ocMA.Lauds3.mode = misc_en_UK_lash.Mode8
