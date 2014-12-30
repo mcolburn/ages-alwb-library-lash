@@ -17,15 +17,15 @@ meDismissal = dismissals_en_UK_lash.dis00.epiphany
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode5
 meVE.Stichera01.melody = he.a.m5_en_UK_lash.OsiePater.name
-meVE.Stichera01.text = ""
+meVE.Stichera01.text = "Venerable Father, most holy Gregory; full pen of the breath of the Advocate and clear tongue of Orthodoxy; lamp of the divine brightness with many lights; herald of truth, rampart of theology; wellspring of high doctrines; torrent of teachings that flow with honey; lyre tuned to God’s voice of songs composed by God that delights the minds of believers. All-wise Father, entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our souls."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode5
 meVE.Stichera02.melody = he.a.m5_en_UK_lash.OsiePater.name
-meVE.Stichera02.text = ""
+meVE.Stichera02.text = "Venerable Father, all-honoured Gregory; axe that fells the assaults of heretics, two-edged sword of the Advocate; knife that cuts out adulterated seeds; fire that burns up the undergrowth of heresies; true farmer’s winnowing fan by which the weight and lightness of doctrines is well distinguished; measuring rod of strict accuracy that directs all into paths of salvation. Ever entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our race."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode5
 meVE.Stichera03.melody = he.a.m5_en_UK_lash.OsiePater.name
-meVE.Stichera03.text = ""
+meVE.Stichera03.text = "Venerable Father, all-blessed Gregory; mouth that pours out blessed words, drawing them from the inexhaustible and divine wells of salvation, expounding for all words of prayer; rule that directs to virtue; you became radiant by contemplation of things divine, illumined by the brightness of the uncreated Trinity, whose invincible champion you became. Venerable Father, entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our race."
 
 meVE.Stichera04.mode = misc_en_UK_lash.Mode1
 meVE.Stichera04.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.name
@@ -42,7 +42,7 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_UK_lash.Anatoliou
 meVE.SticGlory.mode = misc_en_UK_lash.Mode4
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.text = "Making your word of wisdom radiant by unapproachable virtue, Gregory of Nyssa, you became all fair in both, with your voice inspired by God beautifying and delighting the people spiritually, expounding with great wisdom the consubstantial godhead of the Trinity; and so, making war with orthodox doctrines on outlandish heresies, you roused the might of the faith to the ends of the earth. As you stand by Christ with the bodiless Ministers, ask for our souls his peace and great mercy."
 
 meVE.SticBoth.poet = poets_en_UK_lash.KosmaMonachou
 meVE.SticBoth.mode = misc_en_UK_lash.Mode4
@@ -51,24 +51,24 @@ meVE.SticBoth.text = me.m01.d06_en_UK_lash.meVE.Lity5.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "Let the whole earth sing a new song to Christ, born from a Virgin and today baptised in Jordan."
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = "Let the Forerunner, prophetic trumpet, cry, ‘Produce the fruits of noble deeds for the Lord baptised in Jordan’."
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = "The consubstantial divine Spirit, shining from above and seen ineffably in the form of a dove, now hastens towards Christ."
 
 meVE.AposGlory.poet = poets_en_UK_lash.Anatoliou
 meVE.AposGlory.mode = misc_en_UK_lash.Mode4
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "Having achieved a life inspired by God, you made its practice bright by contemplation, Gregory, revealer of God; for loving wisdom with divine ardour, you were enriched with grace from the mouth of the Spirit. Distilling the sweetness of your words like honeycomb, you ever make God’s Church joyful with divine thoughts. And so, as you dwell a high priest in heaven, intercede unceasingly for us who celebrate your memory."
 
 meVE.AposBoth.poet = poets_en_UK_lash.KosmaMonachou
 meVE.AposBoth.mode = misc_en_UK_lash.Mode4
