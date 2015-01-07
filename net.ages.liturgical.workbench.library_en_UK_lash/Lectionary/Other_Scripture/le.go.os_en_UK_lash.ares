@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = le.go.os_en_UK_lash
 
 leosVE.Prayer_NynApolyeis.title = ""
-leosVE.Prayer_NynApolyeis.version = bible_en_UK_lash.version.designation
+leosVE.Prayer_NynApolyeis.version = properties_en_UK_lash.version.designation
 leosVE.Prayer_NynApolyeis.book = bible_en_UK_lash.Luke
 leosVE.Prayer_NynApolyeis.chapverse = ""
 leosVE.Prayer_NynApolyeis.text = "Now, Master, you let your servant depart in peace, according to your word; for my eyes have seen your salvation, which you have prepared before the face of all peoples; a light for revelation to the nations, and the glory of your people Israel."
@@ -9,7 +9,7 @@ leosVE.Prayer_NynApolyeis1.text = ""
 leosVE.Prayer_NynApolyeis2.text = ""
 
 leosMA.SixPsalmsIntro1.title = ""
-leosMA.SixPsalmsIntro1.version = bible_en_UK_lash.version.designation
+leosMA.SixPsalmsIntro1.version = properties_en_UK_lash.version.designation
 leosMA.SixPsalmsIntro1.book = bible_en_UK_lash.Luke
 leosMA.SixPsalmsIntro1.chapverse = ""
 leosMA.SixPsalmsIntro1.text = ""
@@ -18,7 +18,7 @@ leosMA.SixPsalmsIntro1.text = ""
 //so that the Scripture version of these NT texts will be controlled by the version option
 //for NT and not the option for Psalter, which is where the Odes live
 leosMA.Ode91.title = ps.bodes_en_UK_lash.bode9.title
-leosMA.Ode91.version = bible_en_UK_lash.version.designation
+leosMA.Ode91.version = properties_en_UK_lash.version.designation
 leosMA.Ode91.book = bible_en_UK_lash.Luke
 leosMA.Ode91.heading1 = ps.bodes_en_UK_lash.bode9_mag.heading1
 leosMA.Ode91.source = ps.bodes_en_UK_lash.bode9_mag.chapverse
@@ -38,7 +38,7 @@ leosMA.Ode91.v6.number = ps.bodes_en_UK_lash.bode9_mag.v6.number
 leosMA.Ode91.v6.text = ps.bodes_en_UK_lash.bode9_mag.v6.text
 
 leosMA.Ode92.title = ""
-leosMA.Ode92.version = bible_en_UK_lash.version.designation
+leosMA.Ode92.version = properties_en_UK_lash.version.designation
 leosMA.Ode92.book = bible_en_UK_lash.Luke
 leosMA.Ode92.heading1 = ps.bodes_en_UK_lash.bode9.heading1
 leosMA.Ode92.source = ps.bodes_en_UK_lash.bode9.chapverse
@@ -71,19 +71,19 @@ leosMA.Ode92.v11.number = ps.bodes_en_UK_lash.bode9.v11.number
 leosMA.Ode92.v11.text = ps.bodes_en_UK_lash.bode9.v11.text
 
 leosMA.GreatDoxology.v01.title = ""
-leosMA.GreatDoxology.v01.version = bible_en_UK_lash.version.designation
+leosMA.GreatDoxology.v01.version = properties_en_UK_lash.version.designation
 leosMA.GreatDoxology.v01.book = bible_en_UK_lash.Luke
 leosMA.GreatDoxology.v01.chapverse = ""
 leosMA.GreatDoxology.v01.text = "Glory to God in the highest, and on earth peace; good will among men."
 
 leosLI.pe.d095.CommunionHymn.title = ""
-leosLI.pe.d095.CommunionHymn.version = bible_en_UK_lash.version.designation
+leosLI.pe.d095.CommunionHymn.version = properties_en_UK_lash.version.designation
 leosLI.pe.d095.CommunionHymn.book = bible_en_UK_lash.John
 leosLI.pe.d095.CommunionHymn.number = ""
 leosLI.pe.d095.CommunionHymn.text = ""
 
 leosTY.Beatitudes.title = ""
-leosTY.Beatitudes.version = bible_en_UK_lash.version.designation
+leosTY.Beatitudes.version = properties_en_UK_lash.version.designation
 leosTY.Beatitudes.book = bible_en_UK_lash.Matthew
 leosTY.Beatitudes.chapverse = ""
 leosTY.Beatitudes_Intro.text = ""
