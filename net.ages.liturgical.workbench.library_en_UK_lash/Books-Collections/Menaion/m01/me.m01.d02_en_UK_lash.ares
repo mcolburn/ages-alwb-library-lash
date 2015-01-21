@@ -651,6 +651,10 @@ meMA.AposGlory.mode = misc_en_UK_lash.Mode8
 meMA.AposGlory.melody = ""
 meMA.AposGlory.text = "‘John Baptist, who in the womb recognized me the Lamb, be my servant in the river, minister to me with Angels; stretch out to touch my immaculate head with your palm; and when you see the mountains tremble and Jordan being turned back, shout with them, ‘Lord, incarnate from a Virgin for our salvation, glory to you!’’"
 
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
 meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode4
 meLI.SeasonalKontakion.melody = he.a.m4_en_UK_lash.EpefanisSimeron.name
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
