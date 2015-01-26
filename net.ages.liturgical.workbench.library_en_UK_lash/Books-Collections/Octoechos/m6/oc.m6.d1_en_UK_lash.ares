@@ -1,16 +1,16 @@
 A_Resource_Whose_Name = oc.m6.d1_en_UK_lash
 
-ocVE.GlorySticheraric.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocVE.GlorySticheraric.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.GlorySticheraric.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
+ocGE.GlorySticheraric.text = prayers_en_UK_lash.DoxaPatri.text
 
-ocVE.BothSticheraric.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocVE.BothSticheraric.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.BothSticheraric.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
+ocGE.BothSticheraric.text = prayers_en_UK_lash.KaiNynKaiAei.text
 
-ocVE.GloryHeirmologic.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocVE.GloryHeirmologic.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.GloryHeirmologic.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
+ocGE.GloryHeirmologic.text = prayers_en_UK_lash.DoxaPatri.text
 
-ocVE.BothHeirmologic.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocVE.BothHeirmologic.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.BothHeirmologic.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
+ocGE.BothHeirmologic.text = prayers_en_UK_lash.KaiNynKaiAei.text
 
 ocSV.Dogmatic.mode = misc_en_UK_lash.Mode6
 ocSV.Dogmatic.melody = ""
