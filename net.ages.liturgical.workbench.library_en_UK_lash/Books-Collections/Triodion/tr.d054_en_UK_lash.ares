@@ -137,7 +137,7 @@ trGC.SticheraT.mode = misc_en_UK_lash.Mode4
 trGC.SticheraT.melody = he.a.m4_en_UK_lash.IthelonDakrysinExaleipsai.name
 trGC.SticheraT.text = ""
 
-trGC.Title = ""
+trGC.title = ""
 trGC.C1Poet = poets_en_UK_lash.AndreouKritis
 trGC.Verse1 = prayers_en_UK_lash.EleisonMeOTheos.text
 trGC.Verse2 = prayers_en_UK_lash.OsiaTouTheou.text
