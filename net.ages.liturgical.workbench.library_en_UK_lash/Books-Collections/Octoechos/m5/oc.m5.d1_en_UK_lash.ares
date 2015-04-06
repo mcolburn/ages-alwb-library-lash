@@ -17,11 +17,11 @@ ocSV.Aposticha1.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.name
 ocSV.Aposticha1.text = "My hands I stretch out towards you, my sordid lips I open in supplication, I bend the knee of my heart and in spirit I now touch your most pure feet, pure Virgin, and I fall before you; Heal my pains and, in your loving-kindness, treat my many and incurable wounds. Deliver me from seen and unseen foes. Lighten the burden of my sloth, that I may praise and glorify you through whom the world has found God’s great mercy."
 
 ocSV.Aposticha2.mode = misc_en_UK_lash.Mode5
-ocSV.Aposticha1.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.name
+ocSV.Aposticha2.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.name
 ocSV.Aposticha2.text = "Hail, All-blameless Virgin, beyond explanation who conceived and gave birth in the flesh to the Son of God, who from your blood truly took that which was ours, with a soul that was rational and possessed free will; for, having put on Adam without defect, he refashioned and saved mankind. Therefore Christ is proclaimed to us as being in two natures, showing in himself the activity of them both. Implore him that his great mercy be given to our souls."
 
 ocSV.Aposticha3.mode = misc_en_UK_lash.Mode5
-ocSV.Aposticha1.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.name
+ocSV.Aposticha3.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.name
 ocSV.Aposticha3.text = "Hail, beauty of Jacob, whom God chose and loved; door of the saved, flame-bearing tongs, abolition of the curse, all-blessed Maiden, womb that contained God, righting of the fallen, holier than the Cherubim, higher than creation, sight hard to look upon, strangest report, saying that cannot be expressed, chariot of the Word, cloud from which dawned the Sun that sheds his light even on me and grants to those in darkness his great mercy."
 
 ocSV.AposDogmatic.mode = misc_en_UK_lash.Mode5
@@ -31,6 +31,8 @@ ocSV.AposDogmatic.text = "The prophecies concerning you have been fulfilled, pur
 ocVE.MM.LIHC1.text = properties_en_UK_lash.media.key
 
 ocVE.MM.LIHC2.text = properties_en_UK_lash.media.key
+
+ocVE.MM.LIHC_Stichologia = properties_en_UK_lash.media.key
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode5
 ocVE.Stichera1.melody = ""
