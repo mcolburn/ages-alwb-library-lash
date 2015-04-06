@@ -50,39 +50,39 @@ peVE.AposBoth.melody = misc_en_UK_lash.Idiomelon
 peVE.AposBoth.text = pe.d110_en_UK_lash.peVE.LityGlory.text
 
 peVE.Apolytikion1.mode = misc_en_UK_lash.Mode6
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = oc.m6.d1_en_UK_lash.ocVE.Apolytikion.text
 
 peVE.Apolytikion2.mode = misc_en_UK_lash.Mode8
-peVE.Apolytikion2.melody  = ""
+peVE.Apolytikion2.melody = ""
 peVE.Apolytikion2.text = me.m07.dHF_en_UK_lash.meVE.Apolytikion1.text
 
 peVE.Apolytikion3.mode = misc_en_UK_lash.Mode4
-peVE.Apolytikion3.melody  = ""
+peVE.Apolytikion3.melody = ""
 peVE.Apolytikion3.text = pe.d110_en_UK_lash.peVE.Apolytikion1.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode6
-peMA.Kathisma11.melody  = ""
+peMA.Kathisma11.melody = ""
 peMA.Kathisma11.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma11.text
 
 peMA.Kathisma12.mode = misc_en_UK_lash.Mode6
-peMA.Kathisma12.melody  = ""
+peMA.Kathisma12.melody = ""
 peMA.Kathisma12.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma12.text
 
 peMA.Kathisma13.mode = misc_en_UK_lash.Mode6
-peMA.Kathisma13.melody  = ""
+peMA.Kathisma13.melody = ""
 peMA.Kathisma13.text = oc.m6.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = misc_en_UK_lash.Mode6
-peMA.Kathisma21.melody  = ""
+peMA.Kathisma21.melody = ""
 peMA.Kathisma21.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma21.text
 
 peMA.Kathisma22.mode = misc_en_UK_lash.Mode6
-peMA.Kathisma22.melody  = ""
+peMA.Kathisma22.melody = ""
 peMA.Kathisma22.text = ""
 
 peMA.Kathisma23.mode = misc_en_UK_lash.Mode6
-peMA.Kathisma23.melody  = ""
+peMA.Kathisma23.melody = ""
 peMA.Kathisma23.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma23.text
 
 peMA.C1Acrostic.text = ""

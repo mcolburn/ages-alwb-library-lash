@@ -47,7 +47,7 @@ peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
 peVE.AposGlory.text = "At the mid-point of the feast, as you were teaching, O Saviour, the Jews said, ‘How does this man know letters, never having learned?’ They did not recognize that you are the Wisdom who ordered the world. Glory to you!"
 
 peVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "At the mid-point of the Feast, O Saviour, water my thirsty soul with streams of true devotion; for you cried out to all: Any who thirst, let them come to me, and let them drink! O Source of life, Christ our God, glory to you!"
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode4
@@ -603,7 +603,7 @@ peMA.Lauds3.mode = misc_en_UK_lash.Mode4
 peMA.Lauds3.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
 peMA.Lauds3.text = ""
 
-peMA.Lauds123.text = "" //for media
+peMA.MM.Lauds123.text = "" //for media
 
 peMA.LaudsGlory.mode = misc_en_UK_lash.Mode4
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
@@ -616,6 +616,6 @@ peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
 peLI.TheotokosHymn.text = peMA.Ode9C2H.text
 
-peLI.CommunionHymn.text = ""
+peLI.MM.CommunionHymn.text = ""
 
 peMegalynarion.text = ""

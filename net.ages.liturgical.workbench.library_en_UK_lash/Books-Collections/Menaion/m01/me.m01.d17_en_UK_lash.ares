@@ -157,7 +157,7 @@ meMA.Kathisma3T.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma3T.melody = he.a.m4_en_UK_lash.EpefanisSimeron.name
 meMA.Kathisma3T.text = ""
 
-meMA.Prokeimenon.text = ""
+meMA.MM.Prokeimenon.text = ""
 
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -415,9 +415,7 @@ meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -427,7 +425,7 @@ meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode1
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = me.m02.d02_en_UK_lash.meMA.Kontakion1.text
 
-meLI.CommunionHymn.text = "" //for media
+meLI.MM.CommunionHymn.text = "" //for media
 
 meMegalynarion.text = ""
 

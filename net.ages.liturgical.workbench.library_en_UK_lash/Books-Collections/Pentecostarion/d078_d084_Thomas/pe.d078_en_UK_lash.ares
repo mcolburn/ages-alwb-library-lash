@@ -104,7 +104,7 @@ peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
 peVE.AposGlory.text = "O lover of mankind, great and immeasurable is the multitude of your mercies; for you endured being struck by the Jews, handled by the Apostle and investigated by those who reject you. How did you become incarnate? How were you crucified, you who are sinless? But make us understand, as you did Thomas, so that he cried to you ‘My Lord and my God, glory to you’."
 
 peVE.Apolytikion1.mode = misc_en_UK_lash.Mode7
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = oc.m7.d1_en_UK_lash.ocMA.Kathisma21.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode1
@@ -119,14 +119,14 @@ peMA.Kathisma31.mode = misc_en_UK_lash.Mode1
 peMA.Kathisma31.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.name
 peMA.Kathisma31.text = ""
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = "" //for media
 
 peMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
@@ -176,7 +176,7 @@ peMA.Ode3C13.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
 peMA.Ode3C13.text = "" 
 
 peMA.Hypakoe.mode = misc_en_UK_lash.Mode6
-peMA.Hypakoe.melody  = ""
+peMA.Hypakoe.melody = ""
 peMA.Hypakoe.text = ""
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
@@ -245,7 +245,7 @@ peMA.Ode6C13.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
 peMA.Ode6C13.text = "" 
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
-peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.melody = ""
 peMA.Kontakion1.text = ""
 
 peMA.Oikos1.text = ""
@@ -346,12 +346,12 @@ peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 peMA.LaudsGlory.text = ""
 
 peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "" //for media
+peLI.MM.CommunionHymn.text = "" //for media
 
 peMegalynarion.text = ""

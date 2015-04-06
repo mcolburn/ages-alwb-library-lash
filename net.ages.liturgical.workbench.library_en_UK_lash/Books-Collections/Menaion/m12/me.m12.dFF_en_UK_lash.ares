@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "SUNDAY OF THE HOLY FOREFATHERS"
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -32,20 +32,20 @@ meVE.Stichera04.text = "The faithful, Holy Youths in the furnace of fire, as in 
 
 meVE.SticGlory.poet = ""
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Let us the faithful today praise all the Fathers before the law: Abraham, God's friend, Isaac, born by promise, Jacob and the twelve Patriarchs; honouring with them meek David and Daniel the Prophet of desires, and the three Children who changed the furnace into dew, asking forgiveness of Christ God, who is glorified in his Saints."
 
 meVE.AposGlory.poet = ""
 meVE.AposGlory.mode = misc_en_UK_lash.Mode3
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Come, lovers of festival, let us praise in song the gathering of the Forefathers: Adam the Forefather, Enoch. Noah, Melchisedek, Abraham, Isaac and Jacob; after the law Moses and Aaron, Jesus, Samuel and David; with them Isaias, Jeremias, Ezekiel and Daniel, and the Twelve with Elias, Elisaius and them all; Zachary and the Baptist and all who proclaimed Christ, the life and resurrection of our race."
 
 meVE.AposTheotokion.mode = misc_en_UK_lash.Mode3
-meVE.AposTheotokion.melody  = ""
+meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = ""
 
 meMA.C1Acrostic.text = ""
@@ -143,7 +143,7 @@ meMA.Ode3K.melody = ""
 meMA.Ode3K.text = ""
 
 meMA.Hypakoe.mode = misc_en_UK_lash.Mode2
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = ""
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
@@ -286,12 +286,12 @@ meMA.Ode6K.melody = ""
 meMA.Ode6K.text = ""
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
@@ -454,13 +454,11 @@ meMA.Lauds1.mode = misc_en_UK_lash.Mode2
 meMA.Lauds1.melody = ""
 meMA.Lauds1.text = ""
 
-meMA.LaudsSundayVerse1.text = ""
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode2
 meMA.Lauds2.melody = ""
 meMA.Lauds2.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode2
 meMA.Lauds3.melody = ""
@@ -468,7 +466,7 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.poet = ""
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode7
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
