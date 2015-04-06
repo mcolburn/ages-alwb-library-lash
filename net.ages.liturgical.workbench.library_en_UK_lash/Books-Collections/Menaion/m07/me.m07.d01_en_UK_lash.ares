@@ -336,7 +336,7 @@ meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode4
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.text
 
-meMA.LaudsSundayVerse1.text = "" // for media
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -346,6 +346,6 @@ meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = ""
 
 meMegalynarion.text = ""

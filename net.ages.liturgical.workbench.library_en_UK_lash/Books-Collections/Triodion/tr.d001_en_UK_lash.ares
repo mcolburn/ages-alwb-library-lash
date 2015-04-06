@@ -30,19 +30,19 @@ trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
 trVE.AposGlory.text = ""
 
 trVE.AposTheotokion.mode = oc.m5.d1_en_UK_lash.ocVE.AposTheotokion.mode
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m5.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = ""
 
 trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = ""
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = ""
 
 trMA.C1Poet = poets_en_UK_lash.Georgiou
@@ -396,8 +396,8 @@ trMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 trMA.LaudsGlory.text = ""
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode4
@@ -410,7 +410,7 @@ trLI.AlleluiaVerse1.text = ""
 
 trLI.AlleluiaVerse2.text = ""
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 trMegalynarion.text = ""
 

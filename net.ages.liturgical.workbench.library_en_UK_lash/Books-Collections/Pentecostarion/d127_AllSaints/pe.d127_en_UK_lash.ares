@@ -324,6 +324,6 @@ peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
 peLI.SeasonalKontakion.melody = peMA.Kontakion1.melody
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
-peLI.CommunionHymn.text = da.d7_en_UK_lash.daLI.CommunionHymn.text
+peLI.MM.CommunionHymn.text = da.d7_en_UK_lash.daLI.CommunionHymn.text
 
 peMegalynarion.text = ""

@@ -78,11 +78,11 @@ trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
 trVE.AposGlory.text = ""
 
 trVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = me.m09.d14_en_UK_lash.meVE.Apolytikion1.text
 
 trVE.ApolTheotokion.mode = misc_en_UK_lash.Mode1
-trVE.ApolTheotokion.melody  = ""
+trVE.ApolTheotokion.melody = ""
 trVE.ApolTheotokion.text = oc.m1.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 trMA.Kathisma31.mode = misc_en_UK_lash.Mode8
@@ -90,15 +90,15 @@ trMA.Kathisma31.melody = he.a.m8_en_UK_lash.ToProstachthen.name
 trMA.Kathisma31.text = ""
 
 trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_en_UK_lash.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_en_UK_lash.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_en_UK_lash.TheodorouTouStouditou
@@ -174,21 +174,21 @@ trMA.Ode3K.melody = he.h.m1_en_UK_lash.DeftePomaPiomen.name
 trMA.Ode3K.text = he.h.m1_en_UK_lash.StereosonDespotaChriste.text
 
 trMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode6
-trMA.Ode3Kathisma1.melody  = ""
+trMA.Ode3Kathisma1.melody = ""
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2Verse.text = ""
 
 trMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode6
-trMA.Ode3Kathisma2.melody  = ""
+trMA.Ode3Kathisma2.melody = ""
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode6
-trMA.Ode3Kathisma3.melody  = ""
+trMA.Ode3Kathisma3.melody = ""
 trMA.Ode3Kathisma3.text = ""
 
 trMA.Ode3Kathisma4.mode = misc_en_UK_lash.Mode6
-trMA.Ode3Kathisma4.melody  = ""
+trMA.Ode3Kathisma4.melody = ""
 trMA.Ode3Kathisma4.text = ""
 
 trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -456,8 +456,8 @@ trMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 trMA.LaudsGlory.text = ""
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
 trMA.AdditionalIdiomelon1.poet = poets_en_UK_lash.LeontosDespotou
@@ -477,32 +477,20 @@ trMA.AdditionalIdiomelonBoth.mode = misc_en_UK_lash.Mode6
 trMA.AdditionalIdiomelonBoth.melody = ""
 trMA.AdditionalIdiomelonBoth.text = ""
 
-trLI.Antiphon1Verse1.text = ""
 
-trLI.Antiphon1Verse2.text = ""
 
-trLI.Antiphon1Verse3.text = ""
 
-trLI.Antiphon1Verse4.text = ""
 
-trLI.Antiphon2Verse1.text = ""
 
-trLI.Antiphon2Verse2.text = ""
 
-trLI.Antiphon2Verse3.text = ""
 
-trLI.Antiphon2Verse4.text = ""
 
 trLI.Antiphon2.text = ""
 
-trLI.Antiphon3Verse1.text = ""
 
-trLI.Antiphon3Verse2.text = ""
 
-trLI.Antiphon3Verse3.text = ""
 
-trLI.EntranceHymn.text = ""
-
+trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode8
 trLI.SeasonalKontakion.melody = misc_en_UK_lash.Automelon
 trLI.SeasonalKontakion.text = he.a.m8_en_UK_lash.TiYpermacho.text
@@ -510,7 +498,7 @@ trLI.SeasonalKontakion.text = he.a.m8_en_UK_lash.TiYpermacho.text
 trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.text
 
-trLI.CommunionHymn.text = da.d6_en_UK_lash.daLI.CommunionHymnAlt.text
+trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 trLI.AfterCommunion.mode = misc_en_UK_lash.Mode1
 trLI.AfterCommunion.text = trVE.Apolytikion1.text

@@ -9,7 +9,7 @@ meNote.text = ""
 meLE.commemoration1 = "SUNDAY BEFORE THE NATIVITY OF CHRIST"
 meLE.commemoration2 = ""
 meHO.number = ""
-meHO.rank  = ""
+meHO.rank = ""
 meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
@@ -39,32 +39,32 @@ meVE.Stichera06.melody = misc_en_UK_lash.NotMetered
 meVE.Stichera06.text = "The faithful and holy Children, when in the furnace of the flame of fire as in a dew, mystically prefigured your coming from the Virgin, which blazed for us yet did not burn. While Daniel the just, and wonderful among the Prophets, clearly foreshadowed for all your divine second coming. In his vision he cried and said that thrones were set, the judge had taken his seat and the river of fire appeared; from which, O Christ, may we be delivered by their prayers."
 
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
-meVE.SticGlory.melody  = ""
+meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Daniel, the man of desires, when he saw a stone hewn without human hand, foretold that you, Lord, would be born as a babe without seed, you the Word incarnate of the Virgin, God unchanging and the Saviour of our souls."
 
 meVE.SticBoth.mode = misc_en_UK_lash.Mode6
-meVE.SticBoth.melody  = ""
+meVE.SticBoth.melody = ""
 meVE.SticBoth.text = "Cave prepare, for the Ewe Lamb comes bearing Christ in her womb; Manger receive him who with a word has loosed us born of earth from irrational action. Shepherds abiding in the fields, bear witness to a fearful wonder; Magi from Persia, offer the King gold, frankincense and myrrh; for the Lord has appeared from a Virgin mother. Bending over him like a slave, his Mother worshipped him and addressed him as he lay in her arms: How were you sown in me? How have you grown in me, my Redeemer and my God?"
 
 meVE.LityGlory.mode = misc_en_UK_lash.Mode1
-meVE.LityGlory.melody  = ""
+meVE.LityGlory.melody = ""
 meVE.LityGlory.text = "The famous Prophets, dazzling thunderbolts of inspiration, are for ever blest. Plucking the words of the Spirit, they proclaimed to all the inexplicable birth of Christ God; rightly they reached the goal, having lived lives beyond wonder."
 
 meVE.LityBoth.mode = misc_en_UK_lash.Mode1
-meVE.LityBoth.melody  = ""
+meVE.LityBoth.melody = ""
 meVE.LityBoth.text = "Hear, O heaven, and give ear, O earth; for see, the Son and Word of God the Father comes forth to be born of a maiden who has not known man, by the good pleasure of him who begat him impassibly and by the co-operation of the Holy Spirit. Bethlehem, prepare; Eden, open your gate, for he who is becomes what he was not, and the Fashioner of all creation is fashioned, he who grants the world his great mercy."
 
 meVE.AposGlory.poet = ""
 meVE.AposGlory.mode = misc_en_UK_lash.Mode2
-meVE.AposGlory.melody  = ""
+meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "Hail honoured Prophets, who excellently ordered the Law of the Lord and by your faith appeared as indestructible, unshakeable pillars; for you were seen as the mediators of the New Testament of Christ; and now that you have passed over into heaven, implore him to grant peace to the world and to save our souls."
 
 meVE.AposBoth.mode = misc_en_UK_lash.Mode2
-meVE.AposBoth.melody  = ""
+meVE.AposBoth.melody = ""
 meVE.AposBoth.text = "See, the time of salvation is at hand; Cave prepare, the Virgin draws near to give birth. Bethlehem, land of Juda, rejoice and be glad, for our Lord has dawned from you. Hearken, mountains and hills, and the countries around Judea; for Christ is coming to save mankind whom he fashioned, for he loves mankind."
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
-meVE.Apolytikion1.melody  = ""
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Great are the achievements of faith! In the fountain of flame, as by the water of rest, the three holy youths rejoiced, and the Prophet Daniel was revealed shepherding lions like sheep. At their intercessions, Christ God, save our souls."
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -173,7 +173,7 @@ meMA.Ode3K.melody = ""
 meMA.Ode3K.text = ""
 
 meMA.Hypakoe.mode = misc_en_UK_lash.Mode8
-meMA.Hypakoe.melody  = ""
+meMA.Hypakoe.melody = ""
 meMA.Hypakoe.text = ""
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
@@ -327,7 +327,7 @@ meMA.Ode6K.melody = ""
 meMA.Ode6K.text = ""
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode6
-meMA.Kontakion1.melody  = ""
+meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
@@ -338,7 +338,7 @@ meMA.Kontakion2.text = ""
 
 meMA.Oikos2.text = ""
 
-meMA.Synaxarion.text  = ""
+meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode6
@@ -502,20 +502,18 @@ meMA.Lauds1.mode = misc_en_UK_lash.Mode5
 meMA.Lauds1.melody = ""
 meMA.Lauds1.text = ""
 
-meMA.LaudsSundayVerse1.text = ""
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode5
 meMA.Lauds2.melody = ""
 meMA.Lauds2.text = ""
-
-meMA.LaudsSundayVerse2.text = ""
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode5
 meMA.Lauds3.melody = ""
 meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
-meMA.LaudsGlory.melody  = ""
+meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

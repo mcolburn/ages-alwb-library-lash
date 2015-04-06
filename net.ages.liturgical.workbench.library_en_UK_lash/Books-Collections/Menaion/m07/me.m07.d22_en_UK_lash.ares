@@ -258,9 +258,7 @@ meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
 meMA.Exaposteilarion1.text = "Mary, aptly named, and Disciple of Christ, with the rest of the Myrrhbearers and Mary the Virgin, alone Mother of God, without ceasing implore the crucified Lord on behalf of us who honour you from love, O Myrrhbearer."
 
-meMA.LaudsSundayVerse1.text = meVE.ApostichaVerse2.text
-
-meMA.LaudsSundayVerse2.text = meVE.ApostichaVerse3.text
+meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -270,6 +268,6 @@ meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode2
 meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
 
-meLI.CommunionHymn.text = ""
+meLI.MM.CommunionHymn.text = ""
 
 meMegalynarion.text = ""

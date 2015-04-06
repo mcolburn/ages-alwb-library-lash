@@ -29,38 +29,38 @@ trVE.Stichera04.mode = misc_en_UK_lash.Mode6
 trVE.Stichera04.melody = misc_en_UK_lash.NotMetered
 trVE.Stichera04.text = "I weep and lament when I think of the eternal fire, the outer darkness and the nether world, the dread worm and the gnashing of teeth, and the unceasing anguish that will befall those who have sinned without measure, by their evil intent arousing you to anger, O Supremely Good. Of whom I am first, wretch that I am. But, Judge, in your mercy save me, for you love mankind."
 
-trVE.Stichera567.text = "" //for media
+trVE.MM.Stichera123as567.text = properties_en_UK_lash.media.key
 
 trVE.SticGlory.mode = misc_en_UK_lash.Mode8
-trVE.SticGlory.melody  = ""
+trVE.SticGlory.melody = ""
 trVE.SticGlory.text = "When the thrones are set up and the books are opened, and God sits in judgement, O what fear there will be then ! When the angels stand with fear in your presence and the river of fire is flowing, what shall we humans, guilty of many sins, do then? When we hear him calling the blessed of his Father into the Kingdom, but sending sinners away to punishment, who will withstand that fearful condemnation? But, Saviour who alone love mankind, King of the ages, before the end comes turn me back through repentance and have mercy on me."
 
 trVE.LityGlory.mode = misc_en_UK_lash.Mode7
-trVE.LityGlory.melody  = ""
+trVE.LityGlory.melody = ""
 trVE.LityGlory.text = ""
 
 trVE.LityBoth.mode = misc_en_UK_lash.Mode7
-trVE.LityBoth.melody  = ""
+trVE.LityBoth.melody = ""
 trVE.LityBoth.text = ""
 
 trVE.AposGlory.mode = misc_en_UK_lash.Mode8
-trVE.AposGlory.melody  = ""
+trVE.AposGlory.melody = ""
 trVE.AposGlory.text = "Alas, black soul! Till when will you not make an end of evils? Till when will you lie in idleness? Why do you not think of the fearful hour of death? Why do you not tremble at the dread judgement seat of the Saviour? What defence then will you make, or what will you answer? Your works will be there to condemn you; your deeds will reproach you and condemn you. the time is near at hand, my soul; run, make haste before it is too late, and cry aloud in faith: I have sinned, Lord, I have sinned against you; but I know your compassion, Lover of mankind. Good Shepherd, do not deprive me of a place at your right hand in your great mercy."
 
 trVE.AposTheotokion.mode = misc_en_UK_lash.Mode8
-trVE.AposTheotokion.melody  = ""
+trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.text = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = tr.d001_en_UK_lash.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = tr.d001_en_UK_lash.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
-trMA.PostGospelIdiomelon.melody  = ""
+trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.text
 
 trMA.C1Poet = poets_en_UK_lash.TheodorouTouStouditou
@@ -152,7 +152,7 @@ trMA.Ode3C1T.text = ""
 
 trMA.Ode3K.ode = misc_en_UK_lash.Ode3
 trMA.Ode3K.mode = misc_en_UK_lash.Mode6
-trMA.Ode3K.melody  = ""
+trMA.Ode3K.melody = ""
 trMA.Ode3K.text = he.h.m6_en_UK_lash.StereosonKyrie.text
 
 trMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
@@ -168,7 +168,7 @@ trMA.Ode3Kathisma3.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.name
 trMA.Ode3Kathisma3.text = ""
 
 trMA.Ode3Kathisma4.mode = misc_en_UK_lash.Mode6
-trMA.Ode3Kathisma4.melody  = ""
+trMA.Ode3Kathisma4.melody = ""
 trMA.Ode3Kathisma4.text = ""
 
 trMA.Ode3Kathisma5.mode = misc_en_UK_lash.Mode6
@@ -316,7 +316,7 @@ trMA.Ode6K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode6K.text = he.h.m6_en_UK_lash.EvoisaEnOliKardiaMou.text
 
 trMA.Kontakion1.mode = misc_en_UK_lash.Mode1
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = ""
 
 trMA.Oikos1.text = ""
@@ -490,12 +490,12 @@ trMA.LaudsGlory.mode = misc_en_UK_lash.Mode1
 trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 trMA.LaudsGlory.text = ""
 
-trMA.LaudsTheotokion.mode  = ""
-trMA.LaudsTheotokion.melody  = ""
+trMA.LaudsTheotokion.mode = ""
+trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
 trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode1
-trLI.SeasonalKontakion.melody  = ""
+trLI.SeasonalKontakion.melody = ""
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.Alleluia.mode = misc_en_UK_lash.Mode8
@@ -504,7 +504,7 @@ trLI.AlleluiaVerse1.text = ""
 
 trLI.AlleluiaVerse2.text = ""
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 trMegalynarion.text = ""
 
