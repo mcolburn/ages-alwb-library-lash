@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m6.d1_en_UK_lash
 
-ocGE.GlorySticheraric.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_en_UK_lash.media.key
 
-ocGE.BothSticheraric.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocGE.BothSticheraric.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_en_UK_lash.media.key
 
-ocGE.GloryHeirmologic.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_en_UK_lash.media.key
 
-ocGE.BothHeirmologic.mode = "misc_en_UK_lash.Mode6" // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_en_UK_lash.media.key
 
 ocSV.Dogmatic.mode = misc_en_UK_lash.Mode6
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_en_UK_lash.Mode6
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = ""
 
-ocVE.LIHC1.mode = misc_en_UK_lash.Mode6
-ocVE.LIHC1.text = "" // for media
+ocVE.MM.LIHC1.text = properties_en_UK_lash.media.key
 
-ocVE.LIHC2.mode = misc_en_UK_lash.Mode6
-ocVE.LIHC2.text = "" // for media
+ocVE.MM.LIHC2.text = properties_en_UK_lash.media.key
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera1.melody = ""
@@ -273,8 +267,7 @@ ocMO.Ode9T.ode = misc_en_UK_lash.Ode9
 ocMO.Ode9T.melody = he.h.m6_en_UK_lash.TheonAnthropois.name
 ocMO.Ode9T.text = "With wisdom your Son fashioned humankind of old, O Virgin, and when it had been corrupted refashioned through you, O all-praised, and filled with the brightness of the divine that knows no evening all those who ever glorify you as true Mother of God."
 
-ocMA.GodIsTheLord.mode = misc_en_UK_lash.Mode6
-ocMA.GodIsTheLord.text = ho.s03_en_UK_lash.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode6
 ocMA.Kathisma11.melody = ""
@@ -341,9 +334,8 @@ ocMA.Antiphon33.mode = misc_en_UK_lash.Mode6
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "In the Holy Spirit is might over all things; him the armies above worship with everything that has breath below."
 
-ocMA.Prokeimenon.text = ""
+ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
-ocMA.ProkeimenonVerse.text = ""
 
 ocMA.C3Acrostic.text = "of which the acrostic is: Mother of God, grant me unstinted grace."
 
@@ -787,9 +779,9 @@ ocMA.OdeS9C34.text = "Now resurrection has been granted to the dead through your
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode6
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
-ocMA.Lauds01.text = "" // for media
+ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
 
-ocMA.Lauds02.text = "" // for media
+ocMA.MM.Lauds02.text = properties_en_UK_lash.media.key
 
 ocMA.Lauds1.mode = misc_en_UK_lash.Mode6
 ocMA.Lauds1.melody = ""

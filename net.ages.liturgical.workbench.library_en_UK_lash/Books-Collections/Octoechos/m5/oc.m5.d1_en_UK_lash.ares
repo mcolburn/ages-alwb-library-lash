@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m5.d1_en_UK_lash
 
-ocGE.GlorySticheraric.mode = "misc_en_UK_lash.Mode5" // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_en_UK_lash.media.key
 
-ocGE.BothSticheraric.mode = "misc_en_UK_lash.Mode5" // for mode-specific media
-ocGE.BothSticheraric.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_en_UK_lash.media.key
 
-ocGE.GloryHeirmologic.mode = "misc_en_UK_lash.Mode5" // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_en_UK_lash.media.key
 
-ocGE.BothHeirmologic.mode = "misc_en_UK_lash.Mode5" // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_en_UK_lash.media.key
 
 ocSV.Dogmatic.mode = misc_en_UK_lash.Mode5
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_en_UK_lash.Mode5
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = "The prophecies concerning you have been fulfilled, pure Virgin; for one of the Prophets foretold you as the Gate in Eden facing towards the east through which none had passed, except your Creator and that of all the world. Another saw you as a Bush aflame with fire, because in you there dwelt the fire of the Godhead and you remained unburned. Another as a holy Mountain from which was hewn without human hand a cornerstone and it crushed the image of the spiritual Nabuchodonosor. Truly great and wondrous is the mystery that is in you, Mother of God! Therefore we glorify you, for through you has come the salvation of our souls."
 
-ocVE.LIHC1.mode = misc_en_UK_lash.Mode5
-ocVE.LIHC1.text = "" // for media
+ocVE.MM.LIHC1.text = properties_en_UK_lash.media.key
 
-ocVE.LIHC2.mode = misc_en_UK_lash.Mode5
-ocVE.LIHC2.text = "" // for media
+ocVE.MM.LIHC2.text = properties_en_UK_lash.media.key
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode5
 ocVE.Stichera1.melody = ""
@@ -252,8 +246,7 @@ ocMO.Ode9T.ode = misc_en_UK_lash.Ode9
 ocMO.Ode9T.melody = he.h.m5_en_UK_lash.IsaiaChoreve.name
 ocMO.Ode9T.text = "As pure, blameless and virgin you bore a Son, who delivers us from temptations, God without change; but now implore him too to give us forgiveness of faults."
 
-ocMA.GodIsTheLord.mode = misc_en_UK_lash.Mode5
-ocMA.GodIsTheLord.text = ho.s03_en_UK_lash.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode5
 ocMA.Kathisma11.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.name
@@ -319,9 +312,8 @@ ocMA.Antiphon33.mode = misc_en_UK_lash.Mode5
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "To the Holy Spirit belongs the lordship of life, for from him every living being takes its breath, as to the Father together with the Word."
 
-ocMA.Prokeimenon.text = ""
+ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
-ocMA.ProkeimenonVerse.text = ""
 
 ocMA.C3Acrostic.text = "of which the acrostic is: Virgin who bore the Light, enlighten me."
 
@@ -747,9 +739,9 @@ ocMA.OdeS9C33.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C33.melody = he.h.m5_en_UK_lash.IsaiaChoreve.name
 ocMA.OdeS9C33.text = "Seated on his royal throne your Son stood you at his right hand, radiantly shining in tasselled gold, in godly virtues, and assured you honours due to his Mother, O all-blameless."
 
-ocMA.Lauds01.text = "" // for media
+ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
 
-ocMA.Lauds02.text = "" // for media
+ocMA.MM.Lauds02.text = properties_en_UK_lash.media.key
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode5
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text

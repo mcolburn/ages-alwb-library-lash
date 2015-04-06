@@ -1,16 +1,12 @@
 A_Resource_Whose_Name = oc.m3.d1_en_UK_lash
 
-ocGE.GlorySticheraric.mode = "misc_en_UK_lash.Mode3" // for mode-specific media
-ocGE.GlorySticheraric.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.MM.GlorySticheraric.text = properties_en_UK_lash.media.key
 
-ocGE.BothSticheraric.mode = "misc_en_UK_lash.Mode3" // for mode-specific media
-ocGE.BothSticheraric.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.MM.BothSticheraric.text = properties_en_UK_lash.media.key
 
-ocGE.GloryHeirmologic.mode = "misc_en_UK_lash.Mode3" // for mode-specific media
-ocGE.GloryHeirmologic.text = prayers_en_UK_lash.DoxaPatri.text
+ocGE.MM.GloryHeirmologic.text = properties_en_UK_lash.media.key
 
-ocGE.BothHeirmologic.mode = "misc_en_UK_lash.Mode3" // for mode-specific media
-ocGE.BothHeirmologic.text = prayers_en_UK_lash.KaiNynKaiAei.text
+ocGE.MM.BothHeirmologic.text = properties_en_UK_lash.media.key
 
 ocSV.Dogmatic.mode = misc_en_UK_lash.Mode3
 ocSV.Dogmatic.melody = ""
@@ -32,11 +28,9 @@ ocSV.AposDogmatic.mode = misc_en_UK_lash.Mode3
 ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = "Through you, Mary most pure, we know refashioning and a second life for human nature: the Creator of creation who was kneaded in your womb and who raised us up from Hades and form death and has granted us eternal life to cry out to you, Ever-virgin; ‘Hail, who joined together things below with those of heaven. Hail, the hope of all the ends of the earth, protection and assistance. Hail, who by the Resurrection of your Son make radiant the universe and grant the world his great mercy’."
 
-ocVE.LIHC1.mode = misc_en_UK_lash.Mode3
-ocVE.LIHC1.text = "" // for media
+ocVE.MM.LIHC1.text = properties_en_UK_lash.media.key
 
-ocVE.LIHC2.mode = misc_en_UK_lash.Mode3
-ocVE.LIHC2.text = "" // for media
+ocVE.MM.LIHC2.text = properties_en_UK_lash.media.key
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode3
 ocVE.Stichera1.melody = ""
@@ -252,8 +246,7 @@ ocMO.Ode9T.ode = misc_en_UK_lash.Ode9
 ocMO.Ode9T.melody = he.h.m3_en_UK_lash.KainonToThavma.name
 ocMO.Ode9T.text = "Show me to be a light formed temple of your single Divinity of triple light, that in purity I may worship you, the Creator of all things; show me to be one who in spirit contemplates your ineffable glory, at the prayers of the only Mother of God; whom fittingly we magnify as greatly glorious."
 
-ocMA.GodIsTheLord.mode = misc_en_UK_lash.Mode3
-ocMA.GodIsTheLord.text = ho.s03_en_UK_lash.hoMA.GodIsTheLord.text
+ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma11.melody = ""
@@ -319,9 +312,8 @@ ocMA.Antiphon33.mode = misc_en_UK_lash.Mode3
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = "In the Holy Spirit is all the wealth of glory; from him comes grace and life for all creation; for he is praised with the Father and the Word."
 
-ocMA.Prokeimenon.text = ""
+ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
-ocMA.ProkeimenonVerse.text = ""
 
 ocMA.C2Poet = poets_en_UK_lash.IoannouMonachou
 ocMA.C2Acrostic.text = "whose acrostic, with the Irmi, is: I sing you a third song, Word of God."
@@ -679,9 +671,9 @@ ocMA.OdeS9C32.text = "You have placed the one who bore you, O Christ, as an inte
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode3
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
-ocMA.Lauds01.text = "" // for media
+ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
 
-ocMA.Lauds02.text = "" // for media
+ocMA.MM.Lauds02.text = properties_en_UK_lash.media.key
 
 ocMA.Lauds1.mode = misc_en_UK_lash.Mode3
 ocMA.Lauds1.melody = ""
