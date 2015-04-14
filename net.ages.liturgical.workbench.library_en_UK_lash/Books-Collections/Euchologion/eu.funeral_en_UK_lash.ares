@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = eu.funeral_en_UK_lash
 
 euFUN.title = ""
+euFUN.brightweek.title = ""
 euFUN.translator = ""
 
 euFUN.Key0100.title = ""
@@ -100,6 +101,9 @@ euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = ""
 
+euFUN.brightweek.R091= ""
+
+
 euFUN.Key1000.title = ""
 euFUN.Key1001.title = ""
 euFUN.Key1002.text = ""
@@ -125,6 +129,9 @@ euFUN.Key1104.text = ""
 euFUN.Key1105.mode = misc_en_UK_lash.Mode6
 euFUN.Key1105.melody = he.a.m6_en_UK_lash.TriimerosAnestis.name
 euFUN.Key1105.text = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.text
+
+euFUN.brightweek.R111= ""
+euFUN.brightweek.R112= ""
 
 euFUN.Key1200.title = ""
 
