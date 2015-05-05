@@ -36,8 +36,6 @@ DoxaSoiOTheos1 = ""
 
 DoxaSoiOTheosImon.text = "Glory to you, our God, glory to you."
 
-DoxaTiAgiaAnastasei.text = ""
-
 DoxaTiMakrothymia.text = ""
 
 DoxaTiMakrothymiaP.text = ""
@@ -71,16 +69,6 @@ EvlogisonP = ""
 EnOnomatiKyriou.text = ""
 
 EvlogisonThymiama.text = "Master, bless the incense."
-
-AgieTouTheou.text = ""
-
-AgiaTouTheou.text = ""
-
-AgioiTouTheou.text = ""
-
-ApostoleTouChristou.text = ""
-
-OsiaTouTheou.text = ""
 
 EleisonMeOTheos.text = ""
 
@@ -561,8 +549,7 @@ exc06 = ""
 
 exc07 = ""
 
-exc07a = "Through the grace and compassion and love towards mankind of your only-begotten Son, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages.
-"
+exc07a = "Through the grace and compassion and love towards mankind of your only-begotten Son, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages."
 
 exc07b = ""
 
@@ -634,6 +621,10 @@ verse_Angels.text = ""
 
 verseP_Angels.text = ""
 
+verse_Apostle.text = ""
+
+verse_Apostles.text = ""
+
 verse_ApostlesMartyrs.text = ""
 
 verseP_ApostlesMartyrs.text = ""
@@ -645,6 +636,16 @@ verseP_Baptist.text = ""
 verse_Cross.text = ""
 
 verseP_Cross.text = ""
+
+verse_Crucifixion.text = ""
+
+verse_DevoutMan.text = ""
+
+verse_DevoutMen.text = ""
+
+verse_DevoutWoman.text = ""
+
+verse_God.text = ""
 
 verse_GreatMartyrs.text = ""
 
@@ -662,9 +663,17 @@ verse_Panteleimon.text = ""
 
 verseP_Panteleimon.text = ""
 
+verse_Resurrection.text = ""
+
 verse_Righteous.text = ""
 
 verseP_Righteous.text = ""
+
+verse_SaintM.text = ""
+
+verse_SaintW.text = ""
+
+verse_SaintsM.text = ""
 
 verse_SoulSaturday.text = ""
 

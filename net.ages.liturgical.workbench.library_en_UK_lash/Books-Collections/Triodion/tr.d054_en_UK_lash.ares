@@ -140,8 +140,8 @@ trGC.SticheraT.text = ""
 trGC.title = ""
 trGC.C1Poet = poets_en_UK_lash.AndreouKritis
 trGC.Verse1 = prayers_en_UK_lash.EleisonMeOTheos.text
-trGC.Verse2 = prayers_en_UK_lash.OsiaTouTheou.text
-trGC.Verse3 = prayers_en_UK_lash.AgieTouTheou.text
+trGC.Verse2 = prayers_en_UK_lash.verse_DevoutWoman.text
+trGC.Verse3 = prayers_en_UK_lash.verse_SaintM.text
 trGC.Verse4 = prayers_en_UK_lash.verse_Theotokos.text
 
 //Ode 1
