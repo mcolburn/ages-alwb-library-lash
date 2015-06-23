@@ -14,19 +14,19 @@ peHO.note2 = ""
 peDismissal = dismissals_en_UK_lash.dis00.resurrection
 
 peVE.Stichera07.mode = misc_en_UK_lash.Mode6
-peVE.Stichera07.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera07.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
 peVE.Stichera07.text = "The Spirit-inspired preachers, the Disciples of the Saviour, having become by faith instruments of the Spirit, distributed the holy proclamation, sowing it with right belief, to the ends of the earth, from which, by God’s husbandry and grace, have sprung up the armies of Martyrs, who form an image of the holy Passion through many kinds of tortures, scourgings and fire; and with boldness they intercede on behalf of our souls."
 
 peVE.Stichera08.mode = misc_en_UK_lash.Mode6
-peVE.Stichera08.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera08.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
 peVE.Stichera08.text = "Burning with the fire of the love of the Lord, they despised fire, and as lighted godlike coals the holy Martyrs by Christ burned up the brushwood insolence of error; while they stopped the mouths of wild beasts by wise entreaties, and when their heads were cut off they cut down all the regiments of the foe; and valiantly pouring out the streams of their blood they watered the Church, which then blossomed with faith."
 
 peVE.Stichera09.mode = misc_en_UK_lash.Mode6
-peVE.Stichera09.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera09.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
 peVE.Stichera09.text = "The valiant Martyrs wrestled with wild beasts, were struck with swords, raked with claws, their hands were cut off and they were racked; without yielding they were burned with material fire, they were pierced and their joints were severed. They bore all most valiantly, as they looked forward to their coming rest, the pure crowns and the glory of Christ; to whom with boldness they intercede on behalf of our souls."
 
 peVE.Stichera10.mode = misc_en_UK_lash.Mode6
-peVE.Stichera10.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
+peVE.Stichera10.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.OlinApothemenoi.name
 peVE.Stichera10.text = "Let us, as is fitting, praise with sacred songs those who have competed by faith in all the ends of the earth, Apostles, Martyrs, godly-minded Priests, holy Women, a sacred gathering; for earthly beings were united with the heavenly and by suffering received through Christ’s grace dispassion; and now like fixed stars their shed their light on us, as with boldness they intercede on behalf of our souls."
 
 peVE.SticGlory.mode = misc_en_UK_lash.Mode6
@@ -86,11 +86,11 @@ peMA.Kathisma13.melody = ""
 peMA.Kathisma13.text = oc.m8.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = misc_en_UK_lash.Mode8
-peMA.Kathisma21.melody = he.a.m8_en_UK_lash.ToProstachthen.name
+peMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.ToProstachthen.name
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma22.mode = misc_en_UK_lash.Mode8
-peMA.Kathisma22.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+peMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
 peMA.Kathisma22.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma12.text
 
 peMA.Kathisma23.mode = misc_en_UK_lash.Mode8
@@ -101,120 +101,120 @@ peMA.C1Acrostic.text = ""
 
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode1C11.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
 peMA.Ode1C11.text = ""
 
 peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode1C12.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
 peMA.Ode1C12.text = ""
 
 peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode1C13.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
 peMA.Ode1C13.text = ""
 
 peMA.Ode1C14.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C14.mode = misc_en_UK_lash.Mode8
-peMA.Ode1C14.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
 peMA.Ode1C14.text = ""
 
 peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode1C1T.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+peMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
 peMA.Ode1C1T.text = ""
 
 peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode3C11.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
 peMA.Ode3C11.text = ""
 
 peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode3C12.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
 peMA.Ode3C12.text = ""
 
 peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode3C13.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
 peMA.Ode3C13.text = ""
 
 peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode3C1T.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+peMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
 peMA.Ode3C1T.text = ""
 
 peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
-peMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode8
-peMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+peMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
 peMA.Ode3Kathisma2.text = ""
 
 peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode4C11.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
 peMA.Ode4C11.text = ""
 
 peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode4C12.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
 peMA.Ode4C12.text = ""
 
 peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode4C13.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
 peMA.Ode4C13.text = ""
 
 peMA.Ode4C14.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C14.mode = misc_en_UK_lash.Mode8
-peMA.Ode4C14.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
 peMA.Ode4C14.text = ""
 
 peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode4C1T.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
 peMA.Ode4C1T.text = ""
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode5C11.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
 peMA.Ode5C11.text = ""
 
 peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode5C12.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
 peMA.Ode5C12.text = ""
 
 peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode5C13.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
 peMA.Ode5C13.text = ""
 
 peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode5C1T.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+peMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
 peMA.Ode5C1T.text = ""
 
 peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode6C11.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 peMA.Ode6C11.text = ""
 
 peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode6C12.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 peMA.Ode6C12.text = ""
 
 peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode6C13.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 peMA.Ode6C13.text = ""
 
 peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode6C1T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 peMA.Ode6C1T.text = ""
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
@@ -231,91 +231,91 @@ peMA.Synaxarion.lastline.text = ""
 
 peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode7C11.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
 peMA.Ode7C11.text = ""
 
 peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode7C12.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
 peMA.Ode7C12.text = ""
 
 peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode7C13.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
 peMA.Ode7C13.text = ""
 
 peMA.Ode7C14.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C14.mode = misc_en_UK_lash.Mode8
-peMA.Ode7C14.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
 peMA.Ode7C14.text = ""
 
 peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode7C1T.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+peMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
 peMA.Ode7C1T.text = ""
 
 peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode8C11.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 peMA.Ode8C11.text = ""
 
 peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode8C12.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 peMA.Ode8C12.text = ""
 
 peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode8C13.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 peMA.Ode8C13.text = ""
 
 peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode8C1T.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+peMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 peMA.Ode8C1T.text = ""
 
 peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C11.mode = misc_en_UK_lash.Mode8
-peMA.Ode9C11.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
 peMA.Ode9C11.text = ""
 
 peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C12.mode = misc_en_UK_lash.Mode8
-peMA.Ode9C12.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
 peMA.Ode9C12.text = ""
 
 peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C13.mode = misc_en_UK_lash.Mode8
-peMA.Ode9C13.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
 peMA.Ode9C13.text = ""
 
 peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
-peMA.Ode9C1T.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+peMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
 peMA.Ode9C1T.text = ""
 
 peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
-peMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
 peMA.Exaposteilarion1.text = ""
 
 peMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
-peMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+peMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
 peMA.ExapTheotokion.text = ""
 
 peMA.Lauds6.mode = misc_en_UK_lash.Mode4
-peMA.Lauds6.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+peMA.Lauds6.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
 peMA.Lauds6.text = ""
 
 peMA.LaudsVerse7.text = ""
 
 peMA.Lauds7.mode = misc_en_UK_lash.Mode4
-peMA.Lauds7.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+peMA.Lauds7.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
 peMA.Lauds7.text = ""
 
 peMA.LaudsVerse8.text = ""
 
 peMA.Lauds8.mode = misc_en_UK_lash.Mode4
-peMA.Lauds8.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+peMA.Lauds8.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
 peMA.Lauds8.text = ""
 
 peMA.Lauds345 = "" // for media
