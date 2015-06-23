@@ -13,7 +13,7 @@ ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = "Truly fearful and ineffable is the mystery that has been wrought in you, O Undefiled; for you gave birth to the Word, cause of all things, beyond cause and word, who became embodied by the holy Spirit, taking his flesh from you, while his own nature remained unchanged. For when both had come together self-subsistently in a single hypostasis, he came forth double in nature, wholly God and wholly man, displaying the wholeness in both with active properties. For having suffered the passion in the flesh on the Cross, he himself remained impassible in his godhead; having died as a mortal he came to life again as God on the third day, after destroying the might of death and delivering humanity from corruption. O Mother of God, ask him as the Redeemer and Saviour of our race to send down to us the great mercy of his compassion."
 
 ocSV.Aposticha1.mode = misc_en_UK_lash.Mode7
-ocSV.Aposticha1.melody = he.a.m7_en_UK_lash.KatafronisantesPanton.name
+ocSV.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m7_en_UK_lash.KatafronisantesPanton.name
 ocSV.Aposticha1.text = "O Virgin, you became the Dayspring of the spiritual Sun, that came upon the sunset of our nature; but as you have boldness, all-praised Mother of God, beseech him to free our souls from numberless offences."
 
 ocSV.Aposticha2.mode = misc_en_UK_lash.Mode7
@@ -67,7 +67,7 @@ ocVE.SticTheotokion.melody = ""
 ocVE.SticTheotokion.text = "You were known as a Mother beyond nature, O Mother of God; you remained a Virgin beyond reason and understanding; no tongue can expound the marvel of your child-bearing; for while your conceiving, Pure One, was wondrous, the manner of your bearing child cannot be comprehended, for wherever God wills the order of nature is overthrown. Therefore as we all acknowledge you to be Mother of God we implore you insistently: Intercede that our souls may be saved."
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode7
-ocVE.Aposticha1.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.name
+ocVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m7_en_UK_lash.OukEtiKolyometha.name
 ocVE.Aposticha1.text = "You rose from the tomb, Saviour of the world, and with your flesh you raised mankind. Lord, glory to you!"
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode7
@@ -99,46 +99,46 @@ ocMO.Acrostic.text = "of which the Acrostic is: I praise you, O Trinity, nature 
 
 ocMO.Ode11.mode = misc_en_UK_lash.Mode7
 ocMO.Ode11.ode = misc_en_UK_lash.Ode1
-ocMO.Ode11.melody = he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
+ocMO.Ode11.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
 ocMO.Ode11.text = "Open the spiritual mouth of my heart and my lips of matter to praise you, one Godhead of triple light, and to sing you a song of thanksgiving, O Giver of light."
 
 ocMO.Ode12.mode = misc_en_UK_lash.Mode7
 ocMO.Ode12.ode = misc_en_UK_lash.Ode1
-ocMO.Ode12.melody = he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
+ocMO.Ode12.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
 ocMO.Ode12.text = "That you might show your surpassing goodness, O Trinity of infinite power, you fashioned humankind, only image of clay of your sovereign lordship, O Creator."
 
 ocMO.Ode13.mode = misc_en_UK_lash.Mode7
 ocMO.Ode13.ode = misc_en_UK_lash.Ode1
-ocMO.Ode13.melody = he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
+ocMO.Ode13.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
 ocMO.Ode13.text = "The Mind without beginning, that begot the Word co-eternally and made the Spirit likewise without beginning shine forth, has counted us worthy to worship one God by essence, of one form, triple in persons."
 
 ocMO.Ode1T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode1T.ode = misc_en_UK_lash.Ode1
-ocMO.Ode1T.melody = he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
+ocMO.Ode1T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NefseiSouProsGeodi.name
 ocMO.Ode1T.text = "You appeared in the bush to Moses, O Word of God, as a purifying fire that did not burn up the whole, prefiguring your incarnation from the Virgin, through which you transformed mortals."
 
 ocMO.Ode31.mode = misc_en_UK_lash.Mode7
 ocMO.Ode31.ode = misc_en_UK_lash.Ode3
-ocMO.Ode31.melody = he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
+ocMO.Ode31.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
 ocMO.Ode31.text = "As we praise you, O God of infinite power, as Master single and of triple light and all-creating, we ask redemption from sins and temptations. Do not then despise those who with faith glorify your loving-kindness."
 
 ocMO.Ode32.mode = misc_en_UK_lash.Mode7
 ocMO.Ode32.ode = misc_en_UK_lash.Ode3
-ocMO.Ode32.melody = he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
+ocMO.Ode32.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
 ocMO.Ode32.text = "A branch you appeared from the Father, as from a root without beginning, God the Word and equal in strength with the Spirit of like nature and divine; and therefore we the faithful glorify one Lordship, triple in persons."
 
 ocMO.Ode33.mode = misc_en_UK_lash.Mode7
 ocMO.Ode33.ode = misc_en_UK_lash.Ode3
-ocMO.Ode33.melody = he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
+ocMO.Ode33.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
 ocMO.Ode33.text = "All we the faithful glorify you, the nature in three persons, equal in glory, like in nature, undivided and yet separated, Trinity that rule as one; and as we worship you we ask pardon of offences."
 
 ocMO.Ode3T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode3T.ode = misc_en_UK_lash.Ode3
-ocMO.Ode3T.melody = he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
+ocMO.Ode3T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OKatArchasTousOuranous.name
 ocMO.Ode3T.text = "Without change made like to mortals in all things, O Word of God, you came forth clearly from a pure Maiden, and to all you revealed the Godhead of triple light and single in the essence of identical hypostases."
 
 ocMO.Kathisma11.mode = misc_en_UK_lash.Mode7
-ocMO.Kathisma11.melody = he.a.m7_en_UK_lash.ODiEmeAnaschomenos.name
+ocMO.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m7_en_UK_lash.ODiEmeAnaschomenos.name
 ocMO.Kathisma11.text = "Have mercy, holy Trinity, on your servants who have sinned, and receive them, O Compassionate, as they repent to you, and grant them pardon."
 
 ocMO.Kathisma12.mode = misc_en_UK_lash.Mode7
@@ -147,56 +147,56 @@ ocMO.Kathisma12.text = "Do good, all-pure Mother of God, to our souls that have 
 
 ocMO.Ode41.mode = misc_en_UK_lash.Mode7
 ocMO.Ode41.ode = misc_en_UK_lash.Ode4
-ocMO.Ode41.melody = he.h.m7_en_UK_lash.OPatrikousKolpous.name
+ocMO.Ode41.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OPatrikousKolpous.name
 ocMO.Ode41.text = "O divine Unity of triple light, maintaining and saving all things, now watch over those who sing your praise, save them from afflictions and passions and every distress."
 
 ocMO.Ode42.mode = misc_en_UK_lash.Mode7
 ocMO.Ode42.ode = misc_en_UK_lash.Ode4
-ocMO.Ode42.melody = he.h.m7_en_UK_lash.OPatrikousKolpous.name
+ocMO.Ode42.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OPatrikousKolpous.name
 ocMO.Ode42.text = "At a loss for words that signify your incomprehensible Godhead of triple light, we sing your praise, Lord, Lover of humankind, and we glorify your power."
 
 ocMO.Ode43.mode = misc_en_UK_lash.Mode7
 ocMO.Ode43.ode = misc_en_UK_lash.Ode4
-ocMO.Ode43.melody = he.h.m7_en_UK_lash.OPatrikousKolpous.name
+ocMO.Ode43.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OPatrikousKolpous.name
 ocMO.Ode43.text = "On earth as in heaven with the choirs of Bodiless Powers without separating we separate you, O Unity and Trinity, and with love we glorify you as sovereign over all things that exist."
 
 ocMO.Ode4T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode4T.ode = misc_en_UK_lash.Ode4
-ocMO.Ode4T.melody = he.h.m7_en_UK_lash.OPatrikousKolpous.name
+ocMO.Ode4T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OPatrikousKolpous.name
 ocMO.Ode4T.text = "Without abandoning your Father’s glory, you, the One beyond being, came down willingly to our lowest estate and were incarnate, and you raised up all to divine glory as you are compassionate."
 
 ocMO.Ode51.mode = misc_en_UK_lash.Mode7
 ocMO.Ode51.ode = misc_en_UK_lash.Ode5
-ocMO.Ode51.melody = he.h.m7_en_UK_lash.OiOrthrizontesLoge.name
+ocMO.Ode51.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OiOrthrizontesLoge.name
 ocMO.Ode51.text = "O nature source of light, Trinity in persons and Unity in will and glory and honour, strengthen us in love of you."
 
 ocMO.Ode52.mode = misc_en_UK_lash.Mode7
 ocMO.Ode52.ode = misc_en_UK_lash.Ode5
-ocMO.Ode52.melody = he.h.m7_en_UK_lash.OiOrthrizontesLoge.name
+ocMO.Ode52.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OiOrthrizontesLoge.name
 ocMO.Ode52.text = "As we glorify Mind, Word and Spirit, the one Divinity and nature with triple sun, we ask to be delivered from temptations and afflictions of every kind."
 
 ocMO.Ode5T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode5T.ode = misc_en_UK_lash.Ode5
-ocMO.Ode5T.melody = he.h.m7_en_UK_lash.OiOrthrizontesLoge.name
+ocMO.Ode5T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OiOrthrizontesLoge.name
 ocMO.Ode5T.text = "O Word of God, you received the form of human nature from a holy Virgin and you taught us to sing the praise of a Trinity in Unity, identical in form and majesty."
 
 ocMO.Ode61.mode = misc_en_UK_lash.Mode7
 ocMO.Ode61.ode = misc_en_UK_lash.Ode6
-ocMO.Ode61.melody = he.h.m7_en_UK_lash.NaftionToSalo.name
+ocMO.Ode61.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NaftionToSalo.name
 ocMO.Ode61.text = "We glorify the Deity that rules as one with might of equal glory, existing in three persons identically with one another, having the difference only of each subsistent property."
 
 ocMO.Ode62.mode = misc_en_UK_lash.Mode7
 ocMO.Ode62.ode = misc_en_UK_lash.Ode6
-ocMO.Ode62.melody = he.h.m7_en_UK_lash.NaftionToSalo.name
+ocMO.Ode62.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NaftionToSalo.name
 ocMO.Ode62.text = "The spiritual Ranks of the angelic orders praise you, sole Sovereignty with triple Sun. With them we too with lips of clay sing out your praise as only Maker of all things and with faith we glorify you."
 
 ocMO.Ode6T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode6T.ode = misc_en_UK_lash.Ode6
-ocMO.Ode6T.melody = he.h.m7_en_UK_lash.NaftionToSalo.name
+ocMO.Ode6T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.NaftionToSalo.name
 ocMO.Ode6T.text = "The Word, born from the Sun, the Father by an ineffable word as another Sun before the ages, dawned in these last times from the Virgin and taught that God who is beyond understanding is single in three persons."
 
 ocMO.Kathisma21.mode = misc_en_UK_lash.Mode7
-ocMO.Kathisma21.melody = he.a.m7_en_UK_lash.PyrosFoteinoteron.name
+ocMO.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m7_en_UK_lash.PyrosFoteinoteron.name
 ocMO.Kathisma21.text = "Consubstantial Trinity, three-personned Unity, have mercy on those you fashioned, burning up, O Immortal, the vices of the those who fall and enlightening the hearts of those who sing the praise of your compassion. Our God, glory to you."
 
 ocMO.Kathisma22.mode = misc_en_UK_lash.Mode7
@@ -205,57 +205,57 @@ ocMO.Kathisma22.text = he.a.m7_en_UK_lash.PyrosFoteinoteron.text
 
 ocMO.Ode71.mode = misc_en_UK_lash.Mode7
 ocMO.Ode71.ode = misc_en_UK_lash.Ode7
-ocMO.Ode71.melody = he.h.m7_en_UK_lash.OiEnKaminoTouPyros.name
+ocMO.Ode71.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OiEnKaminoTouPyros.name
 ocMO.Ode71.text = "Obedient to the sayings of the godly Prophets, we glorify you the one and only God of all things in three persons, as we cry out, Blessed are you, O Lord, the God of our Fathers."
 
 ocMO.Ode72.mode = misc_en_UK_lash.Mode7
 ocMO.Ode72.ode = misc_en_UK_lash.Ode7
-ocMO.Ode72.melody = he.h.m7_en_UK_lash.OiEnKaminoTouPyros.name
+ocMO.Ode72.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OiEnKaminoTouPyros.name
 ocMO.Ode72.text = "Along with immaterial Hosts we sing your praise with lips of dust, O holy Trinity in unity of essence, as we cry aloud, Blessed are you, O Lord, the God of our Fathers."
 
 ocMO.Ode7T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode7T.ode = misc_en_UK_lash.Ode7
-ocMO.Ode7T.melody = he.h.m7_en_UK_lash.OiEnKaminoTouPyros.name
+ocMO.Ode7T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.OiEnKaminoTouPyros.name
 ocMO.Ode7T.text = "That he that fashioned Adam might refashion him again, O all-pure, he became clearly man from you, making humankind divine, that thus cries out, Blessed, O all-pure, is the fruit of your womb."
 
 ocMO.Ode81.mode = misc_en_UK_lash.Mode7
 ocMO.Ode81.ode = misc_en_UK_lash.Ode8
-ocMO.Ode81.melody = he.h.m7_en_UK_lash.AflektosPyri.name
+ocMO.Ode81.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.AflektosPyri.name
 ocMO.Ode81.text = "Triple and single Lordship without beginning, you hold sway over the universe, you direct heaven and earth. Therefore guard me, ever drawn by your love, to sing to you, ‘All you works of the Lord, praise the Lord, and highly exalt him to all the ages’."
 
 ocMO.Ode82.mode = misc_en_UK_lash.Mode7
 ocMO.Ode82.ode = misc_en_UK_lash.Ode8
-ocMO.Ode82.melody = he.h.m7_en_UK_lash.AflektosPyri.name
+ocMO.Ode82.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.AflektosPyri.name
 ocMO.Ode82.text = "Grant that the hearts of those who sing your praise may be flooded with the light-giving beams of the Sun with triple light; and now, O Trinity and Unity, grant that all they may ever behold your beauty, as far as is possible, who with fitting faith sing the praise of your greatness to all the ages."
 
 ocMO.Ode83.mode = misc_en_UK_lash.Mode7
 ocMO.Ode83.ode = misc_en_UK_lash.Ode8
-ocMO.Ode83.melody = he.h.m7_en_UK_lash.AflektosPyri.name
+ocMO.Ode83.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.AflektosPyri.name
 ocMO.Ode83.text = "Make me a temple of your radiance with triple light, of communion and participation, O Lover of humankind, source of good; show me, Master, sole Ruler, my God and Lord of glory, to be unapproachable by invisible foes and passions of the flesh, that I may sing your praise to all the ages."
 
 ocMO.Ode8T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode8T.ode = misc_en_UK_lash.Ode8
-ocMO.Ode8T.melody = he.h.m7_en_UK_lash.AflektosPyri.name
+ocMO.Ode8T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.AflektosPyri.name
 ocMO.Ode8T.text = "A divine light dawned from your womb, Virgin-mother all-pure, and flooded the whole world with the light with triple sun; and revealed the earth to be as another Heaven that sings, ‘All you works of the Lord, praise the Lord, and highly exalt him to all the ages’."
 
 ocMO.Ode91.mode = misc_en_UK_lash.Mode7
 ocMO.Ode91.ode = misc_en_UK_lash.Ode9
-ocMO.Ode91.melody = he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
+ocMO.Ode91.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
 ocMO.Ode91.text = "We creatures of clay are not able fittingly to exalt and praise you, whom the Seraphim praise unceasingly in the highest; but as Master of all things and as God who greatly love humankind we dare to magnify you."
 
 ocMO.Ode92.mode = misc_en_UK_lash.Mode7
 ocMO.Ode92.ode = misc_en_UK_lash.Ode9
-ocMO.Ode92.melody = he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
+ocMO.Ode92.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
 ocMO.Ode92.text = "Single, undivided Trinity, be pleased to deliver from bodily pain and from passion of soul those who sing your praise and to keep them unharmed from all the trials of life."
 
 ocMO.Ode93.mode = misc_en_UK_lash.Mode7
 ocMO.Ode93.ode = misc_en_UK_lash.Ode9
-ocMO.Ode93.melody = he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
+ocMO.Ode93.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
 ocMO.Ode93.text = "Godhead of triple light and equal might, putting before your might the unchanging beauty of your natural loving-kindness, give to your servants release from faults and redemption from temptations and passions."
 
 ocMO.Ode9T.mode = misc_en_UK_lash.Mode7
 ocMO.Ode9T.ode = misc_en_UK_lash.Ode9
-ocMO.Ode9T.melody = he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
+ocMO.Ode9T.melody = misc_en_UK_lash.NotMetered //he.h.m7_en_UK_lash.MitirTheouKaiParthenos.name
 ocMO.Ode9T.text = "Taking from your most pure womb, O Mother of God, mind and soul and the matter of his flesh, God the Word appeared as truly a man and clearly showed humankind to be a partaker in his godhead."
 
 ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key

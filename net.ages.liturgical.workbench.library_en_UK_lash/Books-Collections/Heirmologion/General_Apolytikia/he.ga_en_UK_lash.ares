@@ -31,19 +31,19 @@ ChristotitaEkdidachtheis.text2 = ""
 // For one unnamed Martyr
 OMartysSouKyrie.name = ""
 OMartysSouKyrie.mode = misc_en_UK_lash.Mode4
-OMartysSouKyrie.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
+OMartysSouKyrie.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
 OMartysSouKyrie.text = ""
 
 // For several unnamed Martyrs
 OiMartyresSouKyrie.name = ""
 OiMartyresSouKyrie.mode = misc_en_UK_lash.Mode4
-OiMartyresSouKyrie.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
+OiMartyresSouKyrie.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
 OiMartyresSouKyrie.text = "Your Martyrs, O Lord, by their struggle obtained the crowns of incorruption from you, our God; for with your might they destroyed tyrants and vanquished the feeble insolence of the demons; at their intercessions, O Christ God, save our souls."
 
 // For one unnamed woman Martyr
 IAmnasSou.name = ""
 IAmnasSou.mode = misc_en_UK_lash.Mode4
-IAmnasSou.melody = he.a.m4_en_UK_lash.KateplagiIosif.name
+IAmnasSou.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
 IAmnasSou.text = ""
 
 // For a group of unnamed Martyrs
@@ -62,7 +62,7 @@ KaiTroponMetochos.text2 = ""
 // For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_en_UK_lash.TisErimouPolitis.text
 TisErimouPolitis.name = ""
 TisErimouPolitis.mode = misc_en_UK_lash.Mode1
-TisErimouPolitis.melody = he.a.m1_en_UK_lash.TisErimouPolitis.name
+TisErimouPolitis.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TisErimouPolitis.name
 TisErimouPolitis.text1 = ""
 TisErimouPolitis.text2 = ""
 
