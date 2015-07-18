@@ -20,10 +20,12 @@ AperripsasMe.name = ""
 AperripsasMe.mode = misc_en_UK_lash.Mode1
 AperripsasMe.ode = misc_en_UK_lash.Ode6
 AperripsasMe.text = ""
-AsomenPantesLaoi.name = ""
+
+AsomenPantesLaoi.name = "Let us, all peoples."
 AsomenPantesLaoi.mode = misc_en_UK_lash.Mode1
 AsomenPantesLaoi.ode = misc_en_UK_lash.Ode1
-AsomenPantesLaoi.text = ""
+AsomenPantesLaoi.text = "Let us, all peoples, sing a song of victory to him who rescued Israel from the bitter slavery of Pharao, and guided him dryshod in the depth of the sea; for he has been glorified."
+
 AvramiaioiPaides.name = ""
 AvramiaioiPaides.mode = misc_en_UK_lash.Mode1
 AvramiaioiPaides.ode = misc_en_UK_lash.Ode7
@@ -63,10 +65,11 @@ EkNyktosErgon3.text = ""
 EkNyktosErgon4.text = ""
 EkNyktosErgon5.text = ""
 
-EkNyktosOrthrizontes.name = ""
+EkNyktosOrthrizontes.name = "Rising in the night."
 EkNyktosOrthrizontes.mode = misc_en_UK_lash.Mode1
 EkNyktosOrthrizontes.ode = misc_en_UK_lash.Ode5
-EkNyktosOrthrizontes.text = ""
+EkNyktosOrthrizontes.text = "Rising in the night we hymn you, O Christ, without beginning with the Father, and the Saviour of our souls. Grant the world peace, O Lover of mankind."
+
 EkyklosenImas.name = "The deepest abyss."
 EkyklosenImas.mode = misc_en_UK_lash.Mode1
 EkyklosenImas.ode = misc_en_UK_lash.Ode6
@@ -157,10 +160,12 @@ KatavgasonImon.name = ""
 KatavgasonImon.mode = misc_en_UK_lash.Mode1
 KatavgasonImon.ode = misc_en_UK_lash.Ode5
 KatavgasonImon.text = ""
-KatenoisaPantodyname.name = "I considered your dispensation."
+
+KatenoisaPantodyname.name = "I have learned of your dispensation." //I considered your dispensation.
 KatenoisaPantodyname.mode = misc_en_UK_lash.Mode1
 KatenoisaPantodyname.ode = misc_en_UK_lash.Ode4
-KatenoisaPantodyname.text = ""
+KatenoisaPantodyname.text = "I have learned of your dispensation, All-powerful One, and I have glorified you with fear, O Saviour."
+
 KatilthesEnToisKatotatois.name = ""
 KatilthesEnToisKatotatois.mode = misc_en_UK_lash.Mode1
 KatilthesEnToisKatotatois.ode = misc_en_UK_lash.Ode6
@@ -261,10 +266,11 @@ OiOuranoiTonOuranon.name = ""
 OiOuranoiTonOuranon.mode = misc_en_UK_lash.Mode1
 OiOuranoiTonOuranon.ode = misc_en_UK_lash.Ode8
 OiOuranoiTonOuranon.text = ""
+
 OiPaidesEfseveia.name = "The Youths brought up together."
 OiPaidesEfseveia.mode = misc_en_UK_lash.Mode1
 OiPaidesEfseveia.ode = misc_en_UK_lash.Ode7
-OiPaidesEfseveia.text = ""
+OiPaidesEfseveia.text = "The Youths brought up together in piety, despising the impious decree, did not fear the threat of the fire, but standing in the middle of the flames they sang, ‘God of our fathers, blessed are you!’"
 
 OMiterParthene.name = ""
 OMiterParthene.mode = misc_en_UK_lash.Mode1
@@ -339,10 +345,11 @@ StereosonKyrie.name = "Establish your Church, Lord."
 StereosonKyrie.mode = misc_en_UK_lash.Mode1
 StereosonKyrie.ode = misc_en_UK_lash.Ode3
 StereosonKyrie.text = ""
-StereosonMeChriste.name = ""
+
+StereosonMeChriste.name = "Establish me, O Christ."
 StereosonMeChriste.mode = misc_en_UK_lash.Mode1
 StereosonMeChriste.ode = misc_en_UK_lash.Ode3
-StereosonMeChriste.text = ""
+StereosonMeChriste.text = "Establish me, O Christ, on the unshakeable rock of your commandments, and enlighten me with the light of your face; for none is holy but you, O Lover of mankind."
 StereothitoIKardiaMou.name = "May my heart be established."
 StereothitoIKardiaMou.mode = misc_en_UK_lash.Mode1
 StereothitoIKardiaMou.ode = misc_en_UK_lash.Ode3
@@ -428,15 +435,18 @@ TonEnSofiaTousOuranous.text = ""
 TonProfitinDiesosas.name = "You saved the prophet."
 TonProfitinDiesosas.mode = misc_en_UK_lash.Mode1
 TonProfitinDiesosas.ode = misc_en_UK_lash.Ode6
-TonProfitinDiesosas.text = "You saved the prophet from the whale, Lover of mankind; bring me up too, I beg, from the deep of offences."
+TonProfitinDiesosas.text = "You saved the prophet from the whale, Lover of mankind; bring me up too, I beg, from the deep of offences." //You saved the Prophet from the whale, O Lover of mankind, bring me too up from the deep of offences, I beg.
+
 TonProfitinIonan.name = "I imitate the Prophet Jonas."
 TonProfitinIonan.mode = misc_en_UK_lash.Mode1
 TonProfitinIonan.ode = misc_en_UK_lash.Ode6
 TonProfitinIonan.text = "I imitate the Prophet Jonas as I cry, ‘Free my life from corruption, good Lord, and save me, Saviour of the world, as I cry, ‘Glory to you!’"
-TonTousYmnologousEnKamino.name = "The one who saved the Youths."
+
+TonTousYmnologousEnKamino.name = "Praise in hymns Christ God." //The one who saved the Youths.
 TonTousYmnologousEnKamino.mode = misc_en_UK_lash.Mode1
 TonTousYmnologousEnKamino.ode = misc_en_UK_lash.Ode8
-TonTousYmnologousEnKamino.text = "The One who saved the Youths who sang songs of praise in the furnace, and who turned the thundering flame of the furnace to dew, Christ God, praise and highly exalt to all the ages."
+TonTousYmnologousEnKamino.text = "Praise in hymns Christ God, who protected the Youths as they sang praises in the furnace and who turned the roaring furnace into dew, and highly exalt him to the ages." //The One who saved the Youths who sang songs of praise in the furnace, and who turned the thundering flame of the furnace to dew, Christ God, praise and highly exalt to all the ages.
+
 TonTyponTouTheiouStavrou.name = ""
 TonTyponTouTheiouStavrou.mode = misc_en_UK_lash.Mode1
 TonTyponTouTheiouStavrou.ode = misc_en_UK_lash.Ode6
@@ -445,10 +455,12 @@ TousEnKaminoPaidas.name = "The fire did not touch or trouble."
 TousEnKaminoPaidas.mode = misc_en_UK_lash.Mode1
 TousEnKaminoPaidas.ode = misc_en_UK_lash.Ode7
 TousEnKaminoPaidas.text = "The fire did not touch or trouble your youths in the furnace, O Saviour. Then the three, as from one mouth, hymned and blessed you, saying, ‘Blessed is the God of our fathers’."
-TyponTisAgnis.name = "The burning bush that was not consumed."
+
+TyponTisAgnis.name = "The burning bush that was not consumed." //The bush that unburned blazed.
 TyponTisAgnis.mode = misc_en_UK_lash.Mode1
 TyponTisAgnis.ode = misc_en_UK_lash.Ode9
-TyponTisAgnis.text = "The burning bush, that was not consumed, was a type of your child-bearing; quench for us now the raging furnace of temptations we pray, O Mother of God, that we may unceasingly magnify you."
+TyponTisAgnis.text = "The burning bush, that was not consumed, was a type of your child-bearing; quench for us now the raging furnace of temptations we pray, O Mother of God, that we may unceasingly magnify you." //The bush that unburned blazed with fire showed an image of you pure child-bearing; and now we beseech you to quench the furnace of temptations which rages against us, that we me ceaselessly magnify you, O Mother of God.
+
 YmnonSoiProsferomen.name = "Like the Youths in the furnace."
 YmnonSoiProsferomen.mode = misc_en_UK_lash.Mode1
 YmnonSoiProsferomen.ode = misc_en_UK_lash.Ode8
