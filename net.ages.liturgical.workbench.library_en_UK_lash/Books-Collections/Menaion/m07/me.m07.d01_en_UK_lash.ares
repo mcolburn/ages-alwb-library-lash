@@ -52,11 +52,11 @@ meVE.Lity3.text = "Made worthy of great gifts, O All-praised, by the lowliness o
 
 meVE.Lity4.mode = misc_en_UK_lash.Mode2
 meVE.Lity4.melody = ""
-meVE.Lity4.text = ""
+meVE.Lity4.text = "The choir of the Saints rejoices to the ages; for they have inherited the kingdom of heaven. Earth has received their relics and is filled with sweet fragrance. Christ’s servants have taken up their dwelling for eternal life."
 
 meVE.Lity5.mode = misc_en_UK_lash.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.text = ""
+meVE.Lity5.text = "Physicians of the sick, treasuries of remedies, saviours of believers, far-famed Unmercenaries, heal those who cry out in need and who suffer pain, as with Theodoti you intercede with the good God that we may be rescued from all the snares of the foe."
 
 meVE.LityGlory.mode = misc_en_UK_lash.Mode6
 meVE.LityGlory.melody = ""
@@ -306,11 +306,11 @@ meMA.Ode9C1T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
 meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "Receiving the grace of healings from God, blest Unmercenaries, you cure diseases and heal all those who faithfully have recourse to your godlike shrine; and therefore with one voice we worthily call your holy memory blest."
 
 meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode3
 meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.EnPnevmatiToIero.name
-meMA.ExapTheotokion.text = ""
+meMA.ExapTheotokion.text = "All-immaculate, you bore God the Word of God, when he in his great wisdom accomplished his great dispensation; and therefore we all worthily praise you as her who intercedes with him that we may be rescued from diseases and every kind of danger."
 
 meMA.Lauds1.mode = misc_en_UK_lash.Mode4
 meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
@@ -326,7 +326,7 @@ meMA.Lauds3.text = ""
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode4
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "Holy Unmercenaries, you possess a source of remedies and grant healings to all who ask, for you have been found worthy of the greatest gifts from the unfailing source of the Saviour Christ. For to you, as rivals of the Apostles in zeal, the Lord says: See, I have given you authority against unclean spirits, so as to cast them out and so as to cure every disease and every weakness. And so, having lived your lives well in accordance with his commands, freely you have received, freely you give, as you heal the sufferings of our souls and bodies."
 
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode4
 meMA.LaudsTheotokion.melody = ""
