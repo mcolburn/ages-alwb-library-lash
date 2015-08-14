@@ -30,7 +30,7 @@ meVE.Stichera04.mode = misc_en_UK_lash.Mode8
 meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
 meVE.Stichera04.text = "What may we now call you, glorious Saint? Safe treasury of the gifts of heaven’s grace. Skilled physician of both souls and bodies. Paul’s co-worker and companion of his journeys, who set down the Acts of the Apostles. Virtue, Luke, has made for you many names. Intercede that our souls may be saved."
 
-meVE.Stichera78910.text = "" // for media
+meVE.MM.Stichera78910.text = "" // for media
 
 meVE.Stichera05.mode = misc_en_UK_lash.Mode8
 meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TiYmasKalesomen.name
