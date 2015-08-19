@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = "The Martyrs who bore witness for your sake, O Christ, en
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = "For the afflicted, transformation and liberation for the ailing are you, O Virgin Mother of our God; save your City, save us all. To those embattled you are peace; you are calm to those tossed by the tempest, the one Protection of the faithful."
+ocVE.AposTheotokion.text = "For the afflicted, transformation and liberation for the ailing are you, O Mother of God, most pure Virgin: save your City, save us all. To all those embattled, you are peace, you are calm to those tossed by the tempest the one Protection of the faithful." //For the afflicted, transformation and liberation for the ailing are you, O Virgin Mother of our God; save your City, save us all. To those embattled you are peace; you are calm to those tossed by the tempest, the one Protection of the faithful.
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode6
 ocVE.ApolTheotokionVM.melody = misc_en_UK_lash.Automelon
@@ -506,7 +506,7 @@ ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocMA.AposTheotokion.melody = ""
-ocMA.AposTheotokion.text = "No one who has recourse to you goes from you dishonoured, pure Virgin Mother of God; but they ask for grace and receive the gift expedient to their request."
+ocMA.AposTheotokion.text = "No one who has recourse to you goes from your presence put to shame and rejected, O Mother of God, pure Virgin, but asking for grace they receive gifts and benefits most advantageous to the plea they make." //No one who has recourse to you goes from you dishonoured, pure Virgin Mother of God; but they ask for grace and receive the gift expedient to their request.
 
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode6
 ocMA.ApolTheotokion.melody = ""

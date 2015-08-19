@@ -45,8 +45,8 @@ ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.Edo
 ocVE.AposTheotokion.text = "I implore you, O All-praised, most pure palace of the King, purify my mind, stained with every fault, and make it a pleasant dwelling for the divine Trinity; that I, your unprofitable servant, may magnify your power and great compassion."
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode4
-ocVE.ApolTheotokionVM.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
-ocVE.ApolTheotokionVM.text = "Let us humble sinners now hasten to the Mother of God, and let us fall down in repentance as we cry from the depth of the soul: Sovereign Lady, help, have compassion on us, hasten, for we perish by a multitude of offences; do not turn your servants empty away; for we have gained you as our only hope."
+ocVE.ApolTheotokionVM.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+ocVE.ApolTheotokionVM.text = "Now to God’s Mother let us humble sinners run in haste * and in repentance let us fall down before her feet, * crying aloud with fervour from the depths of our souls, * ‘Sovereign Lady, help us now, * have compassion upon us, * hasten, for we perish * from our many offences. * Let not your servants go empty away; * we have you as our only hope’."
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode4
 ocMA.Kathisma11.melody = ""

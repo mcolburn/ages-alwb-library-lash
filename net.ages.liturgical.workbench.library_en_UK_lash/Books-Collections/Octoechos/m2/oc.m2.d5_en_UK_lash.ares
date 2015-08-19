@@ -41,8 +41,8 @@ ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.text = "Great the glory that you gained through faith, O Saints! For not only did you defeat the foe when you suffered, but after death also you drive out spirits; you heal the infirm, O physicians of souls and bodies. Intercede with the Lord to have mercy on our souls."
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode2
-ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.AposTheotokion.text = "You protect all those who with faith take refuge in your mighty hand, loving Lady; for we sinners, bowed down by many faults, have no other constant mediation but you before God in dangers and afflictions, Mother of God most high. Therefore we fall down before you, ‘Deliver your servants from every disaster’."
+ocVE.AposTheotokion.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+ocVE.AposTheotokion.text = "All those, loving Virgin, you protect, * with your mighty hand, who in faith come * to seek refuge with you; * for we sinners, bowed beneath the weight of many faults, * have no other who in our dangers and our afflictions * is ever-present intercessor before God, * Mother of God, the Most High, * whence we fall before you, ‘Deliver * all your servants in every predicament’." //You protect all those who with faith take refuge in your mighty hand, loving Lady; for we sinners, bowed down by many faults, have no other constant mediation but you before God in dangers and afflictions, Mother of God most high. Therefore we fall down before you, ‘Deliver your servants from every disaster’.
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode2
 ocVE.ApolTheotokionVM.melody = ""
