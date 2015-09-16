@@ -359,6 +359,19 @@ petKneel07 = ""
 
 petKneel08 = ""
 
+petOrdination01a = "For our " // supplement with client specific rank and name
+petOrdination01b = "for his Priesthood, for help, continuance, peace, health, salvation and for the work of his hands, let us pray to the Lord."
+
+petOrdination02_deacon = "For the servant of God N., who is now ordained Deacon, and for his salvation, let us pray to the Lord."
+petOrdination02_priest = "For the servant of God N., who is now appointed Presbyter, and for his salvation, let us pray to the Lord."
+petOrdination02_bishop = ""
+
+petOrdination03_deacon = "That our God who loves mankind will grant that his Diaconate may be without spot or blemish, let us pray to the Lord."
+petOrdination03_priest = "That our God who loves humankind will grant that his Priesthood may be without spot or blemish, let us pray to the Lord."
+petOrdination03_bishop = ""
+
+petOrdination04 = ""
+
 petSouls01 = "Also we pray for the repose of all devout and Orthodox Christians who have fallen asleep before us in hope of resurrection, Rulers, Patriarchs, Bishops, Priests, Deacons, Monks, Nuns, Parents, Grandparents, Great Grandparents and Ancestors, those from the beginning until the last, and that they may be pardoned every offence, both voluntary and involuntary."
 
 petSouls02 = ""
