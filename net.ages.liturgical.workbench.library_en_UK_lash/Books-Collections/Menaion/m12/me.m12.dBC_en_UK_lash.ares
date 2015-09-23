@@ -31,12 +31,12 @@ meVE.Stichera04.melody = misc_en_UK_lash.NotMetered
 meVE.Stichera04.text = "As we believers celebrate today the memorials of the Fathers, let us sing in praise to Christ the Redeemer; the Lord, who as mighty and powerful magnified them among all the nations and faithfully performed extraordinary wonders; and has revealed from among them a rod of power, Mary the only pure Child of God, who has not known man; from her Christ has come forth, the flower that blossoms with life for all, the inexhaustible delight and the salvation of our souls."
 
 meVE.Stichera05.mode = misc_en_UK_lash.Mode8
-meVE.Stichera05.melody = misc_en_UK_lash.NotMetered
-meVE.Stichera05.text = "Rejoicing in the dew of the Spirit as in raindrops, the Children of God walked in the midst of the flame, thus prefiguring the Trinity and the incarnation of Christ; and wise through Faith they quenched the power of fire; while Daniel the just appeared as a tamer of lions. Entreated by their prayers, O Saviour who loves mankind, deliver us also from the unquenchable and everlasting fire, and grant that we may reach your heavenly Kingdom."
+meVE.Stichera05.melody = he.a.m8_en_UK_lash.OEnEdemParadeisos.name
+meVE.Stichera05.text = me.m12.dFF_en_UK_lash.meVE.Stichera03.text
 
 meVE.Stichera06.mode = misc_en_UK_lash.Mode8
-meVE.Stichera06.melody = misc_en_UK_lash.NotMetered
-meVE.Stichera06.text = "The faithful and holy Children, when in the furnace of the flame of fire as in a dew, mystically prefigured your coming from the Virgin, which blazed for us yet did not burn. While Daniel the just, and wonderful among the Prophets, clearly foreshadowed for all your divine second coming. In his vision he cried and said that thrones were set, the judge had taken his seat and the river of fire appeared; from which, O Christ, may we be delivered by their prayers."
+meVE.Stichera06.melody = he.a.m8_en_UK_lash.OEnEdemParadeisos.name
+meVE.Stichera06.text = me.m12.dFF_en_UK_lash.meVE.Stichera04.text
 
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
