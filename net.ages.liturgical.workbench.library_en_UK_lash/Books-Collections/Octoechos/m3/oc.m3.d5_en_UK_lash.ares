@@ -88,7 +88,7 @@ ocMA.C2Acrostic.text = "of which the acrostic is: I offer my third prayer to Nic
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m3_en_UK_lash.OTaYdata.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode3
@@ -133,7 +133,7 @@ ocMA.OdeW1C2T.text = "Let us now in harmony call Mary, the all-immaculate, bless
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m3_en_UK_lash.OEkMiOnton.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode3
@@ -178,7 +178,7 @@ ocMA.OdeW3C2T.text = "Mind cannot conceive the Offspring beyond mind of your won
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m3_en_UK_lash.EthouProsImas.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode3
@@ -223,7 +223,7 @@ ocMA.OdeW4C2T.text = "Ineffably you bore the Word, incarnate through the abundan
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m3_en_UK_lash.EpiTisGis.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode3
@@ -268,7 +268,7 @@ ocMA.OdeW5C2T.text = "As only joy of the Angels, O Full of God’s grace, fill w
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m3_en_UK_lash.AvyssosEschati.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode3
@@ -313,7 +313,7 @@ ocMA.OdeW6C2T.text = "The Word by dwelling in your womb, pure Mother, through hi
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m3_en_UK_lash.ToPrinEikoni.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode3
@@ -358,7 +358,7 @@ ocMA.OdeW7C2T.text = "Pure Virgin, lead me to the light, who am darkened in soul
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m3_en_UK_lash.AstektoPyri.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode3
@@ -403,7 +403,7 @@ ocMA.OdeW8C2T.text = "Strength and song is he who was born of you, All-blameless
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m3_en_UK_lash.EnNomoSkia.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode3

@@ -348,7 +348,7 @@ ocMA.C3Acrostic.text = "In alphabetical order."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.text = he.h.m8_en_UK_lash.ArmatilatinFarao.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode8
@@ -398,7 +398,7 @@ ocMA.OdeS1C33.text = "Adam’s race, raised to blessedness beyond all thought, M
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
 
 ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode8
@@ -448,7 +448,7 @@ ocMA.OdeS3C33.text = "By your power give me life, O All-pure, who truly gave bir
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.text = he.h.m8_en_UK_lash.SyMouIschys.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode8
@@ -498,7 +498,7 @@ ocMA.OdeS4C33.text = "Grant us pardon of our offences, as you are without sin, a
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.text = he.h.m8_en_UK_lash.InaTiMeAposo.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode8
@@ -548,7 +548,7 @@ ocMA.OdeS5C33.text = "Mary Mother of God without bridegroom, bring to naught the
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
 ocMA.OdeS6C11.mode = misc_en_UK_lash.Mode8
@@ -605,7 +605,7 @@ ocMA.Oikos.text = "When you had ransacked the palaces of Hell and raised the dea
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.text = he.h.m8_en_UK_lash.TheouSynkatavasin.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode8
@@ -655,7 +655,7 @@ ocMA.OdeS7C33.text = "Empersonned Wisdom of the Most High, through the Mother of
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
 ocMA.OdeS8C11.mode = misc_en_UK_lash.Mode8
@@ -705,7 +705,7 @@ ocMA.OdeS8C33.text = "The unapproachable Light, who dwelt in you, O Virgin, show
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.text = he.h.m8_en_UK_lash.ExestiEpiTouto.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode8

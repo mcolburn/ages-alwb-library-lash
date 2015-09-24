@@ -88,7 +88,7 @@ ocMA.C2Acrostic.text = "whose acrostic is: This is the fourth song for Nicholas.
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode4
@@ -133,7 +133,7 @@ ocMA.OdeW1C2T.text = "As you have gained unsleeping intercession, O Pure One, pu
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode4
@@ -178,7 +178,7 @@ ocMA.OdeW3C2T.text = "We have obtained you as protection, All-holy Virgin; chang
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode4
@@ -228,7 +228,7 @@ ocMA.OdeW4C2T.text = "The armies of the Angels are amazed, All-pure One, as they
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode4
@@ -273,7 +273,7 @@ ocMA.OdeW5C2T.text = "Seeing you with the eyes of the mind, Isaias cried aloud: 
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode4
@@ -318,7 +318,7 @@ ocMA.OdeW6C2T.text = "Your people and your city beg you, All-holy Lady, God’s 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode4
@@ -363,7 +363,7 @@ ocMA.OdeW7C2T.text = "Put to sleep the rebellions of the passions by your unslee
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode4
@@ -413,7 +413,7 @@ ocMA.OdeW8C2T.text = "Make me worthy of your compassion, O blessed and all-pure,
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode4

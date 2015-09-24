@@ -321,7 +321,7 @@ ocMA.C3Acrostic.text = "of which the acrostic is: Virgin who bore the Light, enl
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.text = he.h.m5_en_UK_lash.IpponKaiAnavatin.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode5
@@ -371,7 +371,7 @@ ocMA.OdeS1C33.text = "The bush on Sinai foreshadowing you of old, O Virgin, was 
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS3C1H.text = he.h.m5_en_UK_lash.OPixasEpOudenos.text
 
 ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode5
@@ -421,7 +421,7 @@ ocMA.OdeS3C33.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.text = he.h.m5_en_UK_lash.TinTheianEnnoisas.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode5
@@ -476,7 +476,7 @@ ocMA.OdeS4C34.text = "Isaias named you the rod from which sprung for us a fair f
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.text = he.h.m5_en_UK_lash.OAnavallomenos.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode5
@@ -526,7 +526,7 @@ ocMA.OdeS5C33.text = "The God, who as alone compassionate dwelt in you, loved yo
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS6C1H.text = he.h.m5_en_UK_lash.MainomeninKlydoni.text
 
 ocMA.OdeS6C11.mode = misc_en_UK_lash.Mode5
@@ -583,7 +583,7 @@ ocMA.Oikos.text = "The women, when the heard the Angel’s words, cast away thei
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.text = he.h.m5_en_UK_lash.OYperypsoumenos.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode5
@@ -638,7 +638,7 @@ ocMA.OdeS7C34.text = "The Lord saved me, O Immaculate Mother of God, clothed in 
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS8C1H.text = he.h.m5_en_UK_lash.SoiToPantourgo.text
 
 ocMA.OdeS8C11.mode = misc_en_UK_lash.Mode5
@@ -693,7 +693,7 @@ ocMA.OdeS8C34.text = "We confess you, O Virgin, to be truly the divine and light
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.text = he.h.m5_en_UK_lash.IsaiaChoreve.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode5

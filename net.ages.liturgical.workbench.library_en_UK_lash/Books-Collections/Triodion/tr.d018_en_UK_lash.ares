@@ -38,7 +38,7 @@ trMA.C2Poet = poets_en_UK_lash.KyriouIosif
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode1C1H.text = he.h.m4_en_UK_lash.AsomaiSoiKyrie.text
 
 trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -63,7 +63,7 @@ trMA.Ode1C1T.text = ""
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode3C1H.text = he.h.m4_en_UK_lash.EnKyrioTheoMou.text
 
 trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -148,7 +148,7 @@ trMA.Ode3C3A1.text = ""
 
 trMA.Ode3C3H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C3H.mode = misc_en_UK_lash.Mode2
-trMA.Ode3C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode3C3H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode3C3H.text = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.text
 
 trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -213,7 +213,7 @@ trMA.Ode6C1T.text = ""
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode6C1H.text = he.h.m4_en_UK_lash.OsIonanTonProfitin.text
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -238,7 +238,7 @@ trMA.Ode7C1T.text = ""
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -323,12 +323,12 @@ trMA.Ode8C3A1.text = ""
 
 trMA.Ode8C3H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_lash.Mode2
-trMA.Ode8C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C3H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode8C3H.text = he.h.m2_en_UK_lash.TonEnTiVatoMosi.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode9C1H.text = he.h.m4_en_UK_lash.MegalynomenPantes.text
 
 trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -408,7 +408,7 @@ trMA.Ode9C3A1.text = ""
 
 trMA.Ode9C3H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_lash.Mode2
-trMA.Ode9C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C3H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode9C3H.text = he.h.m2_en_UK_lash.TinYperfyosSarki.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_lash.Mode1

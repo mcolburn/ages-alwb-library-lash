@@ -91,7 +91,7 @@ ocMA.C2Acrostic.text = "whose acrostic is: A fourth song of the Bodiless Minds."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m4_en_UK_lash.TristatasKrataious.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode4
@@ -136,7 +136,7 @@ ocMA.OdeW1C2T.text = "You alone received in your womb the Word, whom hosts of An
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m4_en_UK_lash.AfYpsousKatilthes.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode4
@@ -181,7 +181,7 @@ ocMA.OdeW3C2T.text = "By bearing in your womb Christ, who crowns all with blessi
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode4
@@ -231,7 +231,7 @@ ocMA.OdeW4C2T.text = "The Queen and Virgin, lovely in a golden robe, now stands 
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m4_en_UK_lash.NynAnastisomai.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode4
@@ -276,7 +276,7 @@ ocMA.OdeW5C2T.text = "Now wall your Church about with ramparts of Archangels, yo
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m4_en_UK_lash.IlthonEisTaVathi.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode4
@@ -321,7 +321,7 @@ ocMA.OdeW6C2T.text = "As the One who takes his rest upon uplifted Thrones, O Chr
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m4_en_UK_lash.NeoiTreisEnVavyloni.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode4
@@ -366,7 +366,7 @@ ocMA.OdeW7C2T.text = "As she who bore the maker and Lord of all, you clearly sur
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m4_en_UK_lash.LytrotaTouPantos.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode4
@@ -411,7 +411,7 @@ ocMA.OdeW8C2T.text = "Images in the Law prefigured you, All-blessed, who would g
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m4_en_UK_lash.EvaMenToTisParakois.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode4

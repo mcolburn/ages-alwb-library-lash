@@ -89,7 +89,7 @@ ocMA.C2Acrostic.text = "whose acrostic is: Accept a seventh prayer, O Nicholas. 
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m7_en_UK_lash.NefseiSouProsGeodi.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode7
@@ -134,7 +134,7 @@ ocMA.OdeW1C2T.text = "He who makes immaterial Ministers was born from you, Mothe
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m7_en_UK_lash.OKatArchasTousOuranous.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode7
@@ -179,7 +179,7 @@ ocMA.OdeW3C2T.text = "All-pure, you are the tongs which received in your godlike
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m7_en_UK_lash.OPatrikousKolpous.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode7
@@ -224,7 +224,7 @@ ocMA.OdeW4C2T.text = "You bore the Timeless in the flesh; implore him to free fr
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m7_en_UK_lash.KyrieOTheosMou.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode7
@@ -264,7 +264,7 @@ ocMA.OdeW5C2T.text = "Mary Mother of God, Lady of all creation, rescue my humble
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m7_en_UK_lash.NaftionToSalo.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode7
@@ -309,7 +309,7 @@ ocMA.OdeW6C2T.text = "All-pure, heal my wretched soul, incurably sick from the d
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m7_en_UK_lash.KaminonPaides.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode7
@@ -354,7 +354,7 @@ ocMA.OdeW7C2T.text = "Every tongue glorifies you, Mother of God, pure and all-pr
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m7_en_UK_lash.AflektosPyri.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode7
@@ -399,7 +399,7 @@ ocMA.OdeW8C2T.text = "You every tongue hymns, Virgin Bride of God, as it glorifi
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m7_en_UK_lash.MiTisFthoras.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode7

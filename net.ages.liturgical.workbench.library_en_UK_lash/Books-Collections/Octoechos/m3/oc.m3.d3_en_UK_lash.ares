@@ -88,7 +88,7 @@ ocMA.C1Acrostic.text = "whose acrostic is: Attend to my groanings, O Word of God
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m3_en_UK_lash.ThavmastosEndoxos.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode3
@@ -138,7 +138,7 @@ ocMA.OdeW1C2T.text = "With the Archangels, with the Angels and with all the Sain
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m3_en_UK_lash.SteiraPsychi.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode3
@@ -188,7 +188,7 @@ ocMA.OdeW3C2T.text = "With Apostles, Prophets, Priests and Martyrs, O Immaculate
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m3_en_UK_lash.ToKataskionOros.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode3
@@ -238,7 +238,7 @@ ocMA.OdeW4C2T.text = "Mother of God, chariot higher than the Seraphim, with the 
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m3_en_UK_lash.OrthrizontesAnymnoumen.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode3
@@ -288,7 +288,7 @@ ocMA.OdeW5C2T.text = "You appeared wider than the heavens as truly Mother of God
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m3_en_UK_lash.VythosMoiTonPathon.name
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode3
@@ -338,7 +338,7 @@ ocMA.OdeW6C2T.text = "Immaculate, who lent your flesh to the Creator, with the P
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m3_en_UK_lash.OTinFloga.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode3
@@ -388,7 +388,7 @@ ocMA.OdeW7C2T.text = "Virgin Mother of God, implore your Son, with Prophets, Apo
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m3_en_UK_lash.TonYpAngelon.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode3
@@ -438,7 +438,7 @@ ocMA.OdeW8C2T.text = "As Mother of God, with the holy Angels, with Prophets, Apo
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m3_en_UK_lash.EvlogitosKyrios.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode3

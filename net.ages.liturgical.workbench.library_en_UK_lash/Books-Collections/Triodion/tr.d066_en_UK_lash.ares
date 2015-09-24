@@ -42,7 +42,7 @@ trVE.SticGlory.text = tr.d065_en_UK_lash.trMA.AposGlory.text
 
 trCO.Ode2C1H.ode = misc_en_UK_lash.Ode2
 trCO.Ode2C1H.mode = misc_en_UK_lash.Mode8
-trCO.Ode2C1H.melody = misc_en_UK_lash.Heirmos
+trCO.Ode2C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trCO.Ode2C1H.text = he.h.m8_en_UK_lash.ProsecheOurane.text
 
 trCO.Ode2C11.ode = misc_en_UK_lash.Ode2
@@ -67,7 +67,7 @@ trCO.Ode2C1T.text = ""
 
 trCO.Ode2C2H.ode = misc_en_UK_lash.Ode2
 trCO.Ode2C2H.mode = misc_en_UK_lash.Mode8
-trCO.Ode2C2H.melody = misc_en_UK_lash.Heirmos
+trCO.Ode2C2H.melody = misc_en_UK_lash.HeirmosNotMetered
 trCO.Ode2C2H.text = he.h.m8_en_UK_lash.IdeteIdeteOPrinGenesthai.text
 
 trCO.Ode2C21.ode = misc_en_UK_lash.Ode2
@@ -111,7 +111,7 @@ trCO.Kathisma11.text = ""
 
 trCO.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trCO.Ode8C1H.mode = misc_en_UK_lash.Mode8
-trCO.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+trCO.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trCO.Ode8C1H.text = he.h.m8_en_UK_lash.AngeloiKaiOuranoi.text
 
 trCO.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -156,7 +156,7 @@ trCO.Ode8C1T.text = ""
 
 trCO.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trCO.Ode9C1H.mode = misc_en_UK_lash.Mode8
-trCO.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+trCO.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trCO.Ode9C1H.text = he.h.m8_en_UK_lash.TonProdilothenta.text
 
 trCO.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -239,7 +239,7 @@ trMA.C1Acrostic.text = ""
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
-trMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode8C1H.text = he.h.m2_en_UK_lash.ToDogmatiToTyranniko.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -264,7 +264,7 @@ trMA.Ode8K.text = he.h.m2_en_UK_lash.ToDogmatiToTyranniko.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
-trMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode9C1H.text = he.h.m2_en_UK_lash.ITonAchoritonTheon.text
 
 trMA.Ode9C11.ode = misc_en_UK_lash.Ode9

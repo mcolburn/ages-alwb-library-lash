@@ -131,7 +131,7 @@ meMA.C2Poet = poets_en_UK_lash.IoannouMonachou
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode1C1H.text = he.h.m1_en_UK_lash.OdinEpinikion.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -206,7 +206,7 @@ meMA.Ode1C3T.text = "God becomes a babe from a Virgin, makes new the corrupted d
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereothitoIKardiaMou.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -293,7 +293,7 @@ meMA.Ode3KathismaT.text = "Hail, throne of God, formed of fire. Hail, Maiden, ro
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode4C1H.text = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -368,7 +368,7 @@ meMA.Ode4C3T.text = "You conceived ineffably one of the Trinity in your womb and
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.text = he.h.m1_en_UK_lash.TinSinEirinin.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -443,7 +443,7 @@ meMA.Ode5C3T.text = "You gave birth to the Light, not knowing how, O lampstand a
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinIonan.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -526,7 +526,7 @@ meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode7C1H.text = he.h.m1_en_UK_lash.TousEnKaminoPaidas.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -601,7 +601,7 @@ meMA.Ode7C3T.text = "We glorify you, O Christ, as one of the Trinity; because in
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8C1H.text = he.h.m1_en_UK_lash.OnFrittousinAngeloi.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -681,7 +681,7 @@ meMA.Ode8C3T.text = "You conceived one of the Trinity and gave birth to him inca
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TinFotoforonNefelin.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9

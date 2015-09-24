@@ -91,7 +91,7 @@ ocMA.C2Acrostic.text = "Its Acrostic is the Alphabet."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ChristosGennatai.name
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = "Delivered from bitter slavery, Israel crossed the impassable as on dry land. Seeing the enemy drowning, as to a benefactor he sang a hymn to God who works wonders with uplifted arm, for he has been glorified."
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode1
@@ -136,7 +136,7 @@ ocMA.OdeW1C23.text = "Do not despise me, Sovereign Lady, who ever stumble by my 
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ToProTonAionon.name
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = "Let no mortal boast in their wisdom or their wealth, but in faith of the Lord, crying out with right belief to Christ our God and ever singing, ‘Establish me, Master, on the rock of your commandments.’"
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode1
@@ -181,7 +181,7 @@ ocMA.OdeW3C23.text = "Snatch me, O Virgin, from a tempest of disgraceful thought
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.RavdosEkTisRizis.name
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = "Wondrous Avvakoum of old heard your report, O Christ, and cried out in fear, ‘O God, you will come from Theman, and O Holy One from a shaded, wooded mountain to save your anointed ones. Glory to your power, O Lord!’"
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode1
@@ -226,7 +226,7 @@ ocMA.OdeW4C23.text = "The Lord, to whom you gave birth from your pure blood, pur
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = "Light in the hearts of those who sing your praise with faith, O Christ, your light that never sets, granting us peace that is beyond understanding, so that as we run from the night of ignorance to the day of your commandments, we may glorify you, Lover of humankind."
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode1
@@ -271,7 +271,7 @@ ocMA.OdeW5C23.text = "Having withered up through your offspring the sin which sp
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = "I am wholly in the grip of numberless passions, I have fallen together with a sea monster of evils; but bring me up from corruption, O God, as you one brought Jonas, and with faith grant me dispassion, that I may sacrifice to you with a voice of saving praise."
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode1
@@ -316,7 +316,7 @@ ocMA.OdeW6C23.text = "The timeless Son was born in time, being brought to birth 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = "The Youths, who of old were clearly revealed as holy, entered the unbearable flame of the furnace as if it were a bridal chamber, and singing with one accord they raised the hymn, ‘God of our Fathers, blessed are you’."
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode1
@@ -361,7 +361,7 @@ ocMA.OdeW7C23.text = "Immaculate, All-blameless, who bore the Source of life, by
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ThavmatosYperfyous.name
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = "The furnace bedewed with fire revealed of old an image of a wonder beyond nature, for the fire did not consume the young Men, depicting the Christ’s divine Nativity without seed from a Virgin. Therefore let us raise the hymn and sing, ‘Let all creation bless the Lord and highly exalt him to all the ages’."
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode1
@@ -411,7 +411,7 @@ ocMA.OdeW8C24.text = ""
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MystirionXenon.name
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = "Ineffable is the mystery of the Virgin. For she has been revealed as heaven, the cherubim throne and the light-bearing bridal chamber of Christ, God the Almighty. As Mother of God her we devoutly magnify."
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode1

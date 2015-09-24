@@ -170,7 +170,7 @@ trMA.C1Acrostic.text = ""
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode1C1H.text = he.h.m4_en_UK_lash.OfthisanAiPigai.text
 
 trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -190,7 +190,7 @@ trMA.Ode1K.text = he.h.m4_en_UK_lash.OfthisanAiPigai.text
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode3C1H.text = he.h.m4_en_UK_lash.NaousanAkrotomon.text
 
 trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -214,7 +214,7 @@ trMA.Hypakoe.text = ""
 
 trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode4C1H.text = he.h.m4_en_UK_lash.ChristosOErchomenos.text
 
 trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -239,7 +239,7 @@ trMA.Ode4K.text = he.h.m4_en_UK_lash.ChristosOErchomenos.text
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode5C1H.text = he.h.m4_en_UK_lash.TinSionEpOrous.text
 
 trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -259,7 +259,7 @@ trMA.Ode5K.text = he.h.m4_en_UK_lash.TinSionEpOrous.text
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode6C1H.text = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.text
 
 trMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -291,7 +291,7 @@ trMA.Synaxarion.lastline.text = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode7C1H.text = he.h.m4_en_UK_lash.ODiasosasEnPyri.text
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -316,7 +316,7 @@ trMA.Ode7K.text = he.h.m4_en_UK_lash.ODiasosasEnPyri.text
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode8C1H.text = he.h.m4_en_UK_lash.EffranthitiIerousalim.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -341,7 +341,7 @@ trMA.Ode8K.text = he.h.m4_en_UK_lash.EffranthitiIerousalim.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode9C1H.text = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.text
 
 trMA.Ode9C11.ode = misc_en_UK_lash.Ode9

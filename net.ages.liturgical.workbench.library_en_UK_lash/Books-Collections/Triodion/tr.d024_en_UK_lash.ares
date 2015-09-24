@@ -58,7 +58,7 @@ trMA.Kathisma32.text = ""
 
 trMA.Ode2C1H.ode = misc_en_UK_lash.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_lash.Mode2
-trMA.Ode2C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode2C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode2C1H.text = he.h.m2_en_UK_lash.IdeteIdeteOEnThalassi.text
 
 trMA.Ode2C11.ode = misc_en_UK_lash.Ode2
@@ -108,7 +108,7 @@ trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_UK_lash.Ode2
 trMA.Ode2C2H.mode = misc_en_UK_lash.Mode5
-trMA.Ode2C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode2C2H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode2C2H.text = he.h.m5_en_UK_lash.IdeteIdete.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -158,7 +158,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_lash.Mode5
-trMA.Ode8C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode8C2H.text = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -208,7 +208,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_lash.Mode5
-trMA.Ode9C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode9C2H.text = he.h.m5_en_UK_lash.IsaiaChoreve.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_lash.Mode3

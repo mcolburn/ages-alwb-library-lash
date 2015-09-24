@@ -343,7 +343,7 @@ ocMA.C3Acrostic.text = "of which the acrostic is: Mother of God, grant me unstin
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.text = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode6
@@ -398,7 +398,7 @@ ocMA.OdeS1C34.text = "When rulers had failed from the tribe of Juda, O All-pure,
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS3C1H.text = he.h.m6_en_UK_lash.OukEstinAgios.text
 
 ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode6
@@ -453,7 +453,7 @@ ocMA.OdeS3C34.text = "No mortal word or tongue has strength to praise you fittin
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.text = he.h.m6_en_UK_lash.ChristosMouDynamis.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode6
@@ -508,7 +508,7 @@ ocMA.OdeS4C34.text = "Tasting of a plant declared me to be a corpse, but the tre
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.text = he.h.m6_en_UK_lash.ToTheioFengeiSou.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode6
@@ -558,7 +558,7 @@ ocMA.OdeS5C33.text = "Let the community of the impious who do not expressly proc
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS6C1H.text = he.h.m6_en_UK_lash.TouViouTinThalassan.text
 
 ocMA.OdeS6C11.mode = misc_en_UK_lash.Mode6
@@ -615,7 +615,7 @@ ocMA.Oikos.text = "Your Cross and Burial, O Giver of life, we the faithful prais
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.text = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode6
@@ -670,7 +670,7 @@ ocMA.OdeS7C34.text = "You alone are nature’s mercy-seat; bearing in your arms 
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS8C1H.text = he.h.m6_en_UK_lash.EkFlogosToisOsiois.text
 
 ocMA.OdeS8C11.mode = misc_en_UK_lash.Mode6
@@ -725,7 +725,7 @@ ocMA.OdeS8C34.text = "The golden lampstand prefigured you who received the unapp
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.text = he.h.m6_en_UK_lash.TheonAnthropois.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode6

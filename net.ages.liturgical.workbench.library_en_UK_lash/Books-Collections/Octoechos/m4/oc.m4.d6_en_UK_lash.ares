@@ -90,7 +90,7 @@ ocMA.C2Poet = poets_en_UK_lash.Theofanous
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode4
@@ -135,7 +135,7 @@ ocMA.OdeW1C23.text = "Come, let us all sing the praise of Mary the immaculate, a
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode4
@@ -185,7 +185,7 @@ ocMA.OdeW3C24.text = ""
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m4_en_UK_lash.TinAnexichniaston.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode4
@@ -235,7 +235,7 @@ ocMA.OdeW4C24.text = "O Bride of God, the streams of your gifts and springs of h
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode4
@@ -280,7 +280,7 @@ ocMA.OdeW5C23.text = "The only-begotten Son, the Most High, of the same nature a
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode4
@@ -325,7 +325,7 @@ ocMA.OdeW6C23.text = "You conceived in your womb, O Mother of God, God the Word 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode4
@@ -375,7 +375,7 @@ ocMA.OdeW7C24.text = "By your mother’s boldness, O Virgin, break the chains of
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode4
@@ -425,7 +425,7 @@ ocMA.OdeW8C24.text = "O Mother of God, the all-holy Ark, overshadowed by the div
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m4_en_UK_lash.ApasGigenis.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode4

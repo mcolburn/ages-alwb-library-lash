@@ -329,7 +329,7 @@ ocMA.C3Poet = poets_en_UK_lash.IoannouTouDamaskinou
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.text = he.h.m1_en_UK_lash.SouITropaiouchos.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode1
@@ -379,7 +379,7 @@ ocMA.OdeS1C33.text = "Infinite the abyss of your incomprehensible child-bearing,
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS3C1H.text = he.h.m1_en_UK_lash.OMonosEidos.text
 
 ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode1
@@ -429,7 +429,7 @@ ocMA.OdeS3C33.text = "All-blameless Virgin, Gabriel, enabled as far as is lawful
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.text = he.h.m1_en_UK_lash.OrosSeTiChariti.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode1
@@ -479,7 +479,7 @@ ocMA.OdeS4C33.text = "All-praised Mother of God, Holy of Holies, expectation of 
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.text = he.h.m1_en_UK_lash.OFotisasTiEllampsei.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode1
@@ -529,7 +529,7 @@ ocMA.OdeS5C33.text = "Every song and every praise of the wise offered to the Vir
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS6C1H.text = he.h.m1_en_UK_lash.EkyklosenImas.text
 
 ocMA.OdeS6C11.mode = misc_en_UK_lash.Mode1
@@ -586,7 +586,7 @@ ocMA.Oikos.text = "Let us praise as God of all power the One who rose on the thi
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.text = he.h.m1_en_UK_lash.SeNoitin.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode1
@@ -636,7 +636,7 @@ ocMA.OdeS7C33.text = "The God before the ages truly bears the name new Adam, fro
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS8C1H.text = he.h.m1_en_UK_lash.EnKaminoPaides.text
 
 ocMA.OdeS8C11.mode = misc_en_UK_lash.Mode1
@@ -686,7 +686,7 @@ ocMA.OdeS8C33.text = "Cause of our salvation, who bore the Lord, Virgin all-prai
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.text = he.h.m1_en_UK_lash.TyponTisAgnis.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode1

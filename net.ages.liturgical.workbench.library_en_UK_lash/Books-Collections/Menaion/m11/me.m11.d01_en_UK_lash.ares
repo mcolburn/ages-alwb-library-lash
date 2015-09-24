@@ -159,7 +159,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode4
-meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode3H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3H.text = he.h.m4_en_UK_lash.OukEnSofia.text
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
@@ -300,7 +300,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode4
-meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode6H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
@@ -398,7 +398,7 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode4
-meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -453,7 +453,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode4
-meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode9H.text = he.h.m4_en_UK_lash.EvaMenToTisParakois.text
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3

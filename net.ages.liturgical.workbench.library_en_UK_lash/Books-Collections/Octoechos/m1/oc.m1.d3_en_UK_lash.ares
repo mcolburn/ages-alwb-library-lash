@@ -90,7 +90,7 @@ ocMA.C2Acrostic.text = "of which the Acrostic is: Listen to the voice of those w
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW1C1H.text = he.h.m1_en_UK_lash.OdinEpinikion.text
 
 ocMA.OdeW1C11.mode = misc_en_UK_lash.Mode1
@@ -140,7 +140,7 @@ ocMA.OdeW1C2T.text = "All-holy Lady, who alone gave birth in time to the immacul
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.text = he.h.m1_en_UK_lash.LithonOnApedokimasan.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode1
@@ -190,7 +190,7 @@ ocMA.OdeW3C2T.text = "The Word, coming forth from you, Mother of God, bearing fl
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW4C1H.text = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.text
 
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode1
@@ -240,7 +240,7 @@ ocMA.OdeW4C2T.text = "You were revealed as sanctified Temple of the God who dwel
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.text = he.h.m1_en_UK_lash.TinSinEirinin.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode1
@@ -290,7 +290,7 @@ ocMA.OdeW5C2T.text = "David proclaims you Virgin Queen, Immaculate Pure Lady. An
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.text = he.h.m1_en_UK_lash.TonProfitinIonan.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode1
@@ -340,7 +340,7 @@ ocMA.OdeW6C2T.text = "I earnestly entreat you, the Mother of God and fair among 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.text = he.h.m1_en_UK_lash.TousEnKaminoPaidas.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode1
@@ -395,7 +395,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW8C1H.text = he.h.m1_en_UK_lash.OnFrittousinAngeloi.text
 
 ocMA.OdeW8C11.mode = misc_en_UK_lash.Mode1
@@ -450,7 +450,7 @@ ocMA.OdeW8C2T.text = "Deliver me from foul sin, sin’s flame, punishing darknes
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.Heirmos
+ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW9C1H.text = he.h.m1_en_UK_lash.TinFotoforonNefelin.text
 
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode1
