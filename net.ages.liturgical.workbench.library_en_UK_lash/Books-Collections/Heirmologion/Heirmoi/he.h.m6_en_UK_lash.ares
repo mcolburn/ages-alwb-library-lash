@@ -1,9 +1,10 @@
 A_Resource_Whose_Name = he.h.m6_en_UK_lash
 
-AfrastonThavma.name = ""
+AfrastonThavma.name = "Wonder past speech"
 AfrastonThavma.mode = misc_en_UK_lash.Mode6
 AfrastonThavma.ode = misc_en_UK_lash.Ode7
-AfrastonThavma.text = ""
+AfrastonThavma.text = "Wonder past speech! He who delivered the Holy Youths in the furnace from the flame, is laid as a corpse without breath in a tomb for the salvation of us who sing: Redeemer, our God, blessed are you!"
+
 AkikoaKyrieTinAkoin.name = ""
 AkikoaKyrieTinAkoin.mode = misc_en_UK_lash.Mode6
 AkikoaKyrieTinAkoin.ode = misc_en_UK_lash.Ode4
@@ -44,10 +45,12 @@ EkalypsenOuranous.name = ""
 EkalypsenOuranous.mode = misc_en_UK_lash.Mode6
 EkalypsenOuranous.ode = misc_en_UK_lash.Ode4
 EkalypsenOuranous.text = ""
-EkstithiFrittonOurane.name = ""
+
+EkstithiFrittonOurane.name = "Be astonished, O heaven."
 EkstithiFrittonOurane.mode = misc_en_UK_lash.Mode6
 EkstithiFrittonOurane.ode = misc_en_UK_lash.Ode8
-EkstithiFrittonOurane.text = ""
+EkstithiFrittonOurane.text = "Be astonished, O heaven, tremble and let the earth’s foundations be shaken; for see, the God who dwells in the highest is numbered among the dead and is lodged in a little tomb. Youths bless, priests praise, people highly exalt him to all the ages!"
+
 EnTiSterraTisPisteos.name = ""
 EnTiSterraTisPisteos.mode = misc_en_UK_lash.Mode6
 EnTiSterraTisPisteos.ode = misc_en_UK_lash.Ode3
@@ -72,18 +75,22 @@ ImartomenInomisamen.name = ""
 ImartomenInomisamen.mode = misc_en_UK_lash.Mode6
 ImartomenInomisamen.ode = misc_en_UK_lash.Ode7
 ImartomenInomisamen.text = ""
-KymatiThalassis.name = ""
+
+KymatiThalassis.name = "The One, who of old hid."
 KymatiThalassis.mode = misc_en_UK_lash.Mode6
 KymatiThalassis.ode = misc_en_UK_lash.Ode1
-KymatiThalassis.text = ""
+KymatiThalassis.text = "The One, who of old hid the pursuing tyrant with the waves of the sea, the Children of those he saved have hidden beneath the earth; but let us, like the young maidens, sing to the Lord, for he has been greatly glorified."
+
 KyriosOnPanton.name = ""
 KyriosOnPanton.mode = misc_en_UK_lash.Mode6
 KyriosOnPanton.ode = misc_en_UK_lash.Ode3
 KyriosOnPanton.text = ""
-MiEpodyrouMouMiter.name = ""
+
+MiEpodyrouMouMiter.name = "Do not weep for me."
 MiEpodyrouMouMiter.mode = misc_en_UK_lash.Mode6
 MiEpodyrouMouMiter.ode = misc_en_UK_lash.Ode9
-MiEpodyrouMouMiter.text = ""
+MiEpodyrouMouMiter.text = "Do not weep for me, Mother, as you behold in a tomb the Son whom you conceived in your womb without seed. For I will arise and be glorified and as God exalt in glory those who magnify you in faith and love."
+
 NomonPatroon.name = ""
 NomonPatroon.mode = misc_en_UK_lash.Mode6
 NomonPatroon.ode = misc_en_UK_lash.Ode8
@@ -132,10 +139,12 @@ ProsecheOurane.name = ""
 ProsecheOurane.mode = misc_en_UK_lash.Mode6
 ProsecheOurane.ode = misc_en_UK_lash.Ode2
 ProsecheOurane.text = ""
-SeTonEpiYdaton.name = ""
+
+SeTonEpiYdaton.name = "When creation saw you."
 SeTonEpiYdaton.mode = misc_en_UK_lash.Mode6
 SeTonEpiYdaton.ode = misc_en_UK_lash.Ode3
-SeTonEpiYdaton.text = ""
+SeTonEpiYdaton.text = "When creation saw you hanging on Golgotha, who had hung the whole earth freely on the waters, it was seized with amazement and cried: None is Holy, but you, O Lord."
+
 StereosonKyrie.name = ""
 StereosonKyrie.mode = misc_en_UK_lash.Mode6
 StereosonKyrie.ode = misc_en_UK_lash.Ode3
@@ -148,22 +157,26 @@ SyneschethiAllOuKateschethi.name = "You were confined but not held fast."
 SyneschethiAllOuKateschethi.mode = misc_en_UK_lash.Mode6
 SyneschethiAllOuKateschethi.ode = misc_en_UK_lash.Ode6
 SyneschethiAllOuKateschethi.text = ""
-TheofaneiasSouChriste.name = ""
+
+TheofaneiasSouChriste.name = "Isaias, as he watched by night."
 TheofaneiasSouChriste.mode = misc_en_UK_lash.Mode6
 TheofaneiasSouChriste.ode = misc_en_UK_lash.Ode5
-TheofaneiasSouChriste.text = ""
+TheofaneiasSouChriste.text = "Isaias, as he watched by night, saw the light that knows no evening, the light, O Christ, of your Theophany that came to pass through your compassion for us, and he cried aloud: The dead will arise, and those in the graves will be raised, and all those born of earth will rejoice."
+
 TheonAnthropois.name = "It is impossible for humans to see God."
 TheonAnthropois.mode = misc_en_UK_lash.Mode6
 TheonAnthropois.ode = misc_en_UK_lash.Ode9
 TheonAnthropois.text = "It is impossible for humans to see God, on whom the ranks of Angels dare not gaze. But through you, O All-pure, the incarnate Word has been seen by mortals. As we magnify him, with the heavenly armies we call you blessed."
+
 TheonPateraDimiourgon.name = ""
 TheonPateraDimiourgon.mode = misc_en_UK_lash.Mode6
 TheonPateraDimiourgon.ode = misc_en_UK_lash.Ode8
 TheonPateraDimiourgon.text = ""
-TinEnStavroSou.name = ""
+
+TinEnStavroSou.name = "Foreseeing your divine self-emptying."
 TinEnStavroSou.mode = misc_en_UK_lash.Mode6
 TinEnStavroSou.ode = misc_en_UK_lash.Ode4
-TinEnStavroSou.text = ""
+TinEnStavroSou.text = "Foreseeing your divine self-emptying on the Cross, Avvakum cried out marvelling: You have cut short the strength of the mighty, loving Lord, and preached to those in Hell, as all-powerful."
 
 TinTimioteran.name = ""
 TinTimioteran.mode = misc_en_UK_lash.Mode6
@@ -190,10 +203,12 @@ TonPaidonTinOdin.name = ""
 TonPaidonTinOdin.mode = misc_en_UK_lash.Mode6
 TonPaidonTinOdin.ode = misc_en_UK_lash.Ode8
 TonPaidonTinOdin.text = ""
-TouViouTinThalassan.name = "Watching life’s sea rising."
+
+TouViouTinThalassan.name = "Watching life's sea rising."
 TouViouTinThalassan.mode = misc_en_UK_lash.Mode6
 TouViouTinThalassan.ode = misc_en_UK_lash.Ode6
-TouViouTinThalassan.text = "Watching life’s sea rising with a tempest of temptations, fleeing to your calm haven, I cry out to you, ‘Bring my life up from corruption, O Most merciful’."
+TouViouTinThalassan.text = "Watching life's sea rising with a tempest of temptations, fleeing to your calm haven, I cry out to you, ‘Bring my life up from corruption, O Most merciful." //Watching the sea of life rising with the tempest of temptations, as I hasten to your fair haven, I cry to you: Bring my life up from corruption, O most merciful.
+
 VoithosKaiSkepastis.name = ""
 VoithosKaiSkepastis.mode = misc_en_UK_lash.Mode6
 VoithosKaiSkepastis.ode = misc_en_UK_lash.Ode1

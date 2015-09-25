@@ -200,7 +200,7 @@ peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.TouViouTin
 peMA.Ode6C1T.text = ""
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
-peMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+peMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
 peMA.Kontakion1.text = me.m07.dHF_en_UK_lash.meMA.Kontakion1.text
 
 peMA.Oikos1.text = me.m07.dHF_en_UK_lash.meMA.Oikos1.text
@@ -283,7 +283,7 @@ peMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.G
 peMA.Exaposteilarion2.text = me.m07.dHF_en_UK_lash.meMA.Exaposteilarion1.text
 
 peMA.Exaposteilarion3.mode = misc_en_UK_lash.Mode2
-peMA.Exaposteilarion3.melody = misc_en_UK_lash.Automelon
+peMA.Exaposteilarion3.melody = misc_en_UK_lash.AutomelonNotMetered
 peMA.Exaposteilarion3.text = pe.d110_en_UK_lash.peMA.Exaposteilarion1.text
 
 peMA.Lauds6.mode = misc_en_UK_lash.Mode6
@@ -305,7 +305,7 @@ peMA.LaudsGlory.text = me.m10.dHF_en_UK_lash.meMA.LaudsGlory.text
 peLI.Antiphon2.text = pe.d110_en_UK_lash.peLI.Antiphon2.text
 
 peLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode6
-peLI.SeasonalKontakion.melody = misc_en_UK_lash.Automelon
+peLI.SeasonalKontakion.melody = misc_en_UK_lash.AutomelonNotMetered
 peLI.SeasonalKontakion.text = pe.d110_en_UK_lash.peMA.Kontakion1.text
 
 peLI.AfterCommunion.mode = misc_en_UK_lash.Mode4

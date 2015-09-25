@@ -412,7 +412,7 @@ peMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TinTheianT
 peMA.Ode6C2T.text = ""
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode6
-peMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+peMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
 peMA.Kontakion1.text = he.a.m6_en_UK_lash.TinYperImon.text
 
 peMA.Oikos1.text = ""
@@ -586,7 +586,7 @@ peMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ApasGigeni
 peMA.Ode9C2T.text = ""
 
 peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
-peMA.Exaposteilarion1.melody = misc_en_UK_lash.Automelon
+peMA.Exaposteilarion1.melody = misc_en_UK_lash.AutomelonNotMetered
 peMA.Exaposteilarion1.text = he.a.m2_en_UK_lash.TonMathitonOrontonSe.text
 
 peMA.Lauds1.mode = misc_en_UK_lash.Mode1
