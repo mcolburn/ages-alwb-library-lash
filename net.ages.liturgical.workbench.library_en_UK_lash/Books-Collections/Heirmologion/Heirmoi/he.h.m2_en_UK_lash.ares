@@ -233,10 +233,11 @@ ProsecheteLaosMou.name = ""
 ProsecheteLaosMou.mode = misc_en_UK_lash.Mode2
 ProsecheteLaosMou.ode = misc_en_UK_lash.Ode2
 ProsecheteLaosMou.text = ""
-PsychaisKatharais.name = ""
+
+PsychaisKatharais.name = "With pure souls."
 PsychaisKatharais.mode = misc_en_UK_lash.Mode2
 PsychaisKatharais.ode = misc_en_UK_lash.Ode9
-PsychaisKatharais.text = ""
+PsychaisKatharais.text = "With pure souls, and unpolluted lips, come, let us magnify the undefiled and most holy Mother of Emmanuel, through her offering our prayer to the One born of her: Spare our souls, Christ God, and save us."
 
 PyrsoKathartheis.name = ""
 PyrsoKathartheis.mode = misc_en_UK_lash.Mode2
@@ -248,10 +249,11 @@ PyrsoKathartheis3.text = ""
 PyrsoKathartheis4.text = ""
 PyrsoKathartheis5.text = ""
 
-RimaTyrannou.name = ""
+RimaTyrannou.name = "When a tyrant's word prevailed."
 RimaTyrannou.mode = misc_en_UK_lash.Mode2
 RimaTyrannou.ode = misc_en_UK_lash.Ode8
-RimaTyrannou.text = ""
+RimaTyrannou.text = "When a tyrant's word prevailed, the furnace once was heated sevenfold; in which the Youths, trampling on the King's decree, were not consumed, but cried: All you works of the Lord, praise the Lord, and highly exalt him to all the ages."
+
 RitoresAnedeichthisanPaides.name = "Youths were revealed."
 RitoresAnedeichthisanPaides.mode = misc_en_UK_lash.Mode2
 RitoresAnedeichthisanPaides.ode = misc_en_UK_lash.Ode7
@@ -315,10 +317,12 @@ TisNyktosDielthousis.name = ""
 TisNyktosDielthousis.mode = misc_en_UK_lash.Mode2
 TisNyktosDielthousis.ode = misc_en_UK_lash.Ode5
 TisNyktosDielthousis.text = ""
-TisPisteosEnPetra.name = ""
+
+TisPisteosEnPetra.name = "You have established me on a rock."
 TisPisteosEnPetra.mode = misc_en_UK_lash.Mode2
 TisPisteosEnPetra.ode = misc_en_UK_lash.Ode3
-TisPisteosEnPetra.text = ""
+TisPisteosEnPetra.text = "You have established me on a rock of faith; you have broadened my mouth against my foes; may spirit has been made glad by singing: None is holy as our God, and none is just but you, O Lord."
+
 ToDogmatiToTyranniko.name = ""
 ToDogmatiToTyranniko.mode = misc_en_UK_lash.Mode2
 ToDogmatiToTyranniko.ode = misc_en_UK_lash.Ode8
