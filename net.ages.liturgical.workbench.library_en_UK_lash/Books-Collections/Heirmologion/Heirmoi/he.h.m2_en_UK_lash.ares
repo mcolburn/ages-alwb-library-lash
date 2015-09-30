@@ -28,10 +28,12 @@ AtriptonAsynithi.name = "Israel the chosen."
 AtriptonAsynithi.mode = misc_en_UK_lash.Mode2
 AtriptonAsynithi.ode = misc_en_UK_lash.Ode1
 AtriptonAsynithi.text = ""
-AvyssosAmartimaton.name = ""
+
+AvyssosAmartimaton.name = "A final abyss of sins."
 AvyssosAmartimaton.mode = misc_en_UK_lash.Mode2
 AvyssosAmartimaton.ode = misc_en_UK_lash.Ode2
-AvyssosAmartimaton.text = ""
+AvyssosAmartimaton.text = "A final abyss of sins has surrounded me, but as you did the Prophet Jonas, Lord, Lord, bring me up from corruption."
+
 DefteLaoi.name = "Come, you peoples."
 DefteLaoi.mode = misc_en_UK_lash.Mode2
 DefteLaoi.ode = misc_en_UK_lash.Ode1
@@ -61,14 +63,16 @@ EfrixePaidonEvagon.name = ""
 EfrixePaidonEvagon.mode = misc_en_UK_lash.Mode2
 EfrixePaidonEvagon.ode = misc_en_UK_lash.Ode8
 EfrixePaidonEvagon.text = ""
+
 EikonosChrysis.name = "When the golden image."
 EikonosChrysis.mode = misc_en_UK_lash.Mode2
 EikonosChrysis.ode = misc_en_UK_lash.Ode7
-EikonosChrysis.text = "“When the golden image was being worshipped on the plain of Deira, your three Youths trampled down the godless decree; cast into the midst of fire, refreshed with dew they sang: Blessed are you, the God of our fathers.”"
+EikonosChrysis.text = "When the golden image was being worshipped on the plain of Deira, your three Youths trampled down the godless decree; cast into the midst of fire, refreshed with dew they sang: Blessed are you, the God of our fathers." //When the golden image was being worshipped in the plain of Deira, your three Youths despised the godless decree; but cast into the midst of the fire, they were refreshed by dew and sang: Blessed are you, the God of our Fathers.
+
 EisakikoaKyrieTinAkoin.name = "Lord, I heard your report."
 EisakikoaKyrieTinAkoin.mode = misc_en_UK_lash.Mode2
 EisakikoaKyrieTinAkoin.ode = misc_en_UK_lash.Ode4
-EisakikoaKyrieTinAkoin.text = "Lord, I heard your report, and was afraid. I considered your works, said the Prophet, and I glorified you, Lover of mankind."
+EisakikoaKyrieTinAkoin.text = "I heard the report of your dispensation, Lord, and I glorified you, only lover of humankind."
 
 EleftheraMenIKtisis.name = ""
 EleftheraMenIKtisis.mode = misc_en_UK_lash.Mode2
@@ -120,10 +124,12 @@ ITonAchoritonTheon.name = ""
 ITonAchoritonTheon.mode = misc_en_UK_lash.Mode2
 ITonAchoritonTheon.ode = misc_en_UK_lash.Ode9
 ITonAchoritonTheon.text = ""
-ITonProIliouFostira.name = ""
+
+ITonProIliouFostira.name = "From your virgin womb."
 ITonProIliouFostira.mode = misc_en_UK_lash.Mode2
 ITonProIliouFostira.ode = misc_en_UK_lash.Ode9
-ITonProIliouFostira.text = ""
+ITonProIliouFostira.text = "From your virgin womb you ineffably gave a body to God who dawned as the beacon before the sun, and who dwelt among us in the body, O blessed, all-pure Mother of God, we magnify you."
+
 IchouRimatonDeiseos.name = "Having listened to the sound of the words of my supplication."
 IchouRimatonDeiseos.mode = misc_en_UK_lash.Mode2
 IchouRimatonDeiseos.ode = misc_en_UK_lash.Ode6
@@ -202,10 +208,10 @@ OTonYperNoun3.text = ""
 OTonYperNoun4.text = ""
 OTonYperNoun5.text = ""
 
-OTouFotosChorigos.name = "O Lord, the giver of light."
+OTouFotosChorigos.name = "O Lord, the giver of light." //Giver of the light.
 OTouFotosChorigos.mode = misc_en_UK_lash.Mode2
 OTouFotosChorigos.ode = misc_en_UK_lash.Ode5
-OTouFotosChorigos.text = "“O Lord, the giver of light and maker of the ages, guide us by the light of commands, for we know no other but you.”"
+OTouFotosChorigos.text = "O Lord, the giver of light and maker of the ages, guide us by the light of commands, for we know no other but you." //Giver of the light and maker of the ages, Lord, guide us by the light of your commands; for we know no other God but you.
 OlosYparcheisEfesis.name = "You are all desire."
 OlosYparcheisEfesis.mode = misc_en_UK_lash.Mode2
 OlosYparcheisEfesis.ode = misc_en_UK_lash.Ode9
@@ -269,7 +275,7 @@ SteirothentaMouTonNoun.text = "O God, husbandman of fair fruits and planter of g
 StereosonImasEnSoiKyrie.name = "Establish us in you, O Lord."
 StereosonImasEnSoiKyrie.mode = misc_en_UK_lash.Mode2
 StereosonImasEnSoiKyrie.ode = misc_en_UK_lash.Ode3
-StereosonImasEnSoiKyrie.text = "“Establish us in you, O Lord, who put sin to death by a Tree, and plant you fear in the hearts of us who sing your praise.”"
+StereosonImasEnSoiKyrie.text = "Establish us in you, O Lord, who put sin to death by a Tree, and plant you fear in the hearts of us who sing your praise." //Establish us in you, O Lord, who slew sin by a tree, and plant your fear in the hearts of us who sing your praise.
 
 SteiveiThalassis.name = ""
 SteiveiThalassis.mode = misc_en_UK_lash.Mode2
@@ -331,10 +337,12 @@ ToTinAvaton.name = ""
 ToTinAvaton.mode = misc_en_UK_lash.Mode2
 ToTinAvaton.ode = misc_en_UK_lash.Ode1
 ToTinAvaton.text = ""
-TonArritoSofia.name = ""
+
+TonArritoSofia.name = "God the Word."
 TonArritoSofia.mode = misc_en_UK_lash.Mode2
 TonArritoSofia.ode = misc_en_UK_lash.Ode8
-TonArritoSofia.text = ""
+TonArritoSofia.text = "God the Word, who sustains all things by his ineffable wisdom and brought them out of nothing into being, bless him as Lord, all you works of the Lord."
+
 TonEkTheouTheonLogon.name = "The Word from God."
 TonEkTheouTheonLogon.mode = misc_en_UK_lash.Mode2
 TonEkTheouTheonLogon.ode = misc_en_UK_lash.Ode9

@@ -596,11 +596,9 @@ octrMA.Kathisma11.mode = misc_en_UK_lash.Mode1
 octrMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
 octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
-
 octrMA.Kathisma12.mode = misc_en_UK_lash.Mode1
 octrMA.Kathisma12.melody = ""
 octrMA.Kathisma12.text = oc.m1.d4_en_UK_lash.ocMA.Kathisma32.text
-
 
 octrMA.Kathisma13.mode = misc_en_UK_lash.Mode1
 octrMA.Kathisma13.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
@@ -647,11 +645,9 @@ octrMA.Aposticha1.mode = misc_en_UK_lash.Mode1
 octrMA.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
 octrMA.Aposticha1.text = ocMA.Aposticha1.text
 
-
 octrMA.Aposticha2.mode = misc_en_UK_lash.Mode1
 octrMA.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
 octrMA.Aposticha2.text = ocMA.Aposticha2.text
-
 
 octrMA.Aposticha3.mode = misc_en_UK_lash.Mode1
 octrMA.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
