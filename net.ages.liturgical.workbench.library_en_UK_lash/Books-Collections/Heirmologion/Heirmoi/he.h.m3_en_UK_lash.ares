@@ -15,39 +15,48 @@ AsomenToKyrio.text = ""
 AstektoPyri.name = "In the unbearable fire."
 AstektoPyri.mode = misc_en_UK_lash.Mode3
 AstektoPyri.ode = misc_en_UK_lash.Ode8
-AstektoPyri.text = "In the unbearable fire, but unharmed by the flames, the Young Men, famed for their reverence for God, became as one as they sang the divine hymn, ‘All you works of the Lord bless the Lord, and highly exalt him to all the ages.’"
+AstektoPyri.text = "In the unbearable fire, but unharmed by the flames, the Young Men, famed for their reverence for God, became as one as they sang the divine hymn, 'All you works of the Lord bless the Lord, and highly exalt him to all the ages.'" //'United in the unquenchable fire, the Young Men, champions of piety, yet unharmed by the flame, raised their hymn to God, 'Bless the Lord, all you works of the Lord, and praise and exalt him to all the ages.''
+
 AvyssosEschati.name = "An abyss of mercy."
 AvyssosEschati.mode = misc_en_UK_lash.Mode3
 AvyssosEschati.ode = misc_en_UK_lash.Ode6
 AvyssosEschati.text = "The final abyss of sins has surrounded me and my spirit fails; but, Master, stretch out your upraised arm and like Peter save me, O my Pilot."
-ChersonAvyssotokon.name = ""
+
+ChersonAvyssotokon.name = "The sun once shone."
 ChersonAvyssotokon.mode = misc_en_UK_lash.Mode3
 ChersonAvyssotokon.ode = misc_en_UK_lash.Ode1
-ChersonAvyssotokon.text = ""
+ChersonAvyssotokon.text = "The sun once shone on dry land, mother of the deep. For the water was fixed fast like a wall on either side for the people as they marched on foot and sang a song pleasing to God, 'Let us sing to the Lord, for he has been greatly glorified.'"
+
 EisakikoaTinAkoin.name = ""
 EisakikoaTinAkoin.mode = misc_en_UK_lash.Mode3
 EisakikoaTinAkoin.ode = misc_en_UK_lash.Ode4
 EisakikoaTinAkoin.text = ""
-EkalypsenOuranous.name = ""
+
+EkalypsenOuranous.name = "Your virtue, O Christ."
 EkalypsenOuranous.mode = misc_en_UK_lash.Mode3
 EkalypsenOuranous.ode = misc_en_UK_lash.Ode4
-EkalypsenOuranous.text = ""
+EkalypsenOuranous.text = "Your virtue, O Christ, covered the heavens, for coming forth from the Ark of your Sanctification, your undefiled Mother, you appeared in the temple of your glory as an infant carried in her arms, and the universe was filled with your praise."
+
 EnNomoSkia.name = "In the shadow and letter of the Law."
 EnNomoSkia.mode = misc_en_UK_lash.Mode3
 EnNomoSkia.ode = misc_en_UK_lash.Ode9
-EnNomoSkia.text = "In the shadow and letter of the Law, let us the faithful discern a figure. ‘Every male child that opens the womb shall be holy to God.’ Therefore the Son and Word of the Father who has no beginning, the firstborn child of a Mother who had not known man, we magnify."
+EnNomoSkia.text = "In the shadow and letter of the Law, let us the faithful discern a figure. 'Every male child that opens the womb shall be holy to God.' Therefore the Son and Word of the Father who has no beginning, the firstborn child of a Mother who had not known man, we magnify."
+
 EnSinaioToOrei.name = "On mount Sinai Moses saw you."
 EnSinaioToOrei.mode = misc_en_UK_lash.Mode3
 EnSinaioToOrei.ode = misc_en_UK_lash.Ode9
-EnSinaioToOrei.text = "On mount Sinai Moses saw you in the bush, who conceived unburned the fire of the Godhead in your womb; while Daniel saw you, an unhewn mountain, Isaias cried out that you budded forth the rod from David’s root."
+EnSinaioToOrei.text = "On mount Sinai Moses saw you in the bush, who conceived unburned the fire of the Godhead in your womb; while Daniel saw you, an unhewn mountain, Isaias cried out that you budded forth the rod from David's root."
+
 EnylouFlogaPyros.name = "A flame of material fire."
 EnylouFlogaPyros.mode = misc_en_UK_lash.Mode3
 EnylouFlogaPyros.ode = misc_en_UK_lash.Ode8
 EnylouFlogaPyros.text = ""
+
 EpiTisGis.name = "The invisible was seen on earth."
 EpiTisGis.mode = misc_en_UK_lash.Mode3
 EpiTisGis.ode = misc_en_UK_lash.Ode5
 EpiTisGis.text = "You, the Invisible, appeared on earth and willingly you the Incomprehensible dwelt among mortals; and so rising to you at dawn we hymn you, Lover of humankind."
+
 EstereothiIKardiaMou.name = ""
 EstereothiIKardiaMou.mode = misc_en_UK_lash.Mode3
 EstereothiIKardiaMou.ode = misc_en_UK_lash.Ode3
@@ -55,7 +64,7 @@ EstereothiIKardiaMou.text = ""
 EthouProsImas.name = "You displayed mighty love for us."
 EthouProsImas.mode = misc_en_UK_lash.Mode3
 EthouProsImas.ode = misc_en_UK_lash.Ode4
-EthouProsImas.text = "You displayed mighty love for us, O Lord; for you gave your Only-begotten Son to death for our sake. Therefore with thanksgiving we cry to you, ‘Glory to your power, O Lord!’"
+EthouProsImas.text = "You displayed mighty love for us, O Lord; for you gave your Only-begotten Son to death for our sake. Therefore with thanksgiving we cry to you, 'Glory to your power, O Lord!'"
 EvlogitosKyrios.name = "Blessed is the Lord."
 EvlogitosKyrios.mode = misc_en_UK_lash.Mode3
 EvlogitosKyrios.ode = misc_en_UK_lash.Ode9
@@ -64,14 +73,16 @@ EvoisaEnStenagmois.name = ""
 EvoisaEnStenagmois.mode = misc_en_UK_lash.Mode3
 EvoisaEnStenagmois.ode = misc_en_UK_lash.Ode6
 EvoisaEnStenagmois.text = ""
-EvoiseSoi.name = ""
+
+EvoiseSoi.name = "The Elder having seen."
 EvoiseSoi.mode = misc_en_UK_lash.Mode3
 EvoiseSoi.ode = misc_en_UK_lash.Ode6
-EvoiseSoi.text = ""
-FaraoTaArmata.name = "Drowning Pharao’s chariots."
+EvoiseSoi.text = "The Elder having seen with his eyes, the salvation that had come to the people, cried aloud to you, 'O Christ, who come from God, You are my God!'"
+
+FaraoTaArmata.name = "Drowning Pharao's chariots."
 FaraoTaArmata.mode = misc_en_UK_lash.Mode3
 FaraoTaArmata.ode = misc_en_UK_lash.Ode1
-FaraoTaArmata.text = "Drowning Pharao’s chariots in the deep, you parted the sea, Lord, and saved the Israelite people as they praised you with songs."
+FaraoTaArmata.text = "Drowning Pharao's chariots in the deep, you parted the sea, Lord, and saved the Israelite people as they praised you with songs."
 FotiToAnespero.name = ""
 FotiToAnespero.mode = misc_en_UK_lash.Mode3
 FotiToAnespero.ode = misc_en_UK_lash.Ode5
@@ -112,10 +123,12 @@ OrthrizontesAnymnoumen.name = "Rising before dawn we sing your praise."
 OrthrizontesAnymnoumen.mode = misc_en_UK_lash.Mode3
 OrthrizontesAnymnoumen.ode = misc_en_UK_lash.Ode5
 OrthrizontesAnymnoumen.text = "Rising before dawn we sing your praise, O Word, only-begotten Son of God; give us your peace and have mercy on us, who praise and worship you."
-OsEidenIsaias.name = ""
+
+OsEidenIsaias.name = "When Isaias in a figure."
 OsEidenIsaias.mode = misc_en_UK_lash.Mode3
 OsEidenIsaias.ode = misc_en_UK_lash.Ode5
-OsEidenIsaias.text = ""
+OsEidenIsaias.text = "When Isaias in a figure saw God on an exalted throne, escorted by Angels of glory, 'Woe is me!' he cried, 'for I have seen beforehand God in a body, Lord of the light that knows no evening and Lord of peace.'"
+
 OsOmvrosEpAgrostin.name = ""
 OsOmvrosEpAgrostin.mode = misc_en_UK_lash.Mode3
 OsOmvrosEpAgrostin.ode = misc_en_UK_lash.Ode2
@@ -123,7 +136,7 @@ OsOmvrosEpAgrostin.text = ""
 OsPalaiTousEfseveis.name = "As of old you refreshed with dew."
 OsPalaiTousEfseveis.mode = misc_en_UK_lash.Mode3
 OsPalaiTousEfseveis.ode = misc_en_UK_lash.Ode7
-OsPalaiTousEfseveis.text = "As of old you refreshed with dew the three godly Youths in the Chaldean flame, so shine with the enlightening fire of your Godhead upon us who cry, ‘Blessed are you, the God of our fathers!’"
+OsPalaiTousEfseveis.text = "As of old you refreshed with dew the three godly Youths in the Chaldean flame, so shine with the enlightening fire of your Godhead upon us who cry, 'Blessed are you, the God of our fathers!'"
 ProsSeOrthrizo.name = "I rise to you at dawn."
 ProsSeOrthrizo.mode = misc_en_UK_lash.Mode3
 ProsSeOrthrizo.ode = misc_en_UK_lash.Ode5
@@ -140,10 +153,12 @@ SeTinAthanaton.name = ""
 SeTinAthanaton.mode = misc_en_UK_lash.Mode3
 SeTinAthanaton.ode = misc_en_UK_lash.Ode9
 SeTinAthanaton.text = ""
-SeTonEnPyri.name = ""
+
+SeTonEnPyri.name = "God the Word, who in the fire."
 SeTonEnPyri.mode = misc_en_UK_lash.Mode3
 SeTonEnPyri.ode = misc_en_UK_lash.Ode7
-SeTonEnPyri.text = ""
+SeTonEnPyri.text = "God the Word, who in the fire dropped dew upon the Youths as they sang of God[64] and who dwelt in an undefiled Virgin, we praise you as we devoutly sing, 'Blessed are you the God of our Fathers'."
+
 SkinoseosIonas.name = "Jonas became a symbol."
 SkinoseosIonas.mode = misc_en_UK_lash.Mode3
 SkinoseosIonas.ode = misc_en_UK_lash.Ode6
@@ -188,10 +203,12 @@ ToPrinEikoni.name = "The three Youths of old did not worship the golden image."
 ToPrinEikoni.mode = misc_en_UK_lash.Mode3
 ToPrinEikoni.ode = misc_en_UK_lash.Ode7
 ToPrinEikoni.text = "The three Youths of old did not worship the golden image, object of Persian reverence as they sang in the midst of the furnace: God of our Fathers, blessed are you!"
-ToStereoma.name = ""
+
+ToStereoma.name = "O Lord, the firm foundation."
 ToStereoma.mode = misc_en_UK_lash.Mode3
 ToStereoma.ode = misc_en_UK_lash.Ode3
-ToStereoma.text = ""
+ToStereoma.text = "O Lord, the firm foundation of those trust in you, confirm the Church, which you purchased with your precious blood."
+
 ToXenonKaiAporriton.name = "The strange and ineffable mystery."
 ToXenonKaiAporriton.mode = misc_en_UK_lash.Mode3
 ToXenonKaiAporriton.ode = misc_en_UK_lash.Ode4
