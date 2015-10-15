@@ -35,15 +35,15 @@ trVE.AposTheotokion.text = oc.m5.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
 trMA.PostGospelGlory.melody = ""
-trMA.PostGospelGlory.text = ""
+trMA.PostGospelGlory.text = "Open the gates of repentance to me, O Giver of Life, for my spirit rises early in the morning to your holy temple, bearing a temple of the body all defiled. But as you are full of pity, cleanse it by your compassionate mercy."
 
 trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
 trMA.PostGospelBoth.melody = ""
-trMA.PostGospelBoth.text = ""
+trMA.PostGospelBoth.text = "Guide me to paths of salvation, Mother of God, for I have befouled my soul with shameful sins and have squandered all my life in sloth. By your intercessions deliver me from all uncleanness."
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 trMA.PostGospelIdiomelon.melody = ""
-trMA.PostGospelIdiomelon.text = ""
+trMA.PostGospelIdiomelon.text = "As I ponder the multitudes of dreadful things that I have done, wretch that I am, I tremble for the fearful day of judgement. But confident in your merciful compassion, like David I cry to you, ‘Have mercy upon me, O God, in accordance with your great mercy’."
 
 trMA.C1Poet = poets_en_UK_lash.Georgiou
 trMA.C1Acrostic.text = ""
