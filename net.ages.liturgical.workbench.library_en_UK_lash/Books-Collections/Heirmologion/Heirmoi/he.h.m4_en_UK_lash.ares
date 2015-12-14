@@ -97,10 +97,12 @@ ChoroiIsrail.name = ""
 ChoroiIsrail.mode = misc_en_UK_lash.Mode4
 ChoroiIsrail.ode = misc_en_UK_lash.Ode1
 ChoroiIsrail.text = ""
-ChristosOErchomenos.name = ""
+
+ChristosOErchomenos.name = "Christ who comes manifestly."
 ChristosOErchomenos.mode = misc_en_UK_lash.Mode4
 ChristosOErchomenos.ode = misc_en_UK_lash.Ode4
-ChristosOErchomenos.text = ""
+ChristosOErchomenos.text = "Christ who comes manifestly as our God will comes and will not delay from a mountain overshadowed by forest, a Maiden who gives birth without knowledge of man, said the Prophet of old. Therefore let us all cry out, ‘Glory to your power, O Lord!’"
+
 DiAgapisinOiktirmon.name = "Through love of your image."
 DiAgapisinOiktirmon.mode = misc_en_UK_lash.Mode4
 DiAgapisinOiktirmon.ode = misc_en_UK_lash.Ode4
@@ -109,10 +111,12 @@ EffrainetaiEpiSoi.name = "Your Church, O Christ, rejoices in you."
 EffrainetaiEpiSoi.mode = misc_en_UK_lash.Mode4
 EffrainetaiEpiSoi.ode = misc_en_UK_lash.Ode3
 EffrainetaiEpiSoi.text = "Your Church, O Christ, rejoices in you and cries: You, Lord, are my strength, my refuge and my firmament."
-EffranthitiIerousalim.name = ""
+
+EffranthitiIerousalim.name = "Rejoice, Jerusalem."
 EffranthitiIerousalim.mode = misc_en_UK_lash.Mode4
 EffranthitiIerousalim.ode = misc_en_UK_lash.Ode8
-EffranthitiIerousalim.text = ""
+EffranthitiIerousalim.text = "Rejoice, Jerusalem, and keep festival all who love Sion. For the Lord of Powers who reigns over the ages has come. Let the whole earth stand in reverence before his face, and let it cry aloud, ‘All you his works, praise the Lord’."
+
 EisakikoaKyrie.name = ""
 EisakikoaKyrie.mode = misc_en_UK_lash.Mode4
 EisakikoaKyrie.ode = misc_en_UK_lash.Ode4
@@ -200,10 +204,12 @@ EvlogitosEiOTheos.name = ""
 EvlogitosEiOTheos.mode = misc_en_UK_lash.Mode4
 EvlogitosEiOTheos.ode = misc_en_UK_lash.Ode7
 EvlogitosEiOTheos.text = ""
-EvoisanEnEffrosyni.name = ""
+
+EvoisanEnEffrosyni.name = "The spirits of the Just."
 EvoisanEnEffrosyni.mode = misc_en_UK_lash.Mode4
 EvoisanEnEffrosyni.ode = misc_en_UK_lash.Ode6
-EvoisanEnEffrosyni.text = ""
+EvoisanEnEffrosyni.text = "The spirits of the Just cried out in joy, ‘Now the new covenant is being granted to the world. And let a people be made new through sprinkling with divine Blood."
+
 EvoiseProtypon.name = "Prefiguring the three-day."
 EvoiseProtypon.mode = misc_en_UK_lash.Mode4
 EvoiseProtypon.ode = misc_en_UK_lash.Ode6
@@ -300,10 +306,12 @@ MoysisEnToOrei.name = ""
 MoysisEnToOrei.mode = misc_en_UK_lash.Mode4
 MoysisEnToOrei.ode = misc_en_UK_lash.Ode9
 MoysisEnToOrei.text = ""
-NaousanAkrotomon.name = ""
+
+NaousanAkrotomon.name = "The Israelite people drew water."
 NaousanAkrotomon.mode = misc_en_UK_lash.Mode4
 NaousanAkrotomon.ode = misc_en_UK_lash.Ode3
-NaousanAkrotomon.text = ""
+NaousanAkrotomon.text = "The Israelite people drew water from solid rock, at your command become a flowing stream. You are the rock and life, O Christ, on which the Church has been established as she cries, ‘Hosanna! Blessed are you who come’."
+
 NeoiTreisEnVavyloni.name = "Three Youths in Babylon."
 NeoiTreisEnVavyloni.mode = misc_en_UK_lash.Mode4
 NeoiTreisEnVavyloni.ode = misc_en_UK_lash.Ode7
@@ -316,10 +324,12 @@ OAnateilasToFos.name = ""
 OAnateilasToFos.mode = misc_en_UK_lash.Mode4
 OAnateilasToFos.ode = misc_en_UK_lash.Ode5
 OAnateilasToFos.text = ""
-ODiasosasEnPyri.name = "You saved in the fire your Youths."
+
+ODiasosasEnPyri.name = "You who saved the Children of Abraham."
 ODiasosasEnPyri.mode = misc_en_UK_lash.Mode4
 ODiasosasEnPyri.ode = misc_en_UK_lash.Ode7
-ODiasosasEnPyri.text = "You saved in the fire your Youths, of Abraham’s line, and destroyed the Chaldaeans with the snare with which they had unjustly trapped the just. O Lord highly exalted, the God of our Fathers, blessed are you."
+ODiasosasEnPyri.text = "You who saved the Children of Abraham in the fire and slew the Chaldeans who had plotted unjustly against the just, O Lord, highly exalted and God of our Fathers, blessed are you."
+
 OEnArchiAnarchos.name = ""
 OEnArchiAnarchos.mode = misc_en_UK_lash.Mode4
 OEnArchiAnarchos.ode = misc_en_UK_lash.Ode7
@@ -360,10 +370,12 @@ OTouFotosDiatmixas.name = ""
 OTouFotosDiatmixas.mode = misc_en_UK_lash.Mode4
 OTouFotosDiatmixas.ode = misc_en_UK_lash.Ode5
 OTouFotosDiatmixas.text = ""
-OfthisanAiPigai.name = ""
+
+OfthisanAiPigai.name = "The springs of the abyss."
 OfthisanAiPigai.mode = misc_en_UK_lash.Mode4
 OfthisanAiPigai.ode = misc_en_UK_lash.Ode1
-OfthisanAiPigai.text = ""
+OfthisanAiPigai.text = "The springs of the abyss appeared bereft of liquid and the foundations of the stormy sea were revealed, for by your command you rebuked its fury but saved your chosen People as they sang a song of victory to you, O Lord."
+
 OiEnVavyloniPaides.name = ""
 OiEnVavyloniPaides.mode = misc_en_UK_lash.Mode4
 OiEnVavyloniPaides.ode = misc_en_UK_lash.Ode8
@@ -466,10 +478,11 @@ TheioKalyftheis3.text = ""
 TheioKalyftheis4.text = ""
 TheioKalyftheis5.text = ""
 
-TheosKyriosKaiEpefanenImin.name = ""
+TheosKyriosKaiEpefanenImin.name = "The Lord is God."
 TheosKyriosKaiEpefanenImin.mode = misc_en_UK_lash.Mode4
 TheosKyriosKaiEpefanenImin.ode = misc_en_UK_lash.Ode9
-TheosKyriosKaiEpefanenImin.text = ""
+TheosKyriosKaiEpefanenImin.text = "The Lord is God and has appeared to us. Together celebrate a feast, and rejoicing, come, let us magnify Christ with palms and branches as we cry out in hymns, ‘Blessed is he who comes in the name of the Lord, our Saviour’."
+
 ThysoSoiMetaFonis.name = "I will sacrifice to you."
 ThysoSoiMetaFonis.mode = misc_en_UK_lash.Mode4
 ThysoSoiMetaFonis.ode = misc_en_UK_lash.Ode6
@@ -484,10 +497,10 @@ TinAnexichniaston.mode = misc_en_UK_lash.Mode4
 TinAnexichniaston.ode = misc_en_UK_lash.Ode4
 TinAnexichniaston.text = "The Prophet Avvakoum, understanding the unsearchable divine counsel of your incarnation from the Virgin, O Most High, cried out: Glory to your power, O Lord."
 
-TinSionEpOrous.name = ""
+TinSionEpOrous.name = "You that bring good tidings to Sion."
 TinSionEpOrous.mode = misc_en_UK_lash.Mode4
 TinSionEpOrous.ode = misc_en_UK_lash.Ode5
-TinSionEpOrous.text = ""
+TinSionEpOrous.text = "You that bring good tidings to Sion, go up onto a mountain, and you that preach to Jerusalem, lift up your voice with strength. Glorious things have been said of you, City of God. Peace upon Israel and salvation to the nations."
 
 TinTheianTaftin.name = "Come godly-minded people."
 TinTheianTaftin.mode = misc_en_UK_lash.Mode4
