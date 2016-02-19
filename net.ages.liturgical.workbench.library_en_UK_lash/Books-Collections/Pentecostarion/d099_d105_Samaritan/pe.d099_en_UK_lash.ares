@@ -86,7 +86,7 @@ peMA.C1Acrostic.text = ""
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode1C1H.text = he.h.m4_en_UK_lash.OPataxasAigypton.text
 
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -102,12 +102,12 @@ peMA.Ode1C12.text = "Having willingly accepted the cross in the flesh, you rose 
 peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C13.mode = misc_en_UK_lash.Mode4
 peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
-peMA.Ode1C13.text = "O Lord, who lay the beams of your chambers on the water, you are the water of life and you granted hallowed streams to the woman of Samaria when she asked, for she recognised your compassion." 
+peMA.Ode1C13.text = "When the Myrrh-bearers saw the Angel flashing like lightning, they left the tomb in fear. But learning of Christ's rising, they when with haste to the Disciples." //added by Seraphim Dedes
 
 peMA.Ode1C1F1.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1F1.mode = misc_en_UK_lash.Mode4
 peMA.Ode1C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
-peMA.Ode1C1F1.text = ""
+peMA.Ode1C1F1.text = "O Lord, who lay the beams of your chambers on the water, you are the water of life and you granted hallowed streams to the woman of Samaria when she asked, for she recognised your compassion."
 
 peMA.Ode1C1Tr.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1Tr.mode = misc_en_UK_lash.Mode4
@@ -121,7 +121,7 @@ peMA.Ode1C1T.text = "Hail throne of fire, hail lampstand all of gold, hail cloud
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode3C1H.text = he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.text
 
 peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -164,42 +164,42 @@ peMA.Ode3Kathisma2.text = "O Giver of wisdom and Master, when the feast accordin
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode4C1H.text = he.h.m4_en_UK_lash.EisakikoaKyrie.text
 
 peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C11.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.name
 peMA.Ode4C11.text = "Let the heavens rejoice, let all creation keep the feast: the Lord has risen and appeared to all his wise Apostles." 
 
 peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C12.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.name
 peMA.Ode4C12.text = "Your power, Death, was swallowed up, when Christ died: at his Rising as from bridal chambers the dead have come from the graves." 
 
 peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C13.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.name
 peMA.Ode4C13.text = "Why do you lament, O women? Why seek the immortal with spices? He has risen as he said, the Angel cried to the Myrrh-bearers." 
 
 peMA.Ode4C1F1.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1F1.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C1F1.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.name
 peMA.Ode4C1F1.text = "To the woman of Samaria, when she asked, Lord, you gave water, the knowledge of your might; therefore for all ages she will never thirst as she sings your praise."
 
 peMA.Ode4C1Tr.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1Tr.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.name
 peMA.Ode4C1Tr.text = "O Trinity beyond being, Father, Word and divine Spirit, identical in power, together without beginning, save us all, who in faith sing your praise."
 
 peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.
+peMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EisakikoaKyrie.name
 peMA.Ode4C1T.text = "The lawgiver saw you as a bush unburned: Daniel recognised you as a holy mountain, O Sovereign Lady, only Virgin-mother."
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode5C1H.text = he.h.m4_en_UK_lash.AnateilonMoiKyrie.text
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -234,7 +234,7 @@ peMA.Ode5C1T.text = "O Pure one, we name you gate without passage, field untille
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode6C1H.text = he.h.m4_en_UK_lash.MiKatapontisato.text
 
 peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -281,7 +281,7 @@ peMA.Synaxarion.lastline.text = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode7C1H.text = he.h.m4_en_UK_lash.MiParadoisImas.text
 
 peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -316,7 +316,7 @@ peMA.Ode7C1T.text = "After your dread child-birth, holy Mother of God, you were 
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode8C1H.text = he.h.m4_en_UK_lash.TaSympantaDespota.text
 
 peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -351,7 +351,7 @@ peMA.Ode8C1T.text = "Isaias was cleansed by a coal, proclaiming in advance the s
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode9C1H.text = he.h.m4_en_UK_lash.EpoiiseKratos.text
 
 peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
