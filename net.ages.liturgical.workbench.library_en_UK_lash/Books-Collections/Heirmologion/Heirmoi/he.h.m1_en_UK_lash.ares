@@ -46,11 +46,13 @@ DeftePomaPiomen.name = ""
 DeftePomaPiomen.mode = misc_en_UK_lash.Mode1
 DeftePomaPiomen.ode = misc_en_UK_lash.Ode3
 DeftePomaPiomen.text = ""
-EikoniLatrevein.name = ""
+
+EikoniLatrevein.name = "When the harmony of music."
 EikoniLatrevein.mode = misc_en_UK_lash.Mode1
 EikoniLatrevein.ode = misc_en_UK_lash.Ode7
-EikoniLatrevein.text = ""
-EisakikoaKyrieTinAkoin.name = ""
+EikoniLatrevein.text = "When the harmony of music summoned the peoples to worship the image, the Children of David, singing the ancestral songs of Zion, broke the ominous decree of the tyrant, and changed the flame to dew, as they sang the hymn, ‘O highly exalted, our God and the God of our fathers blessed are you’."
+
+EisakikoaKyrieTinAkoin.name = "Lord, I heard your report."
 EisakikoaKyrieTinAkoin.mode = misc_en_UK_lash.Mode1
 EisakikoaKyrieTinAkoin.ode = misc_en_UK_lash.Ode4
 EisakikoaKyrieTinAkoin.text = "Lord, I heard your report, and was afraid. I considered your works, said the Prophet, and I glorified you, Lover of mankind."
@@ -174,10 +176,11 @@ LithonOnApedokimasan.name = "A stone which the builders rejected."
 LithonOnApedokimasan.mode = misc_en_UK_lash.Mode1
 LithonOnApedokimasan.ode = misc_en_UK_lash.Ode3
 LithonOnApedokimasan.text = "‘A stone which the builders rejected has become the head of the corner’; it is the rock on which Christ made firm the Church which he had ransomed from among the nations."
-MegaToMystirion.name = ""
+
+MegaToMystirion.name = "Great is the mystery."
 MegaToMystirion.mode = misc_en_UK_lash.Mode1
 MegaToMystirion.ode = misc_en_UK_lash.Ode4
-MegaToMystirion.text = ""
+MegaToMystirion.text = "Great is the mystery of your dispensation, O Christ! And foreseeing this in a divine vision from above Avvakoum cried out to you: ‘You have come forth for the salvation of your people, O Lover of mankind."
 
 MitranAflektos.name = ""
 MitranAflektos.mode = misc_en_UK_lash.Mode1
@@ -420,10 +423,12 @@ ToVoithisantiTheo.name = "To God who helped Moses."
 ToVoithisantiTheo.mode = misc_en_UK_lash.Mode1
 ToVoithisantiTheo.ode = misc_en_UK_lash.Ode1
 ToVoithisantiTheo.text = "To God who helped Moses in Egypt, and through him drowned Pharao and all his host, let us sing a song of victory; for he has been glorified."
-TonEnFlogiPyros.name = ""
+
+TonEnFlogiPyros.name = "The Lord who protected."
 TonEnFlogiPyros.mode = misc_en_UK_lash.Mode1
 TonEnFlogiPyros.ode = misc_en_UK_lash.Ode8
-TonEnFlogiPyros.text = ""
+TonEnFlogiPyros.text = "The Lord who protected the Youths in the flame of fire of the burning furnace, and came down to them in the form of an Angel, praise and highly exalt to all the ages."
+
 TonEnSinaTinVaton.name = ""
 TonEnSinaTinVaton.mode = misc_en_UK_lash.Mode1
 TonEnSinaTinVaton.ode = misc_en_UK_lash.Ode8
