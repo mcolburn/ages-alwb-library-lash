@@ -77,6 +77,8 @@ meMA.C1Acrostic.text = "With hymns I honour the wise Unmercenaries."
 
 meMA.C2Acrostic.text = ""
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AsomenPantesLaoi.name
@@ -96,6 +98,8 @@ meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AsomenPantesLaoi.name
 meMA.Ode1C1T.text = "Dwelling in your womb, Mother of God, the Son, who shone from the Father and beyond time is above all gods, clothed himself in entire humanity; let us sing his praise, for he has been glorified."
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode4

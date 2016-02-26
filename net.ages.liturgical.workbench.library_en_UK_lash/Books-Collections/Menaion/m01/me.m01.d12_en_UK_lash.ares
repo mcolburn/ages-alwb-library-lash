@@ -69,6 +69,8 @@ meMA.Kathisma21.mode = misc_en_UK_lash.Mode8
 meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.AnestisEkNekron.name
 meMA.Kathisma21.text = me.m01.d08_en_UK_lash.meMA.Kathisma21.text
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.DefteLaoi.name

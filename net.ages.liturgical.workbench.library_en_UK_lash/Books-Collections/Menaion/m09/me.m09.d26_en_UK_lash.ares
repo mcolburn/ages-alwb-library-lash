@@ -177,6 +177,8 @@ meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.EnVythoKatestrose.text
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered // he.h.m2_en_UK_lash.EnVythoKatestrose.name
@@ -191,6 +193,8 @@ meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered // he.h.m2_en_UK_lash.EnVythoKatestrose.name
 meMA.Ode1C13.text = "Virgin, you wholly renewed the nature of mortals, dried up by every offence, in giving birth to the heavenly rain. But, I beg, show the dried up furrow of my soul to be fruitful, O Bride of God."
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
@@ -211,6 +215,8 @@ meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered // he.h.m2_en_UK_lash.EnVythoKatestrose.name
 meMA.Ode1C2T.text = "The choir of godly maidens, greatly inspired, sing of you as beautiful among women, O Lady Mother of God, made lovely with the beauties of the Godhead; for beyond reason you bore the Word who creates beauty."
+
+meMA.C3.verse = ""
 
 meMA.Ode1C31.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C31.mode = misc_en_UK_lash.Mode6

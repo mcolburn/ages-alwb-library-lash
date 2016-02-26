@@ -143,6 +143,8 @@ meMA.Kathisma3T.text = misc_en_UK_lash.NotAvailable //me.m12.d12_en_UK_lash.meMA
 
 meMA.C1Poet = poets_en_UK_lash.Theofanous
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IKekommeni.name

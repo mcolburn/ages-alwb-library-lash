@@ -128,6 +128,8 @@ meMA.C1Acrostic.text = "with the following acrostic, not including the Theotokia
 
 meMA.C2Acrostic.text = "whose acrostic is: Give to me God’s grace, blessed Elias. Joseph."
 
+meMA.C1.verse = ""
+
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AsomenToKyrio.name
@@ -147,6 +149,8 @@ meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AsomenToKyrio.name
 meMA.Ode1C1T.text = "O only blessed one, pure and godlike treasure of purity, purify me of the impure slime of the passions, asking pardon of my faults."
+
+meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
