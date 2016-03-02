@@ -78,7 +78,7 @@ ocMA.Kathisma31.text = "Just how long, my soul, will you live in heedlessness? J
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode8
 ocMA.Kathisma32.melody = ""
-ocMA.Kathisma32.text = "This tabernacle to-day is flooded with heavenly light; for in it the armies of Angels rejoice, and with them the choirs of the Righteous are glad, at the commemoration of the Victors. At their entreaties, O Christ, send down upon your world peace and great mercy."
+ocMA.Kathisma32.text = "This tabernacle today is flooded with heavenly light; for in it the armies of Angels rejoice, and with them the choirs of the Righteous are glad, at the commemoration of the Victors. At their entreaties, O Christ, send down upon your world peace and great mercy."
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode8
 ocMA.Kathisma33.melody = misc_en_UK_lash.Automelon
@@ -533,7 +533,7 @@ octrMA.Kathisma1T.text = oc.m8.d5_en_UK_lash.ocMA.Kathisma33.text
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode8
 octrMA.Ode7Martyricon.melody = ""
-octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
+octrMA.Ode7Martyricon.text = oc.m8.d3_en_UK_lash.ocMA.Kathisma32.text
 
 octrMA.Photagogic.mode = misc_en_UK_lash.Mode8
 octrMA.Photagogic.text = ""
