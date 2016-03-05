@@ -117,10 +117,10 @@ EffranthitiIerousalim.mode = misc_en_UK_lash.Mode4
 EffranthitiIerousalim.ode = misc_en_UK_lash.Ode8
 EffranthitiIerousalim.text = "Rejoice, Jerusalem, and keep festival all who love Sion. For the Lord of Powers who reigns over the ages has come. Let the whole earth stand in reverence before his face, and let it cry aloud, ‘All you his works, praise the Lord’."
 
-EisakikoaKyrie.name = ""
+EisakikoaKyrie.name = "I heard of your coming."
 EisakikoaKyrie.mode = misc_en_UK_lash.Mode4
 EisakikoaKyrie.ode = misc_en_UK_lash.Ode4
-EisakikoaKyrie.text = ""
+EisakikoaKyrie.text = "I heard of your coming, Lord, and was afraid; I knew your works, Lord, and was amazed, for the earth is full of your praise."
 EisakikoaOTheos.name = "I heard your report, O God."
 EisakikoaOTheos.mode = misc_en_UK_lash.Mode4
 EisakikoaOTheos.ode = misc_en_UK_lash.Ode4
@@ -172,7 +172,7 @@ EparthentaSeIdousa.text = "Seeing you, the Sun of righteousness, raised upon the
 EpoiiseKratos.name = "He has shown strength with his arm."
 EpoiiseKratos.mode = misc_en_UK_lash.Mode4
 EpoiiseKratos.ode = misc_en_UK_lash.Ode9
-EpoiiseKratos.text = "He has shown strength with his arm. He has put down the mighty from their thrones and exalted the humble; the God of Israel, the Dayspring from on high, has visited us and directed us in the way of peace."
+EpoiiseKratos.text = "He has shown strength with his arm. He has put down the mighty from their thrones and exalted the humble; the God of Israel, the Dayspring from on high, has visited us and directed us in the way of peace." //The Lord has shown strength with his arm, he has put down the mighty from their thrones and exalted the humble, the God of Israel, by which he ,the Dayspring from on high, has visited us, and directed us in the way of peace.
 
 ErrixeGastros.name = ""
 ErrixeGastros.mode = misc_en_UK_lash.Mode4
@@ -210,10 +210,10 @@ EvoisanEnEffrosyni.mode = misc_en_UK_lash.Mode4
 EvoisanEnEffrosyni.ode = misc_en_UK_lash.Ode6
 EvoisanEnEffrosyni.text = "The spirits of the Just cried out in joy, ‘Now the new covenant is being granted to the world. And let a people be made new through sprinkling with divine Blood."
 
-EvoiseProtypon.name = "Prefiguring the three-day."
+EvoiseProtypon.name = "Prefiguring your burial."
 EvoiseProtypon.mode = misc_en_UK_lash.Mode4
 EvoiseProtypon.ode = misc_en_UK_lash.Ode6
-EvoiseProtypon.text = ""
+EvoiseProtypon.text = "Prefiguring your burial for three days, the Prophet Jonas, as he prayed within the whale, cried out, Deliver me from corruption, Jesus, Kings of Powers!"
 
 ExestiTaSympanta.name = "The universe was amazed."
 ExestiTaSympanta.mode = misc_en_UK_lash.Mode4
@@ -285,7 +285,7 @@ LytirionKatharsin5.text = ""
 LytrotaTouPantos.name = "All-powerful Redeemer of all."
 LytrotaTouPantos.mode = misc_en_UK_lash.Mode4
 LytrotaTouPantos.ode = misc_en_UK_lash.Ode8
-LytrotaTouPantos.text = "Almighty Redeemer of the universe, in your condescension you bedewed the devout Youths in the midst of the flame, and taught them to sing: All you his works, bless, praise the Lord."
+LytrotaTouPantos.text = "Almighty Redeemer of the universe, in your condescension you bedewed the devout Youths in the midst of the flame, and taught them to sing: All you his works, bless, praise the Lord." //All-powerful Redeemer of all, you came down and bedewed the devout in the midst of the flame, and taught them to sing: All you works, bless, praise the Lord.
 MegalynomenPantes.name = ""
 MegalynomenPantes.mode = misc_en_UK_lash.Mode4
 MegalynomenPantes.ode = misc_en_UK_lash.Ode9
@@ -328,7 +328,7 @@ OAnateilasToFos.text = ""
 ODiasosasEnPyri.name = "You who saved the Children of Abraham."
 ODiasosasEnPyri.mode = misc_en_UK_lash.Mode4
 ODiasosasEnPyri.ode = misc_en_UK_lash.Ode7
-ODiasosasEnPyri.text = "You who saved the Children of Abraham in the fire and slew the Chaldeans who had plotted unjustly against the just, O Lord, highly exalted and God of our Fathers, blessed are you."
+ODiasosasEnPyri.text = "You who saved the Children of Abraham in the fire and slew the Chaldeans who had plotted unjustly against the just, O Lord, highly exalted and God of our Fathers, blessed are you." //You saved in the fire your Youths, of Abraham’s line, and destroyed the Chaldaeans with the snare with which they had unjustly trapped the just. O Lord highly exalted, the God of our Fathers, blessed are you.
 
 OEnArchiAnarchos.name = ""
 OEnArchiAnarchos.mode = misc_en_UK_lash.Mode4
