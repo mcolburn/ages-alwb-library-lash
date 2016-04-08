@@ -315,10 +315,12 @@ TinParthenianSou.name = ""
 TinParthenianSou.mode = misc_en_UK_lash.Mode2
 TinParthenianSou.ode = misc_en_UK_lash.Ode9
 TinParthenianSou.text = ""
-TinYperfyosSarki.name = ""
+
+TinYperfyosSarki.name = "The one who in her womb conceived."
 TinYperfyosSarki.mode = misc_en_UK_lash.Mode2
 TinYperfyosSarki.ode = misc_en_UK_lash.Ode9
-TinYperfyosSarki.text = ""
+TinYperfyosSarki.text = "The one who in her womb conceived in flesh the Word, who shone from the Father beyond time, in never-silent hymns let us the faithful magnify."
+
 TisNyktosDielthousis.name = ""
 TisNyktosDielthousis.mode = misc_en_UK_lash.Mode2
 TisNyktosDielthousis.ode = misc_en_UK_lash.Ode5
