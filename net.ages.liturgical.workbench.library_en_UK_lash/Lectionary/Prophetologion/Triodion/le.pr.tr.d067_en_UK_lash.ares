@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.pr.tr.d067_en_UK_lash
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.version = properties_en_UK_lash.version.designation
-lemcVE.reading1.book = bible_en_UK_lash.Exodus
-lemcVE.reading1.chapverse = "2:5-10"
-lemcVE.reading1.text = "The daughter of Pharao came down to bathe at the river, while her attendants walked beside the river. She saw the basket among the reeds and sent her maid to bring it. When she opened it, she saw the child. He was crying in the basket, and Pharao’s daughter took pity on him, ‘This must be one of the Hebrews’ children,’ she said. Then his sister said to Pharao’s daughter, ‘Shall I go and get you a nurse from the Hebrew women to nurse the child for you?’ Pharao’s daughter said to her, ‘Go.’ So the girl went and called the child’s mother. Pharao’s daughter said to her, ‘Take this child and nurse it for me, and I will give you your wages.’ So the woman took the child and nursed it. When the child grew up, she brought him to Pharao’s daughter, and he took became a son to her. She named him Moses, ‘because,’ she said, ‘I drew him out of the water’."
+lemcVE.reading1.book = le.pr.me.r19_en_UK_lash.leprVE.reading.book
+lemcVE.reading1.chapverse = le.pr.me.r19_en_UK_lash.leprVE.reading.chapverse
+lemcVE.reading1.text = le.pr.me.r19_en_UK_lash.leprVE.reading.text
 
 lemcVE.reading2.title = ""
 lemcVE.reading2.version = properties_en_UK_lash.version.designation

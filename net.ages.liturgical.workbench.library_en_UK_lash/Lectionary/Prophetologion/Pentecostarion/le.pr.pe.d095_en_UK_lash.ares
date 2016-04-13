@@ -14,7 +14,6 @@ lemcVE.reading2.text = "Thus says the Lord: You who thirst, go to the water; and
 
 lemcVE.reading3.title = ""
 lemcVE.reading3.version = properties_en_UK_lash.version.designation
-lemcVE.reading3.book = bible_en_UK_lash.Proverbs
-lemcVE.reading3.chapverse = "[9:1-11]"
-lemcVE.reading3.text = "Wisdom has built herself a house, and has set up seven pillars; she has slaughtered her beasts, and mixed her wine in the mixing bowl, and prepared her table. She has sent out her servants and invites with a loud proclamation, ‘He who is foolish, let him turn aside to me’. And to those who lack understanding she said, ‘Come, eat of my bread, and drink the wine that I have mixed for you. Abandon folly and you shall live. Seek understanding, that you may have life; set comprehension right with knowledge. One who reproves the evil will gain dishonour for himself; one who rebukes the impious will disgrace himself: for rebukes for the impious are stripes for him. Do not rebuke the evil, lest they hate you: rebuke a wise man and he will love you. Give an opportunity to the wise and he will be wiser; inform a just man and he will add to what he receives. The beginning of wisdom is fear of the Lord, and the counsel of Saints is understanding: for to know the law belongs to a sound mind. For in this way you shall live for a long time, and years will be added to your life.’"
-
+lemcVE.reading3.book = le.pr.me.r41_en_UK_lash.leprVE.reading.book
+lemcVE.reading3.chapverse = le.pr.me.r41_en_UK_lash.leprVE.reading.chapverse
+lemcVE.reading3.text = le.pr.me.r41_en_UK_lash.leprVE.reading.text

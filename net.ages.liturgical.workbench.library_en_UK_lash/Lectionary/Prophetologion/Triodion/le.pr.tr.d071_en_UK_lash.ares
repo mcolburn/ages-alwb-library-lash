@@ -2,15 +2,15 @@ A_Resource_Whose_Name = le.pr.tr.d071_en_UK_lash
 
 lemcVE.reading1.title = "FIRST READING"
 lemcVE.reading1.version = properties_en_UK_lash.version.designation
-lemcVE.reading1.book = bible_en_UK_lash.Genesis
-lemcVE.reading1.chapverse = "[1:1-13]"
-lemcVE.reading1.text = "In the beginning God made the heaven and the earth. Now the earth was invisible and unformed, and darkness was upon the deep and a spirit of God was being borne upon the water. And God said: Let there be light, and there was light. And God saw the light, that it was good; and God made a separation between the light and the darkness. And God called the light Day, and the darkness he called Night; and there was evening and there was morning, one day. And God said: Let there be a firmament in the midst of the water and let there be a separation between the water and the water; and it was so. And God made the firmament; and God made a separation between the water, which was below the firmament, and between the water which was above the firmament. And God called the firmament Heaven; and God saw that it was good, and there was evening and there was morning, a second day. And God said: Let the water below heaven be gathered together into one gathering, and let dry land appear; and it was so. And the water below heaven was gathered together into their gatherings, and the dry land appeared. And God called the dry land Earth, and the accumulations of the waters he called Seas. And God saw that it was good. And God said: Let the earth sprout herb of grass, sowing seed according to its kind and according to its likeness, and fruiting tree making fruit, whose seed is in it according to its kind upon the earth; and it was so. And the earth brought forth herb of grass, sowing seed according to its kind and according to its likeness, and fruiting tree making fruit, whose seed was in it according to its kind upon the earth, and God saw that it was good. And there was evening and morning, a third day."
+lemcVE.reading1.book = le.pr.me.r12_en_UK_lash.leprVE.reading.book
+lemcVE.reading1.chapverse = le.pr.me.r12_en_UK_lash.leprVE.reading.chapverse
+lemcVE.reading1.text = le.pr.me.r12_en_UK_lash.leprVE.reading.text
 
 lemcVE.reading2.title = "SECOND READING"
 lemcVE.reading2.version = properties_en_UK_lash.version.designation
-lemcVE.reading2.book = bible_en_UK_lash.Isaiah
-lemcVE.reading2.chapverse = "[60:1-16]"
-lemcVE.reading2.text = "Be enlightened, be enlightened, Jerusalem, for your light has come and the glory of the Lord has dawned upon you. See, darkness will cover the earth as thick darkness upon nations; but upon you will the Lord manifest himself, and his glory will appear upon you. And kings will walk in your light and nations in your splendour. Like up your eyes around and see your children gathered; see, all your sons have come from afar, and your daughters will be raised on men’s shoulders. Then you will see, and fear and be amazed in your heart, because wealth of sea and of nations and of peoples will transfer to you; and herds of camels will come to you and camels of Madiam and Gaipha will cover you; all they from Saba will come, bringing gold and they will bear incense and precious stone and they will declare the good tidings of the salvation of the Lord. And all the sheep of Kedar will be gathered to you and the rams of Nabaioth will come to you, and there will be offered acceptable sacrifices on my altar, and my house of prayer will be glorified. Who are these who fly like clouds and as doves with their nestlings? The isles awaited me and in the first place the ships of Tharsis to bring your children from afar and their silver and gold with them for the sake of the holy name of the Lord and for the sake of the glorious Holy One of Israel. And strangers will build your walls and their kings will stand before you; for because of my wrath I smote you and because of mercy I loved you. And your gates will be open continually, night and day they will not be shut, to bring to you the power of the nations and their kings as captives; for the nations and kings who will not serve you will perish and the nations will be made a desert in the desert places. And the glory of Libanus will come to you with cypress and pine and cedar together, to glorify my holy place and I shall glorify the place of my feet. And the sons of those who humbled you and of those who embittered you will come to you afraid, and you will be called City of the Lord, Sion of the Holy One of Israel. Because of your being abandoned and hated, and there was no one to help you, I will give you eternal joy, gladness for generations of generations; and you will suck the milk of nations and eat the wealth of kings; and you will know that it is I the Lord who save you and I the God of Israel who deliver you."
+lemcVE.reading2.book = le.pr.me.r51_en_UK_lash.leprVE.reading.book
+lemcVE.reading2.chapverse = le.pr.me.r51_en_UK_lash.leprVE.reading.chapverse
+lemcVE.reading2.text = le.pr.me.r51_en_UK_lash.leprVE.reading.text
 
 lemcVE.reading3.title = "THIRD READING"
 lemcVE.reading3.version = properties_en_UK_lash.version.designation
@@ -50,9 +50,9 @@ lemcVE.reading8.text = "The word of the Lord came to Elias saying: Rise, and jou
 
 lemcVE.reading9.title = "NINTH READING"
 lemcVE.reading9.version = properties_en_UK_lash.version.designation
-lemcVE.reading9.book = bible_en_UK_lash.Isaiah
-lemcVE.reading9.chapverse = "[61:10-11; 62:1-5]"
-lemcVE.reading9.text = "Let my soul rejoice in the Lord; for he has clothed me with a garment of salvation and a tunic of gladness, he has put a mitre on me as on a bridegroom, and he has adorned me as a bride with adornments; and as earth putting forth it flowers and a garden its seeds, so the Lord has made justice and gladness dawn before all the nations. Because of Sion I shall keep silence and because of Jerusalem I shall not rest, until my justice has gone forth like light, while my salvation shall burn like a torch. And nations will see your justice and kings your glory; and one will call your name a new name, which the Lord will name; and you will be a crown of beauty in the Lord’s hand, a diadem of kingship in the hand of your God. And you will no longer be called Abandoned, and your land will no longer be called Desert, for you will be called My Will and your land Inhabited; because the Lord has been well pleased with you, and your land will be inhabited. And as young man lives with a virgin, so will your children dwell; and it will be in the way that a bridegroom is glad in his bride, so the Lord will glad at you."
+lemcVE.reading9.book = le.pr.me.r50_en_UK_lash.leprVE.reading.book
+lemcVE.reading9.chapverse = le.pr.me.r50_en_UK_lash.leprVE.reading.chapverse
+lemcVE.reading9.text = le.pr.me.r50_en_UK_lash.leprVE.reading.text
 
 lemcVE.reading10.title = "TENTH READING"
 lemcVE.reading10.version = properties_en_UK_lash.version.designation

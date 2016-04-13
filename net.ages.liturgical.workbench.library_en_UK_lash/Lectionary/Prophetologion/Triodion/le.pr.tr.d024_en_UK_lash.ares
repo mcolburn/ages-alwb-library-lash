@@ -2,9 +2,9 @@ A_Resource_Whose_Name = le.pr.tr.d024_en_UK_lash
 
 lemcVE.reading1.title = ""
 lemcVE.reading1.version = properties_en_UK_lash.version.designation
-lemcVE.reading1.book = bible_en_UK_lash.Genesis
-lemcVE.reading1.chapverse = "1:1-13"
-lemcVE.reading1.text = "In the beginning God made the heaven and the earth. Now the earth was invisible and unformed, and darkness was upon the deep and a spirit of God was being borne upon the water. And God said: Let there be light, and there was light. And God saw the light, that it was good; and God made a separation between the light and the darkness. And God called the light Day, and the darkness he called Night; and there was evening and there was morning, one day. And God said: Let there be a firmament in the midst of the water and let there be a separation between the water and the water; and it was so. And God made the firmament; and God made a separation between the water, which was below the firmament, and between the water which was above the firmament. And God called the firmament Heaven; and God saw that it was good, and there was evening and there was morning, a second day. And God said: Let the water below heaven be gathered together into one gathering, and let dry land appear; and it was so. And the water below heaven was gathered together into their gatherings, and the dry land appeared. And God called the dry land Earth, and the accumulations of the waters he called Seas. And God saw that it was good. And God said: Let the earth sprout herb of grass, sowing seed according to its kind and according to its likeness, and fruiting tree making fruit, whose seed is in it according to its kind upon the earth; and it was so. And the earth brought forth herb of grass, sowing seed according to its kind and according to its likeness, and fruiting tree making fruit, whose seed was in it according to its kind upon the earth, and God saw that it was good. And there was evening and morning, a third day."
+lemcVE.reading1.book = le.pr.me.r12_en_UK_lash.leprVE.reading.book
+lemcVE.reading1.chapverse = le.pr.me.r12_en_UK_lash.leprVE.reading.chapverse
+lemcVE.reading1.text = le.pr.me.r12_en_UK_lash.leprVE.reading.text
 
 lemcVE.reading2.title = ""
 lemcVE.reading2.version = properties_en_UK_lash.version.designation
