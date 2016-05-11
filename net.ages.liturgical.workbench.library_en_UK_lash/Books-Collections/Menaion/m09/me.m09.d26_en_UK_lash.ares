@@ -700,7 +700,7 @@ meMA.Lauds4.text = "Inspired Evangelist, proclaiming the good news of the source
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "Evangelist John, Virgin equal to the Angels, Theologian taught by God, with right belief you proclaimed to the world the immaculate side which poured forth blood and water, by which we procure eternal life for our souls."
+meMA.LaudsGlory.text = me.m05.d08_en_UK_lash.meMA.LaudsGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode8
 meMA.LaudsTheotokion.melody = ""
