@@ -141,6 +141,20 @@ meMA.Kathisma3T.mode = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.mode
 meMA.Kathisma3T.melody = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.melody
 meMA.Kathisma3T.text = misc_en_UK_lash.NotAvailable //me.m12.d12_en_UK_lash.meMA.Kathisma3T.text
 
+meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
+
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostle.text
+
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
+
 meMA.C1Poet = poets_en_UK_lash.Theofanous
 
 meMA.C1.verse = ""
@@ -377,10 +391,9 @@ meMA.Lauds3.mode = misc_en_UK_lash.Mode1
 meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.NefelinSeFotos.name
 meMA.Lauds3.text = "With a rational hook you drew to divine knowledge those who like fish had sunk in the deep of ignorance, and you offered them to Christ as a fair dish, all-blessed one; and they received outstanding honour: the life that is unsullied and unending. So too you were named an Apostle of Christ, wise Evangelist and writer of the works of Grace realised in acts."
 
-meMA.Lauds4.poet = poets_en_UK_lash.LeontosMaistoros
-meMA.Lauds4.mode = misc_en_UK_lash.Mode8
-meMA.Lauds4.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds4.text = "Come all creation, let us praise in songs the true spiritual physician and Disciple of the Saviour, Luke the revered. For he healed the disease of godlessness with the ointment of the baptismal font of Christ; and from his mouth he has poured on living lands rivers of waters welling up from God, the Gospel. Therefore his sound has out prophetically into the inhabited world, and he intercedes that our souls may be saved."
+meMA.Lauds4.mode = misc_en_UK_lash.Mode1
+meMA.Lauds4.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds4.text = ""
 
 meMA.Lauds5.mode = misc_en_UK_lash.Mode1
 meMA.Lauds5.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
@@ -390,9 +403,10 @@ meMA.Lauds6.mode = misc_en_UK_lash.Mode1
 meMA.Lauds6.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
 meMA.Lauds6.text = ""
 
-meMA.Lauds7.mode = misc_en_UK_lash.Mode1
-meMA.Lauds7.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
-meMA.Lauds7.text = ""
+meMA.Lauds7.poet = poets_en_UK_lash.LeontosMaistoros
+meMA.Lauds7.mode = misc_en_UK_lash.Mode8
+meMA.Lauds7.melody = misc_en_UK_lash.Idiomelon
+meMA.Lauds7.text = "Come all creation, let us praise in songs the true spiritual physician and Disciple of the Saviour, Luke the revered. For he healed the disease of godlessness with the ointment of the baptismal font of Christ; and from his mouth he has poured on living lands rivers of waters welling up from God, the Gospel. Therefore his sound has out prophetically into the inhabited world, and he intercedes that our souls may be saved."
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 meMA.LaudsGlory.melody = ""
