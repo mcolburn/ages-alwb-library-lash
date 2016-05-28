@@ -89,6 +89,9 @@ peMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
 peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode1C1H.text = he.h.m4_en_UK_lash.OPataxasAigypton.text
 
+peMA.C1.title = ""
+peMA.C1.verse = ""
+
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C11.mode = misc_en_UK_lash.Mode4
 peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OPataxasAigypton.name
