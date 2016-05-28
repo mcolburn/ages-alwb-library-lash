@@ -53,6 +53,7 @@ meVE.Apolytikion2.text = ""
 meMA.C1Acrostic.text = "The two canons of the Fathers, the acrostic of the first is:
 I hymn the skilful purgers of error. In the Theotokia: Philotheos."
 
+meMA.C1.title = ""
 meMA.C1.verse = ""
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -80,6 +81,7 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
 meMA.Ode1C1T.text = "As through God’s action you con­tained in your womb the Light with triple lamp, as you are loving, enlighten the hearts of those who de­voutly sing your praise; for you are light and glory and eternal salvation."
 
+meMA.C2.title = ""
 meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
