@@ -713,7 +713,7 @@ meMA.LaudsBoth.mode = misc_en_UK_lash.Mode3
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Christ, our God, you accepted your voluntary crucifixion for the general resurrection of the human race, and by the reed of the Cross you stained your own fingers with streams of scarlet dye, in your love for mankind signing our remission like a king. Do not despise us in our danger, nor our repeated separation from you; but take pity, O only long-suffering, on your people in distress; and arise, make war on those who war against us, as you alone are all-powerful."
 
-meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

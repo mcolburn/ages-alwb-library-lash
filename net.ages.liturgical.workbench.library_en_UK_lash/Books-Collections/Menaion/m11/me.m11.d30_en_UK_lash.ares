@@ -804,7 +804,7 @@ meMA.LaudsBoth.mode = misc_en_UK_lash.Mode8
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.text = "Bethlehem receive the Mother City of God; for she has come to give birth in you to the unwaning light. You Angels, marvel in heaven; mankind give glory upon earth, Magi from Persia bring your triple glorious gift, Shepherds abiding in the fields sing the thrice-holy hymn. Let everything that has breath praise the Maker of all."
 
-meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
+meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
