@@ -76,8 +76,8 @@ meMA.C1Acrostic.text = "of which the Acrostic is: I sing the first of the bodile
 
 meMA.C2Poet = poets_en_UK_lash.Iosif
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_UK_lash.KanonTouArchangelou
+meMA.C1.verse = prayers_en_UK_lash.verse_Archangel.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
@@ -99,8 +99,8 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AnoixoToStomaMou.name
 meMA.Ode1C1T.text = "All-blameless Virgin, the glory of the Angels, the help of mankind, help me who am at sea and ever falling and endangered by a tempest of sin."
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_UK_lash.KanonTouArchangelou
+meMA.C2.verse = prayers_en_UK_lash.verse_Archangel.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode4

@@ -173,8 +173,8 @@ meMA.PostGospelIdiomelon.text = ""
 
 meMA.C1Acrostic.text = ""
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_UK_lash.KanonTouOsiou
+meMA.C1.verse = prayers_en_UK_lash.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
