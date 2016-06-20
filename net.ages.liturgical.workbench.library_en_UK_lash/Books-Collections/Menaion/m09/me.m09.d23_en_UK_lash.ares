@@ -77,8 +77,8 @@ meMA.Kathisma2T.text = "You alone bore the Maker of the universe, you alone ador
 
 meMA.C1Poet = poets_en_UK_lash.IoannouTouDamaskinou
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_UK_lash.KanonTouProdromou
+meMA.C1.verse = prayers_en_UK_lash.verse_Baptist.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
