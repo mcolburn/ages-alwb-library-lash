@@ -47,6 +47,9 @@ pePA.Ode1H.mode = misc_en_UK_lash.Mode1
 pePA.Ode1H.melody = misc_en_UK_lash.Heirmos
 pePA.Ode1H.text = he.h.m1_en_UK_lash.AnastaseosImera.text
 
+pePA.C1.title = titles_en_UK_lash.KanonTouPascha
+pePA.C1.verse = prayers_en_UK_lash.verse_Resurrection.text
+
 pePA.Ode11.ode = misc_en_UK_lash.Ode1
 pePA.Ode11.mode = misc_en_UK_lash.Mode1
 pePA.Ode11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AnastaseosImera.name
