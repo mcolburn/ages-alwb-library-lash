@@ -58,7 +58,7 @@ meVE.Stichera03.mode = misc_en_UK_lash.Mode1
 meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.OTouParadoxouThavmatos.name
 meVE.Stichera03.text = ""
 
-meVE.Stichera04.text = "" // for media, Sat. evening Stichera 78910
+meVE.MM.Stichera1123as78910.text = properties_en_UK_lash.media.key
 
 meVE.SticGlory1.mode = misc_en_UK_lash.Mode1
 meVE.SticGlory1.melody = ""

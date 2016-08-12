@@ -26,6 +26,8 @@ meVE.Stichera03.mode = misc_en_UK_lash.Mode1
 meVE.Stichera03.melody = misc_en_UK_lash.NotMetered // he.a.m1_en_UK_lash.TonOuranionTagmaton.name
 meVE.Stichera03.text = "Beloved of God, giving utterance with your tongue, which sounds as the thunder, to the hidden word of the wisdom of God, aptly opening your lips, you ever cry aloud, ‘In the beginning was the Word’, and with your torch you guide everyone to knowledge of God."
 
+meVE.MM.Stichera1123as78910.text = properties_en_UK_lash.media.key
+
 meVE.Stichera04.mode = misc_en_UK_lash.Mode8
 meVE.Stichera04.melody = misc_en_UK_lash.NotMetered // he.a.m8_en_UK_lash.OTouParadoxou.name
 meVE.Stichera04.text = ""
