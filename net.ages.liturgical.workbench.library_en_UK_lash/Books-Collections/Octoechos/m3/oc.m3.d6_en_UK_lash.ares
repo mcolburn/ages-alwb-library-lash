@@ -62,7 +62,7 @@ ocMA.Kathisma13.text = ""
 
 ocMA.Kathisma21.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
-ocMA.Kathisma21.text = ""
+ocMA.Kathisma21.text = oc.m3.d4_en_UK_lash.ocMA.Kathisma22.text
 
 ocMA.Kathisma22.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
@@ -74,7 +74,7 @@ ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma31.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma31.melody = ""
-ocMA.Kathisma31.text = ""
+ocMA.Kathisma31.text = oc.m3.d4_en_UK_lash.ocMA.Kathisma21.text
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma32.melody = ""
