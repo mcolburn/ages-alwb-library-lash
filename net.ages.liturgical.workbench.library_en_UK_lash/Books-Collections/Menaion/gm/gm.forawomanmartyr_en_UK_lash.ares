@@ -26,7 +26,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_SaintW.text
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C1H.text = ""
+meMA.Ode1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text //not sure this is correct
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
@@ -88,7 +88,7 @@ meMA.Ode3KathismaSt.text = "When she who gave you birth, O Saviour, saw you lift
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode4C1H.text = ""
+meMA.Ode4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text //not sure this is correct
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
@@ -113,7 +113,7 @@ meMA.Ode4C1T.text = "Without knowing wedlock you bore a child, O Virgin, and aft
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode5C1H.text = ""
+meMA.Ode5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text //not sure this is correct
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
@@ -162,8 +162,8 @@ meMA.Ode6C1T.text = "O wonder newer than all wonders, that though as a virgin yo
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode7C1H.text = ""
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered //he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
