@@ -2,7 +2,7 @@ A_Resource_Whose_Name = oc.m4.d3_en_UK_lash
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode4
 ocVE.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
-ocVE.Stichera1.text = "Rivalling the woman of Canaan, my soul, from behind cling fast to Christ and cry again and again, ‘Have mercy on me, Master. I have no child, but unruly flesh, tormented by demons. Drive out from it, I beg, the burning fever, calm its unruly surges and deaden it finally through fear of you, O Christ, at the supplications of the one who in purity conceived you and gave birth to you and of all your Saints, O Benefactor full of mercy’."
+ocVE.Stichera1.text = "Rivalling the woman of Canaan, my soul, from behind cling fast to Christ and cry again and again, 'Have mercy on me, Master. I have no child, but unruly flesh, tormented by demons. Drive out from it, I beg, the burning fever, calm its unruly surges and deaden it finally through fear of you, O Christ, at the supplications of the one who in purity conceived you and gave birth to you and of all your Saints, O Benefactor full of mercy'."
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode4
 ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OExYpsistouKlitheis.name
@@ -26,7 +26,7 @@ ocVE.Stichera6.text = "Judge most just, Lover of humankind, who know the heart, 
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
 ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
-ocVE.SticTheotokion.text = "I have become a new Esau in every way, O Most Pure, subject to passions more than all, I alone appear wretched, I alone wholly bare of godly virtue. Who then will not weep for me? Who will not lament my loss? And so before the end I cry to you, ‘I have sinned, Sovereign Lady, save me, as once your Son saved the Prodigal’."
+ocVE.SticTheotokion.text = "I have become a new Esau in every way, O Most Pure, subject to passions more than all, I alone appear wretched, I alone wholly bare of godly virtue. Who then will not weep for me? Who will not lament my loss? And so before the end I cry to you, 'I have sinned, Sovereign Lady, save me, as once your Son saved the Prodigal'."
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode4
 ocVE.Aposticha1.melody = misc_en_UK_lash.Automelon
@@ -38,7 +38,7 @@ ocVE.Aposticha2.text = oc.m4.d2_en_UK_lash.ocVE.Aposticha2.text
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode4
 ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = "As you accepted the holy Martyrs’ endurance, accept from us a song of praise, O Lover of mankind, and at their supplications grant us your great mercy."
+ocVE.Aposticha3.text = "As you accepted the holy Martyrs' endurance, accept from us a song of praise, O Lover of mankind, and at their supplications grant us your great mercy."
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode4
 ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name
@@ -46,7 +46,7 @@ ocVE.AposTheotokion.text = "I implore you, O All-praised, most pure palace of th
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode4
 ocVE.ApolTheotokionVM.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
-ocVE.ApolTheotokionVM.text = "Now to God’s Mother let us humble sinners run in haste * and in repentance let us fall down before her feet, * crying aloud with fervour from the depths of our souls, * ‘Sovereign Lady, help us now, * have compassion upon us, * hasten, for we perish * from our many offences. * Let not your servants go empty away; * we have you as our only hope’."
+ocVE.ApolTheotokionVM.text = "Now to God's Mother let us humble sinners run in haste * and in repentance let us fall down before her feet, * crying aloud with fervour from the depths of our souls, * 'Sovereign Lady, help us now, * have compassion upon us, * hasten, for we perish * from our many offences. * Let not your servants go empty away; * we have you as our only hope'."
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode4
 ocMA.Kathisma11.melody = ""
@@ -523,7 +523,7 @@ ocLI.Beatitudes1.text = oc.m4.d1_en_UK_lash.ocLI.Beatitudes1.text
 
 ocLI.Beatitudes2.mode = misc_en_UK_lash.Mode4
 ocLI.Beatitudes2.melody = ""
-ocLI.Beatitudes2.text = "O Christ the Word, who accepted Peter’s weeping and the Harlot’s tears and the Publican when he only sighed, take pity too on me, as you are compassionate, as I fall down and beg that I be granted pardon of offences. Supremely loving Lord, ransom me from Hell in the other world as you are compassionate."
+ocLI.Beatitudes2.text = "O Christ the Word, who accepted Peter's weeping and the Harlot's tears and the Publican when he only sighed, take pity too on me, as you are compassionate, as I fall down and beg that I be granted pardon of offences. Supremely loving Lord, ransom me from Hell in the other world as you are compassionate."
 
 ocLI.Beatitudes3.mode = misc_en_UK_lash.Mode4
 ocLI.Beatitudes3.melody = ""

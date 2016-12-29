@@ -84,7 +84,7 @@ meMA.Kathisma11.text = "Christ has enlightened all things by his presence; he ha
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.name
-meMA.Kathisma21.text = "O faithful people, the festive day of the Dedication has come to Christ’s chosen flock, and urges us all to be made new and with shining face faithfully to sing from the depths of the heart songs to the Master as deliverer and him who makes us new."
+meMA.Kathisma21.text = "O faithful people, the festive day of the Dedication has come to Christ's chosen flock, and urges us all to be made new and with shining face faithfully to sing from the depths of the heart songs to the Master as deliverer and him who makes us new."
 
 meMA.C1Poet = poets_en_UK_lash.Germanou
 meMA.C1Acrostic.text = "whose Acrostic is the Alphabet, excluding the Theotokia."
@@ -142,7 +142,7 @@ meMA.Ode1C23.text = "Not by law is your Church beautified, O Lord, nor by the st
 meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThalassisToErythraion.name
-meMA.Ode1C2T.text = "At the Father’s will, from the divine Spirit, you conceived without seed the Son of God, and you bore in the flesh him who came from the Father without mother and for our sakes from you without father."
+meMA.Ode1C2T.text = "At the Father's will, from the divine Spirit, you conceived without seed the Son of God, and you bore in the flesh him who came from the Father without mother and for our sakes from you without father."
 
 meMA.C3.title = titles_en_UK_lash.KanonTouAgiou
 meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
@@ -175,7 +175,7 @@ meMA.Ode3C1H.text = he.h.m4_en_UK_lash.OukEnSofia.text
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.OukEnSofia.name
-meMA.Ode3C11.text = "O glorified Cross of the Lord, who bear the title of Christ’s glory, we glorify you in faith, glorified and enlightened by your holy embraces."
+meMA.Ode3C11.text = "O glorified Cross of the Lord, who bear the title of Christ's glory, we glorify you in faith, glorified and enlightened by your holy embraces."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode4
@@ -210,12 +210,12 @@ meMA.Ode3C23.text = "O loving Lord, you have shown today that the tabernacle mad
 meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
-meMA.Ode3C2T.text = "You alone, O Mother of God, have become the agent of supernatural blessings for those on earth; therefore we offer you our ‘Hail!’."
+meMA.Ode3C2T.text = "You alone, O Mother of God, have become the agent of supernatural blessings for those on earth; therefore we offer you our 'Hail!'."
 
 meMA.Ode3C31.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C31.mode = misc_en_UK_lash.Mode5
 meMA.Ode3C31.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.OPixasEpOudenos.name
-meMA.Ode3C31.text = "You received the enlightenment of the Holy Spirit and with your whole house wholly accepted God’s grace from a godly mouth, when the godly Prince of the Apostles with care declared the saving teachings."
+meMA.Ode3C31.text = "You received the enlightenment of the Holy Spirit and with your whole house wholly accepted God's grace from a godly mouth, when the godly Prince of the Apostles with care declared the saving teachings."
 
 meMA.Ode3C32.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C32.mode = misc_en_UK_lash.Mode5
@@ -256,7 +256,7 @@ meMA.Ode4C1H.text = he.h.m4_en_UK_lash.DiAgapisinOiktirmon.text
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.DiAgapisinOiktirmon.name
-meMA.Ode4C11.text = "The Lord’s Cross, appearing like the sun, is worshipped by faithful men; as we greet it our souls are enlightened."
+meMA.Ode4C11.text = "The Lord's Cross, appearing like the sun, is worshipped by faithful men; as we greet it our souls are enlightened."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
@@ -271,7 +271,7 @@ meMA.Ode4C13.text = "O Word of God, grant us pardon and forgiveness of offences,
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.DiAgapisinOiktirmon.name
-meMA.Ode4C1T.text = "Without emptying his Father’s bosom the Word was laid as an infant in your bosom, O Maid, as he wished to refashion me, who am subject to corruption."
+meMA.Ode4C1T.text = "Without emptying his Father's bosom the Word was laid as an infant in your bosom, O Maid, as he wished to refashion me, who am subject to corruption."
 
 meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C21.mode = misc_en_UK_lash.Mode4
@@ -291,7 +291,7 @@ meMA.Ode4C23.text = "In an image of the anointing of your chosen people, the mos
 meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.EparthentaSeIdousa.name
-meMA.Ode4C2T.text = "Without wedlock you conceived, O Virgin, and after child-birth you appeared again a virgin; therefore with never silent voices and undoubting faith we cry; ‘Hail!’ to you, Sovereign lady."
+meMA.Ode4C2T.text = "Without wedlock you conceived, O Virgin, and after child-birth you appeared again a virgin; therefore with never silent voices and undoubting faith we cry; 'Hail!' to you, Sovereign lady."
 
 meMA.Ode4C31.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C31.mode = misc_en_UK_lash.Mode5
@@ -311,7 +311,7 @@ meMA.Ode4C33.text = "Having become dead to all the world, all-blest Cornelius, y
 meMA.Ode4C3T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C3T.mode = misc_en_UK_lash.Mode5
 meMA.Ode4C3T.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.TinTheianEnnoisas.name
-meMA.Ode4C3T.text = "Pure Virgin, above nature you have become the pure dwelling of the Father’s Wisdom; through whom we have now been delivered from the wickedness of the cunning one."
+meMA.Ode4C3T.text = "Pure Virgin, above nature you have become the pure dwelling of the Father's Wisdom; through whom we have now been delivered from the wickedness of the cunning one."
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
@@ -436,7 +436,7 @@ meMA.Ode6C32.text = "Illumined by the Spirit, High Priest Cornelius, you became 
 meMA.Ode6C33.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C33.mode = misc_en_UK_lash.Mode5
 meMA.Ode6C33.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.MainomeninKlydoni.name
-meMA.Ode6C33.text = "Blest Martyr, of old darkened by error, you rejected it by your entreaty, acknowledged the Lord and your whole household received God’s cleansing."
+meMA.Ode6C33.text = "Blest Martyr, of old darkened by error, you rejected it by your entreaty, acknowledged the Lord and your whole household received God's cleansing."
 
 meMA.Ode6C3T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C3T.mode = misc_en_UK_lash.Mode5
@@ -504,7 +504,7 @@ meMA.Ode7C31.text = "You have become the first fruit of the nations, Cornelius, 
 meMA.Ode7C32.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C32.mode = misc_en_UK_lash.Mode5
 meMA.Ode7C32.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.OYperypsoumenos.name
-meMA.Ode7C32.text = "Mighty wonders you performed by God’s grace; you caught for the faith those who before thought wrongly and taught them to sing: O God, blessed are you."
+meMA.Ode7C32.text = "Mighty wonders you performed by God's grace; you caught for the faith those who before thought wrongly and taught them to sing: O God, blessed are you."
 
 meMA.Ode7C33.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C33.mode = misc_en_UK_lash.Mode5
@@ -624,7 +624,7 @@ meMA.Ode9C1T.text = "Shine on me with the divine light, O Virgin, dwelling place
 meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C21.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LithosAcheirotmitos.name
-meMA.Ode9C21.text = "Come and contemplating with pure heart and sober spiritual eyes the loveliness of the Church, the King’s daughter, which shines brighter tan gold, let us magnify her."
+meMA.Ode9C21.text = "Come and contemplating with pure heart and sober spiritual eyes the loveliness of the Church, the King's daughter, which shines brighter tan gold, let us magnify her."
 
 meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C22.mode = misc_en_UK_lash.Mode4
@@ -676,7 +676,7 @@ meMA.Exaposteilarion2.text = "The Lord and God, willingly incarnate has worked s
 
 meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
 meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
-meMA.ExapTheotokion.text = "With gladness we cry ‘Hail’ to you, O Virgin; hail Adam’s redemption and Eve’s; hail through whom mortal nature has been exalted to the glory beyond the world of your Son and God; hail through whom he is ever worshipped in heaven by Angels, O all-praised Mary, Mother of God."
+meMA.ExapTheotokion.text = "With gladness we cry 'Hail' to you, O Virgin; hail Adam's redemption and Eve's; hail through whom mortal nature has been exalted to the glory beyond the world of your Son and God; hail through whom he is ever worshipped in heaven by Angels, O all-praised Mary, Mother of God."
 
 meMA.Lauds1.mode = misc_en_UK_lash.Mode4
 meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EdokasSimeiosin.name

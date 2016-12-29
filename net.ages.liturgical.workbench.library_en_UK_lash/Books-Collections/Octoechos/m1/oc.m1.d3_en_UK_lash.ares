@@ -2,7 +2,7 @@ A_Resource_Whose_Name = oc.m1.d3_en_UK_lash
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
-ocVE.Stichera1.text = "Wholly drowned in a sea of sins and held fast in an abyss of offences, I cry to you, Master supremely good, ‘Ransom me from troubles and from trials of many different kinds, and from the unquenchable fire’."
+ocVE.Stichera1.text = "Wholly drowned in a sea of sins and held fast in an abyss of offences, I cry to you, Master supremely good, 'Ransom me from troubles and from trials of many different kinds, and from the unquenchable fire'."
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
@@ -38,7 +38,7 @@ ocVE.Aposticha2.text = oc.m1.d2_en_UK_lash.ocVE.Aposticha2.text
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode1
 ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = "Your confession in the stadium, O Saints, routed the power of the demons and freed humankind from error. And so, as your heads were cut off, you cried, ‘May the sacrifice of our lives be acceptable to you, O Lord, because longing for you we despised this temporary life, O Lover of humankind’."
+ocVE.Aposticha3.text = "Your confession in the stadium, O Saints, routed the power of the demons and freed humankind from error. And so, as your heads were cut off, you cried, 'May the sacrifice of our lives be acceptable to you, O Lord, because longing for you we despised this temporary life, O Lover of humankind'."
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode1
 ocVE.AposTheotokion.melody = ""
@@ -70,11 +70,11 @@ ocMA.Kathisma22.text = oc.m1.d2_en_UK_lash.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma23.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
-ocMA.Kathisma23.text = "Put away, my soul, the sleep of sloth and light the bright lamp of repentance, and now go out, bidding farewell to the confusion of life, to meet the immortal Bridegroom, saying, ‘Accept and do not reject me, O Word, at the supplications of the one who gave you birth’."
+ocMA.Kathisma23.text = "Put away, my soul, the sleep of sloth and light the bright lamp of repentance, and now go out, bidding farewell to the confusion of life, to meet the immortal Bridegroom, saying, 'Accept and do not reject me, O Word, at the supplications of the one who gave you birth'."
 
 ocMA.Kathisma31.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
-ocMA.Kathisma31.text = "John, who of old baptized in Jordan’s streams the Purification of all the world, draw me out, who am drowned by many offences, and wash me clean of every kind of stain, as you ever entreat the Lover of humankind as an acceptable intercessor."
+ocMA.Kathisma31.text = "John, who of old baptized in Jordan's streams the Purification of all the world, draw me out, who am drowned by many offences, and wash me clean of every kind of stain, as you ever entreat the Lover of humankind as an acceptable intercessor."
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma32.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
@@ -82,7 +82,7 @@ ocMA.Kathisma32.text = "As good soldiers, believing with one accord, not trembli
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma33.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
-ocMA.Kathisma33.text = "John, leaping in his mother’s womb, by grace recognised God being carried in your womb, pure Virgin, and faithfully worshipped. But I implore you, O Virgin, with the Forerunner, entreat the Word, to whom you gave a body, that your servant may be saved."
+ocMA.Kathisma33.text = "John, leaping in his mother's womb, by grace recognised God being carried in your womb, pure Virgin, and faithfully worshipped. But I implore you, O Virgin, with the Forerunner, entreat the Word, to whom you gave a body, that your servant may be saved."
 
 ocMA.C1Acrostic.text = "of which the Acrostic, without the Theotokia, is: O Word, receive these words of mine. Joseph."
 
@@ -121,7 +121,7 @@ ocMA.OdeW1C1T.text = "As a throne formed of fire you bear the Creator; as a livi
 ocMA.OdeW1C21.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C21.ode = misc_en_UK_lash.Ode1
 ocMA.OdeW1C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
-ocMA.OdeW1C21.text = "You were called ‘Voice of the Word’, blest Saint. Therefore, O Forerunner, receive our voices that we bring to you, freeing us from evils by your mediation."
+ocMA.OdeW1C21.text = "You were called 'Voice of the Word', blest Saint. Therefore, O Forerunner, receive our voices that we bring to you, freeing us from evils by your mediation."
 
 ocMA.OdeW1C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C22.ode = misc_en_UK_lash.Ode1
@@ -161,7 +161,7 @@ ocMA.OdeW3C13.text = "The host of Bodiless Powers was truly amazed at your coura
 ocMA.OdeW3C14.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C14.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
-ocMA.OdeW3C14.text = "Still decked out with the blood from your wounds; still drenched in gore, O Champions, you stand beside the Lord, the immortal King, all garlanded with victors’ crowns."
+ocMA.OdeW3C14.text = "Still decked out with the blood from your wounds; still drenched in gore, O Champions, you stand beside the Lord, the immortal King, all garlanded with victors' crowns."
 
 ocMA.OdeW3C1T.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C1T.ode = misc_en_UK_lash.Ode3
@@ -196,7 +196,7 @@ ocMA.OdeW4C1H.text = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.text
 ocMA.OdeW4C11.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C11.ode = misc_en_UK_lash.Ode4
 ocMA.OdeW4C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EnPnevmatiProvlepon.name
-ocMA.OdeW4C11.text = "The wealth you gave me I have squandered wickedly, committing monstrous deeds and now am naked, clothed in the works of dishonour. And so I cry to you, ‘Make me radiant with robes, goading me to repentance by divine grace’."
+ocMA.OdeW4C11.text = "The wealth you gave me I have squandered wickedly, committing monstrous deeds and now am naked, clothed in the works of dishonour. And so I cry to you, 'Make me radiant with robes, goading me to repentance by divine grace'."
 
 ocMA.OdeW4C12.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C12.ode = misc_en_UK_lash.Ode4
@@ -251,7 +251,7 @@ ocMA.OdeW5C11.text = "I have been filled with many and grievous offences, longsu
 ocMA.OdeW5C12.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW5C12.ode = misc_en_UK_lash.Ode5
 ocMA.OdeW5C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
-ocMA.OdeW5C12.text = "You justified the Tax-collector, O Christ, when he sighed and groaned; therefore I too, imitating him, beat my breast and cry to you, ‘Have mercy on me, O only compassionate and pitying’."
+ocMA.OdeW5C12.text = "You justified the Tax-collector, O Christ, when he sighed and groaned; therefore I too, imitating him, beat my breast and cry to you, 'Have mercy on me, O only compassionate and pitying'."
 
 ocMA.OdeW5C13.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW5C13.ode = misc_en_UK_lash.Ode5
@@ -301,7 +301,7 @@ ocMA.OdeW6C11.text = "The bones of my wretched soul have been crushed, and I am 
 ocMA.OdeW6C12.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C12.ode = misc_en_UK_lash.Ode6
 ocMA.OdeW6C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
-ocMA.OdeW6C12.text = "Fallen into an ocean of dread deeds and the tempest of the passions, I cry out, ‘All-powerful Christ, bring me up with your mighty hand, and save me’."
+ocMA.OdeW6C12.text = "Fallen into an ocean of dread deeds and the tempest of the passions, I cry out, 'All-powerful Christ, bring me up with your mighty hand, and save me'."
 
 ocMA.OdeW6C13.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C13.ode = misc_en_UK_lash.Ode6
@@ -326,7 +326,7 @@ ocMA.OdeW6C21.text = "Baptist, who on earth proclaimed repentance, show me ways 
 ocMA.OdeW6C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C22.ode = misc_en_UK_lash.Ode6
 ocMA.OdeW6C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
-ocMA.OdeW6C22.text = "As you plunged the abyss in the river’s streams, dry up the abysses of my passions by granting me showers of tears, Forerunner, herald of Christ."
+ocMA.OdeW6C22.text = "As you plunged the abyss in the river's streams, dry up the abysses of my passions by granting me showers of tears, Forerunner, herald of Christ."
 
 ocMA.OdeW6C23.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C23.ode = misc_en_UK_lash.Ode6
@@ -436,7 +436,7 @@ ocMA.OdeW8C22.text = "By your way of life, Baptist John, you were revealed to be
 ocMA.OdeW8C23.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C23.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.name
-ocMA.OdeW8C23.text = "Your head was unjustly cut off, blest Saint, who plunged Christ’s head in the waters. By your prayers empower us all to trample under foot the destructive head of the deceiver."
+ocMA.OdeW8C23.text = "Your head was unjustly cut off, blest Saint, who plunged Christ's head in the waters. By your prayers empower us all to trample under foot the destructive head of the deceiver."
 
 ocMA.OdeW8C24.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C24.ode = misc_en_UK_lash.Ode8
@@ -446,7 +446,7 @@ ocMA.OdeW8C24.text = "Show us all, blest Saint, the paths that lead to the divin
 ocMA.OdeW8C2T.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C2T.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.name
-ocMA.OdeW8C2T.text = "Deliver me from foul sin, sin’s flame, punishing darkness, and the gnashing of teeth and the worm, O Virgin, only protection of the human race."
+ocMA.OdeW8C2T.text = "Deliver me from foul sin, sin's flame, punishing darkness, and the gnashing of teeth and the worm, O Virgin, only protection of the human race."
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
@@ -461,7 +461,7 @@ ocMA.OdeW9C11.text = "See, now is the moment of repentance and pure work! See, n
 ocMA.OdeW9C12.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C12.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
-ocMA.OdeW9C12.text = "Like the Tax-collector I groan, like the Harlot I weep, like the Thief I cry out, ‘Remember me, O Compassionate’, and like the Wastrel son I cry, ‘I have sinned!’. Like the Woman of Canaan I fall before you, ‘O merciful, do not despise me!’"
+ocMA.OdeW9C12.text = "Like the Tax-collector I groan, like the Harlot I weep, like the Thief I cry out, 'Remember me, O Compassionate', and like the Wastrel son I cry, 'I have sinned!'. Like the Woman of Canaan I fall before you, 'O merciful, do not despise me!'"
 
 ocMA.OdeW9C13.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C13.ode = misc_en_UK_lash.Ode9
@@ -471,7 +471,7 @@ ocMA.OdeW9C13.text = "You have been revealed as truly healers of sufferings of t
 ocMA.OdeW9C14.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C14.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
-ocMA.OdeW9C14.text = "The courage of the Christ’s wise Champions, blazing out more brightly than the rays of the sun, by grace abolished the prince of darkness, dispelled the night of godlessness and enlightened the hearts of believers."
+ocMA.OdeW9C14.text = "The courage of the Christ's wise Champions, blazing out more brightly than the rays of the sun, by grace abolished the prince of darkness, dispelled the night of godlessness and enlightened the hearts of believers."
 
 ocMA.OdeW9C1T.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1T.ode = misc_en_UK_lash.Ode9
@@ -486,7 +486,7 @@ ocMA.OdeW9C21.text = "See the lamp shining for those in the darkness of life, se
 ocMA.OdeW9C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C22.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
-ocMA.OdeW9C22.text = "As the Bridegroom’s friend I now put you forward as ambassador, O Baptist, and I, who have a multitude of sins, cry out to you, ‘Obtain the cancellation of my debts, All-blessed, and light the lamp of my soul, completely extinguished by indifference’."
+ocMA.OdeW9C22.text = "As the Bridegroom's friend I now put you forward as ambassador, O Baptist, and I, who have a multitude of sins, cry out to you, 'Obtain the cancellation of my debts, All-blessed, and light the lamp of my soul, completely extinguished by indifference'."
 
 ocMA.OdeW9C23.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C23.ode = misc_en_UK_lash.Ode9

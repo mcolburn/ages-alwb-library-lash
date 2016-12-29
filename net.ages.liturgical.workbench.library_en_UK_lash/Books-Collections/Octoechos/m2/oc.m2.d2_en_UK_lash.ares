@@ -6,11 +6,11 @@ ocVE.Stichera1.text = "Give me the thought of repentance, give too the desire fo
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.Stichera2.text = "O Christ, alone easy to be entreated, com­passionate Word, alone supremely good and alone forbearing, I fall before you, I fervently implore you; in sup­plication I cry to you, ‘I have sinned, save, save me, the Prodigal, in your compassion, that with thanksgiving I may cry: Lord, give me pardon, and I shall walk in your goodness’."
+ocVE.Stichera2.text = "O Christ, alone easy to be entreated, com­passionate Word, alone supremely good and alone forbearing, I fall before you, I fervently implore you; in sup­plication I cry to you, 'I have sinned, save, save me, the Prodigal, in your compassion, that with thanksgiving I may cry: Lord, give me pardon, and I shall walk in your goodness'."
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.Stichera3.text = "All that I have sinned against you, my God,  in words and deeds and in desires, all I confess, now I tell you all; for I have passed through the day and the whole time, but reached the night, full of wickedness; therefore I fall before you as I cry, ‘My Master, Master and Saviour, I have sinned, pardon and save me’."
+ocVE.Stichera3.text = "All that I have sinned against you, my God,  in words and deeds and in desires, all I confess, now I tell you all; for I have passed through the day and the whole time, but reached the night, full of wickedness; therefore I fall before you as I cry, 'My Master, Master and Saviour, I have sinned, pardon and save me'."
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
@@ -34,7 +34,7 @@ ocVE.Aposticha1.text = "I have sinned against you, O Saviour, like the Prodigal 
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.text = "I cry to you, Christ Saviour, with the words of the Publican, ‘Be merciful to me, as to him, and have mercy on me, O God’."
+ocVE.Aposticha2.text = "I cry to you, Christ Saviour, with the words of the Publican, 'Be merciful to me, as to him, and have mercy on me, O God'."
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha3.melody = ""
@@ -162,7 +162,7 @@ ocMA.OdeW3C13.text = "Walled about with the Cross, the invincible warriors and M
 ocMA.OdeW3C14.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C14.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C14.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.name
-ocMA.OdeW3C14.text = "Bracing your weakness by divine power, noble Champions, you handed over to utter destruction the adversary’s strength."
+ocMA.OdeW3C14.text = "Bracing your weakness by divine power, noble Champions, you handed over to utter destruction the adversary's strength."
 
 ocMA.OdeW3C1T.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C1T.ode = misc_en_UK_lash.Ode3
@@ -207,7 +207,7 @@ ocMA.OdeW4C13.text = "The time of life has become for me a labour of destruction
 ocMA.OdeW4C14.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C14.ode = misc_en_UK_lash.Ode4
 ocMA.OdeW4C14.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.YmnoSeAkoi.name
-ocMA.OdeW4C14.text = "The lawless one, being willingly the inventor of wickedness, tried to compel Christ’s Martyrs to offer worship to lifeless gods, but he was worsted, for they knew only God the creator."
+ocMA.OdeW4C14.text = "The lawless one, being willingly the inventor of wickedness, tried to compel Christ's Martyrs to offer worship to lifeless gods, but he was worsted, for they knew only God the creator."
 
 ocMA.OdeW4C15.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C15.ode = misc_en_UK_lash.Ode4
@@ -297,7 +297,7 @@ ocMA.OdeW6C11.text = "I was thrown down by the wickedness of the serpent and I l
 ocMA.OdeW6C12.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C12.ode = misc_en_UK_lash.Ode6
 ocMA.OdeW6C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
-ocMA.OdeW6C12.text = "Buffeted by the blasts of the dragon’s breath and tossed about from every side by the waves of sin, save me as you saved Peter, O Lord, Lover of mankind."
+ocMA.OdeW6C12.text = "Buffeted by the blasts of the dragon's breath and tossed about from every side by the waves of sin, save me as you saved Peter, O Lord, Lover of mankind."
 
 ocMA.OdeW6C13.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C13.ode = misc_en_UK_lash.Ode6
@@ -432,7 +432,7 @@ ocMA.OdeW9C1H.text = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.text
 ocMA.OdeW9C11.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C11.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEkTheouTheonLogon.name
-ocMA.OdeW9C11.text = "See, it is time for working. Why are you foolishly asleep, my soul, in total indolence? Rouse yourself, make your lamp bright with tears. Hurry, the Bridegroom of our souls is at hand. Do not be sluggish and do not stay outside God’s door."
+ocMA.OdeW9C11.text = "See, it is time for working. Why are you foolishly asleep, my soul, in total indolence? Rouse yourself, make your lamp bright with tears. Hurry, the Bridegroom of our souls is at hand. Do not be sluggish and do not stay outside God's door."
 
 ocMA.OdeW9C12.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C12.ode = misc_en_UK_lash.Ode9
@@ -467,7 +467,7 @@ ocMA.OdeW9C22.text = "You create, as Benefactor, every rational nature, as a sec
 ocMA.OdeW9C2T.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C2T.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.OlosYparcheisEfesis.name
-ocMA.OdeW9C2T.text = "When he perceived and was amazed by the brightness of your virginity, the godlike Chief Captain cried out to you his ‘Hail!’. And so we all magnify you as Mother of God."
+ocMA.OdeW9C2T.text = "When he perceived and was amazed by the brightness of your virginity, the godlike Chief Captain cried out to you his 'Hail!'. And so we all magnify you as Mother of God."
 
 ocMA.Aposticha1.mode = misc_en_UK_lash.Mode2
 ocMA.Aposticha1.melody = ""

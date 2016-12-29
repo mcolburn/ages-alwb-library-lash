@@ -6,7 +6,7 @@ ocVE.Stichera1.text = "Through goodness you brought all things into being, Lord,
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
-ocVE.Stichera2.text = "Learn, my wretched soul, of God’s kindness and the incorruptible fatherland, and ever hasten to obtain it by good works. Fix to yourself nothing of things which perish; your destiny is on high, while the body is earth and decays; may what is worse not defeat the better."
+ocVE.Stichera2.text = "Learn, my wretched soul, of God's kindness and the incorruptible fatherland, and ever hasten to obtain it by good works. Fix to yourself nothing of things which perish; your destiny is on high, while the body is earth and decays; may what is worse not defeat the better."
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
@@ -34,7 +34,7 @@ ocVE.Aposticha1.text = "Because I have sunk in the deep ocean of my transgressio
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode1
 ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.text = "Because I have been condemned, O Saviour, by my evil thoughts and deeds, grant me the idea of turning back, O God, that I may cry, ‘Save me, good Benefactor, and have mercy on me’."
+ocVE.Aposticha2.text = "Because I have been condemned, O Saviour, by my evil thoughts and deeds, grant me the idea of turning back, O God, that I may cry, 'Save me, good Benefactor, and have mercy on me'."
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode1
 ocVE.Aposticha3.melody = ""
@@ -62,7 +62,7 @@ ocMA.Kathisma13.text = "Immaculate Mother of God, blessed in heaven and glorifie
 
 ocMA.Kathisma21.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
-ocMA.Kathisma21.text = "Make haste and open to me your fatherly embrace. Like the Profligate I have squandered my whole livelihood. As I look to the inexhaustible wealth of your mercy, do not now despise my beggared heart, for to you, Lord, with compunction I cry, 'I have sinned against you. Save me!'" //Hasten to open to me your fatherly embrace; like the Wastrel I have squandered my whole life, turning from your pity, O Saviour, to wealth which cannot be spent; do not now despise my beggared heart; for to you, Lord, with compunction I cry, ‘I have sinned against you, save me!’
+ocMA.Kathisma21.text = "Make haste and open to me your fatherly embrace. Like the Profligate I have squandered my whole livelihood. As I look to the inexhaustible wealth of your mercy, do not now despise my beggared heart, for to you, Lord, with compunction I cry, 'I have sinned against you. Save me!'" //Hasten to open to me your fatherly embrace; like the Wastrel I have squandered my whole life, turning from your pity, O Saviour, to wealth which cannot be spent; do not now despise my beggared heart; for to you, Lord, with compunction I cry, 'I have sinned against you, save me!'
 
 ocMA.Kathisma22.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma22.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
@@ -123,7 +123,7 @@ ocMA.OdeW1C1T.text = "Drawn up with us, ranks of Bodiless Powers sing your prais
 ocMA.OdeW1C21.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C21.ode = misc_en_UK_lash.Ode1
 ocMA.OdeW1C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SouITropaiouchos.name
-ocMA.OdeW1C21.text = "As you stand in splendour by the Master’s throne, all-holy Angels, implore the One who with his Father is without beginning and the Angel of his great counsel to inspire my word as I sing your praise."
+ocMA.OdeW1C21.text = "As you stand in splendour by the Master's throne, all-holy Angels, implore the One who with his Father is without beginning and the Angel of his great counsel to inspire my word as I sing your praise."
 
 ocMA.OdeW1C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C22.ode = misc_en_UK_lash.Ode1
@@ -173,12 +173,12 @@ ocMA.OdeW3C21.text = "The Seraphim, drawing near immediately to the deifying Lig
 ocMA.OdeW3C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C22.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
-ocMA.OdeW3C22.text = "Aiming to hymn with zeal the Angels’ radiance, let us believers, with purity of mind and unpolluted mouths, through them ask for help from God, and may we attain their brilliance."
+ocMA.OdeW3C22.text = "Aiming to hymn with zeal the Angels' radiance, let us believers, with purity of mind and unpolluted mouths, through them ask for help from God, and may we attain their brilliance."
 
 ocMA.OdeW3C2T.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C2T.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OMonosEidos.name
-ocMA.OdeW3C2T.text = "Found worthy as is right to see the Mind beyond all being, Gabriel brought to you, Virgin all-blameless, a message full of the joy, openly declaring to you the Word’s conception, and proclaiming your ineffable giving birth."
+ocMA.OdeW3C2T.text = "Found worthy as is right to see the Mind beyond all being, Gabriel brought to you, Virgin all-blameless, a message full of the joy, openly declaring to you the Word's conception, and proclaiming your ineffable giving birth."
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
@@ -213,7 +213,7 @@ ocMA.OdeW4C1T.text = "The Son, who of old was born of the Father who is unbegott
 ocMA.OdeW4C21.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C21.ode = misc_en_UK_lash.Ode4
 ocMA.OdeW4C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OrosSeTiChariti.name
-ocMA.OdeW4C21.text = "The Thrones, who fill the first order, the Cherubim and Seraphim shine unceasingly with the rays of the Godhead, while ranked with divine Hierarchies, they now sing, ‘Glory to your power, O Lord!’"
+ocMA.OdeW4C21.text = "The Thrones, who fill the first order, the Cherubim and Seraphim shine unceasingly with the rays of the Godhead, while ranked with divine Hierarchies, they now sing, 'Glory to your power, O Lord!'"
 
 ocMA.OdeW4C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C22.ode = misc_en_UK_lash.Ode4
@@ -480,7 +480,7 @@ ocMA.Aposticha2.text = "Do not reject me, held fast by sloth, my Saviour. Rouse 
 
 ocMA.Aposticha3.mode = misc_en_UK_lash.Mode1
 ocMA.Aposticha3.melody = ""
-ocMA.Aposticha3.text = "Come, all you peoples, and let us honour with hymns and spirituals songs Christ’s Champions, the beacons of the world and heralds of the Faith, the ever-flowing source from which healings spring up for the faithful. At their intercessions, Christ our God, grant peace to your world and to our souls your great mercy."
+ocMA.Aposticha3.text = "Come, all you peoples, and let us honour with hymns and spirituals songs Christ's Champions, the beacons of the world and heralds of the Faith, the ever-flowing source from which healings spring up for the faithful. At their intercessions, Christ our God, grant peace to your world and to our souls your great mercy."
 
 ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode1
 ocMA.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name

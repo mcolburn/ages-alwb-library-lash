@@ -16,7 +16,7 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
 meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
-meVE.Stichera01.text = "Revealed as a brightly shining attendant of the three-sunned Godhead, Michael, Chief Captain of the Powers on high, you cry aloud with joy, ‘Holy are you, O Father, Holy, O Son like him without beginning, Holy also, O Holy Spirit; one glory, one kingship, one nature, one Godhead and power’."
+meVE.Stichera01.text = "Revealed as a brightly shining attendant of the three-sunned Godhead, Michael, Chief Captain of the Powers on high, you cry aloud with joy, 'Holy are you, O Father, Holy, O Son like him without beginning, Holy also, O Holy Spirit; one glory, one kingship, one nature, one Godhead and power'."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
 meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
@@ -29,11 +29,11 @@ meVE.Stichera03.text = "As it is written, Lord, you make your Angels spirits and
 meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Rejoice with us, all you leaders of the Angels, for your commander and our champion, the great Chief Captain, hallows this present day as he appears in his holy place. Therefore as is fitting we sing his praises as we cry out, ‘Shelter us in the shelter of your wings, great Archangel Michael’."
+meVE.SticGlory.text = "Rejoice with us, all you leaders of the Angels, for your commander and our champion, the great Chief Captain, hallows this present day as he appears in his holy place. Therefore as is fitting we sing his praises as we cry out, 'Shelter us in the shelter of your wings, great Archangel Michael'."
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.text = "Rejoice with us, all you choirs of Virgins, for our defence and intercessor, protection and great refuge by her revered and godlike concern brings comfort on this present day to the afflicted. Therefore as is fitting we sing her praises as we cry out, ‘Shelter us by your godlike protection, all-pure Lady, Mother of God’."
+meVE.SticTheotokion.text = "Rejoice with us, all you choirs of Virgins, for our defence and intercessor, protection and great refuge by her revered and godlike concern brings comfort on this present day to the afflicted. Therefore as is fitting we sing her praises as we cry out, 'Shelter us by your godlike protection, all-pure Lady, Mother of God'."
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
 meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
@@ -58,7 +58,7 @@ meVE.Apolytikion1.text = "Chief Captain of the heavenly armies, we the unworthy 
 
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
-meMA.Kathisma11.text = "As we frequent your revered temple and in it devoutly magnify you as leader of the immaterial hosts, with faith we beseech you, godlike Chief Captain, ‘Rescue us all from the tyranny of enemies, and deliver us from the future threat and from Gehenna by your entreaties’."
+meMA.Kathisma11.text = "As we frequent your revered temple and in it devoutly magnify you as leader of the immaterial hosts, with faith we beseech you, godlike Chief Captain, 'Rescue us all from the tyranny of enemies, and deliver us from the future threat and from Gehenna by your entreaties'."
 
 meMA.Kathisma1T.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma1T.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
@@ -66,7 +66,7 @@ meMA.Kathisma1T.text = "May we, the unworthy, never cease to speak of your acts 
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
-meMA.Kathisma21.text = "Chief Captain of the bodiless ministers, you stand in God’s presence and shine with the radiance that comes from there; make bright and sanctify those who faithfully sing your praise, deliver them from every tyranny of the foe and ask for a peaceful life for the Rulers and for all the ends of the earth."
+meMA.Kathisma21.text = "Chief Captain of the bodiless ministers, you stand in God's presence and shine with the radiance that comes from there; make bright and sanctify those who faithfully sing your praise, deliver them from every tyranny of the foe and ask for a peaceful life for the Rulers and for all the ends of the earth."
 
 meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma2T.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
@@ -120,7 +120,7 @@ meMA.Ode1C23.text = "Let us all sing the praise of the loving Lord who has given
 meMA.Ode1C24.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C24.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C24.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ToOdigisantiPalai.name
-meMA.Ode1C24.text = "By your godlike care you ever render your godlike house a place of propitiation for sinners, a refuge for the wronged and a place that puts all diseases to flight, O first of God’s angels."
+meMA.Ode1C24.text = "By your godlike care you ever render your godlike house a place of propitiation for sinners, a refuge for the wronged and a place that puts all diseases to flight, O first of God's angels."
 
 meMA.Ode1C25.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C25.mode = misc_en_UK_lash.Mode4
@@ -130,7 +130,7 @@ meMA.Ode1C25.text = "Crush the children of Hagar without ceasing who are roused 
 meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ToOdigisantiPalai.name
-meMA.Ode1C2T.text = "It is a wonder beyond understanding how God the incomprehensible has been made one with mortals by being born hypostatically from you in the flesh, O Virgin who knew not wedlock, saving me who had been made subject to corruption by the serpent’s fraud."
+meMA.Ode1C2T.text = "It is a wonder beyond understanding how God the incomprehensible has been made one with mortals by being born hypostatically from you in the flesh, O Virgin who knew not wedlock, saving me who had been made subject to corruption by the serpent's fraud."
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
@@ -184,7 +184,7 @@ meMA.Ode3C2T.text = "Daniel describes you as a great mountain, O Immaculate, whi
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
 meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
-meMA.Ode3Kathisma1.text = "Having by the Creator’s command become the leader of the heavenly hosts and minister of the divine glory, you are a saving mediator for Christians, taking them from dangers by you immaterial glory; therefore as it fitting we all praise you as we hymn your godlike festival, Michael, Chief Captain. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your godlike wonders."
+meMA.Ode3Kathisma1.text = "Having by the Creator's command become the leader of the heavenly hosts and minister of the divine glory, you are a saving mediator for Christians, taking them from dangers by you immaterial glory; therefore as it fitting we all praise you as we hymn your godlike festival, Michael, Chief Captain. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your godlike wonders."
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
 meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Automelon
@@ -213,7 +213,7 @@ meMA.Ode4C1T.text = "Of old the Revealer of sacred mysteries was initiated in mi
 meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C21.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AkikoenOProfitis.name
-meMA.Ode4C21.text = "As of old you put to flight the horde of Sennachirim’s people by your godlike ordinance, so smash the children of Hagar who war and descend on the faithful people, Michael Chief Captain."
+meMA.Ode4C21.text = "As of old you put to flight the horde of Sennachirim's people by your godlike ordinance, so smash the children of Hagar who war and descend on the faithful people, Michael Chief Captain."
 
 meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C22.mode = misc_en_UK_lash.Mode4
@@ -238,7 +238,7 @@ meMA.Ode4C25.text = "You appeared as a pillar of fire to godly minded Archippos,
 meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C2T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.AkikoenOProfitis.name
-meMA.Ode4C2T.text = "Gabriel came bringing you the ‘Hail’ from on high, O All-pure; with him therefore we cry aloud: Hail Gate, through which Christ alone has passed, the God who saves humanity."
+meMA.Ode4C2T.text = "Gabriel came bringing you the 'Hail' from on high, O All-pure; with him therefore we cry aloud: Hail Gate, through which Christ alone has passed, the God who saves humanity."
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
@@ -313,7 +313,7 @@ meMA.Ode6C1T.text = "Blessed the people who ever calls you blessed, O blessed on
 meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C21.mode = misc_en_UK_lash.Mode4
 meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ZaliMeLogismon.name
-meMA.Ode6C21.text = "Those who of old wished to obliterate by a river’s streams the water of blessing which you, Archangel, had granted, you rendered ineffectual by your fearsome visitation."
+meMA.Ode6C21.text = "Those who of old wished to obliterate by a river's streams the water of blessing which you, Archangel, had granted, you rendered ineffectual by your fearsome visitation."
 
 meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C22.mode = misc_en_UK_lash.Mode4
@@ -342,7 +342,7 @@ meMA.Ode6C2T.text = "The Prophet foresaw you as a volume in which the Word was w
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
 meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered //""
-meMA.Kontakion1.text = "Chief Captain of God, Minister of divine glory, guide of mankind and Prince of the Bodiless Powers, ask for what is for our good and for God’s great mercy, as Chief Captain of the Bodiless Powers."
+meMA.Kontakion1.text = "Chief Captain of God, Minister of divine glory, guide of mankind and Prince of the Bodiless Powers, ask for what is for our good and for God's great mercy, as Chief Captain of the Bodiless Powers."
 
 meMA.Oikos1.text = "You said in the Scriptures, immortal Lover of mankind, that multitudes of Angels rejoice over one person who does penance. We therefore in our iniquities, O only sinless One who knows the heart, dare each day to beseech you, as you compassionate, to take pity on us and send down to us compunction, unworthy though we are, granting us pardon, Master. For on behalf of us all there intercedes the Chief Captain of the Bodiless Powers."
 
@@ -416,7 +416,7 @@ meMA.Ode8C13.text = "As skilled pilots, O Archangels, guide safely to the haven 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LytrotaTouPantos.name
-meMA.Ode8C1T.text = "As bridal escort the godlike Archangel came and addressed with his ‘Hail!’, O Bride of God without bridegroom, the glory of the Angels and the protection and wall of defence of humans."
+meMA.Ode8C1T.text = "As bridal escort the godlike Archangel came and addressed with his 'Hail!', O Bride of God without bridegroom, the glory of the Angels and the protection and wall of defence of humans."
 
 meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C21.mode = misc_en_UK_lash.Mode4
@@ -509,7 +509,7 @@ meMA.Exaposteilarion1.text = "All humanity, assemble together and see; contempla
 
 meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
 meMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
-meMA.ExapTheotokion.text = "Alas, wretch that I am, through my incontinence of old I was thrust from the greater image in which I shared by God’s action. But you, O Christ, in your compassion, ineffably became my fellow and shared that which worse, renewing me, O Saviour, from virgin blood."
+meMA.ExapTheotokion.text = "Alas, wretch that I am, through my incontinence of old I was thrust from the greater image in which I shared by God's action. But you, O Christ, in your compassion, ineffably became my fellow and shared that which worse, renewing me, O Saviour, from virgin blood."
 
 meMA.Lauds1.mode = misc_en_UK_lash.Mode1
 meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name

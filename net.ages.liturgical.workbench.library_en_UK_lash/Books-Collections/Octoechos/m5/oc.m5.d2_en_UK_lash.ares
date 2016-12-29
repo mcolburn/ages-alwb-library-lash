@@ -22,7 +22,7 @@ ocVE.Stichera5.text = "The Evil One, who at first shone with you as the Morning 
 
 ocVE.Stichera6.mode = misc_en_UK_lash.Mode5
 ocVE.Stichera6.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
-ocVE.Stichera6.text = "I should have become in accordance with God’s image and been numbered with you, and not, alas, bowed down entirely to the evil foe; but by the advice of the boaster I did not rival you, I spurned the commandment and fell from the honour of the Maker, O Archangels, and I am dragged down by slavery. Nevertheless, seeing me wholly yielded to the passions, give me your hand to the path which bears me upwards, as you beg that I may find salvation and the ancient glory of my beauty."
+ocVE.Stichera6.text = "I should have become in accordance with God's image and been numbered with you, and not, alas, bowed down entirely to the evil foe; but by the advice of the boaster I did not rival you, I spurned the commandment and fell from the honour of the Maker, O Archangels, and I am dragged down by slavery. Nevertheless, seeing me wholly yielded to the passions, give me your hand to the path which bears me upwards, as you beg that I may find salvation and the ancient glory of my beauty."
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode5
 ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.ChairoisAskitikon.name
@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = "Despising all the things of earth and bravely facing tor
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode5
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = "Fearful, marvellous and great the mystery! The Uncontainable was contained in a womb, and the Mother after child-birth remained still a virgin; for she gave birth to God, incarnate from her. To him let us cry, to him let us speak our praise, as with the Angels we sing out: ‘Holy are you, Christ God, who became man for our sake; glory to you!’"
+ocVE.AposTheotokion.text = "Fearful, marvellous and great the mystery! The Uncontainable was contained in a womb, and the Mother after child-birth remained still a virgin; for she gave birth to God, incarnate from her. To him let us cry, to him let us speak our praise, as with the Angels we sing out: 'Holy are you, Christ God, who became man for our sake; glory to you!'"
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode5
 ocVE.ApolTheotokionVM.melody = ""
@@ -74,7 +74,7 @@ ocMA.Kathisma23.text = "O All-blameless, holier than the Cherubim and higher tha
 
 ocMA.Kathisma31.mode = misc_en_UK_lash.Mode5
 ocMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
-ocMA.Kathisma31.text = "I tremble at the fearful judgement, and I shudder at the Judge’s righteous sentence; for my conscience ever questions me; but living with indifference I am at a loss and I quail. By your holy prayers, Archangels, who watch over believers, rescue me from the fire."
+ocMA.Kathisma31.text = "I tremble at the fearful judgement, and I shudder at the Judge's righteous sentence; for my conscience ever questions me; but living with indifference I am at a loss and I quail. By your holy prayers, Archangels, who watch over believers, rescue me from the fire."
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode5
 ocMA.Kathisma32.melody = ""
@@ -82,7 +82,7 @@ ocMA.Kathisma32.text = "The memory of the Champions shines today, for it takes i
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode5
 ocMA.Kathisma33.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.TonSynanarchonLogon.name
-ocMA.Kathisma33.text = "Gabriel marvellously brought to you on earth heaven’s Hail; for seeing the Maker of the Angels incarnate in you, he sang you the song of joy, O Honoured One; through it teaching mortals that you the only cause of joy have appeared to all mankind."
+ocMA.Kathisma33.text = "Gabriel marvellously brought to you on earth heaven's Hail; for seeing the Maker of the Angels incarnate in you, he sang you the song of joy, O Honoured One; through it teaching mortals that you the only cause of joy have appeared to all mankind."
 
 ocMA.C1Poet = poets_en_UK_lash.KyriouIosif
 ocMA.C1Acrostic.text = "of which the Acrostic is: Take pity, O Word, on one who has much offended you. Joseph."
@@ -153,7 +153,7 @@ ocMA.OdeW3C12.text = "Because I have sinned in knowledge and in ignorance, I com
 ocMA.OdeW3C13.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW3C13.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C13.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.EpiTaEthni.name
-ocMA.OdeW3C13.text = "That you might put to death the living sin and prove the foe was dead, you had no thought, blest Martyrs, for your bodies’ death."
+ocMA.OdeW3C13.text = "That you might put to death the living sin and prove the foe was dead, you had no thought, blest Martyrs, for your bodies' death."
 
 ocMA.OdeW3C14.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW3C14.ode = misc_en_UK_lash.Ode3
@@ -243,7 +243,7 @@ ocMA.OdeW5C13.text = "Tempered by the coals of love, you were revealed, Champion
 ocMA.OdeW5C14.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW5C14.ode = misc_en_UK_lash.Ode5
 ocMA.OdeW5C14.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.ToFosToAlithinon.name
-ocMA.OdeW5C14.text = "Being unenslaved to the foe, O Champions, you enslaved him and appeared as Christ’s true friends."
+ocMA.OdeW5C14.text = "Being unenslaved to the foe, O Champions, you enslaved him and appeared as Christ's true friends."
 
 ocMA.OdeW5C1T.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW5C1T.ode = misc_en_UK_lash.Ode5
@@ -333,7 +333,7 @@ ocMA.OdeW7C14.text = "You gave the wise Champions strength to undergo countless 
 ocMA.OdeW7C1T.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW7C1T.ode = misc_en_UK_lash.Ode7
 ocMA.OdeW7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.EvlogitosEiOTheos.name
-ocMA.OdeW7C1T.text = "Blessed are you, O God, who stole into a Virgin’s womb and saved mankind, highly praised and highly exalted."
+ocMA.OdeW7C1T.text = "Blessed are you, O God, who stole into a Virgin's womb and saved mankind, highly praised and highly exalted."
 
 ocMA.OdeW7C21.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW7C21.ode = misc_en_UK_lash.Ode7
@@ -363,7 +363,7 @@ ocMA.OdeW8C11.text = "Through transgressions I have become a corpse, give me lif
 ocMA.OdeW8C12.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW8C12.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C12.melody = misc_en_UK_lash.NotMetered //he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.name
-ocMA.OdeW8C12.text = "Make me shine by repentance, deliver me from sin’s darkness, Lord, that I may glorify you to all the ages."
+ocMA.OdeW8C12.text = "Make me shine by repentance, deliver me from sin's darkness, Lord, that I may glorify you to all the ages."
 
 ocMA.OdeW8C13.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW8C13.ode = misc_en_UK_lash.Ode8

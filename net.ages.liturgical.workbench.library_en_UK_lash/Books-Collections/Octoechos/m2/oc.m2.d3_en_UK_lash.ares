@@ -6,11 +6,11 @@ ocVE.Stichera1.text = "O Christ, alone without sin, alone forbearing, alone sour
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.Stichera2.text = "Look, O my miserable soul, see your deeds, how utterly defiled they are; see your nakedness, alas, and your isolation, for you are about to be parted from God and Angels and cast into unending torment. Be vigilant, rouse yourself, hurry, cry out, ‘I have sinned, O Saviour, grant me pardon and save me’."
+ocVE.Stichera2.text = "Look, O my miserable soul, see your deeds, how utterly defiled they are; see your nakedness, alas, and your isolation, for you are about to be parted from God and Angels and cast into unending torment. Be vigilant, rouse yourself, hurry, cry out, 'I have sinned, O Saviour, grant me pardon and save me'."
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.Stichera3.text = "I have dreadfully defiled my body, I have corrupted my soul and heart with foul thoughts; I have wounded all my senses, I have befouled my eyes, stained my ears, polluted my tongue with words, and I possess all that is base. Therefore I fall down before you and cry, ‘Master Christ, I have sinned, I have sinned. Pardon and save me’."
+ocVE.Stichera3.text = "I have dreadfully defiled my body, I have corrupted my soul and heart with foul thoughts; I have wounded all my senses, I have befouled my eyes, stained my ears, polluted my tongue with words, and I possess all that is base. Therefore I fall down before you and cry, 'Master Christ, I have sinned, I have sinned. Pardon and save me'."
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
@@ -50,7 +50,7 @@ ocVE.ApolTheotokionVM.text = oc.m2.d5_en_UK_lash.ocMA.Kathisma13.text
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma11.melody = ""
-ocMA.Kathisma11.text = "My soul, when you think on the examination of that dread day, tremble at the reward of eternal punishment, and with tears cry out in repentance, ‘O God, I have sinned, have mercy on me!’"
+ocMA.Kathisma11.text = "My soul, when you think on the examination of that dread day, tremble at the reward of eternal punishment, and with tears cry out in repentance, 'O God, I have sinned, have mercy on me!'"
 
 ocMA.Kathisma12.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma12.melody = ""
@@ -74,7 +74,7 @@ ocMA.Kathisma23.text = "Mother of God, do not despise as I entreat help from you
 
 ocMA.Kathisma31.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.EfsplagchniasYparchousa.name
-ocMA.Kathisma31.text = "You plunged in Jordan’s streams, John, the ungrudging Source of compassion; therefore I implore you insistently, by your acceptable prayers lead me, who with many passions am being fearfully drowned each day by the ocean of life, to the harbour of life."
+ocMA.Kathisma31.text = "You plunged in Jordan's streams, John, the ungrudging Source of compassion; therefore I implore you insistently, by your acceptable prayers lead me, who with many passions am being fearfully drowned each day by the ocean of life, to the harbour of life."
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma32.melody = ""
@@ -106,7 +106,7 @@ ocMA.OdeW1C12.text = "Ten thousand times, O Christ, I have promised to repent an
 ocMA.OdeW1C13.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW1C13.ode = misc_en_UK_lash.Ode1
 ocMA.OdeW1C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinMoseosOdin.name
-ocMA.OdeW1C13.text = "Christ’s Champions, who endured the fire of tortures with God’s refreshing dew, rescue me, subject to dread passions, from the fire of Gehenna."
+ocMA.OdeW1C13.text = "Christ's Champions, who endured the fire of tortures with God's refreshing dew, rescue me, subject to dread passions, from the fire of Gehenna."
 
 ocMA.OdeW1C14.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW1C14.ode = misc_en_UK_lash.Ode1
@@ -136,7 +136,7 @@ ocMA.OdeW1C23.text = "All-wise Baptist, you once plunged in the river the Deep w
 ocMA.OdeW1C2T.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW1C2T.ode = misc_en_UK_lash.Ode1
 ocMA.OdeW1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnVythoKatestrose.name
-ocMA.OdeW1C2T.text = "Blessed Forerunner, you were the kinsman of the pure Virgin who gave God a body. With her we honour you and we, who now walk within your holy place, implore, ‘Make us houses of the Spirit’."
+ocMA.OdeW1C2T.text = "Blessed Forerunner, you were the kinsman of the pure Virgin who gave God a body. With her we honour you and we, who now walk within your holy place, implore, 'Make us houses of the Spirit'."
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
@@ -176,7 +176,7 @@ ocMA.OdeW3C21.text = "Heal the wounds of my soul, fill my mind, darkened by indi
 ocMA.OdeW3C22.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C22.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
-ocMA.OdeW3C22.text = "Brought to birth by God’s foreknowledge, wise Prophet, you released the one who gave you birth from barrenness. Therefore, Forerunner of the Lord, now make my barren heart fruitful, bearing shoots of virtues."
+ocMA.OdeW3C22.text = "Brought to birth by God's foreknowledge, wise Prophet, you released the one who gave you birth from barrenness. Therefore, Forerunner of the Lord, now make my barren heart fruitful, bearing shoots of virtues."
 
 ocMA.OdeW3C23.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C23.ode = misc_en_UK_lash.Ode3
@@ -186,7 +186,7 @@ ocMA.OdeW3C23.text = "Baptist and Forerunner, implore that the godly house, cons
 ocMA.OdeW3C2T.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C2T.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
-ocMA.OdeW3C2T.text = "The Forerunner, carried in his mother’s womb, rejoices and he worshipped the lord, carried in your womb, O Full of God’s grace. Intercede with him that I may be rescued from every affliction."
+ocMA.OdeW3C2T.text = "The Forerunner, carried in his mother's womb, rejoices and he worshipped the lord, carried in your womb, O Full of God's grace. Intercede with him that I may be rescued from every affliction."
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
@@ -226,12 +226,12 @@ ocMA.OdeW4C21.text = "You bowed beneath your right hand, all-blessed Saint, the 
 ocMA.OdeW4C22.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C22.ode = misc_en_UK_lash.Ode4
 ocMA.OdeW4C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
-ocMA.OdeW4C22.text = "The pathless desert had you as a citizen, blessed Forerunner. Therefore I cry to you, ‘Keep safe my soul, which has become a desert of any godly deed.’"
+ocMA.OdeW4C22.text = "The pathless desert had you as a citizen, blessed Forerunner. Therefore I cry to you, 'Keep safe my soul, which has become a desert of any godly deed.'"
 
 ocMA.OdeW4C23.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C23.ode = misc_en_UK_lash.Ode4
 ocMA.OdeW4C23.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.ElilythasEkParthenou.name
-ocMA.OdeW4C23.text = "For defending God’s law you were lawlessly destroyed. Therefore I implore you, set me to rights, who always transgress the law and am entrapped by the wiles of the demons."
+ocMA.OdeW4C23.text = "For defending God's law you were lawlessly destroyed. Therefore I implore you, set me to rights, who always transgress the law and am entrapped by the wiles of the demons."
 
 ocMA.OdeW4C24.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C24.ode = misc_en_UK_lash.Ode4
@@ -256,7 +256,7 @@ ocMA.OdeW5C11.text = "Foolishly I join sins to sins and there is no looking upwa
 ocMA.OdeW5C12.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW5C12.ode = misc_en_UK_lash.Ode5
 ocMA.OdeW5C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.name
-ocMA.OdeW5C12.text = "Having suffered shipwreck as on a voyage, I have lost the cargo that you gave me, O Compassionate, and now in poverty I cry, ‘Do not despise me, O Christ!’"
+ocMA.OdeW5C12.text = "Having suffered shipwreck as on a voyage, I have lost the cargo that you gave me, O Compassionate, and now in poverty I cry, 'Do not despise me, O Christ!'"
 
 ocMA.OdeW5C13.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW5C13.ode = misc_en_UK_lash.Ode5
@@ -306,7 +306,7 @@ ocMA.OdeW6C1H.text = he.h.m2_en_UK_lash.VythoAmartimaton.text
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C11.ode = misc_en_UK_lash.Ode6
 ocMA.OdeW6C11.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.VythoAmartimaton.name
-ocMA.OdeW6C11.text = "Like the woman of Canaan of old, I cry out to you, Saviour, ‘Son of God, have mercy on me, take pity! For I have a soul that is suffering grievously and does not of itself wish to come to its senses.’"
+ocMA.OdeW6C11.text = "Like the woman of Canaan of old, I cry out to you, Saviour, 'Son of God, have mercy on me, take pity! For I have a soul that is suffering grievously and does not of itself wish to come to its senses.'"
 
 ocMA.OdeW6C12.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C12.ode = misc_en_UK_lash.Ode6
@@ -416,7 +416,7 @@ ocMA.OdeW8C12.text = "You are the good Shepherd, O Word, turn back my wretched s
 ocMA.OdeW8C13.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C13.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C13.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonEnTiVatoMosi.name
-ocMA.OdeW8C13.text = "‘Let us stand bravely together’, the joyful Champions cried to one another, as they were being savagely tortured. ‘See Christ is holding out the crowns of victory to all the ages.’"
+ocMA.OdeW8C13.text = "'Let us stand bravely together', the joyful Champions cried to one another, as they were being savagely tortured. 'See Christ is holding out the crowns of victory to all the ages.'"
 
 ocMA.OdeW8C14.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C14.ode = misc_en_UK_lash.Ode8
@@ -436,7 +436,7 @@ ocMA.OdeW8C21.text = "Give me your right hand as I lie on the ground, O Forerunn
 ocMA.OdeW8C22.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C22.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C22.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.KaminosPote.name
-ocMA.OdeW8C22.text = "Soul, you have an opportunity to repent, shake off the heavy sleep of indifference, and with haste keep awake, crying out to the Master, ‘At the intercessions of the Baptist take pity on me, O Compassionate!’"
+ocMA.OdeW8C22.text = "Soul, you have an opportunity to repent, shake off the heavy sleep of indifference, and with haste keep awake, crying out to the Master, 'At the intercessions of the Baptist take pity on me, O Compassionate!'"
 
 ocMA.OdeW8C23.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C23.ode = misc_en_UK_lash.Ode8
@@ -466,7 +466,7 @@ ocMA.OdeW9C11.text = "How dreadful is your tribunal, at which I wait to be judge
 ocMA.OdeW9C12.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C12.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C12.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.TonGigenonTisIkouse.name
-ocMA.OdeW9C12.text = "‘Put a stop, O Christ’, I cry out to you, ‘to the steams of my unnumbered evils, by granting me showers of tears that wash away the defilement that I acquired through folly. And save me, you who in mercy saved the harlot when she repented from her soul.’"
+ocMA.OdeW9C12.text = "'Put a stop, O Christ', I cry out to you, 'to the steams of my unnumbered evils, by granting me showers of tears that wash away the defilement that I acquired through folly. And save me, you who in mercy saved the harlot when she repented from her soul.'"
 
 ocMA.OdeW9C13.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C13.ode = misc_en_UK_lash.Ode9
@@ -506,7 +506,7 @@ ocMA.OdeW9C24.text = "To us who love you and who honour you with love and circle
 ocMA.OdeW9C2T.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C2T.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m2_en_UK_lash.AnarchouGennitoros.name
-ocMA.OdeW9C2T.text = "As he was being carried in the womb of God’s Mother, you worshipped the One who carries the universe by his will. With her, O Prophet, entreat that my miserable soul, which daily falls into many offences, may be saved."
+ocMA.OdeW9C2T.text = "As he was being carried in the womb of God's Mother, you worshipped the One who carries the universe by his will. With her, O Prophet, entreat that my miserable soul, which daily falls into many offences, may be saved."
 
 ocMA.Aposticha1.mode = misc_en_UK_lash.Mode2
 ocMA.Aposticha1.melody = ""
@@ -522,7 +522,7 @@ ocMA.Aposticha3.text = "Accepting the Cross of Christ, an invincible weapon, the
 
 ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode2
 ocMA.AposTheotokion.melody = ""
-ocMA.AposTheotokion.text = "Hail Mary, Mother of God, Temple that cannot be destroyed, but rather is Holy, as the Prophet cried, ‘Holy is your Temple, wonderful in righteousness’."
+ocMA.AposTheotokion.text = "Hail Mary, Mother of God, Temple that cannot be destroyed, but rather is Holy, as the Prophet cried, 'Holy is your Temple, wonderful in righteousness'."
 
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode2
 ocMA.ApolTheotokion.melody = ""

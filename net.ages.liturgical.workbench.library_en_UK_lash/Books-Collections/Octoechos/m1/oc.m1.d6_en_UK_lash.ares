@@ -10,7 +10,7 @@ ocVE.Stichera2.text = "Hardened in heart, wholly in despair with evil thoughts a
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
-ocVE.Stichera3.text = "We boast in your Cross, O merciful Christ; and, as through it we utterly destroy the enemy’s deceit, we sing your praise without ceasing: for willingly lifted up on it in your goodness, O Compassionate, you have wrought our salvation in the midst of the earth."
+ocVE.Stichera3.text = "We boast in your Cross, O merciful Christ; and, as through it we utterly destroy the enemy's deceit, we sing your praise without ceasing: for willingly lifted up on it in your goodness, O Compassionate, you have wrought our salvation in the midst of the earth."
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
@@ -22,11 +22,11 @@ ocVE.Stichera5.text = "Again I call on you, Virgin, Sovereign Lady, against this
 
 ocVE.Stichera6.mode = misc_en_UK_lash.Mode1
 ocVE.Stichera6.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
-ocVE.Stichera6.text = "Mother of God, give me mighty strength each day to look with a joyful purpose and generous disposition on paupers and strangers and the multitudes of poor, to embrace non-possession which can make me God’s own."
+ocVE.Stichera6.text = "Mother of God, give me mighty strength each day to look with a joyful purpose and generous disposition on paupers and strangers and the multitudes of poor, to embrace non-possession which can make me God's own."
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode1
 ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
-ocVE.SticTheotokion.text = "When the blameless Virgin saw the Lamb suspended on a Cross, she cried out in lamentation, ‘My sweetest Child, what is this new and wondrous sight? How are you, the One who holds all things in the hollow of your hand, nailed in flesh to a tree?’"
+ocVE.SticTheotokion.text = "When the blameless Virgin saw the Lamb suspended on a Cross, she cried out in lamentation, 'My sweetest Child, what is this new and wondrous sight? How are you, the One who holds all things in the hollow of your hand, nailed in flesh to a tree?'"
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode1
 ocVE.Aposticha1.melody = ""
@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = oc.m1.d2_en_UK_lash.ocVE.Aposticha3.text
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode1
 ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
-ocVE.AposTheotokion.text = "‘Lifted up on the Cross as the just judge, my sweetest Child, by tasting vinegar and gall you have made sweet the bitterness that Adam tasted of old; therefore, Master, bring sweetness to me, who taste the bitter potion of your suffering, by rising again as All-powerful’, cried the Virgin as she wept."
+ocVE.AposTheotokion.text = "'Lifted up on the Cross as the just judge, my sweetest Child, by tasting vinegar and gall you have made sweet the bitterness that Adam tasted of old; therefore, Master, bring sweetness to me, who taste the bitter potion of your suffering, by rising again as All-powerful', cried the Virgin as she wept."
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode1
 ocVE.ApolTheotokionVM.melody = ""
@@ -70,7 +70,7 @@ ocMA.Kathisma22.text = oc.m1.d4_en_UK_lash.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma23.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
-ocMA.Kathisma23.text = "‘Seeing you dead and naked on a tree I am grievously wounded and I am shaken to the depths of my being, my Son and my God, supremely good and all-powerful’, cried out the All-blameless in her distress. As Mother of the Lord let us sing her praise and glorify her."
+ocMA.Kathisma23.text = "'Seeing you dead and naked on a tree I am grievously wounded and I am shaken to the depths of my being, my Son and my God, supremely good and all-powerful', cried out the All-blameless in her distress. As Mother of the Lord let us sing her praise and glorify her."
 
 ocMA.Kathisma31.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
@@ -85,7 +85,7 @@ ocMA.Kathisma33.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafo
 ocMA.Kathisma33.text = oc.m1.d4_en_UK_lash.ocMA.Kathisma33.text
 
 ocMA.C1Poet = poets_en_UK_lash.KyriouIosif
-ocMA.C1Acrostic.text = "of which the acrostic is: The Master’s holy sufferings now will I praise. Joseph."
+ocMA.C1Acrostic.text = "of which the acrostic is: The Master's holy sufferings now will I praise. Joseph."
 
 ocMA.C2Poet = poets_en_UK_lash.IoannouTouDamaskinou
 
@@ -137,7 +137,7 @@ ocMA.OdeW1C23.text = "We magnify you, the heavenly tabernacle and holy ark, in w
 ocMA.OdeW1C24.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C24.ode = misc_en_UK_lash.Ode1
 ocMA.OdeW1C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.ToVoithisantiTheo.name
-ocMA.OdeW1C24.text = "You are a safe refuge, wall, protection, harbour and mighty guardian of the race of mortals in life’s troubles, all-praised Mother of God."
+ocMA.OdeW1C24.text = "You are a safe refuge, wall, protection, harbour and mighty guardian of the race of mortals in life's troubles, all-praised Mother of God."
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
@@ -372,12 +372,12 @@ ocMA.OdeW7C1T.text = "The blameless Mother of God, seeing the Lord crucified, sa
 ocMA.OdeW7C21.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C21.ode = misc_en_UK_lash.Ode7
 ocMA.OdeW7C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OEnTiVatoOftheis.name
-ocMA.OdeW7C21.text = "Knowing you to a helper in trials and safety in dangers, Sovereign Lady, with faith we cry, ‘Blessed, O All-pure, is the fruit of your womb’."
+ocMA.OdeW7C21.text = "Knowing you to a helper in trials and safety in dangers, Sovereign Lady, with faith we cry, 'Blessed, O All-pure, is the fruit of your womb'."
 
 ocMA.OdeW7C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C22.ode = misc_en_UK_lash.Ode7
 ocMA.OdeW7C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OEnTiVatoOftheis.name
-ocMA.OdeW7C22.text = "As you gave birth to the Giver of life, O Mother of God, raise me up, who have been slain by grievous sins, as I cry out, ‘Blessed are you, God of our fathers’."
+ocMA.OdeW7C22.text = "As you gave birth to the Giver of life, O Mother of God, raise me up, who have been slain by grievous sins, as I cry out, 'Blessed are you, God of our fathers'."
 
 ocMA.OdeW7C23.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C23.ode = misc_en_UK_lash.Ode7
@@ -387,7 +387,7 @@ ocMA.OdeW7C23.text = "Coming forth from you, God redeemed nature from the curse 
 ocMA.OdeW7C24.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C24.ode = misc_en_UK_lash.Ode7
 ocMA.OdeW7C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OEnTiVatoOftheis.name
-ocMA.OdeW7C24.text = "Hail, joy of believers, and release from grief. Hail, mercy-seat of all who cry in faith, ‘Blessed are you, immaculate, all-praised Mother of God’."
+ocMA.OdeW7C24.text = "Hail, joy of believers, and release from grief. Hail, mercy-seat of all who cry in faith, 'Blessed are you, immaculate, all-praised Mother of God'."
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
@@ -422,24 +422,24 @@ ocMA.OdeW8C1T.text = "She who is higher than the heavens, when she saw Christ li
 ocMA.OdeW8C21.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C21.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.YmnonSoiProsferomen.name
-ocMA.OdeW8C21.text = "Appease the compassionate God and Word, O Mother of God, on behalf of those why cry in faith, ‘Bless the Lord, all you works of the Lord’."
+ocMA.OdeW8C21.text = "Appease the compassionate God and Word, O Mother of God, on behalf of those why cry in faith, 'Bless the Lord, all you works of the Lord'."
 
 ocMA.OdeW8C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C22.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.YmnonSoiProsferomen.name
-ocMA.OdeW8C22.text = "We who are fixed fast in a deep of offences and have your intercession as cleansing, Mother of God, cry, ‘Bless the Lord, all you works of the Lord’."
+ocMA.OdeW8C22.text = "We who are fixed fast in a deep of offences and have your intercession as cleansing, Mother of God, cry, 'Bless the Lord, all you works of the Lord'."
 
 ocMA.OdeW8C23.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C23.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.YmnonSoiProsferomen.name
-ocMA.OdeW8C23.text = "Having you as refuge, support and protection in trouble, we all cry, ‘Bless the Lord, all you works of the Lord’.
+ocMA.OdeW8C23.text = "Having you as refuge, support and protection in trouble, we all cry, 'Bless the Lord, all you works of the Lord'.
 
 "
 
 ocMA.OdeW8C24.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C24.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.YmnonSoiProsferomen.name
-ocMA.OdeW8C24.text = "A mist of fearful waves troubles me, and so I hasten to the harbour of your intercession crying out, ‘Bless the Lord, all you works of the Lord’."
+ocMA.OdeW8C24.text = "A mist of fearful waves troubles me, and so I hasten to the harbour of your intercession crying out, 'Bless the Lord, all you works of the Lord'."
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
@@ -479,7 +479,7 @@ ocMA.OdeW9C21.text = "As you great sympathy and a wealth of compassion, Sovereig
 ocMA.OdeW9C22.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C22.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeInPerEideMoysis.name
-ocMA.OdeW9C22.text = "As the one who conceived in her womb and bore beyond nature the Word of the Father and remained Virgin, O All-pure, I glorify you as with thanksgiving I cry, ‘Hail, help of sinners’."
+ocMA.OdeW9C22.text = "As the one who conceived in her womb and bore beyond nature the Word of the Father and remained Virgin, O All-pure, I glorify you as with thanksgiving I cry, 'Hail, help of sinners'."
 
 ocMA.OdeW9C23.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C23.ode = misc_en_UK_lash.Ode9

@@ -157,10 +157,10 @@ peMA.C2.verse = ""
 peMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C21.mode = misc_en_UK_lash.Mode4
 peMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.TheioKalyftheis.name
-peMA.Ode1C21.text = "The revered and august mouth spoke: * For you my friends there will be no absence. * For I, once seated on my Father’s highest throne, * Will pour out the unstinted grace of the Spirit * To shine on those who yearn." 
+peMA.Ode1C21.text = "The revered and august mouth spoke: * For you my friends there will be no absence. * For I, once seated on my Father's highest throne, * Will pour out the unstinted grace of the Spirit * To shine on those who yearn." 
 peMA.Ode1C211.text = "The revered and august mouth spoke:"
 peMA.Ode1C212.text = "For you my friends there will be no absence."
-peMA.Ode1C213.text = "For I, once seated on my Father’s highest throne,"
+peMA.Ode1C213.text = "For I, once seated on my Father's highest throne,"
 peMA.Ode1C214.text = "Will pour out the unstinted grace of the Spirit"
 peMA.Ode1C215.text = "To shine on those who yearn."
 
@@ -197,21 +197,21 @@ peMA.Ode3C2H5.text = he.h.m4_en_UK_lash.ErrixeGastros5.text
 peMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C21.mode = misc_en_UK_lash.Mode4
 peMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ErrixeGastros.name
-peMA.Ode3C21.text = "Inapprehensible is the blaze of the Godhead; * For it revealed the unlettered to be orators, * Bridling the mouths of sophists in abundance with a word, * And raising from deep night * Unnumbered peoples by the Spirit’s lightning flash." 
+peMA.Ode3C21.text = "Inapprehensible is the blaze of the Godhead; * For it revealed the unlettered to be orators, * Bridling the mouths of sophists in abundance with a word, * And raising from deep night * Unnumbered peoples by the Spirit's lightning flash." 
 peMA.Ode3C211.text = "Inapprehensible is the blaze of the Godhead;"
 peMA.Ode3C212.text = "For it revealed the unlettered to be orators,"
 peMA.Ode3C213.text = "Bridling the mouths of sophists in abundance with a word,"
 peMA.Ode3C214.text = "And raising from deep night"
-peMA.Ode3C215.text = "Unnumbered peoples by the Spirit’s lightning flash."
+peMA.Ode3C215.text = "Unnumbered peoples by the Spirit's lightning flash."
 
 peMA.Ode3C22.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C22.mode = misc_en_UK_lash.Mode4
 peMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ErrixeGastros.name
-peMA.Ode3C22.text = "From the unbegotten light proceeded * The imperishable Splendour, illuminating with almighty operation, * Whose fiery sound now reveals the consubstantial beacon * Of the Father’s authority through the Son * In Sion to the nations." 
+peMA.Ode3C22.text = "From the unbegotten light proceeded * The imperishable Splendour, illuminating with almighty operation, * Whose fiery sound now reveals the consubstantial beacon * Of the Father's authority through the Son * In Sion to the nations." 
 peMA.Ode3C221.text = "From the unbegotten light proceeded"
 peMA.Ode3C222.text = "The imperishable Splendour, illuminating with almighty operation,"
 peMA.Ode3C223.text = "Whose fiery sound now reveals the consubstantial beacon"
-peMA.Ode3C224.text = "Of the Father’s authority through the Son"
+peMA.Ode3C224.text = "Of the Father's authority through the Son"
 peMA.Ode3C225.text = "In Sion to the nations."
 
 peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
@@ -346,12 +346,12 @@ peMA.Ode6C215.text = "Defilements and filth."
 peMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C22.mode = misc_en_UK_lash.Mode4
 peMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.IlasmosIminChriste.name
-peMA.Ode6C22.text = "For the Apostles who awaited your coming * In Sion you establish with fiery wind * A longed for dignity, O Spirit, * Knowledge of the Word begotten of the Father, * Swiftly exposing the wild chatter of the nations’ babblings." 
+peMA.Ode6C22.text = "For the Apostles who awaited your coming * In Sion you establish with fiery wind * A longed for dignity, O Spirit, * Knowledge of the Word begotten of the Father, * Swiftly exposing the wild chatter of the nations' babblings." 
 peMA.Ode6C221.text = "For the Apostles who awaited your coming"
 peMA.Ode6C222.text = "In Sion you establish with fiery wind"
 peMA.Ode6C223.text = "A longed for dignity, O Spirit,"
 peMA.Ode6C224.text = "Knowledge of the Word begotten of the Father,"
-peMA.Ode6C225.text = "Swiftly exposing the wild chatter of the nations’ babblings."
+peMA.Ode6C225.text = "Swiftly exposing the wild chatter of the nations' babblings."
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
 peMA.Kontakion1.melody = ""
@@ -362,7 +362,7 @@ peMA.Oikos1.text = "Give swift and stable comfort to your servants, Jesu, in the
 peMA.Synaxarion.commemoration.text = "On the same day, the eighth Sunday from Pascha, we celebrate the holy Pentecost."
 peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
 peMA.Synaxarion.couplet1.verse1 = "With mighty wind, in form like tongues of fire"
-peMA.Synaxarion.couplet1.verse2 = "Christ gives God’s Spirit now to the Apostles."
+peMA.Synaxarion.couplet1.verse2 = "Christ gives God's Spirit now to the Apostles."
 peMA.Synaxarion.single1.text = "Spirit on this great day on fishers poured."
 peMA.Synaxarion.lastline.text = "At the prayers of the holy Apostles, Christ our God, have mercy on us. Amen."
 
@@ -469,10 +469,10 @@ peMA.Ode8C225.text = "The Spirit so earnestly prayed for."
 peMA.Ode8C23.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C23.mode = misc_en_UK_lash.Mode4
 peMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.LyeiTaDesma.name
-peMA.Ode8C23.text = "The spirit-filled mouth of Prophets sang * Of your sojourning, high Lord, in bodily form. * And your Spirit proceeding from the Father’s bosom, * Uncreated-cofashioning-cothroned, * You send to believers for the worship of the incarnation." 
+peMA.Ode8C23.text = "The spirit-filled mouth of Prophets sang * Of your sojourning, high Lord, in bodily form. * And your Spirit proceeding from the Father's bosom, * Uncreated-cofashioning-cothroned, * You send to believers for the worship of the incarnation." 
 peMA.Ode8C231.text = "The spirit-filled mouth of Prophets sang"
 peMA.Ode8C232.text = "Of your sojourning, high Lord, in bodily form."
-peMA.Ode8C233.text = "And your Spirit proceeding from the Father’s bosom,"
+peMA.Ode8C233.text = "And your Spirit proceeding from the Father's bosom,"
 peMA.Ode8C234.text = "Uncreated-cofashioning-cothroned,"
 peMA.Ode8C235.text = "You send to believers for the worship of the incarnation."
 
@@ -531,7 +531,7 @@ peMA.Exaposteilarion2.text = "The Father is light, the Word is light, and the Ho
 
 peMA.Lauds1.mode = misc_en_UK_lash.Mode4
 peMA.Lauds1.melody = ""
-peMA.Lauds1.text = "Marvellous things all the nations saw to-day in the city of David, when the holy Spirit came down in tongues of fire, as Luke, God’s mouthpiece, declared. For he said: When Christ’s Disciples were assembled, there came a sound as of a mighty wind, and filled the whole house where they were sitting; and all began to speak with strange words, strange doctrines, strange teachings of the holy Trinity."
+peMA.Lauds1.text = "Marvellous things all the nations saw to-day in the city of David, when the holy Spirit came down in tongues of fire, as Luke, God's mouthpiece, declared. For he said: When Christ's Disciples were assembled, there came a sound as of a mighty wind, and filled the whole house where they were sitting; and all began to speak with strange words, strange doctrines, strange teachings of the holy Trinity."
 
 peMA.Lauds2.mode = misc_en_UK_lash.Mode4
 peMA.Lauds2.melody = ""

@@ -15,7 +15,7 @@ peDismissal = dismissals_en_UK_lash.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_UK_lash.Mode4
 peVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.name
-peVE.Stichera01.text = "The mid-point of the days is here, which begin with the saving Resurrection and are sealed by the divine Pentecost. It shines for it shares the brilliance of them both, and unites the two, and it is honoured for it reveals in advance the coming glory of the Master’s Assumption."
+peVE.Stichera01.text = "The mid-point of the days is here, which begin with the saving Resurrection and are sealed by the divine Pentecost. It shines for it shares the brilliance of them both, and unites the two, and it is honoured for it reveals in advance the coming glory of the Master's Assumption."
 
 peVE.Stichera02.mode = misc_en_UK_lash.Mode4
 peVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.name
@@ -36,7 +36,7 @@ peVE.Aposticha1.text = "The mid-point of the Fifty Days is here, when Christ dim
 
 peVE.Aposticha2.mode = misc_en_UK_lash.Mode1
 peVE.Aposticha2.melody = misc_en_UK_lash.Idiomelon
-peVE.Aposticha2.text = "In the Temple at the mid-point of the feast, you, the Wisdom of God, stood teaching and refuting the unbelieving Jews, the Pharisees and Scribes, and crying out to them with boldness, ‘One who thirsts, let them come to me and drink living water, and they will not thirst for ever. One who believes in my goodness, rivers of eternal life will flow from their belly. Oh, your goodness and your compassion, Christ our God! Glory to you!"
+peVE.Aposticha2.text = "In the Temple at the mid-point of the feast, you, the Wisdom of God, stood teaching and refuting the unbelieving Jews, the Pharisees and Scribes, and crying out to them with boldness, 'One who thirsts, let them come to me and drink living water, and they will not thirst for ever. One who believes in my goodness, rivers of eternal life will flow from their belly. Oh, your goodness and your compassion, Christ our God! Glory to you!"
 
 peVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 peVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
@@ -44,7 +44,7 @@ peVE.Aposticha3.text = "When the mid-point of the feast had come, Jesus went up 
 
 peVE.AposGlory.mode = misc_en_UK_lash.Mode8
 peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
-peVE.AposGlory.text = "At the mid-point of the feast, as you were teaching, O Saviour, the Jews said, ‘How does this man know letters, never having learned?’ They did not recognize that you are the Wisdom who ordered the world. Glory to you!"
+peVE.AposGlory.text = "At the mid-point of the feast, as you were teaching, O Saviour, the Jews said, 'How does this man know letters, never having learned?' They did not recognize that you are the Wisdom who ordered the world. Glory to you!"
 
 peVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
 peVE.Apolytikion1.melody = ""
@@ -112,7 +112,7 @@ peMA.Ode1C22.text = "You showed a wonder by changing water into wine, O Master, 
 peMA.Ode1C23.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C23.mode = misc_en_UK_lash.Mode8
 peMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ThalassanEpixas.name
-peMA.Ode1C23.text = "O Lord, you are an ever-flowing stream of true life, you are our resurrection; willingly you toiled, my Saviour; and as you wished you thirsted, subject to nature’s laws; and coming in the flesh to Sychar you sought water to drink of the woman of Samaria." 
+peMA.Ode1C23.text = "O Lord, you are an ever-flowing stream of true life, you are our resurrection; willingly you toiled, my Saviour; and as you wished you thirsted, subject to nature's laws; and coming in the flesh to Sychar you sought water to drink of the woman of Samaria." 
 
 peMA.Ode1C24.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C24.mode = misc_en_UK_lash.Mode8
@@ -167,7 +167,7 @@ peMA.Ode3C22.text = "Do not judge according to appearance, O Jews; for Christ ha
 peMA.Ode3C23.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C23.mode = misc_en_UK_lash.Mode8
 peMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EstereothiIKardiaMouEnKyrio.name
-peMA.Ode3C23.text = "If you do not believe the words, O Jews, be convinced by the Master’s works: why do you err, rejecting the Holy One of whom Moses wrote in the Law?" 
+peMA.Ode3C23.text = "If you do not believe the words, O Jews, be convinced by the Master's works: why do you err, rejecting the Holy One of whom Moses wrote in the Law?" 
 
 peMA.Ode3C24.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C24.mode = misc_en_UK_lash.Mode8
@@ -245,7 +245,7 @@ peMA.Ode4C24.text = "I have done many works, and for which work do you stone me?
 peMA.Ode4C25.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C25.mode = misc_en_UK_lash.Mode8
 peMA.Ode4C25.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OProfitisAvvakoum.name
-peMA.Ode4C25.text = "O Christ, the offspring of the Father’s nature, working with the Spirit in the Apostles and resting in the Prophets, you have led all the nations to knowledge of you through your signs." 
+peMA.Ode4C25.text = "O Christ, the offspring of the Father's nature, working with the Spirit in the Apostles and resting in the Prophets, you have led all the nations to knowledge of you through your signs." 
 
 peMA.Ode4C2Tr.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C2Tr.mode = misc_en_UK_lash.Mode8
@@ -325,7 +325,7 @@ peMA.Ode6C12.text = "As you stood in the Temple, O Christ, you spoke with the Je
 peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1T.mode = misc_en_UK_lash.Mode4
 peMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
-peMA.Ode6C1T.text = "Be my protection and an unshakeable wall, delivering me from the world’s stumbling blocks, only Mother of God, and making me shine with the light that floods from God."
+peMA.Ode6C1T.text = "Be my protection and an unshakeable wall, delivering me from the world's stumbling blocks, only Mother of God, and making me shine with the light that floods from God."
 
 peMA.Ode6C2H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C2H.mode = misc_en_UK_lash.Mode8
@@ -345,7 +345,7 @@ peMA.Ode6C22.text = "You opened your lips, Master, and proclaimed to the world t
 peMA.Ode6C23.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C23.mode = misc_en_UK_lash.Mode8
 peMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OsYdataThalassis.name
-peMA.Ode6C23.text = "You completed the Father’s work, you confirmed your words by works, O Saviour, performing cures and signs, making the Paralytic stand upright, cleansing lepers and raising the dead." 
+peMA.Ode6C23.text = "You completed the Father's work, you confirmed your words by works, O Saviour, performing cures and signs, making the Paralytic stand upright, cleansing lepers and raising the dead." 
 
 peMA.Ode6C24.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C24.mode = misc_en_UK_lash.Mode8

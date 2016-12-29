@@ -24,7 +24,7 @@ meVE.Stichera02.text = "Christ is revealed; God appears; David wrote it clearly 
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
 meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
-meVE.Stichera03.text = "O all-powerful, you are a river of peace and a stream of delight, as it written; how then will a river’s streams receive you as you go down into it naked, Lord, who wrap the heavens with clouds, stripped naked all the evil of the foe and clothed those born of earth with incorruption."
+meVE.Stichera03.text = "O all-powerful, you are a river of peace and a stream of delight, as it written; how then will a river's streams receive you as you go down into it naked, Lord, who wrap the heavens with clouds, stripped naked all the evil of the foe and clothed those born of earth with incorruption."
 
 meVE.Stichera04.mode = misc_en_UK_lash.Mode8
 meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.OTouParadoxou.name
@@ -41,7 +41,7 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Christ the truth comes to the Jordan to be baptised by John, who says to him, ‘I need to be baptised by you; and do you come to me? I who am grass dare not touch the fire. But sanctify me, Master, by your divine Epiphany’."
+meVE.SticGlory.text = "Christ the truth comes to the Jordan to be baptised by John, who says to him, 'I need to be baptised by you; and do you come to me? I who am grass dare not touch the fire. But sanctify me, Master, by your divine Epiphany'."
 
 meVE.Aposticha1.poet = poets_en_UK_lash.IoannouMonachou
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
@@ -51,7 +51,7 @@ meVE.Aposticha1.text = "Radiant the feast that has passed; more radiant the savi
 meVE.Aposticha2.poet = poets_en_UK_lash.AndreouIerosolymitou
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = "Again my Jesus is cleansed in the Jordan, or rather cleanses our sins; for he truly comes to Baptism, wishing to wash out Adam’s record, and he says to John, ‘Come, Baptist, act as servant to the accomplishment of a strange mystery. Come, quickly stretch out your hand and touch the crown of the one who crushed the head of the dragon and opened Paradise, which the transgression had once shut, through the deception of the serpent, the tasting of the tree."
+meVE.Aposticha2.text = "Again my Jesus is cleansed in the Jordan, or rather cleanses our sins; for he truly comes to Baptism, wishing to wash out Adam's record, and he says to John, 'Come, Baptist, act as servant to the accomplishment of a strange mystery. Come, quickly stretch out your hand and touch the crown of the one who crushed the head of the dragon and opened Paradise, which the transgression had once shut, through the deception of the serpent, the tasting of the tree."
 
 meVE.Aposticha3.poet = poets_en_UK_lash.AndreouIerosolymitou
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode3
@@ -61,7 +61,7 @@ meVE.Aposticha3.text = "Bright was the feast that has passed, glorious the prese
 meVE.AposGlory.poet = poets_en_UK_lash.AndreouIerosolymitou
 meVE.AposGlory.mode = misc_en_UK_lash.Mode3
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Come, all believers, leaving Judea let us cross over the desert of Jordan, and there let us contemplate today the one who was manifested in flesh for our sake asking for Baptism in the streams of Jordan, the Baptism refusing and crying out in fear, ‘I dare not with a palm of clay lay my hands on fire. The Jordan and the sea have fled and been turned back, my Saviour; how then shall I place my hand upon your head, at which the Seraphim tremble? Jordan turned back when it received through Elissaios the mantle of Elias. How will it not sink into chaos and the deep, when it sees you naked in your streams? How, wholly aflame from you, will it not burn me up?’ ‘Why do you hesitate, Baptist, to baptise my Lord?’ the Jordan cries to John. ‘Why do you prevent the cleansing of many? He sanctified all creation; let him sanctify both me and the nature of the waters, for this he has been made manifest’."
+meVE.AposGlory.text = "Come, all believers, leaving Judea let us cross over the desert of Jordan, and there let us contemplate today the one who was manifested in flesh for our sake asking for Baptism in the streams of Jordan, the Baptism refusing and crying out in fear, 'I dare not with a palm of clay lay my hands on fire. The Jordan and the sea have fled and been turned back, my Saviour; how then shall I place my hand upon your head, at which the Seraphim tremble? Jordan turned back when it received through Elissaios the mantle of Elias. How will it not sink into chaos and the deep, when it sees you naked in your streams? How, wholly aflame from you, will it not burn me up?' 'Why do you hesitate, Baptist, to baptise my Lord?' the Jordan cries to John. 'Why do you prevent the cleansing of many? He sanctified all creation; let him sanctify both me and the nature of the waters, for this he has been made manifest'."
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.KateplagiIosif.name
@@ -645,7 +645,7 @@ meMA.Aposticha3.text = ""
 meMA.AposGlory.poet = poets_en_UK_lash.Anatoliou
 meMA.AposGlory.mode = misc_en_UK_lash.Mode8
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = "‘John Baptist, who in the womb recognized me the Lamb, be my servant in the river, minister to me with Angels; stretch out to touch my immaculate head with your palm; and when you see the mountains tremble and Jordan being turned back, shout with them, ‘Lord, incarnate from a Virgin for our salvation, glory to you!’’"
+meMA.AposGlory.text = "'John Baptist, who in the womb recognized me the Lamb, be my servant in the river, minister to me with Angels; stretch out to touch my immaculate head with your palm; and when you see the mountains tremble and Jordan being turned back, shout with them, 'Lord, incarnate from a Virgin for our salvation, glory to you!''"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

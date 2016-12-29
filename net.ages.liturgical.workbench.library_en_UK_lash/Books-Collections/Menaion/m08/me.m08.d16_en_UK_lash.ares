@@ -24,7 +24,7 @@ meVE.Stichera02.text = "With what hands shall we creatures of dust touch your Im
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode2
 meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
-meVE.Stichera03.text = "Once again the godlike day of the Master’s festival is here; for he who is seated in the highest has now clearly visited us through his honoured Image; he who is unseen by the Cherubim above appears through painting to those to whom he has become like, formed ineffably by the immaculate finger of the Father according to his likeness. As we worship it with faith and love we are sanctified."
+meVE.Stichera03.text = "Once again the godlike day of the Master's festival is here; for he who is seated in the highest has now clearly visited us through his honoured Image; he who is unseen by the Cherubim above appears through painting to those to whom he has become like, formed ineffably by the immaculate finger of the Father according to his likeness. As we worship it with faith and love we are sanctified."
 
 meVE.Stichera04.mode = misc_en_UK_lash.Mode4
 meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
@@ -40,7 +40,7 @@ meVE.Stichera06.text = ""
 
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Come, let us feast the universal Dormition of the all-blameless Mother of God; for today Angels celebrate the honoured Translation of God’s Mother, and invite us who are born of earth to a festival to cry with never-silent voice: Hail, who passed over from earth and took up your abode in heavenly dwellings. Hail, who gathered the choir of the Disciples together by a light cloud. Hail, our hope and protection; for we, the race of Christians, ceaselessly call you blest."
+meVE.SticGlory.text = "Come, let us feast the universal Dormition of the all-blameless Mother of God; for today Angels celebrate the honoured Translation of God's Mother, and invite us who are born of earth to a festival to cry with never-silent voice: Hail, who passed over from earth and took up your abode in heavenly dwellings. Hail, who gathered the choir of the Disciples together by a light cloud. Hail, our hope and protection; for we, the race of Christians, ceaselessly call you blest."
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
@@ -48,7 +48,7 @@ meVE.Aposticha1.text = me.m08.d15_en_UK_lash.meSV.Aposticha1.text
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
-meVE.Aposticha2.text = "O your mysteries, Pure Virgin, which are above nature! For as God’s Mother you have now radiantly departed to him, Mother of God."
+meVE.Aposticha2.text = "O your mysteries, Pure Virgin, which are above nature! For as God's Mother you have now radiantly departed to him, Mother of God."
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
@@ -79,7 +79,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
-meMA.Ode1C11.text = "The One who before was without a body, by the Father’s good pleasure did not refuse to be formed with a body like ours, and has granted us the grace of a divine representation."
+meMA.Ode1C11.text = "The One who before was without a body, by the Father's good pleasure did not refuse to be formed with a body like ours, and has granted us the grace of a divine representation."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode6
@@ -137,7 +137,7 @@ meMA.Ode3C13.text = "David once danced with radiant joy before the holy Ark; and
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OukEstinAgios.name
-meMA.Ode3C1T.text = "Wishing to cut out from its root all the forefather’s natural disobedience, O Virgin, your Son assumed from your womb all that is human."
+meMA.Ode3C1T.text = "Wishing to cut out from its root all the forefather's natural disobedience, O Virgin, your Son assumed from your womb all that is human."
 
 meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C21.mode = misc_en_UK_lash.Mode4
@@ -166,7 +166,7 @@ meMA.Ode3H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
 meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
-meMA.Ode3Kathisma1.text = "The king of Edessa, recognising you as King of all things, who do not offer sceptre and army, but with a word multitudes of wonders, implored you, the God-man, to come to him. But seeing your impress on the towel he cried out, ‘You are Lord and God’."
+meMA.Ode3Kathisma1.text = "The king of Edessa, recognising you as King of all things, who do not offer sceptre and army, but with a word multitudes of wonders, implored you, the God-man, to come to him. But seeing your impress on the towel he cried out, 'You are Lord and God'."
 
 meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode8
 meMA.Ode3Kathisma2.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
@@ -301,7 +301,7 @@ meMA.Synaxarion.text = ""
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.OiPaidesEnVavyloni.name
-meMA.Ode7C11.text = "O Word of God, when you dwelt on earth you drove out every disease with a word; but returning to your Father’s throne you heal our diseases through your Imprint."
+meMA.Ode7C11.text = "O Word of God, when you dwelt on earth you drove out every disease with a word; but returning to your Father's throne you heal our diseases through your Imprint."
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode6
@@ -341,7 +341,7 @@ meMA.Ode7C2T.text = ""
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.NomonPatroon.name
-meMA.Ode8C11.text = "As in a vision, the whole chosen people of the city, hoping that you, the Lord, will make your home there, gives you a wondrous welcome, leading out a choir of High Priests, carried on whose shoulders and entering your own inheritance, O Compassionate, you came to rest in your Mother’s shrine."
+meMA.Ode8C11.text = "As in a vision, the whole chosen people of the city, hoping that you, the Lord, will make your home there, gives you a wondrous welcome, leading out a choir of High Priests, carried on whose shoulders and entering your own inheritance, O Compassionate, you came to rest in your Mother's shrine."
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode6
@@ -428,7 +428,7 @@ meMA.Exaposteilarion2.text = ""
 
 meMA.Aposticha1.mode = misc_en_UK_lash.Mode2
 meMA.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
-meMA.Aposticha1.text = "With hymns the godly worshippers, as they accompanied your revered body that had received God, cried out, ‘Where do you now depart, Sovereign Lady?’"
+meMA.Aposticha1.text = "With hymns the godly worshippers, as they accompanied your revered body that had received God, cried out, 'Where do you now depart, Sovereign Lady?'"
 
 meMA.Aposticha2.mode = misc_en_UK_lash.Mode2
 meMA.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name

@@ -10,11 +10,11 @@ ocVE.Stichera2.text = "You endured blows, crucifixion and abuse, O long-sufferin
 
 ocVE.Stichera3.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
-ocVE.Stichera3.text = "As Shepherd you ascended the Cross and stretched out your hands, crying out, ‘Come to me and be enlightened, mortals darkened by deception. For I am light’. Glory to you, only Giver of light."
+ocVE.Stichera3.text = "As Shepherd you ascended the Cross and stretched out your hands, crying out, 'Come to me and be enlightened, mortals darkened by deception. For I am light'. Glory to you, only Giver of light."
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.IApegnosmeni.name
-ocVE.Stichera4.text = "O Virgin, set upright my soul, bowed down and bent double by the heavy and unbearable weight of offences. For with your mother’s boldness you can easily persuade the Saviour who sets upright those who are broken down. And by your mediation tear up the record of my sins through your great mercy."
+ocVE.Stichera4.text = "O Virgin, set upright my soul, bowed down and bent double by the heavy and unbearable weight of offences. For with your mother's boldness you can easily persuade the Saviour who sets upright those who are broken down. And by your mediation tear up the record of my sins through your great mercy."
 
 ocVE.Stichera5.mode = misc_en_UK_lash.Mode6
 ocVE.Stichera5.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.IApegnosmeni.name
@@ -26,7 +26,7 @@ ocVE.Stichera6.text = "Open to me the door of repentance, All-holy Virgin. Give 
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
-ocVE.SticTheotokion.text = "The all-pure Virgin, seeing you nailed to the Tree, cried aloud, ‘My Son and God, what is this strange and marvellous report of you that you endure through your great pity?’"
+ocVE.SticTheotokion.text = "The all-pure Virgin, seeing you nailed to the Tree, cried aloud, 'My Son and God, what is this strange and marvellous report of you that you endure through your great pity?'"
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode6
 ocVE.Aposticha1.melody = ""
@@ -43,7 +43,7 @@ ocVE.Aposticha3.text = oc.m6.d2_en_UK_lash.ocVE.Aposticha3.text
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m6_en_UK_lash.TriimerosAnestis.name
-ocVE.AposTheotokion.text = "The Virgin once stood with the virgin Disciple by the Tree at the time of the crucifixion and weeping she cried out, ‘Alas, how you suffer all things, O Christ who are dispassion!’"
+ocVE.AposTheotokion.text = "The Virgin once stood with the virgin Disciple by the Tree at the time of the crucifixion and weeping she cried out, 'Alas, how you suffer all things, O Christ who are dispassion!'"
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode6
 ocVE.ApolTheotokionVM.melody = ""

@@ -2,7 +2,7 @@ A_Resource_Whose_Name = oc.m4.d2_en_UK_lash
 
 ocVE.Stichera1.mode = misc_en_UK_lash.Mode4
 ocVE.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
-ocVE.Stichera1.text = "Come wretched soul, utterly profane, fall down before God and cry with fervent tears, ‘I have sinned’. Make the Judge merciful before the end and cry out to him from the heart, ‘My God, do not reject my groans, do not disregard the breaking of my heart, O Lord of infinite compassion’."
+ocVE.Stichera1.text = "Come wretched soul, utterly profane, fall down before God and cry with fervent tears, 'I have sinned'. Make the Judge merciful before the end and cry out to him from the heart, 'My God, do not reject my groans, do not disregard the breaking of my heart, O Lord of infinite compassion'."
 
 ocVE.Stichera2.mode = misc_en_UK_lash.Mode4
 ocVE.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = "Christ our God, glorified by the memorials of your Saint
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode4
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.text = "Hail Cloud of light, hail shining Lampstand, Jar of the Manna, hail Aaron’s Rod, hail Bush unburned, hail Lamp, hail Throne, hail holy Mountain, hail Paradise, hail divine Table, hail mystic Gate, hail hope of all!"
+ocVE.AposTheotokion.text = "Hail Cloud of light, hail shining Lampstand, Jar of the Manna, hail Aaron's Rod, hail Bush unburned, hail Lamp, hail Throne, hail holy Mountain, hail Paradise, hail divine Table, hail mystic Gate, hail hope of all!"
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode4
 ocVE.ApolTheotokionVM.melody = ""
@@ -54,7 +54,7 @@ ocMA.Kathisma11.text = "Visit my humble soul, Lord, that has squandered its whol
 
 ocMA.Kathisma12.mode = misc_en_UK_lash.Mode4
 ocMA.Kathisma12.melody = ""
-ocMA.Kathisma12.text = "As I sail the sea of this present life I think on the abyss of my many evils, and as I have no thought as helmsman, I cry aloud to you in Peter’s words. Save me, Christ God, save me as you love mankind!"
+ocMA.Kathisma12.text = "As I sail the sea of this present life I think on the abyss of my many evils, and as I have no thought as helmsman, I cry aloud to you in Peter's words. Save me, Christ God, save me as you love mankind!"
 
 ocMA.Kathisma13.mode = misc_en_UK_lash.Mode4
 ocMA.Kathisma13.melody = ""

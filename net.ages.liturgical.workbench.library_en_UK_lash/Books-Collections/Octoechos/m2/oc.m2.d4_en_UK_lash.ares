@@ -14,7 +14,7 @@ ocVE.Stichera3.text = "You accept judgement, only King, who are going to judge t
 
 ocVE.Stichera4.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera4.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.Stichera4.text = "Wealth of the beggared, delight and refuge of the poor and hope of orphans are you, Sovereign Lady, and we glorify you, crying out in affliction, ‘Holy of Holies, come now and rescue your servants from all assaults of demons, dread punishment and eternal condemnation’."
+ocVE.Stichera4.text = "Wealth of the beggared, delight and refuge of the poor and hope of orphans are you, Sovereign Lady, and we glorify you, crying out in affliction, 'Holy of Holies, come now and rescue your servants from all assaults of demons, dread punishment and eternal condemnation'."
 
 ocVE.Stichera5.mode = misc_en_UK_lash.Mode2
 ocVE.Stichera5.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
@@ -26,7 +26,7 @@ ocVE.Stichera6.text = "As to a harbour I hasten under your holy protection, pure
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode2
 ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.SticTheotokion.text = "Pure Virgin, when you saw the ripe grape Cluster that you had bore unhusbanded in your womb hanging upon the Tree, lamenting you bewailed him and cried out, ‘My Child, who drop down sweetness; Benefactor, through whom may all the drunkenness of the passions be abolished by divine consolations, through me who gave you birth, for you are compassionate’."
+ocVE.SticTheotokion.text = "Pure Virgin, when you saw the ripe grape Cluster that you had bore unhusbanded in your womb hanging upon the Tree, lamenting you bewailed him and cried out, 'My Child, who drop down sweetness; Benefactor, through whom may all the drunkenness of the passions be abolished by divine consolations, through me who gave you birth, for you are compassionate'."
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha1.melody = ""
@@ -38,11 +38,11 @@ ocVE.Aposticha2.text = "You have revealed the Tree of your Cross as a tree of li
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.text = "Choirs of Martyrs stood before the tyrants saying, ‘We are soldiers for the King of powers. Even if you destroy us by fire and torments, we will not deny the power of the Trinity’."
+ocVE.Aposticha3.text = "Choirs of Martyrs stood before the tyrants saying, 'We are soldiers for the King of powers. Even if you destroy us by fire and torments, we will not deny the power of the Trinity'."
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode2
 ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OteEkTouXylou.name
-ocVE.AposTheotokion.text = "Having endured many pains by the crucifixion of your Son and God, with tears and lamentations you groaned, O Immaculate, ‘Alas, my sweetest Child, how do you suffer, wishing to redeem those born of earth from Adam?’ Therefore, all-holy Virgin, we entreat you in faith, make him merciful to us."
+ocVE.AposTheotokion.text = "Having endured many pains by the crucifixion of your Son and God, with tears and lamentations you groaned, O Immaculate, 'Alas, my sweetest Child, how do you suffer, wishing to redeem those born of earth from Adam?' Therefore, all-holy Virgin, we entreat you in faith, make him merciful to us."
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode2
 ocVE.ApolTheotokionVM.melody = ""

@@ -17,11 +17,11 @@ meDismissal = dismissals_en_UK_lash.dis00.epiphany
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode5
 meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.OsiePater.name
-meVE.Stichera01.text = "Venerable Father, most holy Gregory; full pen of the breath of the Advocate and clear tongue of Orthodoxy; lamp of the divine brightness with many lights; herald of truth, rampart of theology; wellspring of high doctrines; torrent of teachings that flow with honey; lyre tuned to God’s voice of songs composed by God that delights the minds of believers. All-wise Father, entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our souls."
+meVE.Stichera01.text = "Venerable Father, most holy Gregory; full pen of the breath of the Advocate and clear tongue of Orthodoxy; lamp of the divine brightness with many lights; herald of truth, rampart of theology; wellspring of high doctrines; torrent of teachings that flow with honey; lyre tuned to God's voice of songs composed by God that delights the minds of believers. All-wise Father, entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our souls."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode5
 meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.OsiePater.name
-meVE.Stichera02.text = "Venerable Father, all-honoured Gregory; axe that fells the assaults of heretics, two-edged sword of the Advocate; knife that cuts out adulterated seeds; fire that burns up the undergrowth of heresies; true farmer’s winnowing fan by which the weight and lightness of doctrines is well distinguished; measuring rod of strict accuracy that directs all into paths of salvation. Ever entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our race."
+meVE.Stichera02.text = "Venerable Father, all-honoured Gregory; axe that fells the assaults of heretics, two-edged sword of the Advocate; knife that cuts out adulterated seeds; fire that burns up the undergrowth of heresies; true farmer's winnowing fan by which the weight and lightness of doctrines is well distinguished; measuring rod of strict accuracy that directs all into paths of salvation. Ever entreat Christ, implore Christ, who refashioned the world in the streams of Jordan, to save our race."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode5
 meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m5_en_UK_lash.OsiePater.name
@@ -55,7 +55,7 @@ meVE.Aposticha1.text = "Let the whole earth sing a new song to Christ, born from
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
-meVE.Aposticha2.text = "Let the Forerunner, prophetic trumpet, cry, ‘Produce the fruits of noble deeds for the Lord baptised in Jordan’."
+meVE.Aposticha2.text = "Let the Forerunner, prophetic trumpet, cry, 'Produce the fruits of noble deeds for the Lord baptised in Jordan'."
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
@@ -64,7 +64,7 @@ meVE.Aposticha3.text = "The consubstantial divine Spirit, shining from above and
 meVE.AposGlory.poet = poets_en_UK_lash.Anatoliou
 meVE.AposGlory.mode = misc_en_UK_lash.Mode4
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "Having achieved a life inspired by God, you made its practice bright by contemplation, Gregory, revealer of God; for loving wisdom with divine ardour, you were enriched with grace from the mouth of the Spirit. Distilling the sweetness of your words like honeycomb, you ever make God’s Church joyful with divine thoughts. And so, as you dwell a high priest in heaven, intercede unceasingly for us who celebrate your memory."
+meVE.AposGlory.text = "Having achieved a life inspired by God, you made its practice bright by contemplation, Gregory, revealer of God; for loving wisdom with divine ardour, you were enriched with grace from the mouth of the Spirit. Distilling the sweetness of your words like honeycomb, you ever make God's Church joyful with divine thoughts. And so, as you dwell a high priest in heaven, intercede unceasingly for us who celebrate your memory."
 
 meVE.AposBoth.poet = poets_en_UK_lash.KosmaMonachou
 meVE.AposBoth.mode = misc_en_UK_lash.Mode4

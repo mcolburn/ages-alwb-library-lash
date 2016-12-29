@@ -22,11 +22,11 @@ ocVE.Stichera5.text = "Heal the pain of my heart, O Pure one, stop the wandering
 
 ocVE.Stichera6.mode = misc_en_UK_lash.Mode3
 ocVE.Stichera6.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
-ocVE.Stichera6.text = "Cast away, my humble soul, the burdens of wickedness that are hard to bear, and draw near, weeping and crying out, ‘Grant, pure Virgin, that I may bear the light yoke of your Son and God’."
+ocVE.Stichera6.text = "Cast away, my humble soul, the burdens of wickedness that are hard to bear, and draw near, weeping and crying out, 'Grant, pure Virgin, that I may bear the light yoke of your Son and God'."
 
 ocVE.SticTheotokion.mode = misc_en_UK_lash.Mode3
 ocVE.SticTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
-ocVE.SticTheotokion.text = "A sword passed through your heart, O All-pure, when you looked towards your Son on the Cross, and you cried out, ‘Do not leave me childless, my Son and my God, who kept me virgin after childbirth!’"
+ocVE.SticTheotokion.text = "A sword passed through your heart, O All-pure, when you looked towards your Son on the Cross, and you cried out, 'Do not leave me childless, my Son and my God, who kept me virgin after childbirth!'"
 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode3
 ocVE.Aposticha1.melody = ""
@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = "Prophets, Apostles and Martyrs of Christ taught that a c
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode3
 ocVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
-ocVE.AposTheotokion.text = "When she saw you nailed to the Cross, my Christ, the Lamb who gave you birth, without blemish and your Mother, with weeping lamented and cried out, ‘Do not make me childless, whom you kept pure after childbirth!’"
+ocVE.AposTheotokion.text = "When she saw you nailed to the Cross, my Christ, the Lamb who gave you birth, without blemish and your Mother, with weeping lamented and cried out, 'Do not make me childless, whom you kept pure after childbirth!'"
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode3
 ocVE.ApolTheotokionVM.melody = ""
@@ -70,7 +70,7 @@ ocMA.Kathisma22.text = "The armies of the Angels are amazed as they contemplate 
 
 ocMA.Kathisma23.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma23.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
-ocMA.Kathisma23.text = "Your pure Mother who knew not wedlock, seeing you hanging dead upon the Tree, mourned as a mother and said, ‘Is this how the lawless and ungrateful people of the Hebrews, who had the benefit of your many and great gifts, have repaid you, my Son? I hymn your divine condescension.’"
+ocMA.Kathisma23.text = "Your pure Mother who knew not wedlock, seeing you hanging dead upon the Tree, mourned as a mother and said, 'Is this how the lawless and ungrateful people of the Hebrews, who had the benefit of your many and great gifts, have repaid you, my Son? I hymn your divine condescension.'"
 
 ocMA.Kathisma31.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
@@ -82,7 +82,7 @@ ocMA.Kathisma32.text = "Armoured with the panoply of Christ and clothed with the
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma33.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.TinOraiotita.name
-ocMA.Kathisma33.text = "As your Mother, the pure and all blameless Virgin who knew not wedlock, saw you nailed to the Tree, O Master, she cried aloud to you, ‘Alas, my sweetest Son, how has a lawless people condemned you, the Maker and Master of all, to the tree? I hymn your supreme goodness."
+ocMA.Kathisma33.text = "As your Mother, the pure and all blameless Virgin who knew not wedlock, saw you nailed to the Tree, O Master, she cried aloud to you, 'Alas, my sweetest Son, how has a lawless people condemned you, the Maker and Master of all, to the tree? I hymn your supreme goodness."
 
 ocMA.C1Acrostic.text = "whose acrostic is: By toils you ended mortals toils, O Word. Joseph."
 
@@ -162,7 +162,7 @@ ocMA.OdeW3C14.text = "With joyful soul the Saints ran towards torments, causing 
 ocMA.OdeW3C1T.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW3C1T.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.OEkMiOnton.name
-ocMA.OdeW3C1T.text = "Bride who knew not wedlock, seeing Christ suspended on the Cross, grieving you said, ‘You have set, O Sun of glory, from my sight, enlightening those in darkness.’"
+ocMA.OdeW3C1T.text = "Bride who knew not wedlock, seeing Christ suspended on the Cross, grieving you said, 'You have set, O Sun of glory, from my sight, enlightening those in darkness.'"
 
 ocMA.OdeW3C21.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW3C21.ode = misc_en_UK_lash.Ode3
@@ -332,7 +332,7 @@ ocMA.OdeW7C11.text = "By your toils you ended our toils, Lover of humankind; so 
 ocMA.OdeW7C12.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW7C12.ode = misc_en_UK_lash.Ode7
 ocMA.OdeW7C12.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.ToPrinEikoni.name
-ocMA.OdeW7C12.text = "When creation saw you crucified it was altered and trembled: earth was shaken, rocks were rent and the sun’s course drew away the light."
+ocMA.OdeW7C12.text = "When creation saw you crucified it was altered and trembled: earth was shaken, rocks were rent and the sun's course drew away the light."
 
 ocMA.OdeW7C13.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW7C13.ode = misc_en_UK_lash.Ode7
@@ -457,7 +457,7 @@ ocMA.OdeW9C23.text = "May I be delivered by your prayers, all blameless Maiden, 
 ocMA.OdeW9C24.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW9C24.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C24.melody = misc_en_UK_lash.NotMetered //he.h.m3_en_UK_lash.EnNomoSkia.name
-ocMA.OdeW9C24.text = "As Mother of God implore the Lord, God and King, who was born of you, that you suppliant may be delivered from every threat and evil habit, for from my mother’s womb I have trusted in you, pure Lady."
+ocMA.OdeW9C24.text = "As Mother of God implore the Lord, God and King, who was born of you, that you suppliant may be delivered from every threat and evil habit, for from my mother's womb I have trusted in you, pure Lady."
 
 ocMA.Aposticha1.mode = misc_en_UK_lash.Mode3
 ocMA.Aposticha1.melody = ""
