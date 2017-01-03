@@ -561,10 +561,10 @@ meMA.Ode8C22.mode = misc_en_UK_lash.Mode4
 meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
 meMA.Ode8C22.text = "Today Christ, the second Adam, has displayed a spiritual Paradise, this new tabernacle which contains as opposed to the tree of knowledge the lifebearing weapon of the Cross for those who sing: All you works of the Lord, bless the Lord."
 
-meMA.Ode8C2Tr.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C2Tr.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
-meMA.Ode8C2Tr.text = "As we honour you, the Son from the Father without beginning and the Holy Spirit, one Godhead, perfect, without beginning, undivided, consubstantial, unconfused in three persons, we sing: All you works of the Lord, bless the Lord."
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C23.text = "As we honour you, the Son from the Father without beginning and the Holy Spirit, one Godhead, perfect, without beginning, undivided, consubstantial, unconfused in three persons, we sing: All you works of the Lord, bless the Lord."
 
 meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C2T.mode = misc_en_UK_lash.Mode4
