@@ -550,6 +550,7 @@ peMA.LaudsGlory.text = prayers_en_UK_lash.VasilefOuranie.text
 peLI.Antiphon2.text = "Good Paraclete, save us "
 
 peLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
+peLI.MM.EntranceHymnAF.text = ""
 
 peLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode8
 peLI.SeasonalKontakion.melody = ""
