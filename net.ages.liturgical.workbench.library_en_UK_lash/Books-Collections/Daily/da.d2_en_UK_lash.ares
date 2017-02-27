@@ -1,0 +1,38 @@
+A_Resource_Whose_Name = da.d2_en_UK_lash 
+
+daDay.text = ""
+daCommemoration.text = ""
+
+daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onSundayEvening
+
+daVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
+daVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+daVE.Apolytikion1.text = me.m11.d08_en_UK_lash.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_en_UK_lash.Mode4
+daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.text = oc.m4.d2_en_UK_lash.ocMA.Kathisma33.text
+
+daMA.Triadic1Ending.text = ""
+daMA.Triadic2Ending.text = prayers_en_UK_lash.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_en_UK_lash.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = ""
+daMA.Photagogic2Ending.text = prayers_en_UK_lash.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_en_UK_lash.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = ""
+daMA.Photagogic2Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+daMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+daMA.Exaposteilarion1.text = "Archangels and Angels, Principalities and Dominions, Powers and Authorities and Thrones, many-eyed Cherubim and now also six-winged Seraphim, intercede for us to be rescued from dangers and from the unquenchable fire."
+
+daMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
+daMA.ExapTheotokion.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+daMA.ExapTheotokion.text = "You are my defender, O All-pure, and my strong rampart, and defence of the world, and as I fall before you, I cry: O Virgin, rescue me from pains, and snatch me from the eternal fire, for I have put my trust in you."
+
+daLI.EpistleProkeimenon.title = ""
+
+daLI.CommunionHymn.text = properties_en_UK_lash.media.key

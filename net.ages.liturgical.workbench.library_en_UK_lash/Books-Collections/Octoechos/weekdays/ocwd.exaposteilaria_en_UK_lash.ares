@@ -1,0 +1,62 @@
+A_Resource_Whose_Name = ocwd.exaposteilaria_en_UK_lash
+
+ocwdMA.Exaposteilaria.title = "Exaposteilaria for Weekdays"
+ocwdMA.Exaposteilaria.title2 = "(When none is appointed in the Menaion)"
+
+ocwdMA.ExapMonTitle = "On Monday"
+ocwdMA.ExapMon1.mode = misc_en_UK_lash.Mode2
+ocwdMA.ExapMon1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+ocwdMA.ExapMon1.text = da.d2_en_UK_lash.daMA.Exaposteilarion1.text
+
+ocwdMA.ExapMonTh.mode = misc_en_UK_lash.Mode2
+ocwdMA.ExapMonTh.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+ocwdMA.ExapMonTh.text = da.d2_en_UK_lash.daMA.ExapTheotokion.text
+
+ocwdMA.ExapTueTitle = "On Tuesday"
+ocwdMA.ExapTue1.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapTue1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapTue1.text = da.d3_en_UK_lash.daMA.Exaposteilarion1.text
+
+ocwdMA.ExapTueTh.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapTueTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapTueTh.text = da.d3_en_UK_lash.daMA.ExapTheotokion.text
+
+ocwdMA.ExapWedTitle = "On Wednesday"
+ocwdMA.ExapWed1.mode = misc_en_UK_lash.Mode2
+ocwdMA.ExapWed1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+ocwdMA.ExapWed1.text = da.d4_en_UK_lash.daMA.Exaposteilarion1.text
+
+ocwdMA.ExapWedTh.mode = misc_en_UK_lash.Mode2
+ocwdMA.ExapWedTh.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+ocwdMA.ExapWedTh.text = ""
+
+ocwdMA.ExapThuTitle = "On Thursday"
+ocwdMA.ExapThu1.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapThu1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapThu1.text = "" //da.d5_en_UK_lash.daMA.Exaposteilarion2.text
+
+ocwdMA.ExapThuTh.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapThuTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapThuTh.text = ""
+
+ocwdMA.ExapFriTitle = "On Friday"
+ocwdMA.ExapFri1.mode = misc_en_UK_lash.Mode2
+ocwdMA.ExapFri1.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+ocwdMA.ExapFri1.text = misc_en_UK_lash.NotMetered //me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
+
+ocwdMA.ExapFriTh.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapFriTh.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapFriTh.text = da.d6_en_UK_lash.daMA.ExapTheotokion.text
+
+ocwdMA.ExapSatTitle = "On Saturday"
+ocwdMA.ExapSat1.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapSat1.melody = misc_en_UK_lash.AutomelonNotMetered
+ocwdMA.ExapSat1.text = he.a.m3_en_UK_lash.OOuranonToisAstrois.text
+
+ocwdMA.ExapSat2.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapSat2.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapSat2.text = da.d7_en_UK_lash.daMA.Exaposteilarion2.text 
+
+ocwdMA.ExapSatTh.mode = misc_en_UK_lash.Mode3
+ocwdMA.ExapSatTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+ocwdMA.ExapSatTh.text = ho.s23_en_UK_lash.hoCA.Exaposteilarion2.text
