@@ -521,6 +521,7 @@ meLI.SeasonalKontakion.melody = ""
 meLI.SeasonalKontakion.text = meMA.Kontakion1.text
 
 meLI.MM.EntranceHymn.text = "" // for media
+meLI.MM.EntranceHymnSunday.text = ""
 
 meLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
 meLI.TheotokosHymn.text = meMA.Ode7C23.text
