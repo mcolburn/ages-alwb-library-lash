@@ -78,7 +78,7 @@ ocMA.Kathisma31.text = "Willingly nailed to the Cross, O Compassionate, you made
 
 ocMA.Kathisma32.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma32.melody = ""
-ocMA.Kathisma32.text = "The glorious Champions have surrounded you, O Lord, as the boast of struggle and the pride of victory crowns; for by their courage under tortures they wounded the lawless and by divine power they received victory from heaven. At their intercessions grant us, O God, your great mercy."
+ocMA.Kathisma32.text = oc.m1.d2_en_UK_lash.ocMA.Kathisma32.text
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma33.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
