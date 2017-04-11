@@ -152,10 +152,15 @@ StereosonKyrie.mode = misc_en_UK_lash.Mode6
 StereosonKyrie.ode = misc_en_UK_lash.Ode3
 StereosonKyrie.text = ""
 
-StilinKakiasAntitheou.name = "Holding in contempt."
+StilinKakiasAntitheou.name = "The blessed young men."
 StilinKakiasAntitheou.mode = misc_en_UK_lash.Mode6
 StilinKakiasAntitheou.ode = misc_en_UK_lash.Ode8
-StilinKakiasAntitheou.text = "Holding in contempt the monument to dread Herod's wickedness, come, let us believers go towards Jordan, that we may see Christ the Redeemer being baptised in the flesh by the Forerunner in its streams. All creation blesses him as it gives him glory to the ages."
+StilinKakiasAntitheou.text = "The blessed young men in Babylon, accepting danger for the sake of their ancestral laws, spat on the irrational order of the king; and united in the fire which did not smelt them, they raised a hymn worthy of the Mighty One: You his works praise the Lord, and highly exalt him to all the ages."
+
+StilinKakiasTouDeinou.name = "Holding in contempt."
+StilinKakiasTouDeinou.mode = misc_en_UK_lash.Mode6
+StilinKakiasTouDeinou.ode = misc_en_UK_lash.Ode8
+StilinKakiasTouDeinou.text = "Holding in contempt the monument to dread Herod’s wickedness, come, let us believers go towards Jordan, that we may see Christ the Redeemer being baptised in the flesh by the Forerunner in its streams. All creation blesses him as it gives him glory to the ages’"
 
 SyneschethiAllOuKateschethi.name = "You were confined but not held fast."
 SyneschethiAllOuKateschethi.mode = misc_en_UK_lash.Mode6

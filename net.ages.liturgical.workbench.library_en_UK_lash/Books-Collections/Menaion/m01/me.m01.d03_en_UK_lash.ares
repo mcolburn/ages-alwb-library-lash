@@ -85,8 +85,8 @@ meCO.Ode3C12.text = "The dread council of Herod slew the young babes of old, fil
 
 meCO.Ode5C2H.ode = misc_en_UK_lash.Ode5
 meCO.Ode5C2H.mode = misc_en_UK_lash.Mode6
-meCO.Ode5C2H.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
-meCO.Ode5C2H.text = he.h.m6_en_UK_lash.ProsSeOrthrizo.text
+meCO.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C2H.text = ""
 
 meCO.Ode5C21.ode = misc_en_UK_lash.Ode5
 meCO.Ode5C21.mode = misc_en_UK_lash.Mode6
@@ -120,28 +120,28 @@ meCO.Ode8C13.text = "Souls are made holy by the God-given bath of Baptism, and t
 
 meCO.Ode8C21.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C21.mode = misc_en_UK_lash.Mode6
-meCO.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
 meCO.Ode8C21.text = "Believers, shaking the sleep of wickedness from the eyelids of our souls, let us remove all evils from our hearts, and with hot tears wash our minds as ones who contemplate him who has appeared, that we may be seen glorifying Christ to the ages."
 
 meCO.Ode8C22.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C22.mode = misc_en_UK_lash.Mode6
-meCO.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
 meCO.Ode8C22.text = "Let us not offer a harmful word of evil thoughts; but meditating on the divine word, let us approach with hymns the Word, who has appeared in flesh for our sake and enlightens those in darkness. All creation blesses him as it gives him glory to the ages."
 
 meCO.Ode8C23.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C23.mode = misc_en_UK_lash.Mode6
-meCO.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
 meCO.Ode8C23.text = ""
 
 meCO.Ode8C24.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C24.mode = misc_en_UK_lash.Mode6
-meCO.Ode8C24.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
+meCO.Ode8C24.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
 meCO.Ode8C24.text = "You refuse, John, what you will swiftly do as you submit to me. Let be then for now; for thus it is fitting for us truly to fulfill all justice, said the Master to the slave. All creation blesses him as it gives him glory to the ages."
 
 meCO.Ode8C2H.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C2H.mode = misc_en_UK_lash.Mode6
-meCO.Ode8C2H.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasAntitheou.name
-meCO.Ode8C2H.text = he.h.m6_en_UK_lash.StilinKakiasAntitheou.text
+meCO.Ode8C2H.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
+meCO.Ode8C2H.text = he.h.m6_en_UK_lash.StilinKakiasTouDeinou.text
 
 meCO.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C1H.mode = misc_en_UK_lash.Mode2
