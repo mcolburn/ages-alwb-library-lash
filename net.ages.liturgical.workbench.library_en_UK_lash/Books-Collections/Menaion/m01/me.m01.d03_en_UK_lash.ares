@@ -85,17 +85,17 @@ meCO.Ode3C12.text = "The dread council of Herod slew the young babes of old, fil
 
 meCO.Ode5C2H.ode = misc_en_UK_lash.Ode5
 meCO.Ode5C2H.mode = misc_en_UK_lash.Mode6
-meCO.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
-meCO.Ode5C2H.text = ""
+meCO.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meCO.Ode5C2H.text = he.h.m6_en_UK_lash.ProsSeOrthrizo_Epiphany.text
 
 meCO.Ode5C21.ode = misc_en_UK_lash.Ode5
 meCO.Ode5C21.mode = misc_en_UK_lash.Mode6
-meCO.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo_Epiphany.name
 meCO.Ode5C21.text = "Cleansed in mind and purified by participation in the mystery of the dread dispensation, let all us believers go to meet Christ as he comes to purify us in the streams of Jordan."
 
 meCO.Ode5C22.ode = misc_en_UK_lash.Ode5
 meCO.Ode5C22.mode = misc_en_UK_lash.Mode6
-meCO.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m6_en_UK_lash.ProsSeOrthrizo_Epiphany.name
 meCO.Ode5C22.text = "See, friends, the voice of the Word, the lamp of the Sun, the friend of the Bridegroom, who cries out to the peoples: Repent, and hasten to be purified for meeting the Creator."
 
 meCO.Ode8C1H.ode = misc_en_UK_lash.Ode8

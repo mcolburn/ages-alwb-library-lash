@@ -132,10 +132,15 @@ ProkatidonOProfitis.mode = misc_en_UK_lash.Mode6
 ProkatidonOProfitis.ode = misc_en_UK_lash.Ode4
 ProkatidonOProfitis.text = ""
 
-ProsSeOrthrizo.name = "Early will I seek you."
+ProsSeOrthrizo.name = "I rise for you at dawn."
 ProsSeOrthrizo.mode = misc_en_UK_lash.Mode6
 ProsSeOrthrizo.ode = misc_en_UK_lash.Ode5
-ProsSeOrthrizo.text = "Early will I seek you, who through compassion without change emptied yourself for the fallen, and willed to be baptised by the hand of a slave, O Word of God; grant me peace, O Lover of mankind."
+ProsSeOrthrizo.text = "I rise for you at dawn, who through compassion without change emptied yourself for the one who had fallen, and impassibly bowed yourself to the Passion, O Word of God. Grant me peace, O Lover of humankind."
+
+ProsSeOrthrizo_Epiphany.name = "Early will I seek you."
+ProsSeOrthrizo_Epiphany.mode = misc_en_UK_lash.Mode6
+ProsSeOrthrizo_Epiphany.ode = misc_en_UK_lash.Ode5
+ProsSeOrthrizo_Epiphany.text = "Early will I seek you, who through compassion without change emptied yourself for the fallen, and willed to be baptised by the hand of a slave, O Word of God; grant me peace, O Lover of mankind."
 
 ProsecheOurane.name = ""
 ProsecheOurane.mode = misc_en_UK_lash.Mode6
