@@ -257,10 +257,10 @@ meMA.Ode5C22.mode = misc_en_UK_lash.Mode1
 meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
 meMA.Ode5C22.text = "Christ our King, by nature uncontainable, how will a little cave receive you? How will a manger, Jesus, be able to contain you? From a Mother who has not known man you come in flesh, Lord, to your own that you may save those who have been banished."
 
-meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
-meMA.Ode5C23.text = "The Ewe-lamb has come forth to bear the Shepherd. Holy Cave, prepare. Shepherds, hasten to behold the Lamb and Shepherd who has been born. Magi with gifts prepare to worship him in the flesh as King."
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TheosOnEirinis.name
+meMA.Ode5C2T.text = "The Ewe-lamb has come forth to bear the Shepherd. Holy Cave, prepare. Shepherds, hasten to behold the Lamb and Shepherd who has been born. Magi with gifts prepare to worship him in the flesh as King."
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode6
@@ -302,10 +302,10 @@ meMA.Ode6C22.mode = misc_en_UK_lash.Mode1
 meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
 meMA.Ode6C22.text = "Compassionate Christ, you saw our grief and our trouble, and you did not despise us; but, without parting from your Father, you emptied yourself and dwelt in a womb that knew not wedlock, which now comes to the Cave to give birth to you in the flesh without pangs."
 
-meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
-meMA.Ode6C23.text = "Mountains and hills, plains and valleys, peoples and tribes, nations and everything that has breath, filled with divine joy, shout in exultation: The redemption of all, the timeless Word of God, through pity subject to time, came and dwelt on earth."
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SplanchnonIonan.name
+meMA.Ode6C2T.text = "Mountains and hills, plains and valleys, peoples and tribes, nations and everything that has breath, filled with divine joy, shout in exultation: The redemption of all, the timeless Word of God, through pity subject to time, came and dwelt on earth."
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode6
 meMA.Kontakion1.melody = ""
@@ -361,10 +361,10 @@ meMA.Ode7C22.mode = misc_en_UK_lash.Mode1
 meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
 meMA.Ode7C22.text = "The divine casket, bearing within it the sweet-scented myrrh, is coming to pour it out in the cave of Bethlehem, and fill with mystic fragrance those who sing: God of our fathers, blessed are you!"
 
-meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
-meMA.Ode7C23.text = "The tong, which the prophet Isaias saw of old, has come carrying in her womb the divine coal, Christ, who burns up all the material of sin and guides the souls of the faithful to the light."
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OiPaidesEfseveia.name
+meMA.Ode7C2T.text = "The tong, which the prophet Isaias saw of old, has come carrying in her womb the divine coal, Christ, who burns up all the material of sin and guides the souls of the faithful to the light."
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode6
