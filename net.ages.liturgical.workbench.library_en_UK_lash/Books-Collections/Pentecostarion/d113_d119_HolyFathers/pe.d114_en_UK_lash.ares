@@ -62,15 +62,15 @@ peMA.Kathisma21.melody = pe.d112_en_UK_lash.peMA.Kathisma21.melody
 peMA.Kathisma21.text = pe.d112_en_UK_lash.peMA.Kathisma21.text
 
 peMA.Aposticha1.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = pe.d110_en_UK_lash.peVE.Aposticha3.mode

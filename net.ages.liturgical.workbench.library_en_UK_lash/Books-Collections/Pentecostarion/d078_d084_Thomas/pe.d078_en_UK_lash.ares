@@ -14,15 +14,15 @@ peHO.note2 = ""
 peDismissal = dismissals_en_UK_lash.dis00.resurrection
 
 peSV.Stichera1.mode = misc_en_UK_lash.Mode1
-peSV.Stichera1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+peSV.Stichera1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 peSV.Stichera1.text = ""
 
 peSV.Stichera2.mode = misc_en_UK_lash.Mode1
-peSV.Stichera2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+peSV.Stichera2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 peSV.Stichera2.text = ""
 
 peSV.Stichera3.mode = misc_en_UK_lash.Mode1
-peSV.Stichera3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+peSV.Stichera3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 peSV.Stichera3.text = ""
 
 peSV.SticGlory.mode = misc_en_UK_lash.Mode2
@@ -30,19 +30,19 @@ peSV.SticGlory.melody = misc_en_UK_lash.Idiomelon
 peSV.SticGlory.text = ""
 
 peSV.Aposticha1.mode = misc_en_UK_lash.Mode2
-peSV.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peSV.Aposticha1.text = ""
 
 peSV.Aposticha2.mode = misc_en_UK_lash.Mode2
-peSV.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peSV.Aposticha2.text = ""
 
 peSV.Aposticha3.mode = misc_en_UK_lash.Mode2
-peSV.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peSV.Aposticha3.text = ""
 
 peSV.AposGlory.mode = misc_en_UK_lash.Mode2
-peSV.AposGlory.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.OikosTouEfratha.name
+peSV.AposGlory.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peSV.AposGlory.text = ""
 
 peVE.Stichera01.poet = poets_en_UK_lash.IoannouMonachou
@@ -108,15 +108,15 @@ peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = oc.m7.d1_en_UK_lash.ocMA.Kathisma21.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode1
-peMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TouLithouSfragisthentos.name
+peMA.Kathisma11.melody = he.a.m1_en_UK_lash.TouLithouSfragisthentos.notmetered
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = misc_en_UK_lash.Mode1
-peMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+peMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma31.mode = misc_en_UK_lash.Mode1
-peMA.Kathisma31.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+peMA.Kathisma31.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 peMA.Kathisma31.text = ""
 
 peMA.MM.Prokeimenon.text = "" //for media
@@ -145,17 +145,17 @@ peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AsomenPantesLaoi.name
+peMA.Ode1C11.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
 peMA.Ode1C11.text = "Today is the spring of souls, for Christ, shining from the tomb like the sun, has dispelled the foggy winter of our sin. Let us sing to him, for he has been glorified." 
 
 peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AsomenPantesLaoi.name
+peMA.Ode1C12.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
 peMA.Ode1C12.text = "The queen of seasons, filled with light, as escort to the brilliant queen of days, delights the chosen people of the Church, which unceasingly praises the risen Christ." 
 
 peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.AsomenPantesLaoi.name
+peMA.Ode1C13.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
 peMA.Ode1C13.text = "Neither death's gates, O Christ, nor the seals of the tomb, nor the bolts of the doors stood in your way; but having risen you came to your friends, O Master, giving them the peace which passes all understanding." 
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
@@ -165,17 +165,17 @@ peMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereosonMeChriste.text
 
 peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereosonMeChriste.name
+peMA.Ode3C11.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
 peMA.Ode3C11.text = "When by your Cross, O Christ, you had made us new instead of old, instead of corruptible incorruptible, you commanded us to live worthily in newness of life." 
 
 peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereosonMeChriste.name
+peMA.Ode3C12.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
 peMA.Ode3C12.text = "Though you had been locked in the tomb with your finite flesh, O Christ, as infinite you arose; and when the doors were shut you came to your Disciples, O All-powerful." 
 
 peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.StereosonMeChriste.name
+peMA.Ode3C13.melody = he.h.m1_en_UK_lash.StereosonMeChriste.name
 peMA.Ode3C13.text = "By keeping your wounds, O Christ, which you had borne willingly for our sakes, you gave your Disciples proof of your glorious Resurrection." 
 
 peMA.Hypakoe.mode = misc_en_UK_lash.Mode6
@@ -189,22 +189,22 @@ peMA.Ode4C1H.text = he.h.m1_en_UK_lash.MegaToMystirion.text
 
 peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C11.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
 peMA.Ode4C11.text = "He tasted gall, healing the tasting of old; but now with honeycomb Christ gives the Forefather a share in illumination and his sweet participation." 
 
 peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C12.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
 peMA.Ode4C12.text = "You rejoice as you are searched; because for this, O Lover of mankind, you invited Thomas, offering your side to the disbelieving world, confirming, O Christ, your Rising on the third day." 
 
 peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C13.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
 peMA.Ode4C13.text = "The Twin, drawing wealth, O Benefactor, from the inviolate treasure of your side pierced by the lance, has filled the whole world with wisdom and knowledge." 
 
 peMA.Ode4C14.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C14.mode = misc_en_UK_lash.Mode1
-peMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.MegaToMystirion.name
+peMA.Ode4C14.melody = he.h.m1_en_UK_lash.MegaToMystirion.name
 peMA.Ode4C14.text = "Your all-blest tongue is hymned, O Twin, for, being filled with grace from the touch, it was the first to devoutly proclaim Jesus the Giver of life to be God and Lord." 
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
@@ -214,17 +214,17 @@ peMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C11.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
 peMA.Ode5C11.text = "Coming to his disheartened friends the Saviour by his presence drives away all dejection and rouses them to leap for joy at his Resurrection." 
 
 peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C12.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
 peMA.Ode5C12.text = "O truly laudable, dread enterprise of Thomas! For boldly he handled the side which blazed with the divine fire." 
 
 peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C13.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
 peMA.Ode5C13.text = "You showed us that Thomas' unbelief was mother of belief, for in your wisdom you arrange all things for good, O Christ, as Lover of mankind." 
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
@@ -234,17 +234,17 @@ peMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
 
 peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinDiesosas.name
+peMA.Ode6C11.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
 peMA.Ode6C11.text = "You did not leave Thomas, Master, plunged in the deep of unbelief when you stretched out your palms for investigation." 
 
 peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinDiesosas.name
+peMA.Ode6C12.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
 peMA.Ode6C12.text = "The Saviour said, 'Handle me and see that I have bones and flesh. I am not changed'." 
 
 peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinDiesosas.name
+peMA.Ode6C13.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.name
 peMA.Ode6C13.text = "Thomas, who was not present at your first entrance, handled your side and believing acknowledged you." 
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
@@ -266,22 +266,22 @@ peMA.Ode7C1H.text = he.h.m1_en_UK_lash.EikoniLatrevein.text
 
 peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C11.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
 peMA.Ode7C11.text = "It is first and mistress of days, this light-bringing day, on which it is fitting for God's new people to rejoice, for with trembling it bears the type of the age to come, as it completes the Eight. O highly exalted, our God and the God of our fathers." 
 
 peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C12.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
 peMA.Ode7C12.text = "Thomas the Twin, who alone was bold, and brought blessing by his faithless faith, banished misty ignorance in all the ends of the earth by his believing unbelief; while for himself he wove a crown as he wisely said, 'You are our God, O highly exalted, our God and the God of our fathers; blessed are you'." 
 
 peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C13.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
 peMA.Ode7C13.text = "Not in vain did Thomas doubt your Rising, not in vain declare, but he hastened, O Christ, to show to all the nations that it was undoubted; and so having through unbelief come to belief he taught them all to say, 'You are our God, O highly exalted, our God and the God of our fathers; blessed are you'." 
 
 peMA.Ode7C14.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C14.mode = misc_en_UK_lash.Mode1
-peMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.EikoniLatrevein.name
+peMA.Ode7C14.melody = he.h.m1_en_UK_lash.EikoniLatrevein.name
 peMA.Ode7C14.text = "Fearfully placing his hand, O Christ, in your life-bearing side, trembling he felt the double force, O Saviour, of the two natures united without confusion in you, and with faith he cried, 'You are our God, O highly exalted, our God and the God of our fathers; blessed are you'." 
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
@@ -291,17 +291,17 @@ peMA.Ode8C1H.text = he.h.m1_en_UK_lash.TonEnFlogiPyros.text
 
 peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnFlogiPyros.name
+peMA.Ode8C11.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.name
 peMA.Ode8C11.text = "Longing for the joy of seeing you, at first Thomas did not believe; but when found worthy of this sight he called you, Master, Lord and God, whom we highly exalt to all the ages." 
 
 peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnFlogiPyros.name
+peMA.Ode8C12.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.name
 peMA.Ode8C12.text = "The Lord who bore with Thomas' unbelief, showed him his side and was closely examined by his hand, praise and highly exalt to all the ages." 
 
 peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnFlogiPyros.name
+peMA.Ode8C13.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.name
 peMA.Ode8C13.text = "Your curiosity, O Thomas, opened for us the hidden treasure, for with a tongue inspired you declared him God and said 'Praise Christ and highly exalt him to all the ages'." 
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
@@ -311,37 +311,37 @@ peMA.Ode9C1H.text = he.h.m1_en_UK_lash.SeTinFaeinin.text
 
 peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeTinFaeinin.name 
+peMA.Ode9C11.melody = he.h.m1_en_UK_lash.SeTinFaeinin.name 
 peMA.Ode9C11.text = "Your shining and brilliant day, O Christ, the grace, all light, in which, lovely in your beauty, you came to your Disciples, we magnify." 
 
 peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeTinFaeinin.name
+peMA.Ode9C12.melody = he.h.m1_en_UK_lash.SeTinFaeinin.name
 peMA.Ode9C12.text = "You whose side was handled by a hand of dust and did not burn it with the fire of your divine and immaterial Being, in hymns we magnify." 
 
 peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.SeTinFaeinin.name
+peMA.Ode9C13.melody = he.h.m1_en_UK_lash.SeTinFaeinin.name
 peMA.Ode9C13.text = "You, O Christ, who arose from the tomb as God, we who see not with our eyes, but who have believed with the longing of the heart, in hymns we magnify." 
 
 peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
-peMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+peMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
 peMA.Exaposteilarion1.text = "Having examined the wounds in my limbs with your hand, Thomas, do not doubt me, who was wounded for you. Be of one mind with the Disciples and proclaim a living God."
 
 peMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
-peMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+peMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
 peMA.Exaposteilarion2.text = "Today spring's sweetness fills the air, a new creation dances. To-day the bars of doors and unbelief are removed, as Thomas the friend cries, 'My Lord and my God'."
 
 peMA.Lauds1.mode = misc_en_UK_lash.Mode1
-peMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+peMA.Lauds1.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 peMA.Lauds1.text = "After your dread Rising from the tomb, O Giver of life, just as you did not break the seals of the grave, O Christ, so you came when the doors were shut to your all-famed Apostles, filling them with joy, and at once you gave them your Spirit, in your measureless mercy. [Twice]"
 
 peMA.Lauds2.mode = misc_en_UK_lash.Mode1
-peMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+peMA.Lauds2.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 peMA.Lauds2.text = "Thomas, who is also the Twin, was not present when you appeared to your Disciples, O Lord; and so he did not believe your Resurrection, and to those who had seen you he cried, 'Unless I put my finger into his side and into the holes of the nails, I do not believe that he has risen'."
 
 peMA.Lauds3.mode = misc_en_UK_lash.Mode1
-peMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+peMA.Lauds3.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 peMA.Lauds3.text = "'As you wish, handle me', Christ cried to Thomas, 'Put in your hand and know that I have bones and an earthly body; and do not be unbelieving, but believe like the rest'. But he cried out, 'You are my Lord and my God; glory to your Rising'."
 
 peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6

@@ -19,27 +19,27 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
-meVE.Stichera01.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.text = "As general protection, as source of sanctification, let us embrace the precious Cross; for it calms sufferings, brings an end to diseases and delivers sufferers from pains of every kind. More than the great deep it forms a sea with streams of wonders for those who faithfully venerate and reverence its image."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
-meVE.Stichera02.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.text = "We mortals, who sail among the waves of life and are storm-tossed by a tempest of sufferings, let us with faith take refuge in the precious Tree as a vessel of salvation, and it will silence the waves and the winds and break the passions, and we will reach in joy the haven of salvation without storms."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
-meVE.Stichera03.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.text = "The all-holy Cross has shone more brightly than the sun, shedding wonders like sunbeams and healings like flashes of lightning. Let us mortals, ever held fast by the darkness of dread dangers, draw near and we shall receive the light-bringing grace of healings as we magnify the God who was nailed to it in the flesh."
 
 meVE.Stichera04.mode = misc_en_UK_lash.Mode1
-meVE.Stichera04.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+meVE.Stichera04.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 meVE.Stichera04.text = "Tyranny did not shake the roof of the Law, supported by seven pillars; for they bravely endured the irrational frenzy of the persecutor, giving up their bodies to the executioners, those noble youths, kinsmen of Moses and guardians of God's decrees."
 
 meVE.Stichera05.mode = misc_en_UK_lash.Mode1
-meVE.Stichera05.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+meVE.Stichera05.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 meVE.Stichera05.text = "Raising their minds on high beyond things visible the most devout and noble Children, with their mother wise in God, strengthened by the highest hopes had their bodily limbs hacked off. These hopes they have now attained as they rest in the bosom of Abraham their own forefather."
 
 meVE.Stichera06.mode = misc_en_UK_lash.Mode1
-meVE.Stichera06.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.PaneffimoiMartyres.name
+meVE.Stichera06.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 meVE.Stichera06.text = "Stoutly arming themselves with youth of soul and whetting their courage most holy Eleazar, the all-wise youths with their mother, wise in God, unflinchingly held their ground against the adversary for the sake of true religion and the maintenance of their ancestral Law."
 
 meVE.SticGlory.poet = poets_en_UK_lash.IoannouMonachou
@@ -52,15 +52,15 @@ meVE.SticBoth.melody = ""
 meVE.SticBoth.text = me.m09.d14_en_UK_lash.meVE.AposGlory.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
-meVE.Aposticha1.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Aposticha1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meVE.Aposticha1.text = "As the precious Cross comes forth, come, lovers of festivals, let us celebrate the feast, let us be radiant and cry aloud with unwavering faith: O Cross of Christ, sanctify us with the grace of the One who was lifted up on you, and rescue us from every harm by your power."
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode1
-meVE.Aposticha2.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Aposticha2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meVE.Aposticha2.text = "The precious Cross prepares the paths to heaven for all who worship it with fear and love, and the One who was nailed upon it numbers with the choirs of the immaterial Powers those who with longing sing its praise."
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode1
-meVE.Aposticha3.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Aposticha3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meVE.Aposticha3.text = "As we worship in faith the precious Cross, we worship the Master who was nailed upon it, by whose will we purify our lips and souls, by its spiritual illumination we are made radiant as we praise it."
 
 meVE.AposGlory.mode = misc_en_UK_lash.Mode8
@@ -74,7 +74,7 @@ meVE.AposBoth.text = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion1.Poet = poets_en_UK_lash.Gerasimou
-meVE.Apolytikion1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
 meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = misc_en_UK_lash.Mode1
@@ -82,11 +82,11 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.text = me.m09.d14_en_UK_lash.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
-meMA.Kathisma11.melody = misc_en_UK_lash.NotMetered //he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Kathisma11.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 meMA.Kathisma11.text = "All mortal nature together keeps a feast, and in spirit leaps for joy; for the Tree of the Cross is set forth today as an inexhaustible source of healing for those who have recourse to it with devotion and love, and who glorify the One who nailed on it, Christ, the Lover of mankind."
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
-meMA.Kathisma21.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kathisma21.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
 meMA.Kathisma21.text = "For this present day the progress of the Cross is cause of joy; for it sanctifies both our souls and bodies, who worship it with faith."
 
 meMA.C1Poet = poets_en_UK_lash.Iosif
@@ -104,27 +104,27 @@ meMA.C1.verse = prayers_en_UK_lash.verse_Cross.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C11.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C11.text = "Let us today with pure mind and devout intent worship the life-bearing Cross of the Lord; for it is set forth granting to those who approach it sanctification and salvation, illumination, glory and mercy."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C12.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C12.text = "The life-giving Cross set forth and contemplated sends out a beam of grace formed of light. Let us draw near and receive enlightenment of joy, salvation and forgiveness, as we bring praise to the Lord."
 
 meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C13.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C13.text = "A strange sight is set forth for those who watch, the precious Cross; and like a source it pours out spiritual gifts of grace, brings sins to an end, abolishes diseases and strengthens the thoughts of those worship it sincerely."
 
 meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C14.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C14.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C14.text = "A rod which parted the sea prefigured the trophy of the Cross, through which we by faith sail the troubled water of life undrowned, escape all the streams of sin and are filled with divine calm."
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C1T.text = "When I gave birth to you ineffably, my Child, I escaped the pangs of labour; how then am I now all filled with griefs? For I see you, who hung the earth without restraint, hanged like a malefactor on a Tree."
 
 meMA.C2.title = titles_en_UK_lash.KanonTonAgion
@@ -132,42 +132,42 @@ meMA.C2.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C21.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C21.text = "O all-wise Youths, who like professionals guarded the doctrines of Moses and devoutly imitated the death of Christ, intercede always that we may all be saved."
 
 meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C22.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C22.text = "Who has seen, who has heard what contests the guardians of the Law, the sons of Solomoni, valiantly displayed as they competed with one soul and one thought?"
 
 meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C23.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C23.text = "Spurring each other on, the seven holy sons of honoured Solomoni cried out, 'Let us compete like professionals, and let us die eagerly for our ancestral customs'."
 
 meMA.Ode1C24.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C24.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C24.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C24.text = "Let us stand with courage, the tyrant has been put to shame, tortures have been made feeble, Beliar has been worsted, the fire has been quenched. Let no one then, brothers, stand outside the starting blocks."
 
 meMA.Ode1C25.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C25.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C25.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C25.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C25.text = "'For us, Antiochos, the contest is for our ancestral customs', cried the Youths stripped naked in the stadium, 'for them we prefer to die rather than to live.'"
 
 meMA.Ode1C26.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C26.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C26.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C26.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C26.text = "As their flesh was being scraped with iron claws in the stadium, the guardians of the Law were crying, 'For us, Antiochos, the pains and the fire are sweet, for the sake of the life of all.'"
 
 meMA.Ode1C2Tr.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C2Tr.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C2Tr.text = "Let us glorify the Trinity, the eternal Essence in Unity, consubstantial, one in majesty and power, the Father without beginning, the Son and the holy Spirit."
 
 meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.OdinEpinikion.name
+meMA.Ode1C2T.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
 meMA.Ode1C2T.text = "Giving bud ineffably in your womb to the ripe grape cluster, O Mother of God, you were revealed to Christ's Church as a life-bearing vine, giving joy to all."
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
@@ -177,52 +177,52 @@ meMA.Ode3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C11.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
 meMA.Ode3C11.text = "The Cross, cause of all blessings, is seen and worshipped; and all creation keeps festival with joy, enlightened by the grace of our God who was willingly lifted up on it."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C12.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
 meMA.Ode3C12.text = "Made radiant with the light of the splendours of the Cross and having put all our trust in it, let us flee the darkness of sins and let us cry, 'O enlightenment of all thins, compassionate Lord, glory to you!'"
 
 meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C13.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
 meMA.Ode3C13.text = "We sing your praise, O Cross, and we embrace you with faith as we beg your mighty power, 'Rescue us from the snares of the foe, and pilot us all to the haven of salvation as we sing your praise'."
 
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.OStereosasKatArchas.name
+meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
 meMA.Ode3C1T.text = "As she watched life that had died on a Cross, and unable to bear the pain in her heart, the holy Virgin was deeply troubled and she cried, 'Alas, my Son! What has a lawless people done to you?'"
 
 meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
+meMA.Ode3C21.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C21.text = "O Youths who all sprang up and grew together in holiness and were instructed in accordance with the Law by Eleazar, you competed like professionals and trampled down to the ground all the plans of Antiochos."
 
 meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
+meMA.Ode3C22.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C22.text = "'Hurry, tyrant, cried out the children of Abraham, do whatever you wish, rage ever more fiercely. We will in no way obey your decrees, with longing for God we choose rather the outrages of tortures.'"
 
 meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
+meMA.Ode3C23.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C23.text = "'Let no one be deprived today of the good fight. Let no one be hunted down by the raving beast. The serpent is cunning, let none of us become his fodder' so the sons of Solomoni spurred one another on."
 
 meMA.Ode3C24.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C24.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
+meMA.Ode3C24.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C24.text = "'Come, guardians of the Law, let us be tortured together. Come, let us be courageous', cried the Youths as they devoutly spurred one another to the contests. Let us too imitate their zeal."
 
 meMA.Ode3C2Tr.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
+meMA.Ode3C2Tr.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C2Tr.text = "Let us the faithful glorify one Essence of God, one sovereignty, one kingship, uniting without confusion the one Godhead and devoutly dividing it in three hypostases."
 
 meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.LithonOnApedokimasan.name
+meMA.Ode3C2T.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C2T.text = "You were prefigured by the Bush on Sinai that was unconsumed; you appeared to Daniel as a divine Mountain, from which was cut without human hand the indivisible, Christ the rock of our life, who is one Son, born from you, O Mother of God."
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
@@ -230,7 +230,7 @@ meMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
 meMA.Kontakion1.text = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.text
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
-meMA.Ode3Kathisma1.melody = misc_en_UK_lash.NotMetered //he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.text = "Having lived devoutly, wise Youths, you bravely as martyrs shamed the tyrant's threats, as champions of the Law; and as followers of the father you became Saints and with your mother, wise in God, you struggled eagerly. Therefore by death you truly purchased the life of heaven and you rejoice eternally, brave-hearted Maccabees. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode6
@@ -244,27 +244,27 @@ meMA.Ode4C1H.text = he.h.m8_en_UK_lash.SyMouIschys.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C11.melody = he.h.m8_en_UK_lash.SyMouIschys.name
 meMA.Ode4C11.text = "See, the mighty protection and restoration of mortals, the invincible weapon of the faith, the saving Cross is set forth and appears. And sanctifying the hearts of all who approach it with faith it enlightens by grace."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C12.melody = he.h.m8_en_UK_lash.SyMouIschys.name
 meMA.Ode4C12.text = "The great guardian of the Orthodox is set forth in the midst of all, the precious Cross in the midst of the earth, on which you were lifted up, supremely loving Lord, by your own free will. It sanctifies the world by its worship and it routs the regiments of demons."
 
 meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C13.melody = he.h.m8_en_UK_lash.SyMouIschys.name
 meMA.Ode4C13.text = "Heaven with all the earth is glad; Champions, Martyrs, Apostles, souls of the Righteous now rejoice exceedingly as they see the life-giving Tree set forth in the midst, which saves all and sanctifies believers by grace."
 
 meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C14.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C14.melody = he.h.m8_en_UK_lash.SyMouIschys.name
 meMA.Ode4C14.text = "Without conscience I have not kept your laws, O Lord, and am going to be condemned when you come from heaven to judge the works of mortals. Therefore I cry to you, 'By the power of your Cross turn me back, save me, granting me tears of repentance'."
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.SyMouIschys.name
 meMA.Ode4C1T.text = "'From a virgin womb, my Child, I gave you birth, and now as I see you hanging on a Tree, I am at a loss and do not comprehend the height of the mystery and the depth of your judgements', cried the All-pure, whom as Mother of God with never silent voices we call blessed."
 
 meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
@@ -304,48 +304,48 @@ meMA.Ode5C1H.text = he.h.m8_en_UK_lash.InaTiMeAposo.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C11.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
 meMA.Ode5C11.text = "Shout for joy, you nations, sing, leap and chant, you tribes, to God who has given the Cross as an unshakeable support. As it now set forth let all of us believers rejoice as through it we enjoy the blessings."
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C12.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
 meMA.Ode5C12.text = "All the spiritual armies escort you, all-holy Cross, and we mortals, touching you today with lips of clay, with love draw sanctification and blessing, as we glorify the One who was nailed upon you."
 
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C13.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
 meMA.Ode5C13.text = "Compassionate Lord, heal the persistent passions of my soul, and save me as I worship your precious Cross. By its power all that impedes is driven off and we remain unaffected by evils."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
 meMA.Ode5C1T.text = "[missing] 
 Ἐν Σταυρῷ καθορῶσα, τὸν δι' ἀγαθότητα, ἐκ σοῦ Πανάμωμε, ὑπὲρ νοῦν τεχθέντα, ἐδονήθης τὰ σπλάγχνα καὶ ἔλεγες· Οἴμοι! θεῖον τέκνον, πῶς ὑπὲρ πάντων ὀδυνᾶσαι; Προσκυνῶ σου τὸ εὔσπλαγνον Κύριε."
 
 meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C21.melody = he.h.m1_en_UK_lash.TinSinEirinin.name
 meMA.Ode5C21.text = "Lovers of Christ, let us imitate the seven Youths, whom Moses lawfully brought up and Eleazar instructed in their ancestral Law through true religion."
 
 meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C22.melody = he.h.m1_en_UK_lash.TinSinEirinin.name
 meMA.Ode5C22.text = "'Do not imagine, Antiochos, persecutor of the faithful, that your burning fire can frighten. Slaughter too, lawless tyrant. Do what you like', the Youths cried out."
 
 meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C23.melody = he.h.m1_en_UK_lash.TinSinEirinin.name
 meMA.Ode5C23.text = "'Let us together struggle lawfully, brave martyrs of Christ. Let Moses commands be passed along the line, not to touch polluted foods', the Youths cried out."
 
 meMA.Ode5C2Tr.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C2Tr.melody = he.h.m1_en_UK_lash.TinSinEirinin.name
 meMA.Ode5C2Tr.text = "O Trinity, before eternity, co-eternal and of equal majesty, Father, Son and holy Spirit, holy Unity in three persons, save those of Adam's race who faithfully sing your praise."
 
 meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinSinEirinin.name
+meMA.Ode5C2T.melody = he.h.m1_en_UK_lash.TinSinEirinin.name
 meMA.Ode5C2T.text = "O Christ, alone compassionate, grant us peace; for your most pure Mother, together with the Saints who struggled for their ancestral customs and for Moses' Law, entreats you."
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
@@ -355,61 +355,61 @@ meMA.Ode6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C11.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C11.text = "When the Cross was fixed in the earth, the fall of demons came about. As we see it now gloriously set forth and as we greet it lovingly we rise up from the sin of our falls."
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C12.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C12.text = "As we praise you, God and King and Lord, we now embrace with joy the Cross which you have given us as an unbreachable wall and are delivered from perils."
 
 meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C13.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C13.text = "The Cross of the Lord, which grants us all great gifts, appears set forth. Mortals, let us approach, as we draw fro it enlightenment of heart and soul."
 
 meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C1T.text = "Give us strength, Pure Virgin, to fast from every evil, and ever give us power to keep from mean and wicked deeds, for you are the protection of all mankind."
 
 meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C21.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C21.text = "The Wisdom of God built a temple and supported it on seven spiritual pillars, foreshadowing these Youths as guardians of the Law."
 
 meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C22.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C22.text = "Wise Solomoni gave birth to seven sons, whom wise Eleazar brought up well; and when they had struggled bravely divine grace crowned them."
 
 meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C23.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C23.text = "'Why do you delay, judge?' said the band with seven branches in the midst of tortures, 'punish, slaughter swiftly, do whatever you wish'."
 
 meMA.Ode6C24.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C24.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C24.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C24.text = "'Our father has struggled before us, the sons are struggling together, let our mother too follow us, judge. And may their be an addition to the children and a cause of pride.'"
 
 meMA.Ode6C25.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C25.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C25.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C25.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C25.text = "'Though you destroy our bodies by the fire, Antiochos,' the choir of seven brothers valiantly cried out, 'do not imagine you can defeat even one of us.'"
 
 meMA.Ode6C2Tr.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C2Tr.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C2Tr.text = "Let us faithfully worship the Father and the Son and the right Spirit in one Godhead, as we cry, 'Holy Trinity, save your world!'"
 
 meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonProfitinIonan.name
+meMA.Ode6C2T.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
 meMA.Ode6C2T.text = "How did you bear a Son whom no father had begotten? How did you remain pure after child-birth as you were before? It is God who knows, who does all things just as he wills."
 
 meMA.Kontakion2.mode = misc_en_UK_lash.Mode2
-meMA.Kontakion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.TaAnoZiton.name
+meMA.Kontakion2.melody = he.a.m2_en_UK_lash.TaAnoZiton.notmetered
 meMA.Kontakion2.text = "You pillars of God's Wisdom, in umber seven, and lamps with seven lights of the divine light, all-wise Maccabees, greatest of martyrs before the Martyrs, with them ask the God of all things that those who sing your praise may be saved."
 
 meMA.Oikos2.text = "Sion, praise your God with fervour, for he has truly strengthened the bars of your gates and blessed your sons. For they, as a triumphant army, a truly noble and stout-hearted regiment, resisted with godly mind the devices of the wicked men. But as you enjoy the crowns of victory of the heavenly Sion and draw near to the throne of God, making supplication without ceasing on behalf of all, ask that those who sing your praise may be saved."
@@ -423,52 +423,52 @@ meMA.Ode7C1H.text = he.h.m8_en_UK_lash.TheouSynkatavasin.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C11.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
 meMA.Ode7C11.text = "The One beyond time is revealed in time bearing flesh, and through his loving-kindness he heals our chronic passions of both flesh and spirit; while already he sanctifies us by his divine Cross."
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C12.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
 meMA.Ode7C12.text = "We praise and glorify, we worship and magnify your might, O Lord; for you have granted us your servants the divine Cross as inexhaustible delight and guardian of our souls and bodies."
 
 meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C13.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
 meMA.Ode7C13.text = "Do not prove me condemned to evils, Lord, on the day of decision; do not cast me away from your presence in shame, but take pity, save me by your precious Cross as you are supremely good."
 
 meMA.Ode7C14.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C14.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C14.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
 meMA.Ode7C14.text = "When Moses made the bitter waters sweet with wood, he prefigured your grace, O Cross; for we too have been delivered from the bitterness of evils by your power; therefore as we now greet you lovingly, make us sweet by compunction of soul."
 
 meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.TheouSynkatavasin.name
+meMA.Ode7C1T.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
 meMA.Ode7C1T.text = "Make broad the narrowness of my mind by your intercession, Sovereign Lady, who narrowed all the devices of the foe, guide me through the narrow way to walk towards the broad plain of life, O Mother of God."
 
 meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C21.melody = he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
 meMA.Ode7C21.text = "The zealots for the ancestral Law, the unflinching guardians of Law united in soul, with all devotion confessed one God in three hypostases, faithfully uniting and devoutly distinguishing."
 
 meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C22.melody = he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
 meMA.Ode7C22.text = "'What are you waiting for then, tyrant?' cried the Martyrs to the erring judge; 'we confess one God and we have a native land, the Jerusalem on high that nurtured us.'"
 
 meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C23.melody = he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
 meMA.Ode7C23.text = "'We will not eat polluted food,' they say, 'we will not sacrifice, nor bow the knee to earth. We confess one God and him we fear, from whom we came and to whom we speed.'"
 
 meMA.Ode7C2Tr.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C2Tr.melody = he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
 meMA.Ode7C2Tr.text = "Let us raise a song to the Trinity, glorifying the Father without beginning, the Son and the right Spirit, one single essence, whom thrice we praise, crying, 'Holy, Holy, Holy.'"
 
 meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
+meMA.Ode7C2T.melody = he.h.m1_en_UK_lash.TousEnKaminoPaidas.name
 meMA.Ode7C2T.text = "Hail, wall and joy of all, O Virgin all-praised. Hail, hope of the ends of the earth. Hail, beauty of mortals and immaculate delight of the Angels. For you the only God in the flesh."
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
@@ -478,57 +478,57 @@ meMA.Ode8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C11.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 meMA.Ode8C11.text = "Godlike Elissaios once drew the iron from a river with wood, from long ago foreshadowing you, all-honoured Cross. For we who through you have also been drawn out of the abyss of error to sure faith are today counted worthy to behold you and to worship you in faith to all the ages."
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C12.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 meMA.Ode8C12.text = "From long ago Jacob most clearly prefigured you, all-honoured Cross, by his blessings. While we, who have been counted worthy by grace to look on you, all with undoubting faith draw near and sing, plucking blessing richly, and light and salvation and release from faults."
 
 meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C13.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 meMA.Ode8C13.text = "Robed in white with virtuous deeds, let us draw near crying to Christ with joy, 'All-loving Master, by your divine and most high Cross exalt the horn of us your people, that bears the name of Christ, so that with faith and profound peace it may praise your might to all the ages'."
 
 meMA.Ode8C1Tr.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1Tr.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C1Tr.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C1Tr.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 meMA.Ode8C1Tr.text = "As we all praise a single nature, consubstantial, equally without beginning, co-eternal, equal in majesty, yet distinct in persons, the Father unbegotten, the Son and the holy Spirit, uncreated essence and Godhead, we sing, 'You priests, you people highly exalt God to all the ages."
 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
 meMA.Ode8C1T.text = "'As I now see you as an innocent lamb hanged and nailed to the Cross by lawless people, my Son who are from all eternity, I am assailed with griefs and beset with a mother's pangs' cried the All-pure, whom with never silent voices we devoutly praise to all the ages."
 
 meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
+meMA.Ode8C21.melody = he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
 meMA.Ode8C21.text = "Those guardians of the laws of their ancestral customs, those heralds of ordinance of Moses, appearing like seven beacons in the world, flood us with the rays of their struggles, those spiritual lanterns."
 
 meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
+meMA.Ode8C22.melody = he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
 meMA.Ode8C22.text = "Those that were bravest in accordance with God's law, and who spat on the counsels of Antiochos, valiantly cried out, 'Wild beasts, swords, fire or scourges can never separate us from God, Antiochos!'"
 
 meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
+meMA.Ode8C23.melody = he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
 meMA.Ode8C23.text = "Those who adorned the chair of Moses and kept safe the ancestral laws, shining like seven stars in the world, made dark the wandering stars, made resplendent by the faith."
 
 meMA.Ode8C24.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C24.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
+meMA.Ode8C24.melody = he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
 meMA.Ode8C24.text = "Those shoots of devout Solomoni, and nurslings of faithful Eleazar, those seven beacons shining like lamps by the lamp of the Law, have clearly been set in the tabernacle of God."
 
 meMA.Ode8C2Tr.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
+meMA.Ode8C2Tr.melody = he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
 meMA.Ode8C2Tr.text = "Glory to the Father, the Son and the Spirit, to the Godhead, Trinity of persons, and Unity of nature by hypostases, praised without ceasing by all creation and to all the ages."
 
 meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
+meMA.Ode8C2T.melody = he.h.m1_en_UK_lash.TonEnSofiaTousOuranous.name
 meMA.Ode8C2T.text = "You were revealed, Mary, to be the treasure-house of the good-pleasure of the Father, abode of the coming of the Son, dwelling-place of the Spirit, typifying in yourself the manifestation of the Trinity."
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
@@ -538,92 +538,92 @@ meMA.Ode9C1H.text = he.h.m8_en_UK_lash.ExestiEpiTouto.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C11.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C11.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
 meMA.Ode9C11.text = "Once fixed to the Cross with nails through feet and hands, pierced in the side, your thirst quenched with vinegar and gall, you healed my wounds, O King of all, supremely good, the joy, the sweetness, glory and eternal redemption of all."
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C12.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C12.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
 meMA.Ode9C12.text = "Fair beyond sapphire and gold, bright as the sun you are, divine Cross, lying circumscribed by place and ever manifestly surrounded by spiritual Powers, yet enlightening every part of the inhabited world with rays of the divine power."
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C13.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C13.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
 meMA.Ode9C13.text = "The Cross is the harbour of the storm-tossed, guide and support of the wandering, glory of Christ, strength of Apostles and Prophets, boast of Champions, refuge of all mortals. As we all see it set fourth in the midst, we greet it with loving devotion."
 
 meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C14.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C14.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C14.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
 meMA.Ode9C14.text = "When you are about to come on earth to judge the world which you fashioned, Lord, with the Angelic hosts marching ahead and the Cross shining out more brightly than the beams of the sun, take pity on me by its power and save me who fallen more than all mortals."
 
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C1T.melody = misc_en_UK_lash.NotMetered //he.h.m8_en_UK_lash.ExestiEpiTouto.name
+meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
 meMA.Ode9C1T.text = "'Without corruption I gave birth to you from the womb, whom the Father begot before the ages; how do corrupt mortals rend you, my Son, and inhumanly gouge your side with a lance, your hands and feet with nails?' cried the All-pure, whom we fittingly magnify."
 
 meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C21.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C21.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C21.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C21.text = "Those brought up in accordance with the Law and who died on behalf of the Law, the pupils of Eleazar, the Children of Solomoni and zealous followers of Moses, as they were being dragged out shouted, 'Antiochos, we do you hesitate, why do you delay, why are you not doing what you want to against us?'"
 
 meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C22.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C22.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C22.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C22.text = "The captains of the Law, stoutly despising the follies of Antiochos, bore up bravely under tortures, filling themselves with zeal, stirring one another on and hastening to anticipate toils and struggles and to die rather than to live."
 
 meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C23.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C23.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C23.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C23.text = "As a brave and noble Olympic victor, Solomoni, as she watched her sons being slaughtered, was not shaken in soul, but she cried, 'Listen, Antiochos, add me to my children, if indeed there is really grace from foes'."
 
 meMA.Ode9C24.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C24.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C24.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C24.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C24.text = "O the prowess of a woman! O height of nobility! She, who had offered the seven-pillared choir of her sons to God for the sake of the Law, eagerly played the man and gave herself over to tortures as an addition to her sons who had just died."
 
 meMA.Ode9C25.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C25.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C25.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C25.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C25.text = "The Youths who were an image of the holy week of seven days, longing to acquire by death the treasure of life, nobly resisted the threats of the persecutor and by their service of the Law shamed his utterly profane devices."
 
 meMA.Ode9C26.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C26.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C26.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C26.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C26.text = "Let us honour gloriously the heroes of the Law, whom Eleazar brought up and left a fair example, offering himself to the torments of the Saints, as they intercede that peace may be given to the world and to us forgiveness."
 
 meMA.Ode9C27.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C27.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C27.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C27.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C27.text = "Holy Youths of the Law of God, by your intercessions rescue from all disease and corruption those who celebrate the memory of your sacred contests, granting to this Monastery of ours peace and deliverance from evils."
 
 meMA.Ode9C2Tr.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C2Tr.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C2Tr.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C2Tr.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C2Tr.text = "I glorify Light, the Father, I magnify Light, the Son and I worship Light, the Spirit, the holy Trinity; but in three persons and one Godhead an eternal and unending might, bringing all things out of non-existence."
 
 meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C2T.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C2T.melody = misc_en_UK_lash.NotMetered //he.h.m1_en_UK_lash.TinFotoforonNefelin.name
+meMA.Ode9C2T.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.name
 meMA.Ode9C2T.text = "Say, O Virgin, how did you give birth? How did milk come from your breasts? How did you become the one who gave birth to him who came from you without father and without mother is the only-begotten from the Father on high? How did you suckle the One who nourishes the world? How? As he knows, as he was well-pleased."
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
-meMA.Exaposteilarion1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion1.text = "Let us sing the praise of the wondrous Maccabees, children of Eleazar and Solomoni; for they destroyed the arrogance of the dragon, origin of evil, and by their service of the Law were crowned as victors."
 
 meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
-meMA.Exaposteilarion2.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion2.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 meMA.Lauds1.mode = misc_en_UK_lash.Mode4
-meMA.Lauds1.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meMA.Lauds1.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meMA.Lauds1.text = "With voices let us shout for joy, with songs let us make melody, as with love we embrace the precious Cross, and let us cry out to it, 'Most blessed Cross, make holy our souls and bodies by your power, and keep unharmed from every hurt of enemies those who devoutly worship you'."
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode4
-meMA.Lauds2.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meMA.Lauds2.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meMA.Lauds2.text = "Approach and draw waters that do not fail that issue from the grace of the Cross. See, we contemplate the holy Tree which is set forth, the source of gifts of grace watered by the Blood and Water of the Master of all things who was willingly raised upon it and who raises mortals."
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode4
-meMA.Lauds3.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meMA.Lauds3.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meMA.Lauds3.text = "O all-revered Cross, you are the foundation of the Church, the ornament of Monks and the boast and salvation of Priests; therefore we worship you and are enlightened in heart and soul today by the divine grace of the One who was nailed to you and who destroyed the might of the deceiver and abolished the curse."
 
 meMA.Lauds4.mode = misc_en_UK_lash.Mode1

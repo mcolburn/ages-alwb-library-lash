@@ -179,7 +179,7 @@ hoMA.ExapMonTh.text = ho.s23_en_UK_lash.hoCA.Exaposteilarion2.text
 
 hoMA.ExapTueTitle = "On Tuesday"
 hoMA.ExapTue1.mode = misc_en_UK_lash.Mode3
-hoMA.ExapTue1.melody = misc_en_UK_lash.NotMetered //he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoMA.ExapTue1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
 hoMA.ExapTue1.text = da.d3_en_UK_lash.daMA.Exaposteilarion1.text
 
 hoMA.ExapTueTh.mode = misc_en_UK_lash.Mode3
@@ -188,7 +188,7 @@ hoMA.ExapTueTh.text = ho.s23_en_UK_lash.hoCA.Exaposteilarion2.text
 
 hoMA.ExapWedFriTitle = "On Wednesday and Friday"
 hoMA.ExapWedFri1.mode = misc_en_UK_lash.Mode2
-hoMA.ExapWedFri1.melody = misc_en_UK_lash.NotMetered //he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+hoMA.ExapWedFri1.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
 hoMA.ExapWedFri1.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 hoMA.ExapWedFriTh.mode = misc_en_UK_lash.Mode3
