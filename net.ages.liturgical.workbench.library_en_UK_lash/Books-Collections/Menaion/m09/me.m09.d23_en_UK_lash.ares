@@ -52,7 +52,7 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.text = "An Angel you came forth from barren loins, O Baptist, from your swaddling bands you dwelt in the wilderness and were declared seal of all the Prophets, for you were counted worthy to baptize in Jordan the One whom they had contemplated in divers manners and proclaimed beforehand in riddles. And you heard the voice of the Father from heaven bearing witness to his sonship; and you saw the Spirit in the form of a dove drawing down the voice upon the One baptized. But, O higher than all the Prophets, do not cease to intercede for us who celebrate with faith your memorial."
 
 meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
-meVE.AposTheotokion.melody = misc_en_UK_lash.NotMetered //he.o_en_UK_lash.TheotokeSyEi.name
+meVE.AposTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.name
 meVE.AposTheotokion.text = he.o_en_UK_lash.TheotokeSyEiProdromou.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4

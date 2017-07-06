@@ -529,7 +529,7 @@ octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.text = oc.m4.d3_en_UK_lash.ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode4
-octrMA.Ode7Martyricon.melody = misc_en_UK_lash.NotMetered //he.a.m4_en_UK_lash.TachyProkatalave.mode
+octrMA.Ode7Martyricon.melody = he.a.m4_en_UK_lash.TachyProkatalave.mode
 octrMA.Ode7Martyricon.text = oc.m4.d3_en_UK_lash.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_UK_lash.Mode4
