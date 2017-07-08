@@ -504,13 +504,13 @@ ocLI.Beatitudes4.mode = misc_en_UK_lash.Mode4
 ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = "Holy Martyrs, having taken up the Cross as a weapon you marched out with noble intent against the ranks of the foe, and having destroyed them you were garlanded with victors' wreathes and gained glory and divine splendour, O admirable ones; therefore with faith we all call you blest."
 
-ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode4
-ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "To show your compassion for us openly, O Saviour, who are one with the Father and the Spirit, you were nailed to the Cross; and endured the sponge and reed, blows and stripes, for you wished to deliver from ever-living fire us who cry: Remember us also in your kingdom."
+ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesTr.melody = ""
+ocLI.BeatitudesTr.text = "To show your compassion for us openly, O Saviour, who are one with the Father and the Spirit, you were nailed to the Cross; and endured the sponge and reed, blows and stripes, for you wished to deliver from ever-living fire us who cry: Remember us also in your kingdom."
 
-ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode4
-ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "The wholly uncontainable dwelt without constraint in your holy womb, O Mother of God, immaculate Lady, and by dying on a Tree became a source of life for the world. Implore him to slay our carnal thoughts and save us all as he loves mankind."
+ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesT.melody = ""
+ocLI.BeatitudesT.text = "The wholly uncontainable dwelt without constraint in your holy womb, O Mother of God, immaculate Lady, and by dying on a Tree became a source of life for the world. Implore him to slay our carnal thoughts and save us all as he loves mankind."
 
 //Octoechos in Triodion
 

@@ -819,11 +819,11 @@ ocLI.Beatitudes6.mode = misc_en_UK_lash.Mode8
 ocLI.Beatitudes6.melody = ""
 ocLI.Beatitudes6.text = "Revealed as Christ's friends, O Apostles, who will be enthroned with him in glory, as his Disciples intercede that we may stand beside him with freedom to address him."
 
-ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode8
-ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "Eternal Trinity, Essence undivided, Unity enthroned as one, whose glory is the same, nature and Kingship beyond all beginning, save those who sing your praise with faith."
+ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode8
+ocLI.BeatitudesTr.melody = ""
+ocLI.BeatitudesTr.text = "Eternal Trinity, Essence undivided, Unity enthroned as one, whose glory is the same, nature and Kingship beyond all beginning, save those who sing your praise with faith."
 
-ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode8
-ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "Hail, wise spacious place of God! Hail, ark of the New Covenant! Hail, jar of gold, from which the heavenly Manna has been given to all."
+ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode8
+ocLI.BeatitudesT.melody = ""
+ocLI.BeatitudesT.text = "Hail, wise spacious place of God! Hail, ark of the New Covenant! Hail, jar of gold, from which the heavenly Manna has been given to all."
 

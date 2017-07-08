@@ -741,11 +741,11 @@ ocLI.Beatitudes6.mode = misc_en_UK_lash.Mode2
 ocLI.Beatitudes6.melody = ""
 ocLI.Beatitudes6.text = "On rising from the grave you met the Myrrhbearers and ordered them to tell your Disciples of your Rising."
 
-ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode2
-ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "Let us all now glorify the Father, worship the Son and praise with faith the Holy Spirit."
+ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode2
+ocLI.BeatitudesTr.melody = ""
+ocLI.BeatitudesTr.text = "Let us all now glorify the Father, worship the Son and praise with faith the Holy Spirit."
 
-ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode2
-ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "Hail throne formed of fire; hail Bride without bridegroom; hail Virgin who bore God for humankind!"
+ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode2
+ocLI.BeatitudesT.melody = ""
+ocLI.BeatitudesT.text = "Hail throne formed of fire; hail Bride without bridegroom; hail Virgin who bore God for humankind!"
 

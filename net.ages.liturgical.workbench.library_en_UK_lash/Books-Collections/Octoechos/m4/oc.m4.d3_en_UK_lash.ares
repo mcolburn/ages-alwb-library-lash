@@ -533,13 +533,13 @@ ocLI.Beatitudes4.mode = misc_en_UK_lash.Mode4
 ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = "Though crushed by torments and given as fodder to wild beasts, fearfully maimed and cast into the depth of the sea, wasted by fire and flogged by savage decree, you did not deny God, all-praised Martyrs. Ever implore him to save our souls."
 
-ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode4
-ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "Having purified our minds let us cry out to the Trinity: Father, Son, Holy Spirit, identical in honour, guard your servants, who worship you with sincere love, as we cry to the one God: Remember us also in your Kingdom."
+ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesTr.melody = ""
+ocLI.BeatitudesTr.text = "Having purified our minds let us cry out to the Trinity: Father, Son, Holy Spirit, identical in honour, guard your servants, who worship you with sincere love, as we cry to the one God: Remember us also in your Kingdom."
 
-ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode4
-ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "You received in your womb the One who with the Father is without beginning and equal in majesty with the holy Spirit and you bore him beyond understanding and reason when he became man for the welfare of mankind, Mary Bride of God, spacious place of our God. Beg him insistently that your servants may be saved."
+ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesT.melody = ""
+ocLI.BeatitudesT.text = "You received in your womb the One who with the Father is without beginning and equal in majesty with the holy Spirit and you bore him beyond understanding and reason when he became man for the welfare of mankind, Mary Bride of God, spacious place of our God. Beg him insistently that your servants may be saved."
 
 //Octoechos in Triodion
 

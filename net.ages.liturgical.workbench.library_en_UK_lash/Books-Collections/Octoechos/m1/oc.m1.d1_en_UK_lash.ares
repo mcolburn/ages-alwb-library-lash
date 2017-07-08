@@ -800,11 +800,11 @@ ocLI.Beatitudes6.mode = misc_en_UK_lash.Mode1
 ocLI.Beatitudes6.melody = ""
 ocLI.Beatitudes6.text = "Your Apostles, Lord, coming to the mountain that you, O Saviour, had appointed for them, saw you and worshipped you. And you sent them out to teach the nations and baptise them."
 
-ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode1
-ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "Let us all worship the Father and glorify the Son, and with them praise the all-holy Spirit, as we cry and say: All-holy Trinity, save us all."
+ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode1
+ocLI.BeatitudesTr.melody = ""
+ocLI.BeatitudesTr.text = "Let us all worship the Father and glorify the Son, and with them praise the all-holy Spirit, as we cry and say: All-holy Trinity, save us all."
 
-ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode1
-ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "Your people, O Christ, brings you your Mother to intercede; at her entreaties, O Good One, grant us your compassion, that we may glorify you, who dawned for us from the tomb."
+ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode1
+ocLI.BeatitudesT.melody = ""
+ocLI.BeatitudesT.text = "Your people, O Christ, brings you your Mother to intercede; at her entreaties, O Good One, grant us your compassion, that we may glorify you, who dawned for us from the tomb."
 

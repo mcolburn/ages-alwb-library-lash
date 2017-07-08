@@ -828,11 +828,11 @@ ocLI.Beatitudes6.mode = misc_en_UK_lash.Mode4
 ocLI.Beatitudes6.melody = ""
 ocLI.Beatitudes6.text = "Let us the faithful implore him who rose from the dead, despoiled the might of Hell and appeared to the women as he cried: Rejoice, to free our souls from corruption, as we ever cry to him in the words of the good Thief, 'Remember us also in your kingdom'."
 
-ocLI.BeatitudesGlory.mode = misc_en_UK_lash.Mode4
-ocLI.BeatitudesGlory.melody = ""
-ocLI.BeatitudesGlory.text = "Let us the faithful all with one mind vow to glorify the Father and the Son and the All-holy Spirit, Unity of Godhead in three Persons, remaining unconfused, simple, undivided and unapproachable, through which we are delivered from the fire of eternal punishment."
+ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesTr.melody = ""
+ocLI.BeatitudesTr.text = "Let us the faithful all with one mind vow to glorify the Father and the Son and the All-holy Spirit, Unity of Godhead in three Persons, remaining unconfused, simple, undivided and unapproachable, through which we are delivered from the fire of eternal punishment."
 
-ocLI.BeatitudesBoth.mode = misc_en_UK_lash.Mode4
-ocLI.BeatitudesBoth.melody = ""
-ocLI.BeatitudesBoth.text = "O Christ, most merciful Master, we bring you your Mother, who bore you in the flesh without seed and truly remained a Virgin incorrupt after child-birth, to intercede: ever grant pardon of offences to those who cry to you: Remember us also in your kingdom."
+ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode4
+ocLI.BeatitudesT.melody = ""
+ocLI.BeatitudesT.text = "O Christ, most merciful Master, we bring you your Mother, who bore you in the flesh without seed and truly remained a Virgin incorrupt after child-birth, to intercede: ever grant pardon of offences to those who cry to you: Remember us also in your kingdom."
 
