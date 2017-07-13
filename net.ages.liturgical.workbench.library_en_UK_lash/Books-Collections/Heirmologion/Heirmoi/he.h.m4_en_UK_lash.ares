@@ -52,6 +52,11 @@ ApasGigenis.mode = misc_en_UK_lash.Mode4
 ApasGigenis.ode = misc_en_UK_lash.Ode9
 ApasGigenis.text = "Let all born of earth bearing torches, in spirit leap for joy; let the nature of the immaterial spirits honour and celebrate the wondrous sacred festival of the Mother of God, and let them cry: Hail, all-blessed Mother of God, pure and Ever-Virgin!"
 
+ApasGigenis_Akathist.name = "Let all born of earth. (not metered)"
+ApasGigenis_Akathist.mode = misc_en_UK_lash.Mode4
+ApasGigenis_Akathist.ode = misc_en_UK_lash.Ode9
+ApasGigenis_Akathist.text = "Let all born of earth bearing torches, in spirit leap for joy; let the nature of the immaterial spirits honour and celebrate the wondrous sacred festival of the Mother of God, and let them cry: Hail, all-blessed Mother of God, pure and Ever-Virgin!"
+
 ApasGigenis_Eisodia.name = ""
 ApasGigenis_Eisodia.mode = misc_en_UK_lash.Mode4
 ApasGigenis_Eisodia.ode = misc_en_UK_lash.Ode9
