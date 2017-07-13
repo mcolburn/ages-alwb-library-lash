@@ -1,23 +1,31 @@
 A_Resource_Whose_Name = ho.s21_en_UK_lash
 
 hoPCPrayer.title = ""
-hoPCPrayer.PistevoKyrie.text = ""
 
-hoPCPrayer.IdouVadizo.text = ""
+hoPCPrayer.Key101.title = ""
+hoPCPrayer.Key101.text = ""
 
-//find this in Holy Week
-hoPCPrayer.TouDeipnouSou.text = "Of your mystical Supper, Son of God, receive me today as a communicant; for I will not tell of the Mystery to your enemies; I will not give you a kiss, like Judas; but like the Thief I confess you: Remember me, Lord, in your Kingdom."
+hoPCPrayer.Key111.rubric = ""
+hoPCPrayer.Key111.title = ""
+hoPCPrayer.Key111.text = ""
+hoPCPrayer.Key112.text = ""
+hoPCPrayer.Key113.text = ""
+hoPCPrayer.Key114.text = ""
 
-hoPCPrayer.Theourgon.text = "You see the deifying Blood: have fear.
-It is a coal consuming the unworthy.
-God's Body deifies and nourishes
-Me strangely; both my spirit and my mind."
+hoPCPrayer.Key121.title = ""
+hoPCPrayer.Key121.text = tr.d069_en_UK_lash.trLI.CommunionHymn.text
 
-// find this on August 6
-hoPCPrayer.Ethelxas.text = me.m08.d06_en_UK_lash.meMA.Ode9C23.text
+hoPCPrayer.Key131.title = ""
+hoPCPrayer.Key131.text = "You see the deifying Blood: have fear."
+hoPCPrayer.Key132.text = "It is a coal consuming the unworthy."
+hoPCPrayer.Key133.text = "God's Body deifies and nourishes"
+hoPCPrayer.Key134.text = "Me strangely; both my spirit and my mind."
 
-//find this in Holy Week
-hoPCPrayer.EnTaisLambrotisi.text = "How shall I, the unworthy, enter among the splendours of your Saints? For if I dare to enter with them into the bridal chamber, my dress convicts me, for it is not a wedding garment, and I shall be bound and cast out by the Angels. Cleanse the stain of my soul, Lord, and save me, as you love humankind."
+hoPCPrayer.Key141.title = ""
+hoPCPrayer.Key141.text = me.m08.d06_en_UK_lash.meMA.Ode9C23.text
 
-hoPCPrayer.DespotaFilanthrope.text = "Master, lover of humankind, Lord Jesus Christ, my God, do not let these holy Mysteries be for my condemnation because I am unworthy, but rather for the cleansing and sanctification of both soul and body and as a pledge of the life and kingdom to come. It is good for me to cleave to God, to place in the Lord the hope of my salvation."
+hoPCPrayer.Key151.title = ""
+hoPCPrayer.Key151.text = tr.d066_en_UK_lash.trMA.Lauds1.text
 
+hoPCPrayer.Key161.title = ""
+hoPCPrayer.Key161.text = "Master, lover of humankind, Lord Jesus Christ, my God, do not let these holy Mysteries be for my condemnation because I am unworthy, but rather for the cleansing and sanctification of both soul and body and as a pledge of the life and kingdom to come. It is good for me to cleave to God, to place in the Lord the hope of my salvation."
