@@ -25,18 +25,15 @@ euFUN.Key0200.title = ""
 
 euFUN.Key0300.title = ""
 euFUN.Key0300.mode = misc_en_UK_lash.Mode6
-euFUN.Key0300.version = ""
-euFUN.Key0300.text = ""
+euFUN.MM.Key0300.text = properties_en_UK_lash.media.key
 
 euFUN.Key0400.title = ""
 euFUN.Key0400.mode = misc_en_UK_lash.Mode5
-euFUN.Key0400.version = ""
-euFUN.Key0400.text = ""
+euFUN.MM.Key0400.text = properties_en_UK_lash.media.key
 
 euFUN.Key0500.title = ""
 euFUN.Key0500.mode = misc_en_UK_lash.Mode8
-euFUN.Key0500.version = ""
-euFUN.Key0500.text = ""
+euFUN.MM.Key0500.text = properties_en_UK_lash.media.key
 
 euFUN.Key0600.title = ""
 euFUN.Key0600.mode = misc_en_UK_lash.Mode5
