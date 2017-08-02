@@ -164,19 +164,19 @@ meCO.Ode9C2H.text = he.h.m2_en_UK_lash.ITonAchoritonTheon.text
 
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.text = "Wearing my poverty, my Jesus, you are approaching, mingling yourself with servants, and asking for Baptism by a slave, O Lover of mankind. Therefore, when he saw you, John cry out, 'How shall I baptize you, who are wholly without stain, O God supremely good?'"
 
 meMA.Kathisma12.mode = misc_en_UK_lash.Mode1
 meMA.Kathisma12.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
-meMA.Kathisma12.text = ""
+meMA.Kathisma12.text = "Christ by his loving kindness is about to approach the streams of the river Jordan, in which he will by grace accomplish our refashioning. Godly Forerunner, receive him with joy and in the waters wash him as he wills, the only Lover of mankind."
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.text = "The rich through great compassion has become poor, wishing to make us rich who have become poor through want of self-control; he is coming to enter the streams of Jordan and to be openly baptized by John. Let us believers sing the praise of his supreme humility."
 
 meMA.Kathisma22.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma22.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-meMA.Kathisma22.text = ""
+meMA.Kathisma22.text = "Today the voice of Isaias has been fulfilled, who cried, `Prepare the way of the Lord, and make his paths; for, as he said, the desert-loving trumpet, famous John, summons us all. And so let us hurry together and see marvels."
 
 meMA.C1Poet = poets_en_UK_lash.Iosif
 meMA.C1Acrostic.text = ""
@@ -429,15 +429,15 @@ meMA.Ode6H.text = he.h.m8_en_UK_lash.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Today the Lord has come to the streams of Jordan, and cries aloud to John, 'Do not be afraid to baptise me; for I have come to save Adam the First-formed'."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "'I am not requiring you, O Baptist, to go beyond the limits; I do not say to you, 'Say to me what you said to the lawless, what you urged on the sinners. Only baptize me in silence, and await what comes by Baptism. For through this you will acquire a dignity that has not been given to the Angels; for I will make you greater than all the Prophets. Not one of them saw me clearly, but only in types and shadows and dreams; while you see me standing by you of set purpose, for I have come to save Adam the First-formed'."
 
 meMA.Kontakion2.mode = misc_en_UK_lash.Mode4
 meMA.Kontakion2.melody = he.a.m2_en_UK_lash.TaAnoZiton.notmetered
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.text = "Having filled your mouth with the wisdom of God, you made clear to us the knowledge of the Trinity and cast down the godlessness of tyrants with the sling of your words, Silvester. And so entreat the Lord on our behalf."
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "Enriched with the throne of the Prince of the Apostles, you were revealed as a most wondrous Minister of God, making lovely, establishing and magnifying the Church by divine doctrines. Like a star blazing with light you give light by the light of virtues and teach us to reverence the Trinity as one undivided Godhead; and you drove out the heresies of the ill-intentioned, all-wise Silvester. And so entreat the Lord on our behalf."
 
 meMA.Synaxarion.text = ""
 
@@ -603,54 +603,54 @@ meMA.Ode9H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "The voice of one who cries has sounded; you hills, leap for joy; dance, human race, for the Word before eternity, taking flesh as a man, has come that he may be baptized in Jordan by hands which he fashioned and to abolish the sin of the world."
 
 meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "How will a river's streams receive you, Lover of mankind, who made from nothing rivers and seas? How will the Forerunner dare to lay his hand on your immaculate head, Master? Trembling we sing the praise, O Word, of the height of your poverty."
 
 meMA.Lauds1.poet = poets_en_UK_lash.Theofanous
-meMA.Lauds1.acrostic = ""
+meMA.Lauds1.acrostic = "of which the acrostic, until the 5th of the month, is: Song of Theophanes for the Lights."
 meMA.Lauds1.mode = misc_en_UK_lash.Mode6
 meMA.Lauds1.melody = misc_en_UK_lash.Automelon
 meMA.Lauds1.text = he.a.m6_en_UK_lash.AiAngelikai.text
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode6
 meMA.Lauds2.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds2.text = ""
+meMA.Lauds2.text = "With pure mouths and souls made clean, come, let us mystically pass over from Bethlehem and hastening with Christ to the Jordan let us, all the tribes of the earth, now sing to him as we say with faith, 'Blessed is our God who has come; glory to you'."
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode6
 meMA.Lauds3.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds3.text = ""
+meMA.Lauds3.text = "Great and fearful is the mystery! That God has been made like humans and wholly without knowledge of sin the guiltless today asks to be baptized by John in the river Jordan. Blessed is our God who has appeared; glory to you!"
 
 meMA.Lauds4.mode = misc_en_UK_lash.Mode6
 meMA.Lauds4.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds4.text = ""
+meMA.Lauds4.text = "A flower from David, which blossomed from the Virgin, Christ has come to the streams of Jordan to wash away the sins of the Forefather in the waters. Adam, dance; Eve rejoice; let heaven be glad; let peoples say, `Blessed is our God who has come; glory to you'."
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 meMA.LaudsGlory.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "Fearing to place his hand, with his hand he trembles; with his soul John rejoices, understanding that you have been well-pleased to incline your head, for you have taken the form of a slave, that you may deliver mortals from the slavery of the foe, as they cry, 'Blessed is our God who has come; glory to you'."
 
 meMA.LaudsBoth.mode = misc_en_UK_lash.Mode6
 meMA.LaudsBoth.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.LaudsBoth.text = ""
+meMA.LaudsBoth.text = "Let the whole earth mystically rejoice and let the mountains prophetically leap for joy; Jordan's stream, turn back, as it is written; tremble before the face of the Master; because God, become man, has come to cleanse all mortals of the sin of Adam."
 
 meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meMA.Aposticha1.poet = poets_en_UK_lash.Germanou
 meMA.Aposticha1.mode = misc_en_UK_lash.Mode6
 meMA.Aposticha1.melody = ""
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.text = "The feast of Christ's Nativity that has passed was more radiant than the sun; the feast of his divine Epiphany that is coming is resplendent and full of light. In the former Shepherds, giving glory with Angels, worshipped God become man, while in this John touched the Master with his right hand and said with fear, 'Sanctify me and the waters, O you who alone have great mercy'."
 
 meMA.Aposticha2.poet = poets_en_UK_lash.Germanou
 meMA.Aposticha2.mode = misc_en_UK_lash.Mode6
 meMA.Aposticha2.melody = ""
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.text = "River Jordan prepare, for see Christ God is coming to be baptized by John, that by his Godhead he may crush the invisible heads of the dragons in your waters. Wilderness of Jordan rejoice; mountains leap for joy with gladness, for eternal life has come to call back Adam. Voice of one who cries, Forerunner John, shout aloud, 'Prepare the ways of the Lord and make straight his paths'."
 
 meMA.Aposticha3.poet = poets_en_UK_lash.Germanou
 meMA.Aposticha3.mode = misc_en_UK_lash.Mode6
 meMA.Aposticha3.melody = ""
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.text = "Let the wilderness of Jordan rejoice and flower like a lily; for the voice of one who cries has been heard in it, 'Prepare the way of the Lord'; for the One who weighed the mountains with a balance and the valleys with a level, the One who fills all things as God is being baptized by a slave. The One who distributes rich gifts of grace has begun to make himself poor. Eve heard, 'In pains you will give birth to children', but now the Virgin has heard, 'Hail, full of grace, the Lord is with you who has great mercy'."
 
 meMA.AposGlory.poet = poets_en_UK_lash.Anatoliou
 meMA.AposGlory.mode = misc_en_UK_lash.Mode8
