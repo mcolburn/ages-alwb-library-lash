@@ -64,9 +64,15 @@ meVE.Apolytikion1.mode = me.m01.d02_en_UK_lash.meVE.Apolytikion1.mode
 meVE.Apolytikion1.melody = me.m01.d02_en_UK_lash.meVE.Apolytikion1.melody
 meVE.Apolytikion1.text = me.m01.d02_en_UK_lash.meVE.Apolytikion1.text
 
+meCO.C1Poet = poets_en_UK_lash.SymeonTouLogothetou
 meCO.C1Acrostic.text = ""
+meCO.C1.title = ""
+meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
+meCO.C2Poet = ""
 meCO.C2Acrostic.text = ""
+meCO.C2.title = ""
+meCO.C2.verse = prayers_en_UK_lash.verse_God.text
 
 meCO.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meCO.Ode3C1H.mode = misc_en_UK_lash.Mode2
@@ -131,12 +137,12 @@ meCO.Ode8C22.text = "Let us not offer a harmful word of evil thoughts; but medit
 meCO.Ode8C23.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C23.mode = misc_en_UK_lash.Mode6
 meCO.Ode8C23.melody = he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
-meCO.Ode8C23.text = ""
+meCO.Ode8C23.text = "You refuse, John, what you will swiftly do as you submit to me. Let be then for now; for thus it is fitting for us truly to fulfill all justice, said the Master to the slave. All creation blesses him as it gives him glory to the ages."
 
 meCO.Ode8C24.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C24.mode = misc_en_UK_lash.Mode6
 meCO.Ode8C24.melody = he.h.m6_en_UK_lash.StilinKakiasTouDeinou.name
-meCO.Ode8C24.text = "You refuse, John, what you will swiftly do as you submit to me. Let be then for now; for thus it is fitting for us truly to fulfill all justice, said the Master to the slave. All creation blesses him as it gives him glory to the ages."
+meCO.Ode8C24.text = "[missing]"
 
 meCO.Ode8C2H.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C2H.mode = misc_en_UK_lash.Mode6
