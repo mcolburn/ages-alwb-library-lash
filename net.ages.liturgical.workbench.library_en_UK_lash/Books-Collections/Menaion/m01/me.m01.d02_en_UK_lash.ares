@@ -67,6 +67,16 @@ meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
 meVE.Apolytikion1.text = "Zavoulon prepare, and make ready Nephthalim; river Jordan stand, leap for joy as you receive the Master who comes to be baptised. Adam with our Foremother be glad, do not hide yourselves as in Paradise of old; for seeing you naked, he has appeared that he may put on the first robe. Christ has appeared, as he wishes to renew the whole creation."
 
+meCO.C1Poet = poets_en_UK_lash.SymeonTouLogothetou
+meCO.C1Acrostic.text = "of which the Acrostic is. On Monday."
+meCO.C1.title = "Triode."
+meCO.C1.verse = prayers_en_UK_lash.verse_God.text
+
+meCO.C2Poet = ""
+meCO.C2Acrostic.text = "Its acrostic is: And on Tuesday."
+meCO.C2.title = "Another Diode."
+meCO.C2.verse = prayers_en_UK_lash.verse_God.text
+
 meCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C1H.mode = misc_en_UK_lash.Mode2
 meCO.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
@@ -75,12 +85,12 @@ meCO.Ode1C1H.text = he.h.m2_en_UK_lash.ToTinAvaton.text
 meCO.Ode1C11.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C11.mode = misc_en_UK_lash.Mode2
 meCO.Ode1C11.melody = he.h.m2_en_UK_lash.ToTinAvaton.name
-meCO.Ode1C11.text = ""
+meCO.Ode1C11.text = "The ineffable condescension of the Creator shone previously from a Virgin and shed light on the world; Christ himself again about to accomplish another mystery, is coming for the rebirth of mortals in Jordan."
 
 meCO.Ode1C12.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C12.mode = misc_en_UK_lash.Mode2
 meCO.Ode1C12.melody = he.h.m2_en_UK_lash.ToTinAvaton.name
-meCO.Ode1C12.text = ""
+meCO.Ode1C12.text = "About to act as servant of a fearful work the Forerunner, the voice of the Word, is now drawing near to Jordan; the One rich in Godhead, Christ, has come to make beggared Adam rich through the Spirit by the gift of Baptism."
 
 meCO.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C1H.mode = misc_en_UK_lash.Mode2
@@ -90,27 +100,27 @@ meCO.Ode8C1H.text = he.h.m2_en_UK_lash.EfrixePaidonEvagon.text
 meCO.Ode8C11.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C11.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C11.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
-meCO.Ode8C11.text = ""
+meCO.Ode8C11.text = "'I will recognize you as my chosen vessels if the seal of my gift has been marked on you, blazing with triple light,' says Christ the Word to those who delay Baptism by the hesitation of sloth; for for this I have come, granting a new way of salvation and a life of freedom."
 
 meCO.Ode8C12.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C12.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C12.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
-meCO.Ode8C12.text = ""
+meCO.Ode8C12.text = "'The deed that is now being accomplished in you is contrary to the natural order; for what is less is normally blessed by what is mightier. Therefore I am afraid to lay my hand on your head', the Forerunner cried out to the Word, 'It is not usual to bring grass close to fire. Do you rather hallow me, your servant'."
 
 meCO.Ode8C21.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C21.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C21.melody = he.h.m2_en_UK_lash.ToDogmatiToTyranniko.name
-meCO.Ode8C21.text = ""
+meCO.Ode8C21.text = "Shaking off the soul's sleep of idleness with wakefulness of heart, let us cry out to the One who comes to cleanse souls in streams of water, 'Bless the Lord, you works of the Lord'."
 
 meCO.Ode8C22.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C22.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C22.melody = he.h.m2_en_UK_lash.ToDogmatiToTyranniko.name
-meCO.Ode8C22.text = ""
+meCO.Ode8C22.text = "Let action in us be brought to perfection by lofty contemplation of soul, so that appearing radiant in both we may cry out to the One who cleanses all, 'Bless the Lord, you his works'."
 
 meCO.Ode8C23.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C23.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C23.melody = he.h.m2_en_UK_lash.ToDogmatiToTyranniko.name
-meCO.Ode8C23.text = ""
+meCO.Ode8C23.text = "Let us the faithful, having adorned with practical reason by double activity our talent, offer it with faith, like servants, to the Master, who comes be baptized for the refashioning of souls."
 
 meCO.Ode8C2H.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C2H.mode = misc_en_UK_lash.Mode2
@@ -125,27 +135,27 @@ meCO.Ode9C1H.text = he.h.m2_en_UK_lash.EmegalynasChriste.text
 meCO.Ode9C11.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C11.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C11.melody = he.h.m2_en_UK_lash.EmegalynasChriste.name
-meCO.Ode9C11.text = ""
+meCO.Ode9C11.text = "Having thrust aside every stain of passion, let us fittingly take up the wise purpose of divine Baptism; for the Creator has come to give strange cleansing by being baptized in streams of water and to show all a new transformation."
 
 meCO.Ode9C12.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C12.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C12.melody = he.h.m2_en_UK_lash.EmegalynasChriste.name
-meCO.Ode9C12.text = ""
+meCO.Ode9C12.text = "As we contemplate Christ, willingly humbling himself even to the form of a servant, let us now be humbled under his mighty hand, being raised up in spirit that by pure deeds we may honour him who is being baptized."
 
 meCO.Ode9C21.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C21.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C21.melody = he.h.m2_en_UK_lash.ITonAchoritonTheon.name
-meCO.Ode9C21.text = ""
+meCO.Ode9C21.text = "Having cast aside the heavy stain of sin, let us made pure look upon the Master who purifies all with divine streams."
 
 meCO.Ode9C22.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C22.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C22.melody = he.h.m2_en_UK_lash.ITonAchoritonTheon.name
-meCO.Ode9C22.text = ""
+meCO.Ode9C22.text = "Come, let us now, purified by streams of tears, draw near to Christ, who has come to be baptized in the river Jordan."
 
 meCO.Ode9C23.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C23.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C23.melody = he.h.m2_en_UK_lash.ITonAchoritonTheon.name
-meCO.Ode9C23.text = ""
+meCO.Ode9C23.text = "O Saviour now accept us who have celebrated at your Nativity with Magi and Shepherds, as we honour you who come to be baptized."
 
 meCO.Ode9C2H.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C2H.mode = misc_en_UK_lash.Mode2
