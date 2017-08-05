@@ -517,6 +517,13 @@ meMA.Kontakion2.text = he.a.m2_en_UK_lash.TaAnoZiton.text
 
 meMA.Oikos2.text = "What human will ever suffice to sing the praise of Symeon's blameless life? Nevertheless with God's wisdom I shall hymn the contests and struggles of the hero, of the one who appeared on earth as a beacon for all mortals, and by perseverance shone brightly for the choir of Angels; for singing with them unceasingly he does not cease imploring Christ on behalf of us all."
 
+meMA.Kontakion3.poet = poets_en_UK_lash.IakovouProtopsaltou
+meMA.Kontakion3.mode = misc_en_UK_lash.Mode4
+meMA.Kontakion3.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+meMA.Kontakion3.text = ""
+
+meMA.Oikos3.text = ""
+
 meMA.Synaxarion.text = ""
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
@@ -769,6 +776,14 @@ meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.Kontakion2.mode = meMA.Kontakion2.mode
+meLI.Kontakion2.melody = meMA.Kontakion2.melody
+meLI.Kontakion2.text = meMA.Kontakion2.text
+
+meLI.Kontakion3.mode = meMA.Kontakion3.mode
+meLI.Kontakion3.melody = meMA.Kontakion3.melody
+meLI.Kontakion3.text = meMA.Kontakion3.text
 
 meLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode4
 meLI.SeasonalKontakion.melody = misc_en_UK_lash.NotMetered // he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
