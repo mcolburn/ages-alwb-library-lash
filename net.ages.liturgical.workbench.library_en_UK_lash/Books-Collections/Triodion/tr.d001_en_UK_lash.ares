@@ -363,13 +363,10 @@ trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
-trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode4
-trLI.SeasonalKontakion.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
-trLI.SeasonalKontakion.text = trMA.Kontakion0.text
-
-trLI.Alleluia.mode = misc_en_UK_lash.Mode8
+trLI.Kontakion1.mode = trMA.Kontakion0.mode
+trLI.Kontakion1.melody = trMA.Kontakion0.melody
+trLI.Kontakion1.text = trMA.Kontakion0.text
 
 trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 trMegalynarion.text = ""
-

@@ -353,9 +353,10 @@ trMA.LaudsGlory.text = "Six days before the Passover Jesus came to Bethany and h
 trLI.Antiphon2.text = "seated on the foal of an ass," //for media
 
 trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
-trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode6
-trLI.SeasonalKontakion.melody = misc_en_UK_lash.Automelon
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

@@ -271,9 +271,9 @@ trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
-trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode3
-trLI.SeasonalKontakion.melody = he.a.m3_en_UK_lash.IParthenosSimeron.notmetered
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 

@@ -348,9 +348,9 @@ peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 peMA.LaudsGlory.text = "Eight days after your Rising, O Jesus, king and only-begotten Word of the Father, you appeared to your Disciples when the doors were shut, and gave them peace. And to the unbelieving Disciple you showed the marks. 'Come, feel my hand and my feet and my spotless side'. But he, convinced, cried out to you, 'My Lord and my God, glory to you'."
 
-peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody = ""
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text

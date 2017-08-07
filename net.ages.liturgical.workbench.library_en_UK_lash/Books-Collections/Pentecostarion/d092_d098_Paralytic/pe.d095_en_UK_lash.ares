@@ -615,9 +615,9 @@ peMA.LaudsGlory.mode = misc_en_UK_lash.Mode4
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 peMA.LaudsGlory.text = ""
 
-peLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode4
-peLI.SeasonalKontakion.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
-peLI.SeasonalKontakion.text = peMA.Kontakion1.text
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
 peLI.TheotokosHymn.text = peMA.Ode9C2H.text

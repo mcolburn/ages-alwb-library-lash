@@ -453,9 +453,10 @@ trMA.AdditionalIdiomelonBoth.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma21.text
 trLI.Antiphon2.text = ""
 
 trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
-trLI.SeasonalKontakion.mode = misc_en_UK_lash.Mode8
-trLI.SeasonalKontakion.melody = misc_en_UK_lash.AutomelonNotMetered
-trLI.SeasonalKontakion.text = he.a.m8_en_UK_lash.TiYpermacho.text
+
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.text
