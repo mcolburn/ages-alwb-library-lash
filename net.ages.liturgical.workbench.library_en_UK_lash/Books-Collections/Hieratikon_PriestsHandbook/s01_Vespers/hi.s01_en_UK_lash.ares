@@ -2,63 +2,103 @@ A_Resource_Whose_Name = hi.s01_en_UK_lash
 
 hiVE.title = "VESPERS"
 
-hiVE.Key01.title = "FOR SUNDAYS AND FEASTS"
+hiVE.Key1000.title = "FOR SUNDAYS AND FEASTS"
 
-hiVE.R001 = ""
-hiVE.R002 = "After the Dismissal of the Ninth Hour the Priest and Deacon, having made a metania to the Bishop's stall, venerated the icons and bowed to the two Choirs, enter the Sanctuary by the side doors."
-hiVE.R003 = "They make three bows to the Holy Table and the Priest kisses the Holy Table and the Gospel."
-hiVE.R004 = ""
-hiVE.R005 = "Then, vested in the Epitrachelion, he opens the curtain of the Holy Doors and, standing uncovered in front of the Holy Table, gives the blessing as follows:"
+hiVE.R1101 = ""
+hiVE.R1102 = "After the Dismissal of the Ninth Hour the Priest and Deacon, having made a metania to the Bishop's stall, venerated the icons and bowed to the two Choirs, enter the Sanctuary by the side doors."
+hiVE.R1103 = "They make three bows to the Holy Table and the Priest kisses the Holy Table and the Gospel."
+hiVE.R1104 = ""
+hiVE.R1105 = "Then, vested in the Epitrachelion, he opens the curtain of the Holy Doors and, standing uncovered in front of the Holy Table, gives the blessing as follows:"
 
-hiVE.R101 = "Then the Superior, or the appointed person, reads the Opening Psalm, one of the 'Gerontika', as follows:"
-hiVE.R102 = ""
-hiVE.R103 = ""
-hiVE.R104 = ""
-hiVE.R105 = ""
-hiVE.R106 = "The Priest blesses the Deacon's Sticharion and Orarion as usual."
-hiVE.R107 = ""
-hiVE.R108 = "While the Opening Psalm is being read the Priest, bareheaded and standing in front of the Holy Table, says quietly the following Prayers at the Lighting of the Lamps."
+hiVE.R1106 = "Then the Superior, or the appointed person, reads the Opening Psalm, one of the 'Gerontika', as follows:"
+hiVE.R1107 = ""
+hiVE.R1108 = ""
+hiVE.R1109 = ""
+hiVE.R1110 = ""
+hiVE.R1111 = "The Priest blesses the Deacon's Sticharion and Orarion as usual."
+hiVE.R1112 = ""
+hiVE.R1113 = "While the Opening Psalm is being read the Priest, bareheaded and standing in front of the Holy Table, says quietly the following Prayers at the Lighting of the Lamps."
 
-hiVE.Key0101.title = "1st Prayer"
-hiVE.Key0101.text = "O Lord, compassionate and merciful, long-suffering and full of mercy, listen to our prayer and attend to the voice of our supplication. Make for us a sign for good. Guide us in your way, to walk in your truth. Make glad our hearts to fear your holy Name, because you are great and do wondrous things. You alone are God, and there is none like you, O Lord, among gods: powerful in mercy and loving in strength to help and to console and to save all who hope in your holy Name."
-hiVE.Key0101.exclamation = prayers_en_UK_lash.exc01
+hiVE.Key1101.title = "1st Prayer"
+hiVE.Key1101.text = "O Lord, compassionate and merciful, long-suffering and full of mercy, listen to our prayer and attend to the voice of our supplication. Make for us a sign for good. Guide us in your way, to walk in your truth. Make glad our hearts to fear your holy Name, because you are great and do wondrous things. You alone are God, and there is none like you, O Lord, among gods: powerful in mercy and loving in strength to help and to console and to save all who hope in your holy Name."
+hiVE.Key1101.exclamation = prayers_en_UK_lash.exc01
 
-hiVE.Key0102.title = "2nd Prayer"
-hiVE.Key0102.text = "Lord, do not rebuke us in your anger, nor chastise us in your wrath, but deal with us in accordance with your kindness, physician and healer of our souls. Guide us to the harbour of your will. Enlighten the eyes of our hearts to the knowledge of your truth and grant that the rest of the present day and the whole time of our life may be peaceful and without sin, at the prayers of the holy Mother of God and of all the Saints."
-hiVE.Key0102.exclamation = prayers_en_UK_lash.exc02
+hiVE.Key1102.title = "2nd Prayer"
+hiVE.Key1102.text = "Lord, do not rebuke us in your anger, nor chastise us in your wrath, but deal with us in accordance with your kindness, physician and healer of our souls. Guide us to the harbour of your will. Enlighten the eyes of our hearts to the knowledge of your truth and grant that the rest of the present day and the whole time of our life may be peaceful and without sin, at the prayers of the holy Mother of God and of all the Saints."
+hiVE.Key1102.exclamation = prayers_en_UK_lash.exc02
 
-hiVE.Key0103.title = "3rd Prayer"
-hiVE.Key0103.text = "Lord our God, remember us, sinners and your unprofitable servants, as we call upon your holy Name, and do not put us to shame from the expectation of your mercy, but graciously grant us, Lord, all the requests that are for salvation, and count us worthy to love and to fear you from our whole heart, and in all things to do your will."
-hiVE.Key0103.exclamation = prayers_en_UK_lash.exc03
+hiVE.Key1103.title = "3rd Prayer"
+hiVE.Key1103.text = "Lord our God, remember us, sinners and your unprofitable servants, as we call upon your holy Name, and do not put us to shame from the expectation of your mercy, but graciously grant us, Lord, all the requests that are for salvation, and count us worthy to love and to fear you from our whole heart, and in all things to do your will."
+hiVE.Key1103.exclamation = prayers_en_UK_lash.exc03
 
-hiVE.Key0104.title = "4th Prayer"
-hiVE.Key0104.text = "O Lord, who are praised by the holy Powers with never silent hymns and unceasing songs of glory, fill our mouth with your praise to give majesty to your holy Name, and give us a part and an inheritance with all who fear you in truth and who keep your commandments, at the prayers of the holy Mother of God and of all your Saints."
-hiVE.Key0104.exclamation = prayers_en_UK_lash.exc01
+hiVE.Key1104.title = "4th Prayer"
+hiVE.Key1104.text = "O Lord, who are praised by the holy Powers with never silent hymns and unceasing songs of glory, fill our mouth with your praise to give majesty to your holy Name, and give us a part and an inheritance with all who fear you in truth and who keep your commandments, at the prayers of the holy Mother of God and of all your Saints."
+hiVE.Key1104.exclamation = prayers_en_UK_lash.exc01
 
-hiVE.Key0105.title = "5th Prayer"
-hiVE.Key0105.text = "Lord, Lord, who uphold the universe by your immaculate hand, who are long-suffering towards us all and who repent of evils, remember your acts of compassion and your mercy. Visit us in your loving kindness and grant that for the rest of the present day we may escape the manifold wiles of the evil one, and, by the grace of your All-holy Spirit, keep our life free from assault."
-hiVE.Key0105.exclamation = prayers_en_UK_lash.exc07b
+hiVE.Key1105.title = "5th Prayer"
+hiVE.Key1105.text = "Lord, Lord, who uphold the universe by your immaculate hand, who are long-suffering towards us all and who repent of evils, remember your acts of compassion and your mercy. Visit us in your loving kindness and grant that for the rest of the present day we may escape the manifold wiles of the evil one, and, by the grace of your All-holy Spirit, keep our life free from assault."
+hiVE.Key1105.exclamation = prayers_en_UK_lash.exc07b
 
-hiVE.Key0106.title = "6th Prayer"
-hiVE.Key0106.text = "O God, great and wonderful, who order the universe with inexpressible loving-kindness and rich providence; who have granted us also the blessings of this world and brought us near to the promised Kingdom through the blessings that have been bestowed on us already; who have made us turn aside from every evil during that part of the present day which is now over, grant us also to complete what remains without blame in the presence of your holy glory, as we sing your praise, who alone are our God, good and the Lover of mankind."
-hiVE.Key0106.exclamation = prayers_en_UK_lash.exc08
+hiVE.Key1106.title = "6th Prayer"
+hiVE.Key1106.text = "O God, great and wonderful, who order the universe with inexpressible loving-kindness and rich providence; who have granted us also the blessings of this world and brought us near to the promised Kingdom through the blessings that have been bestowed on us already; who have made us turn aside from every evil during that part of the present day which is now over, grant us also to complete what remains without blame in the presence of your holy glory, as we sing your praise, who alone are our God, good and the Lover of mankind."
+hiVE.Key1106.exclamation = prayers_en_UK_lash.exc08
 
-hiVE.Key0107.title = "7th Prayer"
-hiVE.Key0107.text = "Great and most high God, who alone possess immortality, who dwell in unapproachable light, who fashioned all creation with wisdom, who made the separation between the light and the darkness and who placed the sun to have authority over the day and the moon and the stars to have authority over the night, who have counted us sinners worthy even at this present hour to come into your presence with confession and thanksgiving and to offer you our evening hymn of glory; do you, O Lord who love mankind, direct our prayer like incense before you and accept it as a savour of sweet fragrance. Grant us that the present evening and the coming night may be peaceful, clothe us with weapons of light, deliver us from every night-time fear and from every deed that walks in darkness. And give us sleep, which you have bestowed on us for our rest in our weakness, freed from every fantasy of the devil. Yes, Master of all things, giver of blessings, may we also be filled with compunction on our beds and call to mind your Name in the night, and enlightened by meditation on your commandments may we rise with gladness of soul to give glory to your loving-kindness, as we bring to your compassion supplications and entreaties on behalf of our own sins and those of all your people. At the prayers of the holy Mother of God visit them with mercy."
-hiVE.Key0107.exclamation = prayers_en_UK_lash.exc03
+hiVE.Key1107.title = "7th Prayer"
+hiVE.Key1107.text = "Great and most high God, who alone possess immortality, who dwell in unapproachable light, who fashioned all creation with wisdom, who made the separation between the light and the darkness and who placed the sun to have authority over the day and the moon and the stars to have authority over the night, who have counted us sinners worthy even at this present hour to come into your presence with confession and thanksgiving and to offer you our evening hymn of glory; do you, O Lord who love mankind, direct our prayer like incense before you and accept it as a savour of sweet fragrance. Grant us that the present evening and the coming night may be peaceful, clothe us with weapons of light, deliver us from every night-time fear and from every deed that walks in darkness. And give us sleep, which you have bestowed on us for our rest in our weakness, freed from every fantasy of the devil. Yes, Master of all things, giver of blessings, may we also be filled with compunction on our beds and call to mind your Name in the night, and enlightened by meditation on your commandments may we rise with gladness of soul to give glory to your loving-kindness, as we bring to your compassion supplications and entreaties on behalf of our own sins and those of all your people. At the prayers of the holy Mother of God visit them with mercy."
+hiVE.Key1107.exclamation = prayers_en_UK_lash.exc03
 
-hiVE.R201 = "When the Opening Psalm is completed the Priest, in front of the Holy Table, or the Deacon in his usual place outside the Holy Doors, says the Litany of Peace."
-hiVE.R202 = ""
+hiVE.R1114 = "When the Opening Psalm is completed the Priest, in front of the Holy Table, or the Deacon in his usual place outside the Holy Doors, says the Litany of Peace."
+hiVE.R1115 = ""
 
-hiVE.Key0108.title = "Prayer of the Entrance"
-hiVE.Key0108.text = "At evening, at morning and at midday we praise, bless and give thanks, and we pray to you, Master of all things, Lord who love mankind: Direct our prayer before you like incense, and do not incline our hearts to words or thoughts of evil, but deliver us from all that hunt down our souls. For our eyes look to you, O Lord, our Lord, and we have hoped in you."
-hiVE.Key0108.exclamation = prayers_en_UK_lash.exc01
+hiVE.Key1108.title = "Prayer of the Entrance"
+hiVE.Key1108.text = "At evening, at morning and at midday we praise, bless and give thanks, and we pray to you, Master of all things, Lord who love mankind: Direct our prayer before you like incense, and do not incline our hearts to words or thoughts of evil, but deliver us from all that hunt down our souls. For our eyes look to you, O Lord, our Lord, and we have hoped in you."
+hiVE.Key1108.exclamation = prayers_en_UK_lash.exc01
 
-hiVE.Key0109.text = "Prokeimenon of the evening."
+hiVE.Key1109.text = "Prokeimenon of the evening."
 
-hiVE.Key0110.text = "The evening..."
+hiVE.Key1110.text = "The evening..."
 
-hiVE.Key0111.title = "Prayer at the Bowing of Heads"
-hiVE.Key0111.text = "Lord our God, who bowed the heavens and came down for the salvation of the human race, look upon your servants and upon your inheritance, for to you, the fearful Judge who love mankind, your servants have bowed their heads and inclined their necks, not waiting for any human help, but awaiting your mercy and looking for your salvation. Guard them at every moment, during both the present evening and the approaching night, from every foe, from every hostile operation of the devil and from vain thoughts and evil desires."
-hiVE.Key0111.exclamation = prayers_en_UK_lash.exc14
+hiVE.Key1111.title = "Prayer at the Bowing of Heads"
+hiVE.Key1111.text = "Lord our God, who bowed the heavens and came down for the salvation of the human race, look upon your servants and upon your inheritance, for to you, the fearful Judge who love mankind, your servants have bowed their heads and inclined their necks, not waiting for any human help, but awaiting your mercy and looking for your salvation. Guard them at every moment, during both the present evening and the approaching night, from every foe, from every hostile operation of the devil and from vain thoughts and evil desires."
+hiVE.Key1111.exclamation = prayers_en_UK_lash.exc14
+
+hiVE.Key1200.title = ""
+hiVE.R1201 = ""
+
+hiVE.Key1300.title = ""
+hiVE.R1301 = ""
+hiVE.R1302 = ""
+hiVE.R1303 = ""
+hiVE.R1304 = ""
+hiVE.R1305 = ""
+hiVE.R1306 = ""
+hiVE.R1307 = ""
+hiVE.R1308 = ""
+hiVE.R1309 = ""
+hiVE.R1310 = ""
+hiVE.R1311 = ""
+hiVE.R1312 = ""
+hiVE.R1313 = ""
+hiVE.R1314 = ""
+
+hiVE.Key1311.title = ""
+hiVE.Key1311.text = ""
+hiVE.Key1311.exclamation = prayers_en_UK_lash.exc28a
+
+hiVE.R1315 = ""
+hiVE.R1316 = ""
+hiVE.R1317 = ""
+hiVE.R1318 = ""
+
+hiVE.Key1320.title = ""
+hiVE.R1320 = ""
+
+hiVE.Key1330.title = ""
+hiVE.R1330 = ""
+
+hiVE.Key2000.title = "SMALL (WEEKDAY) VESPERS"
+
+hiVE.Key3000.title = "DURING LENT"
+
+hiVE.Key4000.title = "ON HOLY AND GREAT FRIDAY"
 
