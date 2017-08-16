@@ -28,7 +28,7 @@ meSV.Stichera3.text = "What spiritual songs may we now offer you, all-holy? For 
 
 meSV.SticGlory.mode = misc_en_UK_lash.Mode2
 meSV.SticGlory.melody = ""
-meSV.SticGlory.text = ""
+meSV.SticGlory.text = meVE.Lity2.text
 
 meSV.Aposticha1.mode = misc_en_UK_lash.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
