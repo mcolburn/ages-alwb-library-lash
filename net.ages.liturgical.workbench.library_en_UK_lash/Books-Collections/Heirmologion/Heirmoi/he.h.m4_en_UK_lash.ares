@@ -414,7 +414,7 @@ OukElatrefsan.text = "The godlike Children did not worship creation instead of t
 OukEnSofia.name = "Let us not boast. (NM)"
 OukEnSofia.mode = misc_en_UK_lash.Mode4
 OukEnSofia.ode = misc_en_UK_lash.Ode3
-OukEnSofia.text = "We do not boast in wisdom, power and wealth, but in you, O Christ, the empersonned Wisdom of the Father; for none is holy but you, O Lover of mankind."
+OukEnSofia.text = "We do not boast in wisdom, power and wealth, but in you, O Christ, the empersonned Wisdom of the Father; for none is holy but you, O Lover of mankind." //Let us not boast in wisdom and power and wealth, but in you, O Christ, the empersonned wisdom of God the Father. For none is holy but you, O Lover of mankind.
 OukEstiSoiOmoios.name = ""
 OukEstiSoiOmoios.mode = misc_en_UK_lash.Mode4
 OukEstiSoiOmoios.ode = misc_en_UK_lash.Ode1
@@ -585,7 +585,7 @@ TousSousYmnologous_Syllipsis.mode = misc_en_UK_lash.Mode4
 TousSousYmnologous_Syllipsis.ode = misc_en_UK_lash.Ode3
 TousSousYmnologous_Syllipsis.text = ""
 
-ToxonDynatonIsthenise.name = "He weakened the bow of the powerful. (NM)"
+ToxonDynatonIsthenise.name = "He weakened the bow. (NM)"
 ToxonDynatonIsthenise.mode = misc_en_UK_lash.Mode4
 ToxonDynatonIsthenise.ode = misc_en_UK_lash.Ode3
 ToxonDynatonIsthenise.text = "He weakened the bow of the powerful, and the weak girded themselves with power; therefore my heart is established in the Lord."
