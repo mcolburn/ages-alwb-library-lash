@@ -102,9 +102,10 @@ meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.text = "Fashioner of all creation, who fix times and seasons by your own authority, bless the crown of the year with your goodness, Lord, preserving the Kings and your city in peace, at the prayers of the Mother of God, and save us."
 
-meVE.Apolytikion2.mode = misc_en_UK_lash.Mode1
-meVE.Apolytikion2.melody = ""
-meVE.Apolytikion2.text = "You became a pillar of endurance, Venerable Father, rivalling the forefathers: Job in sufferings and Joseph in trials, and, while still in the body, the life of the Bodiless Powers. Our Venerable Father Symeon, intercede with Christ God that our souls may be saved."
+meVE.GeneralApolytikion2.mode = misc_en_UK_lash.Mode1
+meVE.GeneralApolytikion2.melody = he.ga_en_UK_lash.YpomonisStylos.name
+meVE.GeneralApolytikion2.name = "Symeon,"
+meVE.MM.GeneralApolytikion2.text = "" // for media
 
 meVE.Apolytikion3.mode = misc_en_UK_lash.Mode7
 meVE.Apolytikion3.melody = ""
