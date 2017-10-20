@@ -507,7 +507,7 @@ ocLI.Beatitudes4.text = ""
 
 ocLI.BeatitudesTr.mode = misc_en_UK_lash.Mode2
 ocLI.BeatitudesTr.melody = ""
-ocLI.BeatitudesTr.text = ""
+ocLI.BeatitudesTr.text = ocLI.BeatitudesTr.text = oc.m2.d2_en_UK_lash.ocLI.BeatitudesTr.text
 
 ocLI.BeatitudesT.mode = misc_en_UK_lash.Mode2
 ocLI.BeatitudesT.melody = ""
