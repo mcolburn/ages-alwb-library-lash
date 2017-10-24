@@ -1,5 +1,24 @@
 A_Resource_Whose_Name = me.m10.d26_en_UK_lash 
 
+meVE.Lity1.poet = poets_en_UK_lash.GeorgiouSikeliotou
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = "Rejoice in the Lord, city of Thessaloniki; be glad and dance, resplendent by faith, for you possess as a treasure in your bosom Demetrios the all-renowned Athlete, and Martyr for the truth; look and receive healings of wonders; and see how he strikes down the insolence of the Barbarians, and with thanksgiving cry out to the Saviour: Lord, glory to you!"
+
+meVE.Lity2.poet = poets_en_UK_lash.Anatoliou
+meVE.Lity2.mode = misc_en_UK_lash.Mode1
+meVE.Lity2.melody = ""
+meVE.Lity2.text = "With the charm of songs let us make bright the present day, and let us make the struggles of the Martyr resound; for the great Demetrios is proposed for our praise. For bravely overpowering the attacks of tyrants, he leapt keenly into the stadium; and having triumphantly carried off the victory, he implores the Saviour that our souls may be saved."
+
+meVE.LityGlory.poet = poets_en_UK_lash.Germanou
+meVE.LityGlory.mode = misc_en_UK_lash.Mode2
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "Christ God has taken your blameless spirit, wise Martyr Demetrios, to the dwellings beyond the world; for you became a champion of the Trinity, competing bravely in the stadium like tempered steel; pierced by a lance in your spotless side, O all-honoured, you imitated the One who was transfixed on a tree for the salvation of all the world; you received the power of healings and grant mortals cures without grudging. And so today, as we feast your falling asleep, we fittingly glorify the Lord who glorified you."
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode2
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = "O greatest mystery! Seeing the wonders I proclaim the divinity, I do not deny the humanity; for Emmanuel opened the gates of nature as man, yet as God did not break the seals of virginity; but he came from the womb as he had entered through the hearing; as he had been conceived, so he became incarnate. Impassibly he entered, ineffably he came forth, as the Prophet had said: This gate shall be shut, none shall go through it, except the Lord, the God of Israel, who has great mercy."
+
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
 meVE.Aposticha1.text = "When the earth was troubled in fear of your rage, hills and mountains were shaken, Lord; but having looked upon us with an eye of compassion, in your anger do not be enraged at us; but with compassion for the creation of your hands free us from the dread threat of earthquake, as you are good and love mankind."
