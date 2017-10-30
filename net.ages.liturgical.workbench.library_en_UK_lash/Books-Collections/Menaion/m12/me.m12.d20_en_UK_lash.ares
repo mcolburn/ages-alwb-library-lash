@@ -48,7 +48,7 @@ meVE.SticGlory.text = "Godbearer Ignatios, you enfolded Christ your love in your
 
 meVE.SticBoth.mode = misc_en_UK_lash.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = "Bethlehem, receive the Mother City of God; for the Light that does not set has come to be born in you. Marvel in heaven, O Angels; humans, give glory on earth; Magi from Persia, bring out your thrice-famous gift; Shepherds abiding in the fields sing the thrice-holy hymn; let everything that has breath praise the Maker of all things."
+meVE.SticBoth.text = "Bethlehem, receive the Mother City of God; for the Light that does not set has come to be born in you. Marvel in heaven, O Angels; humans, give glory on earth; Magi from Persia, bring out your thrice-famous gift; Shepherds abiding in the fields sing the thrice-holy hymn; let everything that has breath praise the Maker of all things." //Bethlehem welcome the Mother City of God[8]; for she has come to give birth in you to the light that never sets.[9] You Angels, marvel in heaven; humans give glory on earth; Magi from Persia bring your triply glorious gift; Shepherds abiding in the fields[10] sing the thrice-holy hymn. Let everything that has breath praise the Maker of all.
 
 meVE.Aposticha1.poet = poets_en_UK_lash.Kyprianou
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
@@ -84,10 +84,10 @@ meVE.Apolytikion2.mode = misc_en_UK_lash.Mode3
 meVE.Apolytikion2.melody = he.a.m3_en_UK_lash.TheiasPisteos.notmetered
 meVE.Apolytikion2.text = ""
 
-meCO.C1.title = ""
+meCO.C1.title = "Triode, sung at Compline"
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
-meCO.C1Acrostic.text = ""
+meCO.C1Acrostic.text = "whose Acrostic is: For Monday."
 
 meCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C1H.mode = misc_en_UK_lash.Mode2
@@ -97,12 +97,12 @@ meCO.Ode1C1H.text = he.h.m2_en_UK_lash.ToTinAvaton.text
 meCO.Ode1C11.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C11.mode = misc_en_UK_lash.Mode2
 meCO.Ode1C11.melody = he.h.m2_en_UK_lash.ToTinAvaton.name
-meCO.Ode1C11.text = ""
+meCO.Ode1C11.text = "The ineffable descent of the Word of God, that is of the God-man Christ, is made known; he did not think that to be God was robbery, but is coming having taken the form of a servant from a pure Maiden, Child of God."
 
 meCO.Ode1C12.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C12.mode = misc_en_UK_lash.Mode2
 meCO.Ode1C12.melody = he.h.m2_en_UK_lash.ToTinAvaton.name
-meCO.Ode1C12.text = ""
+meCO.Ode1C12.text = "Christ comes willingly to serve the one whose form the fashioner now puts on. He enriches Adam in his penury with Godhead, granting him a strange refashioning and rebirth, as he is compassionate."
 
 meCO.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C1H.mode = misc_en_UK_lash.Mode2
@@ -112,12 +112,12 @@ meCO.Ode8C1H.text = he.h.m2_en_UK_lash.EfrixePaidonEvagon.text
 meCO.Ode8C11.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C11.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C11.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
-meCO.Ode8C11.text = ""
+meCO.Ode8C11.text = "I will make you all my kinsmen, if you keep my commandments, says Christ to mankind, as he comes from a pure womb. He gives them peace and now commands them to have lowly thoughts, to recognise him as Lord and chant: We highly exalt you to all the ages."
 
 meCO.Ode8C12.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C12.mode = misc_en_UK_lash.Mode2
 meCO.Ode8C12.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
-meCO.Ode8C12.text = ""
+meCO.Ode8C12.text = "O Word of God for you being given birth was the reverse of the order of the flesh; for it was not flesh and blood which sustained your holy flesh, but the presence of the Holy Spirit and the divine overshadowing of the Most High; and knowing you as Lord, we hymn and highly exalt you to all the ages."
 
 meCO.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C1H.mode = misc_en_UK_lash.Mode2
@@ -127,20 +127,20 @@ meCO.Ode9C1H.text = he.h.m2_en_UK_lash.EmegalynasChriste.text
 meCO.Ode9C11.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C11.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C11.melody = he.h.m2_en_UK_lash.EmegalynasChriste.name
-meCO.Ode9C11.text = ""
+meCO.Ode9C11.text = "Rejecting all the stain of passion, let us take up as befits the coming of Christ a prudent disposition; for he is coming forth without stain to bear flesh and to grant to all divine refashioning through the Spirit."
 
 meCO.Ode9C12.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C12.mode = misc_en_UK_lash.Mode2
 meCO.Ode9C12.melody = he.h.m2_en_UK_lash.EmegalynasChriste.name
-meCO.Ode9C12.text = ""
+meCO.Ode9C12.text = "Looking to Christ, who humbles himself, let us be lifted up from the passions that seek the ground; with good zeal trained by faith not to think lofty things, let us be humbled in spirit; that by works which exalt we may exalt up the One who is being brought forth."
 
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.text = "He who bowed the heavens and dwelt in the Virgin comes forth in flesh to be born in the Cave of Bethlehem, as it is written, and to be seen as a babe, he who gives life to babes in the womb; rejoicing in him, let us all now go to meet him in uprightness of heart."
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode1
 meMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
-meMA.Kathisma21.text = ""
+meMA.Kathisma21.text = "Sion, be glad, Bethlehem, make ready; the maintainer of all things, sending the Star ahead, reveals his measureless condescension; for he before whom the Powers of heaven tremble is truly being brought to birth from the Virgin without change, the only Lover of mankind."
 
 meMA.C1Acrostic.text = ""
 
@@ -215,17 +215,17 @@ meMA.Ode3C1H.text = he.h.m1_en_UK_lash.LithonOnApedokimasan.text
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode1
 meMA.Ode3C11.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
-meMA.Ode3C11.text = ""
+meMA.Ode3C11.text = "Isaias, knowing the incarnation of Christ by the Holy Spirit, clearly foretells it, ‘The Lord is born as a Child from a Virgin for our rebirth, whose government is upon his shoulder’."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode1
 meMA.Ode3C12.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
-meMA.Ode3C12.text = ""
+meMA.Ode3C12.text = "A Star has already dawned from the tribe of Juda; knowing which Kings of the East are moving and hastening to arrive that they may contemplate Christ, who is being brought to birth in Bethlehem."
 
 meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C13.mode = misc_en_UK_lash.Mode1
 meMA.Ode3C13.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
-meMA.Ode3C13.text = ""
+meMA.Ode3C13.text = "Let all creation sing out a prefestal hymn to the One who was begotten of the Father before the morning star, now shines ineffably from the Virgin and in the flesh is being brought to birth in Bethlehem through his great compassion."
 
 meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C21.mode = misc_en_UK_lash.Mode1
@@ -268,22 +268,22 @@ meMA.Ode3C2T.melody = he.h.m1_en_UK_lash.LithonOnApedokimasan.name
 meMA.Ode3C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode3
-meMA.Kontakion1.melody = misc_en_UK_lash.Automelon
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
+meMA.Kontakion1.text = "Today the Virgin comes to the cave, to give birth ineffably to the eternal Word. Hearing this, dance, O inhabited world! Glorify, with Angels and with Shepherds, him who willed to be made manifest, a little Child, God before the ages."
 
-meMA.Oikos1.text = ""
+meMA.Oikos1.text = "The sacred sayings of the Prophets reach their term. See, a Virgin gives birth to God in the flesh in the city of Bethlehem within the Cave; let all creation be enriched, be glad and dance; the Master of all things is at hand to live among slaves, ransoming us, who are subject to corruption, from the power of the Stranger; and he appears as a babe, swaddled in a manger, a little Child, God before the ages."
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Ode3Kathisma1.text = ""
+meMA.Ode3Kathisma1.text = "You blazed our from the East like a star and with the beams of your words you enlightened the world and banished the darkness, and like Paul you nobly completed the course, having endured dangers among nations and cities. So too you were ground like wheat by the teeth of wild beasts, becoming an offering to your Lord, Godbearer Ignatios. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode3
 meMA.Ode3Kathisma2.melody = he.a.m3_en_UK_lash.TinOraiotita.notmetered
-meMA.Ode3Kathisma2.text = ""
+meMA.Ode3Kathisma2.text = "Set apart by Christ God, you made your sacred robe shine with splendour, and truly you met with martyrdom, O Godbearer. For you roused wild beasts to separate your from the world, imitating Paul the inspired, glorious Martyr. And so at Rome, Father, you fittingly accomplished martyrdom."
 
 meMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode3
 meMA.Ode3Kathisma3.melody = he.a.m3_en_UK_lash.TinOraiotita.notmetered
-meMA.Ode3Kathisma3.text = ""
+meMA.Ode3Kathisma3.text = "All things have been filled with joy, for the Mother of God is hastening to give birth to the King of the universe. O inexplicable wonder! The one without beginning begins, and the one without flesh takes flesh. A Cave receives the one who upholds all things. Bethlehem be glad and all creation dance on this prefestal day."
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
@@ -403,17 +403,17 @@ meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinIonan.text
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode1
 meMA.Ode6C11.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
-meMA.Ode6C11.text = ""
+meMA.Ode6C11.text = "Heaven upon earth shows to the Astrologers through a shining star the heavenly King now being brought to birth for our sake in the city of David."
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode1
 meMA.Ode6C12.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
-meMA.Ode6C12.text = ""
+meMA.Ode6C12.text = "The Prophet preaches and clearly cries, ‘You house of Ephratha, Bethlehem, in which God will appear from the Virgin, leap for joy and dance’."
 
 meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C13.mode = misc_en_UK_lash.Mode1
 meMA.Ode6C13.melody = he.h.m1_en_UK_lash.TonProfitinIonan.name
-meMA.Ode6C13.text = ""
+meMA.Ode6C13.text = "In a Cave of Bethlehem a Maiden clearly gives birth to God the Maker of the universe and wraps him as a mortal in swaddling clothes and lays him in a manger."
 
 meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C21.mode = misc_en_UK_lash.Mode1
@@ -452,9 +452,9 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = misc_en_UK_lash.Mode3
 meMA.Kontakion2.melody = he.a.m3_en_UK_lash.IParthenosSimeron.notmetered
-meMA.Kontakion2.text = ""
+meMA.Kontakion2.text = "The light-bearing day of your radiant struggles proclaims beforehand to all him who was born of a Virgin; for thirsting from love to delight in him, you hastened to be ground by wild beasts; for this you were named Godbearer, glorious Ignatios."
 
-meMA.Oikos2.text = ""
+meMA.Oikos2.text = "Abraham once was sacrificing his son, foreshadowing the slaughter of him who possesses all things and who is now hastening to be born in a Cave; while you, inspired Father, offered your whole self as victim; and becoming fodder for the wild beasts, you appeared as pure wheat for your Creator, and you truly dwell eternally in heavenly barns, and delight in your love, for whom you left all the world behind, all-blessed, and were named Godbearer, glorious Ignatios."
 
 meMA.Synaxarion.text = ""
 
@@ -560,7 +560,7 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TinZoodochonPigin.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -620,19 +620,19 @@ meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
 meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.EpeskepsatoImas.notmetered
-meMA.Exaposteilarion1.text = ""
+meMA.Exaposteilarion1.text = "Prepare Bethlehem; Cave make ready; and Manger receive the uncircumscribed God, circumscribed in flesh; for he is coming to be born, as he has been well pleased."
 
 meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.notmetered
-meMA.Exaposteilarion2.text = ""
+meMA.Exaposteilarion2.text = "I am wheat of God and the Saviour, you said, Godbearer Ignatios, and now I must be ground by the teeth of wild beasts, so I shall be seen as sweet and pure bread for the Holy Trinity; as you stand in its presence may you remember those who celebrate your light-bearing memorial, all-wise High Priest and Martyr."
 
 meMA.Exaposteilarion3.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion3.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.Exaposteilarion3.text = ""
+meMA.Exaposteilarion3.text = "As wounded by the affection of love of your Lord, you cried out: Christ my love has been willingly crucified; and so I thirst to be made thirsty, and as I live my love is to be loved; I long to have become in his passion and his kingdom."
 
 meMA.Exaposteilarion4.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion4.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.Exaposteilarion4.text = ""
+meMA.Exaposteilarion4.text = "Believers, let us now with faith make songs resound for the Forefeast of the Nativity; for Christ is coming, has come to be born in Bethlehem as a mortal from a Virgin, and to appear as an infant, wrapped in swaddling clothes, he who is before the ages."
 
 meMA.Lauds1.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.Lauds1.mode = misc_en_UK_lash.Mode6
@@ -642,55 +642,55 @@ meMA.Lauds1.text = he.a.m6_en_UK_lash.AiAngelikai.text
 meMA.Lauds2.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.Lauds2.mode = misc_en_UK_lash.Mode6
 meMA.Lauds2.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds2.text = ""
+meMA.Lauds2.text = "The Star of Jacob rises in the Cave. Come, and as we celebrate the Forefeast, let us hasten with the Magi, let us gather with the Shepherds; let us see God in swaddling clothes; let us see a Virgin giving suck. O awesome sight! The King of Israel is at hand."
 
 meMA.Lauds3.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.Lauds3.mode = misc_en_UK_lash.Mode6
 meMA.Lauds3.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds3.text = ""
+meMA.Lauds3.text = "Hills drop down sweetness; for see, God has come from Theman, Nations be defeated; Prophets and Patriarchs leap for joy; mankind dance inspired by God; the strong and great Prince, Christ is brought to birth; on earth the King of heaven is at hand."
 
 meMA.Lauds4.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.Lauds4.mode = misc_en_UK_lash.Mode6
 meMA.Lauds4.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds4.text = ""
+meMA.Lauds4.text = "Raising mortals up from earth, the Creator has come, renewing once again the royal image; Powers of things above, rejoice together, sing your hymn; the middle wall of enmity is abolished; he has come for whom it was laid up; for God becomes a mortal; Christ, the King of Israel, is at hand."
 
 meMA.Lauds5.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.Lauds5.mode = misc_en_UK_lash.Mode6
 meMA.Lauds5.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.Lauds5.text = ""
+meMA.Lauds5.text = "Come, believers, let us meet the Creator, who has come to earth to dawn from a Virgin; let us shine with purity, let us blaze with virtues; let us be prepared with trembling and joy to see with the eyes of the mind Christ become a babe, who in his supreme goodness makes us mortals divine."
 
 meMA.LaudsGlory.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 meMA.LaudsGlory.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.LaudsGlory.text = ""
+meMA.LaudsGlory.text = "Christ draws near; Bethlehem prepare in advance; already the salvation of the Nations sheds its light. Make ready the Manger, assemble the Shepherds, summon the Magi from Persia; the Armies of the Bodiless Minds cry out: The King of heaven, Christ is at hand."
 
 meMA.LaudsBoth.poet = poets_en_UK_lash.RomanouTouMelodou
 meMA.LaudsBoth.mode = misc_en_UK_lash.Mode6
 meMA.LaudsBoth.melody = he.a.m6_en_UK_lash.AiAngelikai.notmetered
-meMA.LaudsBoth.text = ""
+meMA.LaudsBoth.text = "Zeal and fire devour you, fool, and truly you err, false accuser of the law; for see, as Isaias said, the Virgin is with child and lays the King in a manger; and so all the powerful of the tribe of Juda fail."
 
 meMA.Aposticha1.mode = misc_en_UK_lash.Mode4
 meMA.Aposticha1.melody = ""
-meMA.Aposticha1.text = ""
+meMA.Aposticha1.text = "Bethlehem make ready, city of Sion sing a hymn; desert, betrothed to joy, be glad; for a star comes forth in Bethlehem, revealing that Christ is about to be brought to birth; a Cave receives the wholly uncontainable; and a Manger is being prepared to receive eternal life; to him let us all sing and cry: Save our souls, Jesu God, incarnate for us."
 
 meMA.Aposticha2.poet = poets_en_UK_lash.Anatoliou
 meMA.Aposticha2.mode = misc_en_UK_lash.Mode4
 meMA.Aposticha2.melody = ""
-meMA.Aposticha2.text = ""
+meMA.Aposticha2.text = "Christ who comes, manifestly our God, will come and not delay; he will appear from a Bride who knows not wedlock, while he will take his rest in a Cave; and you, O Manger of irrational beasts, receive the one whom heaven cannot contain, who is about to be wrapped in swaddling in you, the one who with a word has delivered us from unreason. A Star reveals, Magi worship, Shepherds abide in the fields, while they see the awesome wonder; and Angels make melody, as they contemplate on earth the redemption of our race."
 
 meMA.Aposticha3.mode = misc_en_UK_lash.Mode4
 meMA.Aposticha3.melody = ""
-meMA.Aposticha3.text = ""
+meMA.Aposticha3.text = "Isaias, dance, receive the Word of God; prophesy to the Maiden Mary that a Bush is on fire and is not consumed by the ray of the Godhead. Bethlehem make ready; Eden open your gate; Magi journey to see salvation wrapped in swaddling clothes in a manger, whom a Star above the Cave has revealed to be the Lord, the giver of life, who saves our race."
 
 meMA.AposGlory.poet = poets_en_UK_lash.Stouditou
 meMA.AposGlory.mode = misc_en_UK_lash.Mode1
 meMA.AposGlory.melody = ""
-meMA.AposGlory.text = ""
+meMA.AposGlory.text = "Living monument and breathing image, your yearly festival is here, Godbearer Ignatios, and proclaims your priestly service and your deeds of valour; your resistance to shedding of blood on behalf of the Faith; that blest and revered voice which said: I am God’s wheat, and am being ground by the teeth of wild beasts; and so, as you became an imitator of Christ, intercede that our souls may be saved."
 
 meMA.AposBoth.poet = poets_en_UK_lash.Vyzantos
 meMA.AposBoth.mode = misc_en_UK_lash.Mode6
 meMA.AposBoth.melody = ""
-meMA.AposBoth.text = "" //me.m12.d06_en_UK_lash.meVE.SticBoth.text
+meMA.AposBoth.text = "Cave, make ready; for the Ewe-lamb has come, bearing Christ in her womb. Manger, receive the One who by a word frees us who are born of earth from irrational action. Shepherds abiding in the fields, bear witness to the fearful wonder; and Magi from Persia, offer gold and incense and myrrh to the King; because the Lord has appeared from a Virgin Mother. Bowing low like a slave his Mother worshipped him, and cried out to the One in her arms: How were you sown in me, or how did you come to be in me, my Redeemer and my God?" //me.m12.d06_en_UK_lash.meVE.SticBoth.text
 
 meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 

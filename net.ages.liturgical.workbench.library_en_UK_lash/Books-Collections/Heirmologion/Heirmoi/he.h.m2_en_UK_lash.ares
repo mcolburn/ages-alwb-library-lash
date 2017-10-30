@@ -62,7 +62,7 @@ EflexeReithro5.text = ""
 EfrixePaidonEvagon.name = "The unwearied fire. (NM)"
 EfrixePaidonEvagon.mode = misc_en_UK_lash.Mode2
 EfrixePaidonEvagon.ode = misc_en_UK_lash.Ode8
-EfrixePaidonEvagon.text = "The unwearied fire, nurtured by limitless fuel shuddered at the unsullied body, close companion of the soul, of the docile youths, and gave way; while as the ever-living flame died down a hymn that lives for ever was being raised, 'Praise the Lord, all you his works, and highly exalt him to all the ages'."
+EfrixePaidonEvagon.text = "The unwearied fire, nurtured by limitless fuel shuddered at the unsullied body, close companion of the soul, of the docile youths, and gave way; while as the ever-living flame died down a hymn that lives for ever was being raised, 'Praise the Lord, all you his works, and highly exalt him to all the ages'." //The unwearied fire, fed with unlimited fuel drew back in fear before the pure bodies and pure souls of the holy Youths; and as the ever-living flame died down an everlasting hymn was sung: All you his works, praise the Lord and highly exalt him to all the ages.
 
 EikonosChrysis.name = "When the golden image. (NM)"
 EikonosChrysis.mode = misc_en_UK_lash.Mode2
@@ -91,7 +91,7 @@ ElilythasEkParthenou.text = "From a Virgin you came, not an ambassador, not an A
 EmegalynasChriste.name = "You magnified. (NM)"
 EmegalynasChriste.mode = misc_en_UK_lash.Mode2
 EmegalynasChriste.ode = misc_en_UK_lash.Ode9
-EmegalynasChriste.text = "You magnified the Mother of God who gave you birth, O Christ, from whom you our Fashioner put on a body with feelings like ours, the ransom of our faults. As all we generations call her blessed we magnify you."
+EmegalynasChriste.text = "You magnified the Mother of God who gave you birth, O Christ, from whom you our Fashioner put on a body with feelings like ours, the ransom of our faults. As all we generations call her blessed we magnify you." //Christ, our Creator, you magnified the Mother of God who gave you birth, from whom you took a body with like passions to our own, which was the deliverance from our faults. As with all generations we call her blest, we magnify you.
 EnAvyssoPtaismaton.name = "Surrounded by a depth of offences. (NM)"
 EnAvyssoPtaismaton.mode = misc_en_UK_lash.Mode2
 EnAvyssoPtaismaton.ode = misc_en_UK_lash.Ode6
@@ -123,7 +123,7 @@ IFoniTouLogou.text = ""
 ITonAchoritonTheon.name = "As the one who contained. (NM)"
 ITonAchoritonTheon.mode = misc_en_UK_lash.Mode2
 ITonAchoritonTheon.ode = misc_en_UK_lash.Ode9
-ITonAchoritonTheon.text = "As the one who contained God in your womb and bore joy for the world we sing your praise, all-holy Virgin."
+ITonAchoritonTheon.text = "As the one who contained God in your womb and bore joy for the world we sing your praise, all-holy Virgin." //‘All-holy Virgin, who contained in your womb the uncontainable God, and bore joy for the world, we hymn you’.
 
 ITonProIliouFostira.name = "From your virgin womb. (NM)"
 ITonProIliouFostira.mode = misc_en_UK_lash.Mode2
@@ -329,17 +329,17 @@ TisNyktosDielthousis.text = ""
 TisPisteosEnPetra.name = "You have established me. (NM)"
 TisPisteosEnPetra.mode = misc_en_UK_lash.Mode2
 TisPisteosEnPetra.ode = misc_en_UK_lash.Ode3
-TisPisteosEnPetra.text = "You have established me on a rock of faith; you have broadened my mouth against my foes; may spirit has been made glad by singing: None is holy as our God, and none is just but you, O Lord."
+TisPisteosEnPetra.text = "You have established me on a rock of faith; you have broadened my mouth against my foes; my spirit has been made glad by singing: None is holy as our God, and none is just but you, O Lord."
 
 ToDogmatiToTyranniko.name = "The tyrant's decree. (NM)"
 ToDogmatiToTyranniko.mode = misc_en_UK_lash.Mode2
 ToDogmatiToTyranniko.ode = misc_en_UK_lash.Ode8
-ToDogmatiToTyranniko.text = "The tyrant’s decree the three holy Youths did not obey, but cast into the furnace they confessed God as they sang, 'Bless the Lord, you works of the Lord'."
+ToDogmatiToTyranniko.text = "The tyrant’s decree the three holy Youths did not obey, but cast into the furnace they confessed God as they sang, 'Bless the Lord, you works of the Lord'." //‘The three holy Youths for not obeying the tyrannical decree were cast into the furnace, and they confessed God as they sang: Works of the Lord, bless the Lord’
 
 ToTinAvaton.name = "To the Lord. (NM)"
 ToTinAvaton.mode = misc_en_UK_lash.Mode2
 ToTinAvaton.ode = misc_en_UK_lash.Ode1
-ToTinAvaton.text = "To the Lord who by his divine command dried up the pathless raging sea and guided the Israelite people through it on foot let us sing; for he has been greatly glorified."
+ToTinAvaton.text = "To the Lord who by his divine command dried up the pathless raging sea and guided the Israelite people through it on foot let us sing; for he has been greatly glorified." //To the Lord, who by his divine command dried up the raging untrodden sea, and guided the people of Israel through it on foot, let us sing; for he has been greatly glorified.
 
 TonArritoSofia.name = "God the Word. (NM)"
 TonArritoSofia.mode = misc_en_UK_lash.Mode2
