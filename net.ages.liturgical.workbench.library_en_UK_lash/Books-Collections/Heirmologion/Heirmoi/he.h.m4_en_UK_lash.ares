@@ -394,10 +394,17 @@ OrthronFaeinon.name = ""
 OrthronFaeinon.mode = misc_en_UK_lash.Mode4
 OrthronFaeinon.ode = misc_en_UK_lash.Ode5
 OrthronFaeinon.text = ""
+
 OsEmpsychoTheouKivoto.name = ""
 OsEmpsychoTheouKivoto.mode = misc_en_UK_lash.Mode4
 OsEmpsychoTheouKivoto.ode = misc_en_UK_lash.Ode9
 OsEmpsychoTheouKivoto.text = ""
+
+OsEmpsychoTheouKivoto_Annunciation.name = ""
+OsEmpsychoTheouKivoto_Annunciation.mode = misc_en_UK_lash.Mode4
+OsEmpsychoTheouKivoto_Annunciation.ode = misc_en_UK_lash.Ode9
+OsEmpsychoTheouKivoto_Annunciation.text = ""
+
 OsIonanTonProfitin.name = ""
 OsIonanTonProfitin.mode = misc_en_UK_lash.Mode4
 OsIonanTonProfitin.ode = misc_en_UK_lash.Ode6
