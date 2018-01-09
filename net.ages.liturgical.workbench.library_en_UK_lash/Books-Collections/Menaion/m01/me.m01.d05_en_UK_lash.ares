@@ -586,7 +586,7 @@ meMA.Kontakion1.text = me.m01.d02_en_UK_lash.meMA.Kontakion1.text
 
 meMA.Oikos1.text = me.m01.d02_en_UK_lash.meMA.Oikos1.text
 
-meMA.Synaxarion.text = ""
+meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
