@@ -287,8 +287,6 @@ meMA.Kontakion1.text = ""
 
 meMA.Oikos1.text = ""
 
-meMA.Synaxarion.text = "[This is where the text of the Menaion's Synaxarion will appear.]"
-
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C11.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
@@ -848,9 +846,7 @@ alt1.meMA.Oikos17.text = "Hail, for through you we conquer the foe. Hail, for to
 
 alt1.meMA.Oikos18.text = "Hail, Protection wholly light!"
 
-alt1.meMA.Synaxarion.text = "On the 1st [28th] of the month we celebrate the commemoration of the Protecting Veil of our most holy Lady, Mother of God and Ever-Virgin Mary, who ever gives special protection to the Orthodox people, as of old she protected the Queen of cities."
-
-alt1.meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+alt1.alt1.meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
 alt1.meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 alt1.meMA.Ode7C1H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
