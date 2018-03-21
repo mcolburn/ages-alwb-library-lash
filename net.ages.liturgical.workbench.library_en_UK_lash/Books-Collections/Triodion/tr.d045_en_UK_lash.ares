@@ -221,7 +221,7 @@ trMA.AposMartyric.text = ""
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode8
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.text = oc.m8.d3_en_UK_lash.ocVE.AposTheotokion.text
 
 trTE.Troparion.mode = misc_en_UK_lash.Mode6
 trTE.Troparion.melody = ""
