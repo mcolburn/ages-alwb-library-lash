@@ -64,7 +64,10 @@ meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.KateplagiIosif.name
 meVE.Apolytikion1.text = ""
 
+meCO.C1Poet = ""
 meCO.C1Acrostic.text = ""
+meCO.C1.title = titles_en_UK_lash.OKanon
+meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C1H.mode = misc_en_UK_lash.Mode6
