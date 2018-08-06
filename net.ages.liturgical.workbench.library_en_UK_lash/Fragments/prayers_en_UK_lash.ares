@@ -153,13 +153,13 @@ pet05 = ""
 
 pet06 = "For our Archbishop N, for the honoured order of presbyters, for the diaconate in Christ, for all the clergy and the people, let us pray to the Lord."
 
-pet06a = "" // supplement with client specific rank and name
+pet06a = "For" // supplement with client specific rank and name
 
-pet06b = ""
+pet06b = "for the honoured order of presbyters, for the diaconate in Christ, for all the clergy and the people, let us pray to the Lord."
 
 pet07L = ""
 
-pet07S = ""
+pet07S = "For our nation, [the President, our Armed Forces] and all in civil authorities, let us pray to the Lord."
 
 pet07Sa = ""
 
@@ -564,35 +564,35 @@ res15 = ""
 
 res16 = "Everlasting Memory."
 
-res01p = ""
+res01p = "(Lord, have mercy.)"
 
-res02p = ""
+res02p = "(Grant this, O Lord.)"
 
-res03p = ""
+res03p = "(To you, O Lord.)"
 
-res04p = ""
+res04p = "(Amen.)"
 
-res05p = ""
+res05p = "(And to your spirit.)"
 
-res06p = ""
+res06p = "(Lord, have mercy. Lord, have mercy. Lord, have mercy.)"
 
-res07p = ""
+res07p = "()"
 
-res08p = ""
+res08p = "(Master, give the blessing.)"
 
-res09p = ""
+res09p = "()"
 
-res10p = ""
+res10p = "(Amen, Amen, Amen.)"
 
-res12p = ""
+res12p = "(Holy father, give the blessing.)"
 
-res13p = ""
+res13p = "(Holy Master, bless.)"
 
-res14p = ""
+res14p = "()"
 
-res15p = ""
+res15p = "()"
 
-res16p = ""
+res16p = "(Everlasting Memory.)"
 
 exc01 = "For to you belong all glory, honour and worship, Father, Son and Holy Spirit, now and for ever, and to the ages of ages." //For to you belong all glory, honour and worship, to the Father, the Son and the holy Spirit, now and for ever, and to the ages of ages.
 
