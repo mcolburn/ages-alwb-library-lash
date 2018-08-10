@@ -35,11 +35,11 @@ hoLI.EntranceHymn.text = "Come, let us worship and fall down before Christ." // 
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
-hoLI.TrisagiosHymn.title = ""
+hoLI.TrisagiosHymn.title = "The Trisagion"
 hoLI.TrisagiosHymn.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us."
-hoLI.TrisagiosHymn1.text = ""
-hoLI.TrisagiosHymn2.text = ""
-hoLI.TrisagiosHymn34.text = ""
+hoLI.TrisagiosHymn1.text = "Holy God."
+hoLI.TrisagiosHymn2.text = "Holy Strong."
+hoLI.TrisagiosHymn34.text = "Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn3.text = "Holy Immortal,"
 hoLI.TrisagiosHymn4.text = "have mercy on us."
  
