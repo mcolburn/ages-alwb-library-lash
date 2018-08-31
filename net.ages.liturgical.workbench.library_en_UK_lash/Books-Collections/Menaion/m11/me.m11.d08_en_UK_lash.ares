@@ -135,7 +135,6 @@ meMA.Kathisma3T.melody = he.a.m8_en_UK_lash.ToProstachthen.notmetered
 meMA.Kathisma3T.text = "O Pure, O blessed one, filled with God's grace, with the Powers above, with the Archangels and all the Bodiless ones, on our behalf ceaselessly implore him who through his compassionate pity was born from you, that before the end he may grant us pardon and forgiveness of sins, and amendment of life, that we may find mercy."
 
 meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
-//This is the Gospel reading prescribed by the Patriarchal Hemerologion
 
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
@@ -155,7 +154,7 @@ meMA.C2Poet = poets_en_UK_lash.IoannouMonachou
 meMA.C2Acrostic.text = "To the Leaders of the Bodiless Minds. In the Theotokia: By Clement."
 
 meMA.C1.title = titles_en_UK_lash.KanonATonAsomaton
-meMA.C1.verse = prayers_en_UK_lash.verse_Archangels.text
+meMA.C1.verse = prayers_en_UK_lash.verse_Angels.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
@@ -178,7 +177,7 @@ meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.name
 meMA.Ode1C1T.text = "Eve, the foremother, once made the human race subject to the curse by her transgression; but you, Virgin Bride of God, led the whole race to blessing, by giving birth to the Creator."
 
 meMA.C2.title = titles_en_UK_lash.KanonBTonAsomaton
-meMA.C2.verse = prayers_en_UK_lash.verse_Archangels.text
+meMA.C2.verse = prayers_en_UK_lash.verse_Angels.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
