@@ -49,26 +49,6 @@ meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
 meVE.SticTheotokion.text = "O Trinity of infinite power, Unity of three Persons, at the prayers of your honoured Disciple and godly Apostle, and of the Ever-Virgin, save those who sing your praise."
 
-meVE.Lity1.mode = misc_en_UK_lash.Mode2
-meVE.Lity1.melody = misc_en_UK_lash.Idiomelon
-meVE.Lity1.text = ""
-
-meVE.Lity2.mode = misc_en_UK_lash.Mode4
-meVE.Lity2.melody = misc_en_UK_lash.Idiomelon
-meVE.Lity2.text = ""
-
-meVE.Lity3.mode = misc_en_UK_lash.Mode8
-meVE.Lity3.melody = misc_en_UK_lash.Idiomelon
-meVE.Lity3.text = ""
-
-meVE.LityGlory.mode = misc_en_UK_lash.Mode8
-meVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
-meVE.LityGlory.text = ""
-
-meVE.LityBoth.mode = misc_en_UK_lash.Mode8
-meVE.LityBoth.melody = he.a.m8_en_UK_lash.OTouParadoxou.notmetered
-meVE.LityBoth.text = ""
-
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
 meVE.Aposticha1.text = "Grace was poured out on your lips in a fiery tongue, Apostle Luke, and you were revealed as a tongue of fire as you sent forth words of light by your preaching for those worthy of light, but bolts of shame for those who longed for the darkness, as you wrote and taught the honoured Gospel; and you appeared as a fragrance of life for those who truly wished for life, as Paul said, whom you had as teacher; but again as the odour of death for those who did not love life. But grant us peace and life and light and God's great mercy."
@@ -103,57 +83,6 @@ meVE.Apolytikion2.poet = poets_en_UK_lash.Gerasimou
 meVE.Apolytikion2.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion2.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
 meVE.Apolytikion2.text = ""
-
-meVE.Apolytikion3.poet = ""
-meVE.Apolytikion3.mode = ""
-meVE.Apolytikion3.melody = ""
-meVE.Apolytikion3.text = ""
-
-meMA.Kathisma11.mode = misc_en_UK_lash.Mode8
-meMA.Kathisma11.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Kathisma11.text = misc_en_UK_lash.NotAvailable
-
-meMA.Kathisma12.mode = misc_en_UK_lash.Mode8
-meMA.Kathisma12.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Kathisma12.text = misc_en_UK_lash.NotAvailable
-
-meMA.Kathisma1T.mode = //me.m06.d29_en_UK_lash.meMA.Kathisma2T.mode
-meMA.Kathisma1T.melody = //me.m06.d29_en_UK_lash.meMA.Kathisma2T.melody
-meMA.Kathisma1T.text = misc_en_UK_lash.NotAvailable //me.m06.d29_en_UK_lash.meMA.Kathisma2T.text
-
-meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
-meMA.Kathisma21.text = misc_en_UK_lash.NotAvailable
-
-meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
-meMA.Kathisma2T.melody = misc_en_UK_lash.Automelon
-meMA.Kathisma2T.text = he.a.m4_en_UK_lash.KateplagiIosif.text
-
-meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
-meMA.Kathisma31.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Kathisma31.text = misc_en_UK_lash.NotAvailable
-
-meMA.Kathisma32.mode = misc_en_UK_lash.Mode8
-meMA.Kathisma32.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Kathisma32.text = misc_en_UK_lash.NotAvailable
-
-meMA.Kathisma3T.mode = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.mode
-meMA.Kathisma3T.melody = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.melody
-meMA.Kathisma3T.text = misc_en_UK_lash.NotAvailable //me.m12.d12_en_UK_lash.meMA.Kathisma3T.text
-
-meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
-
-meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostle.text
-
-meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_UK_lash.Theofanous
 
@@ -390,22 +319,10 @@ meMA.Lauds3.mode = misc_en_UK_lash.Mode1
 meMA.Lauds3.melody = he.a.m1_en_UK_lash.NefelinSeFotos.notmetered
 meMA.Lauds3.text = "With a rational hook you drew to divine knowledge those who like fish had sunk in the deep of ignorance, and you offered them to Christ as a fair dish, all-blessed one; and they received outstanding honour: the life that is unsullied and unending. So too you were named an Apostle of Christ, wise Evangelist and writer of the works of Grace realised in acts."
 
-meMA.Lauds4.mode = misc_en_UK_lash.Mode1
-meMA.Lauds4.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meMA.Lauds4.text = ""
-
-meMA.Lauds5.mode = misc_en_UK_lash.Mode1
-meMA.Lauds5.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meMA.Lauds5.text = ""
-
-meMA.Lauds6.mode = misc_en_UK_lash.Mode1
-meMA.Lauds6.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meMA.Lauds6.text = ""
-
-meMA.Lauds7.poet = poets_en_UK_lash.LeontosMaistoros
-meMA.Lauds7.mode = misc_en_UK_lash.Mode8
-meMA.Lauds7.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds7.text = "Come all creation, let us praise in songs the true spiritual physician and Disciple of the Saviour, Luke the revered. For he healed the disease of godlessness with the ointment of the baptismal font of Christ; and from his mouth he has poured on living lands rivers of waters welling up from God, the Gospel. Therefore his sound has out prophetically into the inhabited world, and he intercedes that our souls may be saved."
+meMA.Lauds4.poet = poets_en_UK_lash.LeontosMaistoros
+meMA.Lauds4.mode = misc_en_UK_lash.Mode8
+meMA.Lauds4.melody = misc_en_UK_lash.Idiomelon
+meMA.Lauds4.text = "Come all creation, let us praise in songs the true spiritual physician and Disciple of the Saviour, Luke the revered. For he healed the disease of godlessness with the ointment of the baptismal font of Christ; and from his mouth he has poured on living lands rivers of waters welling up from God, the Gospel. Therefore his sound has out prophetically into the inhabited world, and he intercedes that our souls may be saved."
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 meMA.LaudsGlory.melody = ""
@@ -415,7 +332,8 @@ meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
-meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
+//meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
+//meMA.MM.Lauds123as123.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
@@ -424,4 +342,88 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 meMegalynarion.text = ""
+
+
+alt1.meVE.Lity1.mode = misc_en_UK_lash.Mode2
+alt1.meVE.Lity1.melody = misc_en_UK_lash.Idiomelon
+alt1.meVE.Lity1.text = ""
+
+alt1.meVE.Lity2.mode = misc_en_UK_lash.Mode4
+alt1.meVE.Lity2.melody = misc_en_UK_lash.Idiomelon
+alt1.meVE.Lity2.text = ""
+
+alt1.meVE.Lity3.mode = misc_en_UK_lash.Mode8
+alt1.meVE.Lity3.melody = misc_en_UK_lash.Idiomelon
+alt1.meVE.Lity3.text = ""
+
+alt1.meVE.LityGlory.mode = misc_en_UK_lash.Mode8
+alt1.meVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+alt1.meVE.LityGlory.text = ""
+
+alt1.meVE.LityBoth.mode = misc_en_UK_lash.Mode8
+alt1.meVE.LityBoth.melody = he.a.m8_en_UK_lash.OTouParadoxou.notmetered
+alt1.meVE.LityBoth.text = ""
+
+alt1.meVE.Apolytikion3.poet = ""
+alt1.meVE.Apolytikion3.mode = ""
+alt1.meVE.Apolytikion3.melody = ""
+alt1.meVE.Apolytikion3.text = ""
+
+alt1.meMA.Kathisma11.mode = misc_en_UK_lash.Mode8
+alt1.meMA.Kathisma11.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+alt1.meMA.Kathisma11.text = misc_en_UK_lash.NotAvailable
+
+alt1.meMA.Kathisma12.mode = misc_en_UK_lash.Mode8
+alt1.meMA.Kathisma12.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+alt1.meMA.Kathisma12.text = misc_en_UK_lash.NotAvailable
+
+alt1.meMA.Kathisma1T.mode = //me.m06.d29_en_UK_lash.meMA.Kathisma2T.mode
+alt1.meMA.Kathisma1T.melody = //me.m06.d29_en_UK_lash.meMA.Kathisma2T.melody
+alt1.meMA.Kathisma1T.text = misc_en_UK_lash.NotAvailable //me.m06.d29_en_UK_lash.meMA.Kathisma2T.text
+
+alt1.meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
+alt1.meMA.Kathisma21.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+alt1.meMA.Kathisma21.text = misc_en_UK_lash.NotAvailable
+
+alt1.meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
+alt1.meMA.Kathisma2T.melody = misc_en_UK_lash.Automelon
+alt1.meMA.Kathisma2T.text = he.a.m4_en_UK_lash.KateplagiIosif.text
+
+alt1.meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+alt1.meMA.Kathisma31.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+alt1.meMA.Kathisma31.text = misc_en_UK_lash.NotAvailable
+
+alt1.meMA.Kathisma32.mode = misc_en_UK_lash.Mode8
+alt1.meMA.Kathisma32.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+alt1.meMA.Kathisma32.text = misc_en_UK_lash.NotAvailable
+
+alt1.meMA.Kathisma3T.mode = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.mode
+alt1.meMA.Kathisma3T.melody = //me.m12.d12_en_UK_lash.meMA.Kathisma3T.melody
+alt1.meMA.Kathisma3T.text = misc_en_UK_lash.NotAvailable //me.m12.d12_en_UK_lash.meMA.Kathisma3T.text
+
+alt1.meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
+
+alt1.meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostle.text
+
+alt1.meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
+
+alt1.meMA.Lauds1.mode = misc_en_UK_lash.Mode1
+alt1.meMA.Lauds1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds1.text = ""
+
+alt1.meMA.Lauds2.mode = misc_en_UK_lash.Mode1
+alt1.meMA.Lauds2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds2.text = ""
+
+alt1.meMA.Lauds3.mode = misc_en_UK_lash.Mode1
+alt1.meMA.Lauds3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
+alt1.meMA.Lauds3.text = ""
 
