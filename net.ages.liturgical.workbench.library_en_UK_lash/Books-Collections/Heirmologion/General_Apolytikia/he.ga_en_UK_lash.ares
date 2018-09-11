@@ -6,8 +6,8 @@ he.title = ""
 TouProfitouSou.name = ""
 TouProfitouSou.mode = misc_en_UK_lash.Mode2
 TouProfitouSou.melody = ""
-TouProfitouSou.text1 = "" // insert name from Menaion. E.g. me.m09.d04_en_UK_lash.meVE.Apolytikion2.text
-TouProfitouSou.text2 = ""
+TouProfitouSou.text1 = "As we celebrate the memory of your Prophet " // insert name from Menaion. E.g. me.m09.d04_en_UK_lash.meVE.Apolytikion2.text
+TouProfitouSou.text2 = "O Lord, through him we beseech you: save our souls"
 
 // For one named Apostle and/or Evangelist. Insert name.
 ApostoleAgie.name = ""
@@ -34,7 +34,7 @@ ChristotitaEkdidachtheis.text2 = ""
 OMartysSouKyrie.name = ""
 OMartysSouKyrie.mode = misc_en_UK_lash.Mode4
 OMartysSouKyrie.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-OMartysSouKyrie.text = ""
+OMartysSouKyrie.text = "Your Martyr, O Lord, by his struggle obtained the crown of incorruption from you, our God; for with your might he destroyed tyrants, and shattered the feeble insolence of the demons: at his prayers, Christ our God, save our souls."
 
 // For several unnamed Martyrs
 OiMartyresSouKyrie.name = ""
@@ -58,8 +58,8 @@ TasAlgidonas.text = "Be entreated by the sufferings, which the Saints endured fo
 KaiTroponMetochos.name = ""
 KaiTroponMetochos.mode = misc_en_UK_lash.Mode4
 KaiTroponMetochos.melody = ""
-KaiTroponMetochos.text1 = ""
-KaiTroponMetochos.text2 = ""
+KaiTroponMetochos.text1 = "You shared their way of life and you succeeded to the Apostles’ thrones; you found the practice, O God-inspired, to climb the heights of contemplation; rightly proclaiming the word of truth; and in faith you struggled to shedding of blood, Bishop and Martyr "
+KaiTroponMetochos.text2 = "intercede with Christ our God that our souls may be saved."
 
 // For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_en_UK_lash.TisErimouPolitis.text
 TisErimouPolitis.name = ""
@@ -68,12 +68,12 @@ TisErimouPolitis.melody = he.a.m1_en_UK_lash.TisErimouPolitis.notmetered
 TisErimouPolitis.text1 = ""
 TisErimouPolitis.text2 = ""
 
-// For one named ascetic man. Insert name and title with comma
-TaisTonDakryonSou.name = ""
+// For one named ascetic man. Insert name with comma
+TaisTonDakryonSou.name = "With the streams of your tears."
 TaisTonDakryonSou.mode = misc_en_UK_lash.Mode8
 TaisTonDakryonSou.melody = ""
-TaisTonDakryonSou.text1 = ""
-TaisTonDakryonSou.text2 = ""
+TaisTonDakryonSou.text1 = "With the streams of your tears you cultivated the barren desert, and with your deep groans you made your toils bring forth fruit a hundredfold, and you have become a beacon, shining in all the world by your wonders: Venerable Father "
+TaisTonDakryonSou.text2 = "intercede with Christ God that our souls may be saved."
 
 // For one named ascetic man. Insert name with comma
 EnSoiPaterAkrivos.name = ""
@@ -93,8 +93,8 @@ EnSoiMiterAkrivos.text2 = ""
 KanonaPisteos.name = ""
 KanonaPisteos.mode = misc_en_UK_lash.Mode4
 KanonaPisteos.melody = ""
-KanonaPisteos.text1 = ""
-KanonaPisteos.text2 = ""
+KanonaPisteos.text1 = "The truth of your actions proclaimed you to your flock as a rule of faith, an image of meekness and a teacher of self-control; and you gained through humility the things on high, through poverty riches, "
+KanonaPisteos.text2 = "Intercede with Christ our God that our souls may be saved."
 
 // For one named Hierarch Confessor or Teacher
 OrthodoxiasOdigeH.name = ""

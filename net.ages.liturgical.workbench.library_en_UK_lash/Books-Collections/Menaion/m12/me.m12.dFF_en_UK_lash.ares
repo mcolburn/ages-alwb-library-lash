@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m12.dFF_en_UK_lash
 
 meDate.text = ""
-meCommemoration.text = "SUNDAY OF THE HOLY FOREFATHERS"
+meCommemoration.text = "Sunday of the Holy Forefathers"
 meShortCommemoration1.text = ""
 meInsert1 = "" //for use in petitions and dismissal
 meInsert2 = "" //for use in petitions and dismissal
@@ -46,7 +46,7 @@ meVE.AposTheotokion.text = ""
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = ""
+meVE.Apolytikion1.text = "You justified the Forefathers by faith, through them betrothing in advance the Church from the nations. The Saints will exult in glory, for from their seed there is a glorious fruit, she who bore you without seed. At their intercessions, Christ God, save our souls."
 
 meMA.C1Acrostic.text = ""
 
@@ -140,7 +140,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Hypakoe.mode = misc_en_UK_lash.Mode2
 meMA.Hypakoe.melody = ""
-meMA.Hypakoe.text = ""
+meMA.Hypakoe.text = "The fire was changed to dew for the Children; the lament was altered to joy for the Women; for an Angel was minister in both marvels: changing the furnace to repose for the former, to the latter making known the Resurrection on the third day. Author of our life, Lord glory to you!"
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
 meMA.Ode3Kathisma1.melody = ""
@@ -268,7 +268,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.text = ""
+meMA.Kontakion1.text = "Because you did not honour an image formed by human hand, but were armed with the breastplate of uncreated being, you were glorified, thrice-blest Youths in the arena of the fire; but standing in the midst of the immaterial flame you called on God: Come swiftly in your pity, hasten in your mercy to come to our aid, for you can accomplish whatever you will."
 
 meMA.Oikos1.text = ""
 
