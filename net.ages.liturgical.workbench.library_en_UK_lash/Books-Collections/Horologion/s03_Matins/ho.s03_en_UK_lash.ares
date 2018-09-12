@@ -223,6 +223,7 @@ R21 = ""
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
 hoMA.DoxologyGreat.title = "THE GREAT DOXOLOGY"
+hoMA.MM.DoxologyGreat.text = ""
 hoMA.DoxologyGreatIntro.text = "Glory to you who have shown us the light."
 hoMA.DoxologyVerse01.text = "Glory to God in the highest, and on earth peace; good will among men." //le.go.os_en_UK_lash.leosMA.GreatDoxology.v01.text
 hoMA.DoxologyVerse02.text = "We praise you, * we bless you, * we worship you, * we glorify you, * we give you thanks * for your great glory."
@@ -250,6 +251,7 @@ hoMA.DoxologyVerse17.text = ""
 hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy on us."
 R22 = ""
+hoMA.MM.DoxologyGreatAsmatic.text = ""
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ""
