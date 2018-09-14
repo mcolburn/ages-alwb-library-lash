@@ -42,7 +42,7 @@ hoLI.TrisagiosHymn2.text = "Holy Strong."
 hoLI.TrisagiosHymn34.text = "Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn3.text = "Holy Immortal,"
 hoLI.TrisagiosHymn4.text = "have mercy on us."
-hoLI.MM.TrisagiosHymnBimatos.text = ""
+hoLI.MM.TrisagiosHymnBimatos.text = properties_en_UK_lash.media.key
 hoLI.TrisagiosHymnDynamis.text = "Dynamis. Holy God, Holy Strong, Holy Immortal, have mercy on us."
  
 hoLI.OsoiEisChriston.title = ""
@@ -51,7 +51,7 @@ hoLI.OsoiEisChriston1.text = ""
 hoLI.OsoiEisChriston2.text = ""
 hoLI.OsoiEisChriston3.text = ""
 hoLI.OsoiEisChriston4.text = ""
-hoLI.MM.OsoiEisChristonBimatos.text = ""
+hoLI.MM.OsoiEisChristonBimatos.text = properties_en_UK_lash.media.key
 hoLI.OsoiEisChristonDynamis.text = ""
 
 hoLI.TonStavronSou.title = ""
@@ -60,7 +60,7 @@ hoLI.TonStavronSou1.text = ""
 hoLI.TonStavronSou2.text = ""
 hoLI.TonStavronSou3.text = ""
 hoLI.TonStavronSou4.text = ""
-hoLI.MM.TonStavronSouBimatos.text = ""
+hoLI.MM.TonStavronSouBimatos.text = properties_en_UK_lash.media.key
 hoLI.TonStavronSouDynamis.text = ""
 
 hoLI.GospelAlleluia.title = titles_en_UK_lash.Allilouia
