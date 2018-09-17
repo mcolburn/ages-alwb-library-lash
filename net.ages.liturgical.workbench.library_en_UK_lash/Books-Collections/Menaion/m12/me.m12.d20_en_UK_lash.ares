@@ -48,7 +48,7 @@ meVE.SticGlory.text = "Godbearer Ignatios, you enfolded Christ your love in your
 
 meVE.SticBoth.mode = misc_en_UK_lash.Mode8
 meVE.SticBoth.melody = ""
-meVE.SticBoth.text = "Bethlehem, receive the Mother City of God; for the Light that does not set has come to be born in you. Marvel in heaven, O Angels; humans, give glory on earth; Magi from Persia, bring out your thrice-famous gift; Shepherds abiding in the fields sing the thrice-holy hymn; let everything that has breath praise the Maker of all things." //Bethlehem welcome the Mother City of God[8]; for she has come to give birth in you to the light that never sets.[9] You Angels, marvel in heaven; humans give glory on earth; Magi from Persia bring your triply glorious gift; Shepherds abiding in the fields[10] sing the thrice-holy hymn. Let everything that has breath praise the Maker of all.
+meVE.SticBoth.text = me.m11.d30_en_UK_lash.meMA.LaudsBoth.text
 
 meVE.Aposticha1.poet = poets_en_UK_lash.Kyprianou
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
