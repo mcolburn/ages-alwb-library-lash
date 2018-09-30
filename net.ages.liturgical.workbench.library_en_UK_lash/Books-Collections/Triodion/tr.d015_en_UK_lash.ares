@@ -37,7 +37,7 @@ trVE.SticGlory.text = "When the thrones are set up and the books are opened, and
 
 trVE.LityGlory.mode = misc_en_UK_lash.Mode7
 trVE.LityGlory.melody = ""
-trVE.LityGlory.text = ""
+trVE.LityBoth.text = oc.m7.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 trVE.LityBoth.mode = misc_en_UK_lash.Mode7
 trVE.LityBoth.melody = ""
