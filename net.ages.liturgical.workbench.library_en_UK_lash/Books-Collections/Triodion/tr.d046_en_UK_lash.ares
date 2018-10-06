@@ -50,7 +50,7 @@ trVE.AposMartyric.text = ""
 
 trVE.AposGlory.mode = misc_en_UK_lash.Mode5
 trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
-trVE.AposGlory.text = ""
+trVE.AposGlory.text = tr.d043_en_UK_lash.trVE.LityGlory.text
 
 trMA.Kathisma21.mode = misc_en_UK_lash.Mode6
 trMA.Kathisma21.melody = he.a.m6_en_UK_lash.ElpisTouKosmouAgathi.notmetered
