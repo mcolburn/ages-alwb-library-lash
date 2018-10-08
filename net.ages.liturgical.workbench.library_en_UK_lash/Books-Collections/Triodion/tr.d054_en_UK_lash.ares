@@ -1592,7 +1592,7 @@ trGC.Ode8C2T.text = ""
 trGC.Ode8C2H.ode = misc_en_UK_lash.Ode8
 trGC.Ode8C2H.mode = misc_en_UK_lash.Mode6
 trGC.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-trGC.Ode8C2H.text = he.h.m6_en_UK_lash.OnStratiaiOuranon.name
+trGC.Ode8C2H.text = he.h.m6_en_UK_lash.OnStratiaiOuranon.text
 
 // Ode 9 Triodion
 
@@ -1819,7 +1819,7 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_UK_lash.Mode8
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.text = oc.m8.d5_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode8
 trMA.AposTheotokion.melody = ""
