@@ -74,12 +74,12 @@ meVE.SticTheotokion.text = oc.m2.d1_en_UK_lash.ocVE.SticTheotokion.text
 meVE.Lity1.poet = poets_en_UK_lash.Germanou
 meVE.Lity1.mode = misc_en_UK_lash.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = "Rivers of theology poured from your honoured mouth, O Apostle, watered from which the Church of God worships with right belief the consubstantial Trinity; whom, O Theologian John, now ask that our souls may be saved."
+meVE.Lity1.text = me.m05.d08_en_UK_lash.meVE.Lity1.text
 
 meVE.Lity2.poet = poets_en_UK_lash.AndreouPyrou
 meVE.Lity2.mode = misc_en_UK_lash.Mode1
 meVE.Lity2.melody = ""
-meVE.Lity2.text = "The plant of purity, the myrrh of sweet fragrance has dawned for us again at this present Feast. Cry out to him, 'You leant on the Master's breast and rained down the word on the world, Apostle John, who guarded the Virgin as the apple of your eye. Ask of Christ for us his great mercy'."
+meVE.Lity2.text = me.m05.d08_en_UK_lash.meVE.Lity2.text
 
 meVE.Lity3.mode = misc_en_UK_lash.Mode1
 meVE.Lity3.melody = ""
@@ -87,17 +87,17 @@ meVE.Lity3.text = "Disciple of the Saviour, Virgin and Theologian, to you, as vi
 
 meVE.Lity4.mode = misc_en_UK_lash.Mode1
 meVE.Lity4.melody = ""
-meVE.Lity4.text = "As eye-witness of ineffable mysteries you cried out and loudly proclaimed that the eternal Word was in the beginning with God and that he was God, O Apostle John, bosom and true friend of Christ, sweetness of the Trinity, unshakeable buttress of Ephesus and Patmos and our help. Intercede, all-blessed Theologian, that  the people that ever faithfully celebrates your memory may be delivered from impious foes, both physical and spiritual."
+meVE.Lity4.text = me.m05.d08_en_UK_lash.meVE.Lity3.text
 
 meVE.Lity5.poet = poets_en_UK_lash.Theofanous
 meVE.Lity5.mode = misc_en_UK_lash.Mode2
 meVE.Lity5.melody = ""
-meVE.Lity5.text = "The summit of the Apostles, the trumpet of theology, the spiritual general, who made the whole inhabited world subject to God, come believers, let us call him blessed, revered John, translated from earth, yet not withdrawn from earth, but living and abiding the fearful second coming of the Master. O mystic bosom friend of Christ, ask that we, who celebrate your memory with love, may meet it uncondemned."
+meVE.Lity5.text = me.m05.d08_en_UK_lash.meVE.Lity4.text
 
 meVE.LityGlory.poet = poets_en_UK_lash.Vyzantiou
 meVE.LityGlory.mode = misc_en_UK_lash.Mode4
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = "As you leant on the breast of the Teacher Christ at the Lord's supper, beloved Disciple, you learnt there ineffable things, and you thundered to all the heavenly utterance: In the beginning was the Word, and the Word was with God and the Word was God; the true light that enlightens every one who comes into the world, Christ God, and the Saviour of our souls."
+meVE.LityGlory.text = me.m05.d08_en_UK_lash.meVE.LityGlory.text
 
 meVE.LityBoth.mode = misc_en_UK_lash.Mode4
 meVE.LityBoth.melody = ""
