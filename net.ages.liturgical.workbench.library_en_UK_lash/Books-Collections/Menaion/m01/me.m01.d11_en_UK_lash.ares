@@ -17,8 +17,8 @@ meDismissal = dismissals_en_UK_lash.dis00.epiphany
 
 //Θεοφάνους Ὁμολογητοῦ
 meVE.Stichera01.mode = misc_en_UK_lash.Mode5
-meVE.Stichera01.melody = he.a.m5_en_UK_lash.OsiePater.notmetered
-meVE.Stichera01.text = "Venerable Father, God-bearer Theodosios, valiantly you struggled in this temporary life, by hymns and fasts and vigils becoming a model for your disciples, while now you dance with the Bodiless Powers, as you ceaselessly glorify Christ, God from God, Word and Redeemer, who bowed down his to the Forerunner and sanctified the nature of the waters. Entreat him, implore him, Venerable Father, that the Church may be given harmony, peace and great mercy."
+meVE.Stichera01.melody = misc_en_UK_lash.AutomelonNotMetered
+meVE.Stichera01.text = he.a.m5_en_UK_lash.OsiePater.text
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode5
 meVE.Stichera02.melody = he.a.m5_en_UK_lash.OsiePater.notmetered
@@ -69,7 +69,7 @@ meVE.GeneralApolytikion1.name = "" // name of saint for General Apolytikia
 
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
-meMA.Kathisma11.text = ""
+meMA.Kathisma11.text = me.m01.d08_en_UK_lash.meMA.Kathisma11.text
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
