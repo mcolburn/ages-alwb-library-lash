@@ -665,11 +665,11 @@ meMA.Ode9H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode9H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 
-meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.text = "Glorious Virgin Martyr, splendour of champions, all-wise Anastasia, do not cease to implore the one who is now coming to be born of a Virgin Maiden, the pure Mother of God, in a cave and a manger, to grant release from sins to all those who celebrate your all-holy memory and honour you with love."
 
-meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.text = "Your light-bearing memorial, Martyr Anastasia, proclaims in advance Christ’s Nativity in Bethlehem, as it summons Magi from the Persia with gifts; the Shepherds with Angels to sing in praise; for you offered yourself like gold, incense and myrrh to your Master, when you struggled in the contest, O wise in God."
 
