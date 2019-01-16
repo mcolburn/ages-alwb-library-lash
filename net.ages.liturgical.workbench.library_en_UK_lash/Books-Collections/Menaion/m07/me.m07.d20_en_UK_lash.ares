@@ -109,19 +109,6 @@ meMA.Kathisma2T.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 meMA.Kathisma2T.text = oc.m1.d1_en_UK_lash.ocMA.Kathisma23.text
 
 meR01 = ""
-meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key 
-
-meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelProphet.text
-
-meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.AposGlory.text
 
 meMA.C1Poet = poets_en_UK_lash.IoannouMonachou
 meMA.C1Acrostic.text = "with the following acrostic, not including the Theotokia: Dancing I praise the wonders of Elias."
@@ -510,3 +497,73 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 meMegalynarion.text = ""
+
+//supplemental hymns
+
+alt1.meVE.Stichera04.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meVE.Stichera04.mode = misc_en_UK_lash.Mode1
+alt1.meVE.Stichera04.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+alt1.meVE.Stichera04.text = ""
+
+alt1.meVE.Stichera05.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meVE.Stichera05.mode = misc_en_UK_lash.Mode2
+alt1.meVE.Stichera05.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera05.text = ""
+
+alt1.meVE.Stichera06.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meVE.Stichera06.mode = misc_en_UK_lash.Mode2
+alt1.meVE.Stichera06.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera06.text = ""
+
+alt1.meVE.Stichera07.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meVE.Stichera07.mode = misc_en_UK_lash.Mode2
+alt1.meVE.Stichera07.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera07.text = ""
+
+alt1.meVE.Stichera08.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meVE.Stichera08.mode = misc_en_UK_lash.Mode2
+alt1.meVE.Stichera08.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+alt1.meVE.Stichera08.text = ""
+
+alt1.meMA.Kathisma22.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meMA.Kathisma22.mode = misc_en_UK_lash.Mode4
+alt1.meMA.Kathisma22.melody = he.a.m4_en_UK_lash.EpefanisSimeron.name
+alt1.meMA.Kathisma22.text = ""
+
+alt1.meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
+alt1.meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.EpefanisSimeron.name
+alt1.meMA.Kathisma2T.text = //me.m06.d14_en_UK_lash.meMA.Ode3KathismaT.text
+
+alt1.meMA.Kathisma31.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+alt1.meMA.Kathisma31.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+alt1.meMA.Kathisma31.text = ""
+
+alt1.meMA.Kathisma32.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meMA.Kathisma32.mode = misc_en_UK_lash.Mode3
+alt1.meMA.Kathisma32.melody = he.a.m3_en_UK_lash.TinOraiotita.name
+alt1.meMA.Kathisma32.text = ""
+
+alt1.meMA.Kathisma3T.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meMA.Kathisma3T.mode = misc_en_UK_lash.Mode3
+alt1.meMA.Kathisma3T.melody = he.a.m3_en_UK_lash.TinOraiotita.name
+alt1.meMA.Kathisma3T.text = ""
+
+//Not in Menaion, optional Matins Gospel
+alt1.meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
+
+alt1.meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+alt1.meMA.PostGospelGlory.melody = ""
+alt1.meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelProphet.text
+
+alt1.meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+alt1.meMA.PostGospelBoth.melody = ""
+alt1.meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+alt1.meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+alt1.meMA.PostGospelIdiomelon.melody = ""
+alt1.meMA.PostGospelIdiomelon.text = ""
+
+alt1.meMegalynarion.poet = poets_en_UK_lash.NikodimouAgioreitou
+alt1.meMegalynarion.text = ""
