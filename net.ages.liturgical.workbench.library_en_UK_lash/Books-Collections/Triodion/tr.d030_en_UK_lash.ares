@@ -58,7 +58,7 @@ trMA.C1Poet = poets_en_UK_lash.Iosif
 
 trMA.C2Poet = poets_en_UK_lash.Theodorou
 
-trMA.C1.title = ""
+trMA.C1.title = titles_en_UK_lash.KanonATouTriodiou
 trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -81,7 +81,7 @@ trMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
 trMA.Ode1C1T.melody = he.h.m4_en_UK_lash.TristatasKrataious.name
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = ""
+trMA.C2.title = titles_en_UK_lash.KanonBTouTriodiou
 trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_UK_lash.Ode1
@@ -220,13 +220,13 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_UK_lash.Mode5
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.text = oc.m5.d2_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.text = oc.m5.d7_en_UK_lash.ocVE.AposTheotokion.text
 
-trTE.Troparion.mode = misc_en_UK_lash.Mode1
+trTE.Troparion.mode = misc_en_UK_lash.Mode5
 trTE.Troparion.melody = ""
 trTE.Troparion.text = "You, who alone fashioned our hearts, remember that we are dust; * do not condemn us to the lowest parts of the earth, O Sinless One."
 

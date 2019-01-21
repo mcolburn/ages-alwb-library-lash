@@ -32,11 +32,11 @@ trVE.AposIdiomelon1.text = ""
 
 trVE.AposMartyric.mode = misc_en_UK_lash.Mode3
 trVE.AposMartyric.melody = ""
-trVE.AposMartyric.text = ""
+trVE.AposMartyric.text = oc.m3.d4_en_UK_lash.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = misc_en_UK_lash.Mode3
-trVE.AposTheotokion.melody = he.a.m3_en_UK_lash.MegaliTouStavrouSou.notmetered
-trVE.AposTheotokion.text = ""
+trVE.AposTheotokion.melody = he.a.m3_en_UK_lash.MegaliTouStavrouSou.name
+trVE.AposTheotokion.text = oc.m3.d6_en_UK_lash.ocVE.SticTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_lash.Mode1
 trMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
@@ -214,11 +214,11 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_UK_lash.Mode7
 trMA.AposMartyric.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.notmetered
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.text = oc.m7.d4_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode7
 trMA.AposTheotokion.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.notmetered
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.text = oc.m7.d4_en_UK_lash.ocVE.SticTheotokion.text
 
 trTE.Troparion.mode = misc_en_UK_lash.Mode6
 trTE.Troparion.melody = ""
