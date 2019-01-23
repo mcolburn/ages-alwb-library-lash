@@ -14,15 +14,15 @@ trHO.note2 = ""
 
 trVE.AposIdiomelon1.mode = misc_en_UK_lash.Mode2
 trVE.AposIdiomelon1.melody = misc_en_UK_lash.Idiomelon
-trVE.AposIdiomelon1.text = ""
+trVE.AposIdiomelon1.text = "The Cross of the Lord for those who worship it unswervingly is a bridle on every pleasure and a law of self-mastery. For as they gaze unceasingly on the One who was nailed to it, they crucify the flesh with its passions and desires. As we too hurry from them through pure fasting, let us become his own, who in love for humankind became our own by the passion and gave us a share in the nature of his own dispassion, he who has great mercy."
 
 trVE.AposMartyric.mode = misc_en_UK_lash.Mode2
 trVE.AposMartyric.melody = ""
-trVE.AposMartyric.text = ""
+trVE.AposMartyric.text = oc.m2.d2_en_UK_lash.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = misc_en_UK_lash.Mode2
 trVE.AposTheotokion.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
-trVE.AposTheotokion.text = ""
+trVE.AposTheotokion.text = oc.m2.d4_en_UK_lash.ocVE.SticTheotokion.text
 
 trMA.Kathisma21.mode = misc_en_UK_lash.Mode7
 trMA.Kathisma21.melody = he.a.m7_en_UK_lash.OsEchousaToSympathes.notmetered
@@ -421,11 +421,11 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = misc_en_UK_lash.Mode6
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.text = oc.m6.d2_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode6
-trMA.AposTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.name
+trMA.AposTheotokion.text = oc.m6.d4_en_UK_lash.ocMA.AposTheotokion.text
 
 trTE.Troparion.mode = misc_en_UK_lash.Mode6
 trTE.Troparion.melody = ""
