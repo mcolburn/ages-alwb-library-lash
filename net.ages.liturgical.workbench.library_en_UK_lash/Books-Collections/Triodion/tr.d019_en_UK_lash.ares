@@ -137,10 +137,10 @@ trMA.Ode8C23.mode = misc_en_UK_lash.Mode2
 trMA.Ode8C23.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
 trMA.Ode8C23.text = ""
 
-trMA.Ode8C2Tr.ode = misc_en_UK_lash.Ode8
-trMA.Ode8C2Tr.mode = misc_en_UK_lash.Mode2
-trMA.Ode8C2Tr.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
-trMA.Ode8C2Tr.text = ""
+trMA.Ode8C24.ode = misc_en_UK_lash.Ode8
+trMA.Ode8C24.mode = misc_en_UK_lash.Mode2
+trMA.Ode8C24.melody = he.h.m2_en_UK_lash.EfrixePaidonEvagon.name
+trMA.Ode8C24.text = ""
 
 trMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C2T.mode = misc_en_UK_lash.Mode2
