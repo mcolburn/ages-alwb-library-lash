@@ -66,7 +66,7 @@ ocMA.Kathisma21.text = "Let us all keep vigil, and let us all go to meet Christ 
 
 ocMA.Kathisma22.mode = misc_en_UK_lash.Mode5
 ocMA.Kathisma22.melody = ""
-ocMA.Kathisma22.text = "Let us all keep vigil, and let us all go to meet Christ with much oil and shining lamps, that we may be worthy to enter the bridal chamber; for the one who is found outside the door cries out to God in vain: Have mercy on me!"
+ocMA.Kathisma22.text = "As I lie on a bed of many sins I despoiled of my hope of salvation; for the sleep of my sloth invites punishment for my soul; but you, O God, born of a Virgin, rouse me to sung your praise, that I may glorify you."
 
 ocMA.Kathisma23.mode = misc_en_UK_lash.Mode5
 ocMA.Kathisma23.melody = ""
@@ -515,19 +515,19 @@ octrMA.Triadic3.text = ""
 
 octrMA.Kathisma11.mode = misc_en_UK_lash.Mode5
 octrMA.Kathisma11.melody = ""
-octrMA.Kathisma11.text = ""
+octrMA.Kathisma11.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma12.mode = misc_en_UK_lash.Mode5
 octrMA.Kathisma12.melody = ""
-octrMA.Kathisma12.text = ""
+octrMA.Kathisma12.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma1T.mode = misc_en_UK_lash.Mode5
 octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.text = ocVE.ApolTheotokionVM.text
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode5
-octrMA.Ode7Martyricon.melody = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.melody = misc_en_UK_lash.Automelon
+octrMA.Ode7Martyricon.text = oc.m5.d5_en_UK_lash.ocMA.Kathisma32.text
 
 octrMA.Photagogic.mode = misc_en_UK_lash.Mode5
 octrMA.Photagogic.text = ""

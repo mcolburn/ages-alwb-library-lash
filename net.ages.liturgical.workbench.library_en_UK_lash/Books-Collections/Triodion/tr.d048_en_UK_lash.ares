@@ -458,7 +458,7 @@ trMA.AposMartyric.text = ""
 
 trMA.AposGlory.mode = misc_en_UK_lash.Mode8
 trMA.AposGlory.melody = misc_en_UK_lash.Idiomelon
-trMA.AposGlory.text = ""
+trMA.AposGlory.text = tr.d043_en_UK_lash.trMA.AdditionalIdiomelon2.text
 
 trTE.Troparion.mode = misc_en_UK_lash.Mode6
 trTE.Troparion.melody = ""
