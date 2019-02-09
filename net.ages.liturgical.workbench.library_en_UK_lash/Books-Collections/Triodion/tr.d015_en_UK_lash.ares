@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = tr.d015_en_UK_lash
 
-trCommemoration.text = "" //full title of day
-trShortCommemoration1.text = ""
+trCommemoration.text = "Carnival Sunday" //full title of day
+trShortCommemoration1.text = "Carnival Sunday"
 trInsert1 = "" //for use in petitions and dismissal
 trInsert2 = "" //for use in petitions and dismissal
 trNote.text = ""
@@ -37,11 +37,11 @@ trVE.SticGlory.text = "When the thrones are set up and the books are opened, and
 
 trVE.LityGlory.mode = misc_en_UK_lash.Mode7
 trVE.LityGlory.melody = ""
-trVE.LityBoth.text = oc.m7.d1_en_UK_lash.ocVE.AposTheotokion.text
+trVE.LityGlory.text = ""
 
 trVE.LityBoth.mode = misc_en_UK_lash.Mode7
 trVE.LityBoth.melody = ""
-trVE.LityBoth.text = ""
+trVE.LityBoth.text = oc.m7.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 trVE.AposGlory.mode = misc_en_UK_lash.Mode8
 trVE.AposGlory.melody = ""
@@ -295,7 +295,7 @@ trMA.Ode6C1T.text = ""
 
 trMA.Kontakion1.mode = misc_en_UK_lash.Mode1
 trMA.Kontakion1.melody = ""
-trMA.Kontakion1.text = ""
+trMA.Kontakion1.text = "When you come upon the earth, O God, in glory, and the whole universe trembles, while a river of fire flows before the seat of judgement, and books are opened and all secrets are disclosed, then deliver me from the unquenchable fire, and count me worthy to stand at your right hand, O Judge most just."
 
 trMA.Oikos1.text = ""
 

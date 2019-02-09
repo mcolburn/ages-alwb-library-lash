@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = tr.d029_en_UK_lash
 
-trCommemoration.text = "" //full title of day
-trShortCommemoration1.text = ""
+trCommemoration.text = "Sunday of Orthodoxy" //full title of day
+trShortCommemoration1.text = "Sunday of Orthodoxy"
 trInsert1 = "" //for use in petitions and dismissal
 trInsert2 = "" //for use in petitionsd dismissal
 trNote.text = ""
@@ -742,7 +742,7 @@ trCA.Troparion2.melody = ""
 trCA.Troparion2.text = ""
 
 tr.IconsProcession.title = ""
-tr.Synodikon.title = ""
+tr.Synodikon.title = "Synodikon of Orthdooxy"
 tr.Synodikon1.text = ""
 tr.Synodikon2.text = ""
 tr.Synodikon3.text = ""

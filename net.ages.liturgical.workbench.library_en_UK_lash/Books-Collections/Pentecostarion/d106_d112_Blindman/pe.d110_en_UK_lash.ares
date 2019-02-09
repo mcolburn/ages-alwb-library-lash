@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d110_en_UK_lash
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = ""
+peCommemoration.text = "The Assumption of our Lord and God and Saviour Jesus Christ" //full title of day
+peShortCommemoration1.text = "Thursday  of the Assumption of Christ"
 peInsert1 = "" //for use in petitions and dismissal
 peInsert2 = "" //for use in petitions and dismissal
 peNote.text = ""
@@ -628,7 +628,7 @@ peMA.LaudsGlory.mode = misc_en_UK_lash.Mode2
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 peMA.LaudsGlory.text = peVE.Aposticha1.text
 
-peLI.Antiphon2.text = ""
+peLI.Antiphon2.text = "Son of God, taken up from us in glory into heaven,"
 
 peLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 

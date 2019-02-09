@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = pe.d127_en_UK_lash
 
-peCommemoration.text = "" // full title of day
-peShortCommemoration1.text = ""
-peInsert1 = "" // for use in petitions and dismissal
-peInsert2 = "" // for use in petitions and dismissal
+peCommemoration.text = "Sunday of All Saints" // full title of day
+peShortCommemoration1.text = "Sunday of All Saints"
+peInsert1 = "and all Saints," // for use in petitions and dismissal
+peInsert2 = "whose memory we celebrate," // for use in petitions and dismissal
 peNote.text = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
@@ -221,7 +221,7 @@ peMA.Ode6C1T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 peMA.Ode6C1T.text = "We all know you as most truly Mother of God, through whom women's nature was given strength, O all-blameless, and so competed on behalf of Christ and became filled devoutly with every virtue."
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode8
-peMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+peMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
 peMA.Kontakion1.text = he.a.m8_en_UK_lash.OsAparchas.text
 
 peMA.Oikos1.text = "Those who bore witness in all the earth and made their home in heaven, those who imitated the sufferings of Christ and who take away our passions, are gathered here today, revealing the Church of the firstborn, who bears the type of the one above, and which cries out to Christ: You are my God; keep me through the Mother of God, O most merciful."

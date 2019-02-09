@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d078_en_UK_lash
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = ""
+peCommemoration.text = "Sunday of Antipascha or the Handling by the Holy Apostle Thomas" //full title of day
+peShortCommemoration1.text = "Sunday of Antipascha (of Thomas)"
 peInsert1 = "" //for use in petitions and dismissal
 peInsert2 = "" //for use in petitions and dismissal
 peNote.text = ""

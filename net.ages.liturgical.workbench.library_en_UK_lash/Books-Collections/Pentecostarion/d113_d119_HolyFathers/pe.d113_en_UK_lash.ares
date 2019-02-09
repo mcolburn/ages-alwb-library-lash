@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = pe.d113_en_UK_lash
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = ""
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
+peCommemoration.text = "Sunday of the 318 God-bearing Fathers of Nicaea" //full title of day
+peShortCommemoration1.text = "Sunday of the 318 God-bearing Fathers of Nicaea"
+peInsert1 = "and of the 318 God-bearing Fathers who met at the First Ecumenical Council at Nicaea," //for use in petitions and dismissal
+peInsert2 = "whose memory we celebrate," //for use in petitions and dismissal
 peNote.text = ""
 peHO.daytitle = ""
 peHO.commemorations = ""

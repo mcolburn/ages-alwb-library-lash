@@ -22,12 +22,12 @@ pePA.Key0102.mode = misc_en_UK_lash.Mode6
 pePA.Key0102.text = oc.m6.d1_en_UK_lash.ocVE.Aposticha1.text
 
 pePA.ChristIsRisen.mode = misc_en_UK_lash.Mode5
-pePA.ChristIsRisen.text = ""
-pePA.ChristIsRisen1a.text = ""
-pePA.ChristIsRisen1b.text = ""
-pePA.ChristIsRisen2a.text = ""
-pePA.ChristIsRisen2b.text = ""
-pePA.ChristIsRisenShort.text = "" // for media
+pePA.ChristIsRisen.text = "Christ has risen from the dead, by death he has trampled on death, and to those in the graves given life."
+pePA.ChristIsRisen1a.text = "Christ has risen from the dead, by death he has trampled on death, and to those in the graves..."
+pePA.ChristIsRisen1b.text = "...given life."
+pePA.ChristIsRisen2a.text = "Christ has risen from the dead, by death he has trampled on death..."
+pePA.ChristIsRisen2b.text = "...and to those in the graves given life."
+pePA.ChristIsRisenShort.text = "Christ has risen from the dead, by death he has trampled on death, and to those in the graves given life." // for media
 
 //pePA.PaschaVerse1.text = ""
 
@@ -96,7 +96,7 @@ pePA.Ode3T2.melody = he.h.m1_en_UK_lash.DeftePomaPiomen.name
 pePA.Ode3T2.text = "Seeing God, whom your conceived in the flesh, rising from the dead as he said, dance pure Maiden, and magnify him as God, O Immaculate."
 
 pePA.Hypakoe.mode = misc_en_UK_lash.Mode4
-pePA.Hypakoe.text = ""
+pePA.Hypakoe.text = "When those who were with Mary came, anticipating the dawn, and found the stone rolled away from the sepulchre, they heard from the Angel, ‘Why do you seek among the dead, as though he were mortal, the One who exists in everlasting light. See the grave clothes. Run and proclaim to the world that the Lord has been raised, and has put death to death; for he is the Son of God, who saves the human race."
 
 pePA.Ode4H.ode = misc_en_UK_lash.Ode4
 pePA.Ode4H.mode = misc_en_UK_lash.Mode1
@@ -180,7 +180,7 @@ pePA.Ode6T2.text = "He who went down into your womb, O pure Maiden, dwelt there 
 
 pePA.Kontakion.mode = misc_en_UK_lash.Mode8
 pePA.Kontakion.melody = ""
-pePA.Kontakion.text = ""
+pePA.Kontakion.text = "Though you descended into the tomb, O Immortal, yet you destroyed the power of Hades; and you arose as victor, O Christ God, calling to the Myrrh-bearing women: 'Rejoice!' and giving peace to your Apostles, O you who grant resurrection to the fallen."
 
 pePA.Oikos.text = ""
 
@@ -266,7 +266,7 @@ pePA.Ode9MTr.text = me.m01.d06_en_UK_lash.meMA.Ode9C2MTr.text
  
 pePA.Ode9MTh.text = ""
  
-pePA.Ode9MKa.text = ""
+pePA.Ode9MKa.text = "The Angel cried to her that is full of grace: Pure Virgin, rejoice! And again I say: Rejoice! For your Son has risen from the tomb on the third day."
 
 pePA.Ode9H.ode = misc_en_UK_lash.Ode9
 pePA.Ode9H.mode = misc_en_UK_lash.Mode1

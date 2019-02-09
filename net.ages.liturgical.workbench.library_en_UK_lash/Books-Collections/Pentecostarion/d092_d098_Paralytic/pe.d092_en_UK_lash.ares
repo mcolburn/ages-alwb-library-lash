@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = pe.d092_en_UK_lash
 
-peCommemoration.text = "" //full title of day
-peShortCommemoration1.text = ""
+peCommemoration.text = "Sunday of the Paralysed Man" //full title of day
+peShortCommemoration1.text = "Sunday of the Paralysed Man"
 peInsert1 = "" //for use in petitions and dismissal
 peInsert2 = "" //for use in petitions and dismissal
 peNote.text = ""

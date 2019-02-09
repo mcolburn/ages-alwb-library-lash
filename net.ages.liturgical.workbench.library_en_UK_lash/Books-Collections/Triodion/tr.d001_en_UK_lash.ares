@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = tr.d001_en_UK_lash 
 
-trCommemoration.text = ""
-trShortCommemoration1.text = ""
+trCommemoration.text = "Sunday of the Tax Collector and the Pharisee"
+trShortCommemoration1.text = "Sunday of the Tax Collector and the Pharisee"
 trInsert1 = "" //for use in petitions and dismissal
 trInsert2 = "" //for use in petitions and dismissal
 trNote.text = ""
@@ -215,7 +215,7 @@ trMA.Ode6C1T.text = ""
 
 trMA.Kontakion0.mode = misc_en_UK_lash.Mode4 
 trMA.Kontakion0.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
-trMA.Kontakion0.text = ""
+trMA.Kontakion0.text = "Let us flee the proud speech of the Pharisee; and let us learn the humility of the Tax-collector, as with groans we cry to the Saviour: Be merciful to us, for you alone are ready to forgive."
 
 trMA.Kontakion1.mode = misc_en_UK_lash.Mode3
 trMA.Kontakion1.melody = he.a.m3_en_UK_lash.IParthenosSimeron.notmetered

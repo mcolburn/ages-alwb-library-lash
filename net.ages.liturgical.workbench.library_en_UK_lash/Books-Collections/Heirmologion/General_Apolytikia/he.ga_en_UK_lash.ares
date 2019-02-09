@@ -13,15 +13,15 @@ TouProfitouSou.text2 = "O Lord, through him we beseech you: save our souls"
 ApostoleAgie.name = ""
 ApostoleAgie.mode = misc_en_UK_lash.Mode3
 ApostoleAgie.melody = ""
-ApostoleAgie.text1 = ""
-ApostoleAgie.text1a = ""
-ApostoleAgie.text2 = ""
+ApostoleAgie.text1 = "O Holy Apostle "
+ApostoleAgie.text1a = "and Evangelist"
+ApostoleAgie.text2 = "intercede with the merciful God to grant our souls forgiveness of sins."
 
 // For several unnamed Apostles
-ApostoloiAgioi.name = ""
+ApostoloiAgioi.name = "O holy Apostles."
 ApostoloiAgioi.mode = misc_en_UK_lash.Mode3
 ApostoloiAgioi.melody = ""
-ApostoloiAgioi.text = ""
+ApostoloiAgioi.text = "O holy Apostles, intercede with the merciful God to grant our souls forgiveness of sins."
 
 // For hieromartyr
 ChristotitaEkdidachtheis.name = ""
@@ -43,10 +43,10 @@ OiMartyresSouKyrie.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
 OiMartyresSouKyrie.text = "Your Martyrs, O Lord, by their struggle obtained the crowns of incorruption from you, our God; for with your might they destroyed tyrants and vanquished the feeble insolence of the demons; at their intercessions, O Christ God, save our souls."
 
 // For one unnamed woman Martyr
-IAmnasSou.name = ""
+IAmnasSou.name = "O Jesu, your lamb."
 IAmnasSou.mode = misc_en_UK_lash.Mode4
 IAmnasSou.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
-IAmnasSou.text = ""
+IAmnasSou.text = "O Jesu, your lamb cries aloud: O my Bridegroom, I long for you; and seeking you I struggle, and I am crucified and buried with you in your baptism; and I suffer for your sake, that I may reign with you; and I die for you, that I may live in you; but as a spotless victim now accept one who with longing is slain for you. Through her prayers, as you are merciful, save our souls!"
 
 // For a group of unnamed Martyrs
 TasAlgidonas.name = ""
@@ -72,7 +72,7 @@ TisErimouPolitis.text2 = ""
 TaisTonDakryonSou.name = "With the streams of your tears."
 TaisTonDakryonSou.mode = misc_en_UK_lash.Mode8
 TaisTonDakryonSou.melody = ""
-TaisTonDakryonSou.text1 = "With the streams of your tears you cultivated the barren desert, and with your deep groans you made your toils bring forth fruit a hundredfold, and you have become a beacon, shining in all the world by your wonders: Venerable Father "
+TaisTonDakryonSou.text1 = "With the streams of your tears you cultivated the barren desert, and with deep sighings from your hear you made your toils bring forth fruit a hundredfold, and you became a beacon, shining in all the world by your wonders, our venerable Father "
 TaisTonDakryonSou.text2 = "intercede with Christ God that our souls may be saved."
 
 // For one named ascetic man. Insert name with comma
@@ -86,8 +86,8 @@ EnSoiPaterAkrivos.text2 = ""
 EnSoiMiterAkrivos.name = ""
 EnSoiMiterAkrivos.mode = misc_en_UK_lash.Mode8
 EnSoiMiterAkrivos.melody = ""
-EnSoiMiterAkrivos.text1 = ""
-EnSoiMiterAkrivos.text2 = ""
+EnSoiMiterAkrivos.text1 = "In you, Mother, was preserved unimpaired that which is according to God's image; for you took up the Cross and followed Christ, and by your deeds you taught us to despise the flesh, for it passes away, but to care for the soul, which is a thing immortal. And therefore your spirit, holy"
+EnSoiMiterAkrivos.text2 = "rejoices with the Angels."
 
 // For one named Hierarch. Insert "" and title/name etc with semicolon
 KanonaPisteos.name = ""
