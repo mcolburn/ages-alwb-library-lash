@@ -695,6 +695,8 @@ TouIerarchou = ""
 
 TouIeromartyros = ""
 
+TouIosif = ""
+
 TouLazarou = ""
 
 TouMartyros = ""
@@ -893,3 +895,12 @@ eclog.Transfiguration.title = ""
 eclog.Dormition.title = ""
 eclog.Theotokos.title = ""
 eclog.Meatfare.title = ""
+
+forMeeting = ""
+forAnnunciation = ""
+forTransfiguration = ""
+forDormition = ""
+forTheotokosBirth = ""
+forCross = ""
+forEntry = ""
+forChristmas = ""
