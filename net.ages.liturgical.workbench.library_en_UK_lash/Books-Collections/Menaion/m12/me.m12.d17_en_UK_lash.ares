@@ -178,8 +178,8 @@ meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
-meMA.Ode3KathismaT.text = ""
+meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaT.text = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
