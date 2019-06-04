@@ -7,6 +7,8 @@ meDate.text = "On the 1st of the Month" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤ
 meCommemoration.text = "The Circumcision of Our Lord Jesus Christ
 and commemoration of our Father among the Saints Basil the Great." // full title of day
 meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
 meInsert1 = "" // for use in petitions and dismissal
 meInsert2 = "" // for use in petitions and dismissal
 meNote.text = ""
