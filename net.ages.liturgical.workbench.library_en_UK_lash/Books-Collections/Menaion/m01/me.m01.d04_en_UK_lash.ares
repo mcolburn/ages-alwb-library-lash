@@ -807,7 +807,7 @@ meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meMA.Aposticha1.mode = misc_en_UK_lash.Mode2
 meMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
-meMA.Aposticha1.text = "The brightness of the Father's glory has appeared in Jordan's streams, cleansing by Baptism the stain of our souls."
+meMA.Aposticha1.text = me.m01.d03_en_UK_lash.meMA.AposGlory.text
 
 meMA.Aposticha2.mode = misc_en_UK_lash.Mode2
 meMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
@@ -815,7 +815,7 @@ meMA.Aposticha2.text = "Receive in a manner fitting a slave, Prophet John, the R
 
 meMA.Aposticha3.mode = misc_en_UK_lash.Mode2
 meMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
-meMA.Aposticha3.text = "Illumination has come, redemption has appeared in Jordan; come, let us assemble to be cleansed and to sing the forefeast."
+meMA.Aposticha3.text = meVE.Aposticha2.text
 
 meMA.AposGlory.mode = misc_en_UK_lash.Mode2
 meMA.AposGlory.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
