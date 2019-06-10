@@ -277,7 +277,7 @@ meMA.AposTheotokion.text = oc.m2.d1_en_UK_lash.ocSV.Aposticha1.text
 
 meMA.AposStavrotheotokion.mode = misc_en_UK_lash.Mode2
 meMA.AposStavrotheotokion.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
-meMA.AposStavrotheotokion.text = "When you saw the Maker of the universe enduring many affronts and hanged on Cross, O All-immaculate, you groaned and cried, ‘Lord beyond praise, my Son and my God, how, when you wish to honour what you fashioned, do you bear dishonour? Glory to your great compassion and condescension, Lover of humankind!’"
+meMA.AposStavrotheotokion.text = me.m01.d22_en_UK_lash.meVE.AposStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

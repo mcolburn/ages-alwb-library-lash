@@ -513,7 +513,7 @@ meMA.AposTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 meMA.AposStavrotheotokion.mode = misc_en_UK_lash.Mode8
 meMA.AposStavrotheotokion.melody = he.a.m8_en_UK_lash.OiMartyresSouKyrie.notmetered
-meMA.AposStavrotheotokion.text = "I cannot bear to see you, my Child, who give awakening to all, sleeping on the Tree, that you may grant to those, who of old fell into a deadly sleep from the fruit of transgression, you may grant divine and saving awakening, the grieving Virgin, whom we magnify."
+meMA.AposStavrotheotokion.text = "I cannot bear to see you, my Child, who give awakening to all, sleeping on the Tree, that you may grant to those, who of old fell into a deadly sleep from the fruit of transgression, you may grant divine and saving awakening, the grieving Virgin, whom we magnify." //me.m01.d23_en_UK_lash.meVE.SticStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
