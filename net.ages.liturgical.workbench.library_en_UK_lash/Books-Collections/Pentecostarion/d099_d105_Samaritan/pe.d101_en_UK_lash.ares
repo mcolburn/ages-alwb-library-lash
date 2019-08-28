@@ -82,15 +82,15 @@ peMA.LaudsGlory.melody = //pe.d098_en_UK_lash.peMA.AposGlory.melody
 peMA.LaudsGlory.text = //pe.d098_en_UK_lash.peMA.AposGlory.text
 
 peMA.Aposticha1.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_UK_lash.Mode8
