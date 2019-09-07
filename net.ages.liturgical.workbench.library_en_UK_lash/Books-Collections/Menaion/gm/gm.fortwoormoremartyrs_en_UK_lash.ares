@@ -22,7 +22,8 @@ meVE.SticStavrotheotokion.text = "As the Virgin your Mother saw you hanged upon 
 
 meMA.C1Acrostic.text = "whose acrostic is: Let Christ, glory of the martyrs be acclaimed."
 
-meMA.C1.title = titles_en_UK_lash.KanonTonAgion
+//meMA.C1.title = titles_en_UK_lash.KanonTonAgion
+meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

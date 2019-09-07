@@ -20,7 +20,8 @@ meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 meVE.SticStavrotheotokion.text = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.text
 
-meMA.C1.title = titles_en_UK_lash.KanonTouAgiou
+//meMA.C1.title = titles_en_UK_lash.KanonTouAgiou
+meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

@@ -22,7 +22,8 @@ meVE.SticStavrotheotokion.text = "When the Ewe-lamb, your Mother, saw you nailed
 
 meMA.C1Acrostic.text = "in the 9th Ode: J[o]seph"
 
-meMA.C1.title = titles_en_UK_lash.KanonTisAgias
+//meMA.C1.title = titles_en_UK_lash.KanonTisAgias
+meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsW.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

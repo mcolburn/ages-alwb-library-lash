@@ -23,7 +23,8 @@ meVE.SticStavrotheotokion.text = "When the Ewe-lamb, your Mother, saw you nailed
 meMA.C1Poet = poets_en_UK_lash.Theofanous
 meMA.C1Acrostic.text = "of which the Acrostic is: Let the fame of Sophonias give me splendour."
 
-meMA.C1.title = titles_en_UK_lash.KanonTouProfitou
+//meMA.C1.title = titles_en_UK_lash.KanonTouProfitou
+meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_Prophet.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

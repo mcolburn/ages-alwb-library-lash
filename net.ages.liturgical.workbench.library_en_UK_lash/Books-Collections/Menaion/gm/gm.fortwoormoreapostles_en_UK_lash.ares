@@ -20,7 +20,8 @@ meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.text = "O all-immaculate Ewe-lamb, you bore the unblemished Lamb, who came to heal the sin of the whole world by his own blood, who was slaughtered for our sake and gave life to the universe; clothe me, who have been stripped naked of divine incorruption, with the cloak of divine grace from the wool of your Offspring."
 
-meMA.C1.title = titles_en_UK_lash.KanonTonApostolon
+//meMA.C1.title = titles_en_UK_lash.KanonTonApostolon
+meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_Apostles.text
 
 meMA.C1Acrostic.text = "of which the acrostic is: I honour the wise Apostles of Christ."
