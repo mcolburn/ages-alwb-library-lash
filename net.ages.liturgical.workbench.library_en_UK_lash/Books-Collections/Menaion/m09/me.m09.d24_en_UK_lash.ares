@@ -339,7 +339,7 @@ meMA.LaudsTheotokion.text = "Bedew my understanding, All-pure Lady, with the sho
 
 meMA.LaudsStavrotheotokion.mode = misc_en_UK_lash.Mode4
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meMA.LaudsStavrotheotokion.text = "When she saw you nailed to the Cross, O Lord, your lamb and Mother was amazed and cried: My Son, so dearly loved, what is this sight? Is this how the lawless, disobedient people that enjoyed your wonders rewards you? But glory, Master, to your ineffable condescension."
+meMA.LaudsStavrotheotokion.text = "When she saw you nailed to the Cross, O Lord, your lamb and Mother was amazed and cried: My Son, so dearly loved, what is this sight? Is this how the lawless, disobedient people that enjoyed your wonders rewards you? But glory, Master, to your ineffable condescension." //me.m02.d27_en_UK_lash.meVE.SticStavrotheotokion.text
 
 meMA.AposGlory.poet = poets_en_UK_lash.Anatoliou
 meMA.AposGlory.mode = misc_en_UK_lash.Mode2
