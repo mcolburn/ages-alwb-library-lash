@@ -46,8 +46,8 @@ peVE.AposGlory.melody = pe.d120_en_UK_lash.peVE.LityGlory.melody
 peVE.AposGlory.text = pe.d120_en_UK_lash.peVE.LityGlory.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode8
-peMA.Kathisma11.melody = he.a.m8_en_UK_lash.ToProstachthen.name
-peMA.Kathisma11.text = ""
+peMA.Kathisma11.melody = he.a.m8_en_UK_lash.ToProstachthen.notmetered
+peMA.Kathisma11.text = pe.d120_en_UK_lash.peMA.Kathisma31.text
 
 peMA.Kathisma21.mode = pe.d120_en_UK_lash.peMA.Ode3Kathisma1.mode
 peMA.Kathisma21.melody = pe.d120_en_UK_lash.peMA.Ode3Kathisma1.melody
