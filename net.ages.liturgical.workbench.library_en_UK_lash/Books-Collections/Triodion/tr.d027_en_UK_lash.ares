@@ -213,7 +213,7 @@ trMA.AposMartyric.text = he.a.m8_en_UK_lash.TiYmasKalesomen.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode8
 trMA.AposTheotokion.melody = he.a.m8_en_UK_lash.OTouParadoxou.notmetered
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.text = //me.m06.d26_en_UK_lash.meVE.SticStavrotheotokion.text
 
 trTE.Troparion.mode = misc_en_UK_lash.Mode8
 trTE.Troparion.melody = ""
