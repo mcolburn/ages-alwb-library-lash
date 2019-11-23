@@ -356,11 +356,11 @@ hoCA.Exaposteilarion1.text = me.m08.d15_en_UK_lash.meMA.Exaposteilarion1.text
 
 hoCA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
 hoCA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
-hoCA.Exaposteilarion2.text = "O sweetness of the Angels, * the joy of all those in distress, * the Virgin Mother of the Lord, * you are the protection of Christians, * come to my aid, deliver me * from the eternal torments." 
+hoCA.Exaposteilarion2.text = da.d7_en_UK_lash.daMA.ExapTheotokion1.text
 
 hoCA.Exaposteilarion3.mode = misc_en_UK_lash.Mode3
 hoCA.Exaposteilarion3.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
-hoCA.Exaposteilarion3.text = da.d3_en_UK_lash.daMA.ExapTheotokion.text
+hoCA.Exaposteilarion3.text = da.d3_en_UK_lash.daMA.ExapTheotokion1.text
 
 hoCA.Exaposteilarion4.mode = misc_en_UK_lash.Mode3
 hoCA.Exaposteilarion4.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
