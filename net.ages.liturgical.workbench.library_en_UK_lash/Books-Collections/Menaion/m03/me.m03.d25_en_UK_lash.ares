@@ -49,7 +49,7 @@ meSV.Aposticha3.text = ""
 
 meSV.AposGlory.mode = misc_en_UK_lash.Mode4
 meSV.AposGlory.melody = ""
-meSV.AposGlory.text = meVE.Aposticha1.text
+meSV.AposGlory.text = ""
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode6
 meVE.Stichera01.melody = he.a.m6_en_UK_lash.OlinApothemenoi.name
@@ -73,7 +73,7 @@ meVE.SticGlory.text = ""
 meVE.Lity1.poet = poets_en_UK_lash.Vyzantos
 meVE.Lity1.mode = misc_en_UK_lash.Mode1
 meVE.Lity1.melody = ""
-meVE.Lity1.text = ""
+meVE.Lity1.text = meSV.SticGlory.text
 
 meVE.Lity2.poet = poets_en_UK_lash.Anatoliou
 meVE.Lity2.mode = misc_en_UK_lash.Mode1
@@ -87,15 +87,15 @@ meVE.Lity3.text = ""
 meVE.LityGlory.poet = poets_en_UK_lash.KosmaMonachou
 meVE.LityGlory.mode = misc_en_UK_lash.Mode2
 meVE.LityGlory.melody = ""
-meVE.LityGlory.text = ""
+meVE.LityGlory.text = //me.m03.d24_en_UK_lash.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode4
 meVE.Aposticha1.melody = ""
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = meSV.AposGlory.text
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode4
 meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = //me.m03.d24_en_UK_lash.meMA.AposGlory.text
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode4
 meVE.Aposticha3.melody = ""
@@ -139,7 +139,7 @@ meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.KosmaMonachou
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
+meMA.PostGospelIdiomelon.text = //me.m03.d24_en_UK_lash.meVE.SticGlory.text
 
 meMA.C1Poet = poets_en_UK_lash.IoannouMonachou
 meMA.C1Acrostic.text = ""
