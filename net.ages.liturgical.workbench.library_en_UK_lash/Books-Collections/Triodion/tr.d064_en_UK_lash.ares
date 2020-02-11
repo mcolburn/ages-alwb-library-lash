@@ -362,7 +362,7 @@ trMA.Lauds4.text = "Before your voluntary Passion, Christ God, foreshadowing the
 
 trMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
-trMA.LaudsGlory.text = "Six days before the Passover Jesus came to Bethany and his Disciples approached him, saying, 'Lord, where do you wish us to prepare for you to eat the Passover?' But he sent them, saying, 'Go to the village opposite and you will find a man carrying a pitcher of water. Follow him and say to the master of the household, 'The Teacher says, 'I am celebrating Passover with you along with my Disciples'''."
+trMA.LaudsGlory.text = trVE.Stichera05.text
 
 trLI.Antiphon2.text = "seated on the foal of an ass," //for media
 
