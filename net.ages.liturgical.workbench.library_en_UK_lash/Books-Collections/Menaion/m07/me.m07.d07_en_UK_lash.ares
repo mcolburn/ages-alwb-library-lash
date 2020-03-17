@@ -49,8 +49,8 @@ meVE.SticTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.name
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode6
-meVE.SticStavrotheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.name
-meVE.SticStavrotheotokion.text = ""
+meVE.SticStavrotheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
+meVE.SticStavrotheotokion.text = //me.m01.d16_en_UK_lash.meVE.SticStavrotheotokion.text
 
 meVE.Aposticha.notice = ""
 
