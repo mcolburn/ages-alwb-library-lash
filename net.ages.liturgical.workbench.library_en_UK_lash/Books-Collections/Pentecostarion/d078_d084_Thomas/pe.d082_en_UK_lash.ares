@@ -95,5 +95,4 @@ peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_UK_lash.Mode6
 peMA.AposGlory.melody = misc_en_UK_lash.Idiomelon
-peMA.AposGlory.text = ""
-
+peMA.AposGlory.text = pe.d078_en_UK_lash.peMA.LaudsGlory.text
