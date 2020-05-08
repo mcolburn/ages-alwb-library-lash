@@ -425,13 +425,9 @@ peMA.Lauds4.mode = oc.m4.d1_en_UK_lash.ocMA.Lauds4.mode
 peMA.Lauds4.melody = oc.m4.d1_en_UK_lash.ocMA.Lauds4.melody
 peMA.Lauds4.text = oc.m4.d1_en_UK_lash.ocMA.Lauds4.text
 
-peMA.LaudsVerse7.text = ""
-
 peMA.Lauds7.mode = misc_en_UK_lash.Mode3
 peMA.Lauds7.melody = misc_en_UK_lash.Idiomelon
 peMA.Lauds7.text = peVE.LityGlory.text
-
-peMA.LaudsVerse8.text = ""
 
 peMA.Lauds8.mode = misc_en_UK_lash.Mode6
 peMA.Lauds8.melody = misc_en_UK_lash.Idiomelon
@@ -439,7 +435,7 @@ peMA.Lauds8.text = "Thus says the Lord to the woman of Samaria: If you knew the 
 
 peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
-peMA.LaudsGlory.text = "The spring of life’s source, Jesus our Saviour, came to the spring of the Patriarch Jacob and sought water to drink from a woman of Samaria. But when she objected that there was no sharing vessels by the Jews, the wise creator diverts her with sweet words rather to ask for the eternal water; which she accepted and proclaimed to all, saying: Come, see the one who knows hidden things, and is God come in the flesh to save mankind."
+peMA.LaudsGlory.text = "Jesus, our Savior, the well of life's source, came to the well of the PatriarchJacob; and He asked a woman of Samaria for a drink of water. When she reminded Him that Jews have no dealings with Samaritans, the wise Creator changed the subject with His sweet words, and got her to ask Him for eternal water. When she received it, she went out and proclaimed it and said to all, \"Come and see a man who knows all secrets. He is God, who has come in the flesh, to save humanity.\""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
