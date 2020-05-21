@@ -78,7 +78,7 @@ peVE.Aposticha2.text = "The coming of the Holy Spirit, Lord, filled your Apostle
 
 peVE.Aposticha3.mode = misc_en_UK_lash.Mode6
 peVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
-peVE.Aposticha3.text = prayers_en_UK_lash.VasilefOuranie.text
+peVE.Aposticha3.text = "Heavenly King, Advocate, Spirit of truth, present everywhere, filling all things, Treasury of blessings and Giver of life, come and dwell in us, cleanse us from every stain, and, O Good One, save our souls."
 
 peVE.AposGlory.mode = misc_en_UK_lash.Mode8
 peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
@@ -112,7 +112,7 @@ peMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
-peMA.PostGospelIdiomelon.text = prayers_en_UK_lash.VasilefOuranie.text
+peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
 peMA.C1Poet = poets_en_UK_lash.KosmaMonachou
 peMA.C1Acrostic.text = "whose acrostic is: We celebrate Pentecost"
@@ -557,9 +557,11 @@ peMA.Lauds3.mode = misc_en_UK_lash.Mode4
 peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "The holy Spirit is light and life and living, spiritual spring. Spirit of wisdom, Spirit of understanding; good, right, spiritual, sovereign, cleansing faults. God and making divine; fire and proceeding from fire, speaking, working, distributing the gifts of grace; through whom all the prophets and Apostles of God with the Martyrs have been crowned. Strange tidings, strange sight: fire divided for the apportioning of gifts. "
 
+peMA.MM.Lauds123as123.text = properties_en_UK_lash.media.key
+
 peMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 peMA.LaudsGlory.melody = ""
-peMA.LaudsGlory.text = prayers_en_UK_lash.VasilefOuranie.text
+peMA.LaudsGlory.text = peVE.Aposticha3.text
 
 peLI.Antiphon2.text = "Good Paraclete, save us "
 
