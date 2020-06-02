@@ -13,6 +13,18 @@ peHO.note1 = ""
 peHO.note2 = ""
 peDismissal = dismissals_en_UK_lash.dis00.andascension
 
+peVE.Stichera04.mode = misc_en_UK_lash.Mode6
+peVE.Stichera04.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera04.text = pe.d110_en_UK_lash.peVE.Stichera01.text
+
+peVE.Stichera05.mode = misc_en_UK_lash.Mode6
+peVE.Stichera05.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera05.text = pe.d110_en_UK_lash.peVE.Stichera02.text
+
+peVE.Stichera06.mode = misc_en_UK_lash.Mode6
+peVE.Stichera06.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera06.text = pe.d110_en_UK_lash.peVE.Stichera03.text
+
 peVE.Stichera07.mode = misc_en_UK_lash.Mode6
 peVE.Stichera07.melody = he.a.m6_en_UK_lash.IApegnosmeni.notmetered
 peVE.Stichera07.text = "You were born from the womb before the morning star, without a mother from the Father before the ages, though Arius dares to call you a creature, and does not glorify you as God, insanely joining you, the Creator, with the creatures, and laying up for himself as treasure the fuel of the eternal fire. But the Council in Nicea loudly proclaimed you, Lord, to be Son of God, equal in rank with the Father and the Spirit."
