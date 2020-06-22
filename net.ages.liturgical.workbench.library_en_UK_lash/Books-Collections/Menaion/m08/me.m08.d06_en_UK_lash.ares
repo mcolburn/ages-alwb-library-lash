@@ -125,9 +125,6 @@ meMA.Kathisma31.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma31.text = ""
 
-meMA.MM.Prokeimenon.text = "" // for media
-//From goarch: http://goarch.org/chapel/lectionary_view?type=MGandcode=384andlanguage=elanddate=8/6/2013
-
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostles.text
