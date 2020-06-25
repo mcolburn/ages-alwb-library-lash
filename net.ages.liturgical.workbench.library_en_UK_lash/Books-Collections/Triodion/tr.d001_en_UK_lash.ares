@@ -121,7 +121,7 @@ trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = misc_en_UK_lash.Mode4
 trMA.Ode3Kathisma3.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-trMA.Ode3Kathisma3.text = ""
+trMA.Ode3Kathisma3.text = //me.m12.d06_en_UK_lash.meMA.Kathisma3T.text
 
 trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C11.mode = misc_en_UK_lash.Mode6
