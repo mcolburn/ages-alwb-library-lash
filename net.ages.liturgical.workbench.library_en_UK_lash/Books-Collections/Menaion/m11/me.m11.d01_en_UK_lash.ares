@@ -68,7 +68,7 @@ meVE.AposTheotokion.text = oc.m6.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = misc_en_UK_lash.Mode6
 meVE.AposStavrotheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
-meVE.AposStavrotheotokion.text = "When the Virgin and your pure Mother saw a lawless people nailing you to a Tree, as Symeon had foretold, O Saviour, your heart was wounded."
+meVE.AposStavrotheotokion.text = //me.m01.d21_en_UK_lash.meVE.SticStavrotheotokion.text "When the Virgin and your pure Mother saw a lawless people nailing you to a Tree, as Symeon had foretold, O Saviour, your heart was wounded."
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
 meVE.Apolytikion1.melody = ""
