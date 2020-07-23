@@ -42,7 +42,7 @@ meVE.SticTheotokion.text = "By my own will I have slipped and become enslaved to
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticStavrotheotokion.melody = he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
-meVE.SticStavrotheotokion.text = "A sword passed through your heart, All-holy Lady, when you saw him, who had shone from you by an ineffable word, lifted up on a Cross as one condemned by lawless men, given vinegar and gall to drink, pierced in his side, nailed by his hands and feet; and grieving she bewailed him and cried out as a mother: What is this new mystery, my Child?"
+meVE.SticStavrotheotokion.text = //me.m01.d15_en_UK_lash.meVE.AposStavrotheotokion.text "A sword passed through your heart, All-holy Lady, when you saw him, who had shone from you by an ineffable word, lifted up on a Cross as one condemned by lawless men, given vinegar and gall to drink, pierced in his side, nailed by his hands and feet; and grieving she bewailed him and cried out as a mother: What is this new mystery, my Child?"
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
