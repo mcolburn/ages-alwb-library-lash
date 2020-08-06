@@ -31,7 +31,7 @@ meVE.Stichera03.text = "As it is written, Lord, you make your Angels spirits and
 meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "Rejoice with us, all you leaders of the Angels, for your commander and our champion, the great Chief Captain, hallows this present day as he appears in his holy place. Therefore as is fitting we sing his praises as we cry out, 'Shelter us in the shelter of your wings, great Archangel Michael'."
+meVE.SticGlory.text = me.m11.d08_en_UK_lash.meVE.SticGlory.text //Rejoice with us, all you leaders of the Angels, for your commander and our champion, the great Chief Captain, hallows this present day as he appears in his holy place. Therefore as is fitting we sing his praises as we cry out, 'Shelter us in the shelter of your wings, great Archangel Michael'.
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = ""
@@ -52,7 +52,7 @@ meVE.Aposticha3.text = "Michael, godlike mind, guard under the shelter of your g
 meVE.AposGlory.poet = poets_en_UK_lash.IoannouMonachou
 meVE.AposGlory.mode = misc_en_UK_lash.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "As leader and champion and prince of the Angels, glorious Chief Captain, free from every constraint and affliction, diseases and dread sins those who sincerely sing your praise and clearly beseech you, as one immaterial who contemplate the Immaterial and are made radiant by the unapproachable light of the Master of glory; for he took flesh from a Virgin for our sake through love for humankind, as he wished to save that which is human."
+meVE.AposGlory.text = me.m11.d08_en_UK_lash.meVE.AposGlory.text //As leader and champion and prince of the Angels, glorious Chief Captain, free from every constraint and affliction, diseases and dread sins those who sincerely sing your praise and clearly beseech you, as one immaterial who contemplate the Immaterial and are made radiant by the unapproachable light of the Master of glory; for he took flesh from a Virgin for our sake through love for humankind, as he wished to save that which is human.
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
@@ -525,7 +525,7 @@ meMA.Lauds3.text = "Manifestly you are first of the bodiless Angels and minister
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode5
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = "Where your grace overshadows, Archangel, from there the power of the devil is driven out; the Morning Star who fell cannot bear to remain in your light. And so we beg you, by your mediation quench his fiery darts which are hurled against us, rescuing us from his stumbling blocks, Michael Archangel worthy of praise."
+meMA.LaudsGlory.text = me.m11.d08_en_UK_lash.meMA.LaudsGlory.text //Where your grace overshadows, Archangel, from there the power of the devil is driven out; the Morning Star who fell cannot bear to remain in your light. And so we beg you, by your mediation quench his fiery darts which are hurled against us, rescuing us from his stumbling blocks, Michael Archangel worthy of praise.
 
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode5
 meMA.LaudsTheotokion.melody = misc_en_UK_lash.NotMetered //""

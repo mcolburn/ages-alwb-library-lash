@@ -93,7 +93,7 @@ meVE.Aposticha4.text = "You who created all things with wisdom, Word of the Fath
 
 meVE.AposGlory.mode = misc_en_UK_lash.Mode5
 meVE.AposGlory.melody = misc_en_UK_lash.Automelon
-meVE.AposGlory.text = meVE.Stichera04.text 
+meVE.AposGlory.text = me.m09.d01_en_UK_lash.meVE.Stichera04.text
 
 meVE.AposBoth.poet = poets_en_UK_lash.IoannouMonachou
 meVE.AposBoth.mode = misc_en_UK_lash.Mode5
