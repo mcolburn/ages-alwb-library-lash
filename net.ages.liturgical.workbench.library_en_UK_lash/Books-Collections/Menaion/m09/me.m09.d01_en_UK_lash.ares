@@ -31,6 +31,8 @@ meVE.Stichera03.mode = misc_en_UK_lash.Mode1
 meVE.Stichera03.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meVE.Stichera03.text = "Christ God, who once on Mount Sinai wrote the tables of the law, now too, according to the flesh, in the city of Nazareth yourself took the book of the prophet to read; and having closed it began to teach the peoples that the Scripture had been fulfilled in you."
 
+meVE.MM.Stichera123as567.text = properties_en_UK_lash.media.key
+
 meVE.Stichera04.mode = misc_en_UK_lash.Mode5
 meVE.Stichera04.melody = he.a.m5_en_UK_lash.OsiePater.notmetered
 meVE.Stichera04.text = "Venerable Father, you found a fair ladder, by which you went up on high, the ladder which Elias found as a chariot of fire. He though did not leave his mount to others, but you keep your pillar even after death. Man of heaven, angel of earth, unsleeping beacon of the inhabited world, Venerable Symeon, intercede that our souls may be saved."
@@ -42,6 +44,9 @@ meVE.Stichera05.text = "Venerable Father, if the pillar could speak it would not
 meVE.Stichera06.mode = misc_en_UK_lash.Mode5
 meVE.Stichera06.melody = he.a.m5_en_UK_lash.OsiePater.notmetered
 meVE.Stichera06.text = "Venerable Father, by the power of the divine Spirit, imitating your Master, you went up onto a pillar as onto a cross. He though wiped out the record of all, while you abolished the uprising of the passions; he like a sheep, you like a victim; he on a cross, you on the pillar. Venerable Symeon, intercede that our souls may be saved"
+
+meVE.MM.Stichera456as456.text = properties_en_UK_lash.media.key
+meVE.MM.Stichera456as8910.text = properties_en_UK_lash.media.key
 
 meVE.Stichera07.mode = misc_en_UK_lash.Mode2
 meVE.Stichera07.melody = misc_en_UK_lash.Idiomelon
