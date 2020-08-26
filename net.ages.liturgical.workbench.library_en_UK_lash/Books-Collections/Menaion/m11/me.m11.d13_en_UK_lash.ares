@@ -180,7 +180,7 @@ meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = "Grace was poured out on your lips, venerable Father, and you became a Shepherd of Christ's Church, teaching the rational sheep to believe in a consubstantial Trinity in one Godhead."
+meMA.PostGospelIdiomelon.text = me.m01.d01_en_UK_lash.meVE.LityGlory.text
 
 meMA.C2Poet = poets_en_UK_lash.Theofanous
 meMA.C2Acrostic.text = "of which the acrostic is: I sing you, golden mouth of the Spirit."
