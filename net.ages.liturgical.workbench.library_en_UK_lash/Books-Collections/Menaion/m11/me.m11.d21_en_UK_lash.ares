@@ -142,7 +142,7 @@ meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode4
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.Lity2.text
+meMA.PostGospelIdiomelon.text = me.m11.d08_en_UK_lash.meVE.LityBoth.text
 
 meMA.C1Poet = poets_en_UK_lash.KyriouGeorgiou
 meMA.C1Acrostic.text = ""
