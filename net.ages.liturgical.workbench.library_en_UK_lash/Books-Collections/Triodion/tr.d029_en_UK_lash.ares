@@ -73,7 +73,7 @@ trVE.SticGlory.text = ""
 
 trVE.LityGlory.mode = misc_en_UK_lash.Mode2
 trVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
-trVE.LityGlory.text = "Hail, honoured Prophets, who rightly ordered the law of God and by your faith were shown to be indestructible and unshakeable pillars, for you appeared as mediators of Christ’s new Covenant, and having passed over into heaven, implore him to give to the world and to save our souls."
+trVE.LityGlory.text = me.m12.dBC_en_UK_lash.meVE.AposGlory.text //"Hail, honoured Prophets, who rightly ordered the law of God and by your faith were shown to be indestructible and unshakeable pillars, for you appeared as mediators of Christ’s new Covenant, and having passed over into heaven, implore him to give to the world and to save our souls."
 
 trVE.LityBoth.mode = misc_en_UK_lash.Mode2
 trVE.LityBoth.melody = ""

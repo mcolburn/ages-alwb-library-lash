@@ -505,8 +505,6 @@ meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.text = ""
 
-meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
-
 meLI.Antiphon2.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode

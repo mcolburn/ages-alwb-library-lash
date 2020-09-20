@@ -32,6 +32,8 @@ meVE.Stichera04.mode = misc_en_UK_lash.Mode6
 meVE.Stichera04.melody = he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
 meVE.Stichera04.text = "The God-bearing Fathers with one mind today proclaimed the uncreated Trinity to be one God and Lord, fittingly demonstrating to all the simplicity of the one nature, with common will and simplicity of energy, making him known through all things as without beginning and without end; therefore we sing their praise all as imitators of the Apostles and all teachers of their Gospel."
 
+meVE.MM.Stichera123as567.text = properties_en_UK_lash.media.key
+
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.text = "Let us praise today the mystical trumpets of the Spirit, the Godbearing Fathers, who sang a harmonious melody of theology in the midst of the Church: one Trinity, unchanging Essence and Godhead; the overthrowers of error, the champions of the Orthodox, who ever intercede with the Lord that he have mercy on our souls."
@@ -430,7 +432,7 @@ meMA.Lauds3.mode = misc_en_UK_lash.Mode6
 meMA.Lauds3.melody = he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
 meMA.Lauds3.text = "Having collected together all their skill as shepherds, and stirred up their most just anger, the godly Shepherds, as Christ's truest servants, the most sacred initiates of the inspired proc­lamation, most justly drove off the fierce and ravening wolves with the sling of the Spirit, having cast as from a sling from the body of the Church those fallen as though sick of a deadly and incurable sickness."
 
-meMA.Lauds345.text = "" // for media
+meMA.MM.Lauds123as345.text = properties_en_UK_lash.media.key
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 meMA.LaudsGlory.melody = ""

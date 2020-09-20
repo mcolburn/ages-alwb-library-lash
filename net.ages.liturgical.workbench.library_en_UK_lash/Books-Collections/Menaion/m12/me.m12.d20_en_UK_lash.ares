@@ -78,7 +78,7 @@ meVE.AposGlory.text = "How firm and adamantine was your soul, most blessed Ignat
 meVE.AposBoth.poet = poets_en_UK_lash.Kyprianou
 meVE.AposBoth.mode = misc_en_UK_lash.Mode2
 meVE.AposBoth.melody = ""
-meVE.AposBoth.text = "See, the time of our salvation has drawn near. Cave make ready, the Virgin is drawing near to give birth. Bethlehem, land of Juda, be glad and rejoice, because from you our Lord has dawned. Listen, mountains and hills, and lands around Judea, because Christ is coming to save mankind whom he fashioned, for he loves mankind."
+meVE.AposBoth.text = me.m12.d12_en_UK_lash.meVE.AposBoth.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
@@ -694,8 +694,6 @@ meMA.AposBoth.poet = poets_en_UK_lash.Vyzantos
 meMA.AposBoth.mode = misc_en_UK_lash.Mode6
 meMA.AposBoth.melody = ""
 meMA.AposBoth.text = "Cave, make ready; for the Ewe-lamb has come, bearing Christ in her womb. Manger, receive the One who by a word frees us who are born of earth from irrational action. Shepherds abiding in the fields, bear witness to the fearful wonder; and Magi from Persia, offer gold and incense and myrrh to the King; because the Lord has appeared from a Virgin Mother. Bowing low like a slave his Mother worshipped him, and cried out to the One in her arms: How were you sown in me, or how did you come to be in me, my Redeemer and my God?" //me.m12.d06_en_UK_lash.meVE.SticBoth.text
-
-meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody

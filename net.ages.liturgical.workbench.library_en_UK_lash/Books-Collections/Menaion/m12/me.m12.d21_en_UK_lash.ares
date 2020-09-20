@@ -544,8 +544,6 @@ meMA.AposGlory.mode = misc_en_UK_lash.Mode2
 meMA.AposGlory.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 meMA.AposGlory.text = "Come, let us who are born of earth ceaselessly hymn with one voice the Virgin, Mary, Mother of God, from Christ is brought to birth."
 
-meMA.MM.LaudsSunday.text = properties_en_UK_lash.media.key
-
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.text = meMA.Kontakion1.text
