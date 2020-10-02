@@ -27,17 +27,17 @@ euLI.Key025.text = "O God, who accepted the gifts of Abel, the sacrifices of No�
 euLI.Key027.title = ""
 euLI.Key028.text = ""
 euLI.Key029.rubric = "The Deacon censes and begins the Only-begotten Son, and the Singers chant the Troparion for the Entrance of the clergy with the holy Gospel."
-euLI.Key030.text = "Only-begotten Son and Word of God, who, being immortal, accepted for our salvation to take flesh from the holy Mother of God and Ever-Virgin Mary, and without change became man; you were crucified, Christ God, by death trampling on death, being one of the Holy Trinity, glorified with the Father and the Holy Spirit: save us!"
+
 euLI.Key031.rubric = "When those making the entrance reach the middle of the church, where a vima [platform] has been set up, they place the holy Gospel on it, and go towards the sanctuary. The Priest, standing in front of the holy Doors, says, aloud:"
 euLI.Key032.text = "Almighty God, Lord, whose name is great, who give us entrance to the Holy of Holies through the coming of your only-begotten Son, our Lord and God and Saviour, Jesus Christ, we entreat and implore your goodness. Since we are full of fear and trembling as we are about to stand before your holy altar, send forth your good grace upon us, sanctify our souls, bodies and spirits and change our thoughts to true devotion, so that, with a pure conscience, we may offer you gifts, presents, fruits, for the removal of our sins, for the forgiveness of all your people, by the grace and love for humankind of your only-begotten Son, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages."
 
 euLI.Key034.title = ""
 euLI.Key035.rubric = "And the Priest enters the sanctuary. Facing the People, the Deacon says:"
-euLI.Key036.text = "In peace, let us pray to the Lord."
 euLI.Key037.rubric = "People (after each petition): Lord, have mercy."
 euLI.Key038.text = "For the peace from on high, God’s love for humankind, and the salvation of our souls, let us pray to the Lord."
 euLI.Key039.text = "For the peace of the whole world and the union of all the holy churches of God, let us pray to the Lord."
-euLI.Key040.text = "For the salvation and of our most holy Father and Archbishop N., all the clergy and Christ-loving people, let us pray to the Lord."
+euLI.Key040a.text = "For the salvation and of our most holy Father and Archbishop "
+euLI.Key040b.text = "all the clergy and Christ-loving people, let us pray to the Lord."
 euLI.Key041.text = "For the forgiveness of our sins and pardon of our offences, and for us to be delivered from all affliction, wrath, danger, constraint and assault of enemies, let us pray to the Lord."
 euLI.Key042.text = "Let us call to mind our most holy, pure, most glorious and blessed Lady, Mother of God and Ever-Virgin Mary, of the holy, glorious Prophet, Forerunner and Baptist John, of the holy, godlike and all-praised Apostles, of the glorious Prophets and victorious Martyrs and all the holy and just, that by their prayers and intercessions we may all find mercy."
 euLI.Key043.title = "The Prayer of the Trisagion"
@@ -47,7 +47,7 @@ euLI.Key046.text = "and to the ages of ages."
 euLI.Key047.text = "Holy God, holy Strong, holy Immortal, have mercy on us."
 euLI.Key048.text = "Holy Trinity, have mercy on us."
 
-euLI.Key050.title = ""
+
 euLI.Key051.rubric = "[Reading of the Prophecy]"
 euLI.Key052.text = "Prokeimeonon. Mode pl. 4.  A Psalm of David."
 euLI.Key053.rubric = "The Reader reads the Apostle."
@@ -58,10 +58,10 @@ euLI.Key057.rubric = "While the Alleluia is being sung, the Deacon takes the cen
 euLI.Key058.text = "Let us all say, Lord, have mercy."
 euLI.Key059.rubric = "And after each petition."
 euLI.Key060.text = "Almighty, heavenly Lord , the God of our fathers, we pray you, hear us."
-euLI.Key061.text = "For the peace of the whole world and union of all the holy churches, we pray you, hear us."
-euLI.Key062.text = "For the salvation and assistance of our most holy father and Archbishop N., all the clergy and the Christ-loving people, we pray you, hear us."
-euLI.Key063.text = "[petition for government]"
-euLI.Key064.text = "For this city, for every city, town and village, we pray you, hear us."
+
+
+
+
 euLI.Key065.text = "For our deliverance from all affliction, wrath, danger, constraint, captivity, bitter death, and our iniquities, we pray you, hear us."
 euLI.Key066.text = "For the people here present and who await your great and rich mercy, we implore you, have compassion and mercy."
 euLI.Key067.text = "O God, save your people and bless your inheritance. Visit you world with mercy and pity. Exalt the horn of Christians by the power of the precious and life-giving Cross, at the intercession of our all-pure and blessed Lady, Mother of God, of the Forerunner, your Apostles and all your Saints, we implore you, most merciful Lord, hear us as we pray, and have mercy."
@@ -76,17 +76,17 @@ euLI.Key075.rubric = "Then the Preacher expounds the word of God."
 
 euLI.Key077.text = "Let us be devoutly attentive. In peace let us pray to the Lord."
 euLI.Key078.rubric = "Lord, have mercy. And after each petition."
-euLI.Key079.text = "For the peace from on high, God’s love for humankind, and the salvation of our souls, let us pray to the Lord."
-euLI.Key080.text = "For the peace of the whole world and the union of all the holy churches, let us pray to the Lord."
-euLI.Key081.text = "For the salvation and assistance of our most holy Archbishop N., of all the clergy and the Christ-loving people, let us pray to the Lord."
-euLI.Key082.text = "For forgiveness of our sins and pardon of our offences, and for our deliverance from all affliction, wrath, danger and constraint, assault of enemies, let us pray to the Lord."
-euLI.Key083.text = "Help us, save us, have mercy on us, and keep us, O God, by your grace."
-euLI.Key084.text = "That the day that we pass through may be perfect, holy, peaceful and sinless, let us all ask of the Lord."
-euLI.Key085.text = "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
-euLI.Key086.text = "Pardon and forgiveness of our sins and offences, let us ask of the Lord."
-euLI.Key087.text = "Things good and profitable for our souls, and peace for the world, let us ask of the Lord."
-euLI.Key088.text = "That we may live out the rest of our days in peace and good health, let us ask of the Lord."
-euLI.Key089.text = "A Christian end to our life, painless, unashamed and peaceful, and a good defence before the fearsome and dread judgement seat of Christ, let us ask."
+
+
+
+
+
+
+
+
+
+
+
 euLI.Key090.text = "Commemorating our all-holy, pure, most glorious and blessed Lady, Mother of God and Ever-Virgin Mary, of the holy, glorious, Prophet, Forerunner and Baptist, John, of the godlike and all-praised Apostles, glorious Prophets and triumphant Martyrs with all the Holy and Just, let us entrust ourselves and one another and our whole life to Christ our God."
 euLI.Key091.text = "You have made your divine and saving words resound for us, O God, enlighten the souls of us sinners to understand the things that have been read, so that we may be seen to be not only hearers of the spiritual songs, but also doers of good deeds, maintaining a faith without pretence, a life without blame, conduct without reproach,"
 euLI.Key092.text = "In Christ Jesus our Lord, with whom you are blessed and glorified, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages."
@@ -98,7 +98,7 @@ euLI.Key097.text = "Let none of the catechumens; none of the uninitiated; none o
 euLI.Key098.title = ""
 euLI.Key099.text = ""
 
-euLI.Key101.text = "Let all mortal flesh keep silent, and with fear and trembling stand. Ponder nothing earthly-minded, Let all mortal flesh keep silent, and with fear and trembling stand. Ponder nothing earthly-minded, for the King of kings and Lord of lords advances to be slain and given as food to the faithful. Before him go the choirs of Angels, with every rule and authority, the many-eyed Cherubim and the six-winged Seraphim, veiling their sight and crying out the hymn: Alleluia, Alleluia, Alleluia."
+euLI.Key101.text = "Let all mortal flesh keep silent, and with fear and trembling stand. Ponder nothing earthly-minded, for the King of kings and Lord of lords advances to be slain and given as food to the faithful. Before him go the choirs of Angels, with every rule and authority, the many-eyed Cherubim and the six-winged Seraphim, veiling their sight and crying out the hymn: Alleluia, Alleluia, Alleluia."
 
 euLI.Key103.rubric = "After the holy Gifts have been placed on the holy Altar and before they are covered with the Cloud, the Priest says"
 euLI.Key104.title = "The Prayer of the Prothesis"
@@ -108,7 +108,7 @@ euLI.Key107.text = "Master almighty, King of glory, the God who knows all things
 
 euLI.Key109.text = "In God’s wisdom, let us attend."
 euLI.Key110.rubric = "The Priest covers the holy Gifts with the Cloud and begins the Creed, saying the first words, I believe in one God."
-//Creed 
+
 euLI.Key112.text = "Let us stand with awe. In peace let us pray to the Lord."
 
 euLI.Key114.text = "God and Master of all, lover of humankind, make us, unworthy though we are, worthy of this hour, so that, cleansed of all deceit and hypocrisy, we may be united to one another by the bond of peace and love, confirmed by the sanctification of your divine knowledge through your only-begotten Son, our Lord Jesus Christ, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages. Amen."
@@ -137,14 +137,14 @@ euLI.Key136.text = "The Holy Spirit will come upon you, and the power of the Mos
 euLI.Key137.rubric = ""
 euLI.Key138.text = "May the Lord remember you in the kingdom of heaven, always, now and for ever, and to the ages of ages."
 
-euLI.Key140.text = "In peace, let us pray to the Lord."
+
 euLI.Key141.rubric = "Lord, have mercy. And after every petition."
 euLI.Key142.text = "Save us, have mercy one us, have pity on us and keep us, O God, by your grace."
-euLI.Key143.text = "For the peace from on high, God’s love for humankind, and the salvation of our souls, let us pray to the Lord."
-euLI.Key144.text = "For the peace of the whole world and the union of all the holy churches, let us pray to the Lord."
+
+
 euLI.Key145.text = "For this holy monastery (this holy house), and for the Catholic and Apostolic Church, from the ends of the earth and to its furthest bounds, let us pray to the Lord."
-euLI.Key146.text = "For the safety and salvation and assistance of our most holy Father and Archbishop N., all the clergy and Christ-loving people, let us pray to the Lord."
-euLI.Key147.text = "[government]"
+
+
 euLI.Key148.text = "For this city, for every city, town and village, and for those who dwell in them with Orthodox faith and reverence for God, for their peace and security, let us pray to the Lord"
 euLI.Key149.text = "For those who bring offerings, those who care for the beauty of the holy churches of God, and who remember the poor, the widows and orphans, foreigners, strangers and those in need, and those who have asked us to remember them in our prayers, let us pray to the Lord."
 euLI.Key150.text = "For those in old age and incapacity, the sick, the suffering, those troubled by unclean spirits, and for their speedy healing from God and for their safety and salvation, let us pray to the Lord."
@@ -152,7 +152,7 @@ euLI.Key151.text = "For those who pass their lives in virginity, purity and asce
 euLI.Key152.text = "For those who travel by land, air or water, for Christians who are far from home, for those our brethren in captivity and exile, in prisons and bitter slavery, and for the peaceful return of each one to their own home with joy, let us pray to the Lord."
 euLI.Key153.text = "For those who are present here and who pray with us at this holy time and at every moment, fathers, mothers and brethren, for their zeal, toil and readiness, let us pray to the Lord."
 euLI.Key154.text = "And for every Christian soul that is afflicted and distressed, and in need of God’s mercy and help; for the return of those who have been led astray, the health of the sick, the liberation of prisoners, and the repose of our fathers, mothers and brethren who have gone to their rest before us, let us pray to the Lord."
-euLI.Key155.text = "For the forgiveness of our sins and the pardon of our offences, for our deliverance from all affliction, wrath, anger and constraint, and from the assault of nations, let us pray to the Lord."
+
 euLI.Key156.text = "More intensely, for favourable weather, peaceful rains, good dews, abundant harvests, fair seasons, and for the crowning of the year, let us pray to the Lord."
 euLI.Key157.text = "For our prayer to be heard and to be acceptable before God, and that he send down to us his rich mercies and acts of compassion, and for us all to be found worthy of his kingdom, let us fervently pray."
 euLI.Key158.text = "Commemorating our all holy, pure, most glorious and blessed Lady, Mother of God and Ever-Virgin Mary, of the holy and blessed John, the glorious Prophet, Forerunner and Baptist, of the holy Apostles, of Stephen the Archdeacon and Protomartyr, of Moses, Aaron , Elias, Elissaios, Samuel, David, Daniel, the Prophets and of the Holy and Just, that by their prayers and intercessions we may all find mercy."
@@ -174,16 +174,16 @@ euLI.Key172.text = "And unveiling the coverings of the mysteries which in symbol
 euLI.Key174.text = "Let us stand with awe. Let us stand devoutly. Let us stand with fear of God and with compunction. Let us attend, that we may offer the holy oblation to God in peace."
 euLI.Key175.text = "Mercy, peace, a sacrifice of praise."
 euLI.Key176.text = "The love of God the Father, the grace of our Lord and God and Saviour Jesus Christ, and the communion and gift of the Holy Spirit, be with you all."
-euLI.Key177.text = "And with your spirit."
+
 euLI.Key178.text = "Let our mind and hearts be on high."
-euLI.Key179.text = "We have them with the Lord."
-euLI.Key180.text = "Let us give thanks to the Lord."
-euLI.Key181.text = "It is right and fitting."
+
+
+
 euLI.Key182.rubric = "Priest, bowing, says in a low voice:"
 euLI.Key183.text = "Truly it is right and fitting, proper and necessary, to praise you, to hymn you, to bless you, to worship you, to glorify you, to give thanks to you, Fashioner of every creature, visible and invisible, the Treasury of the eternal good things, the Source of life and immortality, the God and Master of all, whose praise is sung by the heavens and the heavens of heavens and all their powers, the sun and the moon and the whole choir of stars, earth, sea and all that they contain; the heavenly Jerusalem, festival of the chosen, church of the first-born, who are inscribed in heaven; spirits of the Just and of Prophets, souls of Martyrs and Apostles; Angels, Archangels, Thrones, Dominions, Principalities, Authorities and dread Powers, the many-eyed Cherubim and the six-winged Seraphim, that with two wings cover their faces, with two their feet and with two they fly, as they cry out to one another with unceasing voices and with never silent hymns of glory,"
 euLI.Key184.text = "with radiant voices singing the triumphant hymn of your majestic glory, shouting, glorifying, crying aloud and saying."
 
-euLI.Key186.text = "Holy, holy, holy, Lord, Sabaoth. Heaven and earth are full of your glory. Hosanna in the highest. Blessed is he who came and who comes in the name of the Lord. Hosanna in the highest."
+
 
 euLI.Key188.rubric = "Priest (standing and signing the holy things) says in a low voice:"
 euLI.Key189.text = "Holy are you, King of the ages, Lord and giver of all holiness. Holy too is your only-begotten Son, our Lord and Saviour Jesus Christ, through whom you made all things. Holy too is your all-holy Spirit, who searches all things, and your depths, God and Father. Holy are you, all-powerful, fearsome, good, tender-hearted, compassionate to what you fashioned. You made humankind from earth, according to your image and likeness, granting it the enjoyment of Paradise. But when it transgressed your commandment and fell away, you do not forsake or abandon it, O Good One, but chastened it as a compassionate Father, called it through the Law, tutored it through the Prophets. Finally you sent your only-begotten Son, our Lord Jesus Christ, forth into the world, to come and renew and raise up your image. He came down from heaven and was incarnate from the Holy Spirit and Mary the holy Ever-Virgin and Mother of God, lived among mortals and disposed all things for the salvation of our race. When he, the one without sin, was about to accept for us sinners his voluntary and life-giving death through a cross, on the night he was given up, or rather gave himself up, for the life and salvation of the world,"
@@ -233,7 +233,7 @@ euLI.Key232.text = "Remember, Lord, the priests present with us at this holy tim
 euLI.Key233.text = "Remember, Lord, also according to the multitude of your mercy and acts of compassion, me, your lowly, sinful and unworthy servant, and visit me with mercy and compassion. Deliver and free me from those who persecute me, Lord, Lord of Powers. And though sin has multiplied in me, your grace will abound even more."
 euLI.Key234.text = "Remember, Lord, the deacons who stand round your holy altar and them a life without reproach, preserve their diaconate unstained and grant them good standing."
 euLI.Key235.text = "Remember, Lord, the holy city of you our God, the queen of cities, every city, town and village, and those who with Orthodox faith and devotion dwell in them, and their peace and security."
-euLI.Key236.text = "[govenment]"
+euLI.Key236.text = "Remember, Lord, every rule and authority, whom you have set to rule on the earth. Grant them deep and untroubled peace; speak good things to their heart for your Church and for all your people; so that by their tranquillity we may pass our life in quiet and calm, in all piety and holiness." //adapted from Basil Liturgy
 euLI.Key237.text = "Remember, Lord, those who travel by land, sea and air, Christians who live far from home, those in bondage and prisons, those in captivity and exile, those in mines and in tortures and bitter slavery, our fathers, mothers and brethren, and a peaceful return for each of them to their own homes."
 euLI.Key238.text = "Remember, Lord, those in old age and incapacity, the sick, the suffering, those troubled by unclean spirits, and for their speedy healing from God and for their safety and salvation."
 euLI.Key239.text = "Remember, Lord, every Christian soul that is afflicted and distressed, and in need of God’s mercy and help, and the return of those who have been led astray."
@@ -245,7 +245,7 @@ euLI.Key244.rubric = "And he commemorates those whom he wishes of the living."
 euLI.Key245.text = "Remember, Lord, our parents, friends, relatives and brethren NN."
 euLI.Key246.text = "All these Orthodox remember, Lord, those we have remembered and those we have not. Give them heavenly things in return for things earthly, incorruptible for corruptible, everlasting for temporary, in accordance with the promise of your Christ, for you have the authority of life and death."
 euLI.Key247.text = "Also be pleased to remember, Lord, those who have been well-pleasing to you from the beginning of time, generation by generation, holy Fathers, Mothers, Patriarchs, Prophets, Apostles, Martyrs, Confessors, Teachers, Ascetics, and every righteous spirit, made perfect in faith."
-euLI.Key248.text = "Hail, full of grace, the Lord is with you. Blessed are you among women, and blessed is the fruit of your womb, for you gave birth to the Saviour of our souls."
+euLI.Key248.text = "[Remember, Lord, the Archangel's exclamation:] Hail, full of grace, the Lord is with you. Blessed are you among women, and blessed is the fruit of your womb, for you gave birth to the Saviour of our souls."
 euLI.Key249.text = "Especially our all-holy and blessed, immaculate Lady, Mother of God and Ever-Virgin Mary,"
 euLI.Key250.text = "Remember, Lord, our God."
 
@@ -266,24 +266,24 @@ euLI.Key264.text = "Having asked for the unity of the faith and the communion of
 euLI.Key266.rubric = "The Priest, bowing, says in a low voice:"
 euLI.Key267.text = "O God and Father of our Lord and God and Saviour, Jesus Christ, the Lord whose name is exalted, the blessed nature, the unstinted goodness, the God and Master of all things, the One who Exists, blessed to the ages of ages, enthroned upon the Cherubim, glorified by the Seraphim, before whom stand thousands and thousands, and tens of thousands of armies Angels and Archangels, accept as sweet fragrance the gifts, offerings and fruits here presented to you, by the grace of your Christ and the visitation of your all-holy Spirit. Sanctify also, Master, our souls and bodies and spirits. Touch our minds and search out our consciences. Cast out from us every evil thought, every impure idea, every base desire and memory, every unseemly word, all envy, pride and hypocrisy, every lie, every deceit, every worldly temptation, all greed, all vainglory, all wickedness, all wrath, all anger, all malice, all blasphemy, and all sloth, every movement of flesh and spirit that is alien to the will of your holiness."
 euLI.Key268.text = "And count us worthy, Master, Lord who love humankind, with boldness and without condemnation, with a pure heart, enlightened soul, face unashamed, lips that are sanctified to dare to call upon you, the holy God in heaven, as Father, and to say:"
-//Lord's Prayer
+
 euLI.Key270.rubric = "Priest, in a low voice: "
 euLI.Key271.text = "And do not lead us into temptation that we cannot endure, Lord, Lord of powers, who know our weakness, but deliver us from the evil one and from his works, and from all his influence and guile, for the sake of your holy Name, that has been invoked upon our lowliness."
-euLI.Key272.text = "For yours is the Kingdom, the power and the glory, of the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages."
+
  
 euLI.Key274.rubric = "Priest (bows, and in a low voice):"
 euLI.Key275.text = "We, your servants, Lord, have bowed our necks to you before your holy altar, awaiting rich mercies from you. Send forth to us now, Master, your rich grace and blessing, and sanctify our souls and bodies and spirits, that we may become worthy communicants and partakers of your holy mysteries for forgiveness and everlasting life."
 euLI.Key276.text = "For you, our God, are to be worshipped and glorified, with your only-begotten Son and your all-holy Spirit, now and for ever, and to the ages of ages."
 euLI.Key277.rubric = "(aloud)"
 euLI.Key278.text = "And the grace and mercies of the holy, consubstantial, uncreated, indivisible and adored Trinity shall be with us all."
-euLI.Key279.text = "And with your spirit."
+
 euLI.Key280.text = "Let us attend."
 euLI.Key281.rubric = "The Priest signs and raises the Bread, saying in a low voice:"
 euLI.Key282.text = "Holy Lord, who rest in the holy place, make us holy by the word of your grace and the coming of your all-holy Spirit. For you said, Master , ‘Be holy, because I, the Lord your God, am holy’."
 euLI.Key283.rubric = ""
 euLI.Key284.text = "God beyond understanding, Word, consubstantial with the Father and the Holy Spirit, co-eternal and inseparable, accept from me, a sinner, with the Cherubim and Seraphim, this pure hymn among your holy sacrifices without shedding of blood, as I cry out and say:"
 
-euLI.Key286.text = "The Holy Things for the holy."
+
 
 euLI.Key288.text = "One is holy, one is Lord: Jesus Christ, to the glory of God the Father, with the Holy Spirit, to whom be glory to the ages of ages."
 
@@ -295,7 +295,7 @@ euLI.Key294.rubric = "Then he makes double parts for each of the clergy and dips
 euLI.Key295.text = "In the peace of the Lord let us sing."
 
 euLI.Key297.rubric = ""
-//Communion Hymn
+
 euLI.Key299.rubric = "And when he is about to communicate:"
 euLI.Key300.text = "Master, Christ our God, the heavenly Bread, the food of the whole world, I have sinned against heaven and before you, and I am not worthy to partake of your holy and immaculate mysteries. But through goodness and ineffable longsuffering, make me worthy, without condemnation and shame, to partake of your all-holy Body and your precious Blood for forgiveness of sins and everlasting life."
 
@@ -316,7 +316,7 @@ euLI.Key315.title = "The Prayer of Incense"
 euLI.Key316.text = "We thank you, Saviour, God of all things, for all the good things you have granted us, and for the communion of your holy and immaculate mysteries, and we offer you this incense, as we ask: Guard us under the shelter of your wings, and count us worthy even until our last breath to partake of your holy things, for the sanctification of our souls and bodies, and for inheritance of the kingdom of heaven, for you, O God, are our sanctification, and to you we give glory and thanksgiving, to the Father, the Son and the Holy Spirit."
 euLI.Key317.rubric = "Then the Priest says another"
 euLI.Key318.title = "Prayer of the Incense"
-euLI.Key319.text = "You have made us glad, O God, by union with you, and we offer you incense of gratitude, fruit of our lips, as we confess your grace. Let it ascend, O God, and not descend empty, but grant too the pure and lasting myron of the sweet fragrance of your all-holy Spirit. Fill our mouths with praise and our lips with gladness and our hearts with joy and delight in Christ Jesus our Lord, with whom you are blessed with your all-holy Spirit, now and for ever and to the ages of ages."
+euLI.Key319.text = "You have made us glad, O God, by union with you, and we offer you incense of gratitude, fruit of our lips, as we confess your grace. Let it ascend, O God, and not descend empty, but grant too the pure and lasting myron of the sweet fragrance of your all-holy Spirit. Fill our mouths with praise and our lips with gladness and our hearts with joy and delight in Christ Jesus our Lord, with whom you are blessed with your all-holy Spirit, now and for ever and to the ages of ages. Amen."
 
 euLI.Key321.text = "Again and again at all times, in peace let us pray to the Lord."
 euLI.Key322.text = "That the communion of his holy Gifts may become for us an averting of every evil thing, provision for the journey of eternal life, for the communion and gift of the Holy Spirit, let us pray."
