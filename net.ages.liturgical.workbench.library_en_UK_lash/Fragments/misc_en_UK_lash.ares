@@ -23,6 +23,7 @@ separator.emdash = " — "
 separator.endash = " – "
 separator.hyphen = " - "
 separator.pipe = " | "
+separator.slash = " / "
 
 vVerse = "Verse:"
 vVerse1 = "Verse 1:"
