@@ -11,6 +11,8 @@ Heirmologic = ""
 Idiomelon = "Idiomel"
 Prosomoion = ""
 
+bracket.open = "["
+bracket.close = "]"
 greekquotation.left = "«"
 greekquotation.right = "»"
 horizontal_line.dash1 = "----------"
