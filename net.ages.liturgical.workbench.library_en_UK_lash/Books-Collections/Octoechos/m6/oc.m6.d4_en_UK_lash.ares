@@ -43,7 +43,7 @@ ocVE.Aposticha3.text = "The Martyrs, Champions and citizens of heaven, having st
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.AposTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
-ocVE.AposTheotokion.text = "When she saw you crucified, O Christ, she who bore you cried out, 'What is the strange mystery I see, my Son? How are you, the giver of life, hanged in the flesh, dying on a Tree?"
+ocVE.AposTheotokion.text = "When she saw you crucified, O Christ, she who bore you cried out, 'What is the strange mystery I see, my Son? How are you, the giver of life, hanged in the flesh, dying on a Tree?" //When she saw you crucified, O Christ, she who bore you lamented and cried out as a mother: My Son and my God, my sweetest child, how do you bear shameful suffering?
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode6
 ocVE.ApolTheotokionVM.melody = ""
@@ -473,7 +473,7 @@ ocMA.Aposticha3.text = ""
 
 ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocMA.AposTheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
-ocMA.AposTheotokion.text = ""
+ocMA.AposTheotokion.text = "When the All-pure saw you hanging upon a cross, she lamented and cried out as a mother, 'My Son and my God, my sweetest child, how do you endure shameful suffering?'"
 
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode6
 ocMA.ApolTheotokion.melody = ""

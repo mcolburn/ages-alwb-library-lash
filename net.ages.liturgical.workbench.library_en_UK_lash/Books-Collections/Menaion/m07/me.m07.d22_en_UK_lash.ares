@@ -38,8 +38,8 @@ meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.text = oc.m6.d3_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode6
-meVE.SticStavrotheotokion.melody = ""
-meVE.SticStavrotheotokion.text = "When the All-pure saw you hanging upon a cross, she lamented and cried out as a mother, 'My Son and my God, my sweetest child, how do you endure shameful suffering?'"
+meVE.SticStavrotheotokion.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
+meVE.SticStavrotheotokion.text = oc.m6.d4_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode8
 meVE.Aposticha1.melody = he.a.m8_en_UK_lash.OTouParadoxou.notmetered
