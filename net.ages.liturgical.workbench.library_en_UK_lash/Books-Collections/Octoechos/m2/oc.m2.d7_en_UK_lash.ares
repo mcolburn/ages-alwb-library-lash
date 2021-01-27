@@ -553,6 +553,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "END OF TONE 2"
+ocBK.end.verse1.text = "Though only second place in rank you hold,"
+ocBK.end.verse2.text = "First pleasure falls to you of honeyed flow."
+ocBK.end.verse3.text = "Your melody, all honeyed and most sweet,"
+ocBK.end.verse4.text = "Cherishes bones and gives to hearts delight."
+ocBK.end.verse5.text = "The Sirens surely sang in second Mode,"
+ocBK.end.verse6.text = "So gently flows your song with honeyed drops."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode2

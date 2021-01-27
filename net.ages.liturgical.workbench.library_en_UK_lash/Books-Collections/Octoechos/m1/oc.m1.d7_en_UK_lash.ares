@@ -568,6 +568,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "FIRST MODE"
+ocBK.end.verse1.text = "The art of music marvels at your sounds,"
+ocBK.end.verse2.text = "Gives you the first place. Ah, how well deserved!"
+ocBK.end.verse3.text = "As you are called First Mode by music’s art,"
+ocBK.end.verse4.text = "First then be eulogised by us in words."
+ocBK.end.verse5.text = "O First, the first of beauties you obtain;"
+ocBK.end.verse6.text = "First prize you hold of all in every place."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode1
