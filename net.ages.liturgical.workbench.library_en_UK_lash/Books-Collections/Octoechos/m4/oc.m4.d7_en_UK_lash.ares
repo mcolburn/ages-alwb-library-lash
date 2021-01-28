@@ -566,6 +566,14 @@ ocLI.BeatitudesT.text = "The Word, whom the Father begot before the Morning Star
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "END OF TONE 4"
+ocBK.end.verse1.text = "A festal and a dancing tone, you bear"
+ocBK.end.verse2.text = "By musical opinion a fourth boast."
+ocBK.end.verse3.text = "Dancers you welcome, and you form them too,"
+ocBK.end.verse4.text = "To voices give the prize, on cymbals beat."
+ocBK.end.verse5.text = "You, the fourth Tone, as filled with melodies,"
+ocBK.end.verse6.text = "The serried lines of dancers eulogize."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode4

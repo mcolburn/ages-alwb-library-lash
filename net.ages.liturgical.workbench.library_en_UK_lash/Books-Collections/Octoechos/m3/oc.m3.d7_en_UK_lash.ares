@@ -559,6 +559,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "END OF TONE 3"
+ocBK.end.verse1.text = "Though third, yet to express brave manly toils,"
+ocBK.end.verse2.text = "Close neighbour of the first are you, O Third."
+ocBK.end.verse3.text = "Plain, simple, wholly masculine, O Third,"
+ocBK.end.verse4.text = "You are, and so we honour you, O Third."
+ocBK.end.verse5.text = "Source of a multitude of equal count, O Third,"
+ocBK.end.verse6.text = "You to a well-tuned multitude belong."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode3

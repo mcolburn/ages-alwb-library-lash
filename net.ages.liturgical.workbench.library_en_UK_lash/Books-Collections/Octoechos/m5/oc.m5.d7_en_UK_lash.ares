@@ -560,6 +560,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "END OF TONE 5"
+ocBK.end.verse1.text = "Mournful you are and greatly pitying,"
+ocBK.end.verse2.text = "But for the most part rhythmically you dance."
+ocBK.end.verse3.text = "O mind, which art with music has informed,"
+ocBK.end.verse4.text = "Which is the bent oblique of plagal tones?"
+ocBK.end.verse5.text = "Rank holds you fifth, but first of the unique,"
+ocBK.end.verse6.text = "And calls you so, O Plagal of the First."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode5
