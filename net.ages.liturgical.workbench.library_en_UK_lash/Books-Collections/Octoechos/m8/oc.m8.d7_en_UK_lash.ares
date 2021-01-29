@@ -563,6 +563,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "END OF TONE 8"
+ocBK.end.verse1.text = "Seal of the tones, O Plagal of the Fourth,"
+ocBK.end.verse2.text = "As bearing in yourself all fairest sounds."
+ocBK.end.verse3.text = "You broaden out the ranges of the songs,"
+ocBK.end.verse4.text = "The final flourish of the Tones, and end."
+ocBK.end.verse5.text = "As limit in both notes and voices’ pitch,"
+ocBK.end.verse6.text = "Limit of sound I call you twice, and end."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode8
