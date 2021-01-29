@@ -549,6 +549,14 @@ ocLI.BeatitudesT.text = ""
 
 ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
+ocBK.end.title = "END OF TONE 7"
+ocBK.end.verse1.text = "For regiments of hoplites a fit tune,"
+ocBK.end.verse2.text = "You take and bear the appellation grave."
+ocBK.end.verse3.text = "One who hates thoughts to be expressed with shouts"
+ocBK.end.verse4.text = "Loves the plain tone that bears the title grave."
+ocBK.end.verse5.text = "With manly song you murmur, second-third;"
+ocBK.end.verse6.text = "Though many-sided you have simple friends."
+
 //Octoechos in Triodion
 
 octrVE.Stichera1.mode = misc_en_UK_lash.Mode7
