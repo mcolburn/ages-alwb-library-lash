@@ -174,7 +174,7 @@ hoMA.ExapMon1.melody = misc_en_UK_lash.Automelon
 hoMA.ExapMon1.text = he.a.m3_en_UK_lash.OOuranonToisAstrois.text
 
 hoMA.ExapMonTh.mode = misc_en_UK_lash.Mode3
-hoMA.ExapMonTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoMA.ExapMonTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
 hoMA.ExapMonTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion1.text
 
 hoMA.ExapTueTitle = "On Tuesday"
@@ -183,7 +183,7 @@ hoMA.ExapTue1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
 hoMA.ExapTue1.text = da.d3_en_UK_lash.daMA.Exaposteilarion1.text
 
 hoMA.ExapTueTh.mode = misc_en_UK_lash.Mode3
-hoMA.ExapTueTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoMA.ExapTueTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
 hoMA.ExapTueTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion1.text
 
 hoMA.ExapWedFriTitle = "On Wednesday and Friday"
@@ -192,29 +192,29 @@ hoMA.ExapWedFri1.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
 hoMA.ExapWedFri1.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 hoMA.ExapWedFriTh.mode = misc_en_UK_lash.Mode3
-hoMA.ExapWedFriTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoMA.ExapWedFriTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
 hoMA.ExapWedFriTh.text = da.d6_en_UK_lash.daMA.ExapTheotokion2.text
 
 hoMA.ExapThuTitle = "On Thursday"
 hoMA.ExapThu1.mode = misc_en_UK_lash.Mode2
-hoMA.ExapThu1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+hoMA.ExapThu1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
 hoMA.ExapThu1.text = "Having sped to every place beneath the sun, you proclaimed the holy incarnation of Christ from a Virgin, truly turning the nations from error, enlightening them and teaching all to honour the holy Trinity, O Apostles of the Saviour. "
 
 hoMA.ExapThu2.mode = misc_en_UK_lash.Mode2
-hoMA.ExapThu2.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+hoMA.ExapThu2.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
 hoMA.ExapThu2.text = "Let us all praise the chief shepherd and high priest, Nicholas the leader of the people of Myra; for many men he saved who were to die unjustly; and he appeared to the King in a dream with Avlavios, abolishing the unjust decree." //me.m12.d06_en_UK_lash.meMA.Exaposteilarion1.text
 
 hoMA.ExapThuTh.mode = misc_en_UK_lash.Mode2
-hoMA.ExapThuTh.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
+hoMA.ExapThuTh.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
 hoMA.ExapThuTh.text = "Mary, censer of purest gold, having become the vessel of the uncontainable Trinity; in whom the Father was well-pleased, the Son dwelt, and the all-holy Spirit, having overshadowed you, showed you, O Maiden, to be Mother of God."
 
 hoMA.ExapSatTitle = "On Saturday"
 hoMA.ExapSat1.mode = misc_en_UK_lash.Mode3
-hoMA.ExapSat1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
+hoMA.ExapSat1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
 hoMA.ExapSat1.text = da.d7_en_UK_lash.daMA.Exaposteilarion2.text 
 
 hoMA.ExapSatTh.mode = misc_en_UK_lash.Mode2
-hoMA.ExapSatTh.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.name
+hoMA.ExapSatTh.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.incipit
 hoMA.ExapSatTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion2.text 
 
 R19 = ""

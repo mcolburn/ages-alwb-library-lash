@@ -30,15 +30,15 @@ peVE.SticGlory.melody = pe.d110_en_UK_lash.peVE.Aposticha1.melody
 peVE.SticGlory.text = pe.d110_en_UK_lash.peVE.Aposticha1.text
 
 peVE.Aposticha1.mode = misc_en_UK_lash.Mode2
-peVE.Aposticha1.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+peVE.Aposticha1.melody = he.a.m2_en_UK_lash.OteEkTouXylou.incipit
 peVE.Aposticha1.text = ""
 
 peVE.Aposticha2.mode = misc_en_UK_lash.Mode2
-peVE.Aposticha2.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+peVE.Aposticha2.melody = he.a.m2_en_UK_lash.OteEkTouXylou.incipit
 peVE.Aposticha2.text = ""
 
 peVE.Aposticha3.mode = misc_en_UK_lash.Mode2
-peVE.Aposticha3.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
+peVE.Aposticha3.melody = he.a.m2_en_UK_lash.OteEkTouXylou.incipit
 peVE.Aposticha3.text = ""
 
 peVE.AposGlory.mode = pe.d110_en_UK_lash.peVE.Stichera03.mode
@@ -46,7 +46,7 @@ peVE.AposGlory.melody = pe.d110_en_UK_lash.peVE.Stichera03.melody
 peVE.AposGlory.text = pe.d110_en_UK_lash.peVE.Stichera03.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode8
-peMA.Kathisma11.melody = he.a.m8_en_UK_lash.ToProstachthen.name
+peMA.Kathisma11.melody = he.a.m8_en_UK_lash.ToProstachthen.incipit
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.mode
@@ -54,15 +54,15 @@ peMA.Kathisma21.melody = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.melody
 peMA.Kathisma21.text = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.text
 
 peMA.Aposticha1.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_UK_lash.Mode2
-peMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+peMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_UK_lash.Mode5

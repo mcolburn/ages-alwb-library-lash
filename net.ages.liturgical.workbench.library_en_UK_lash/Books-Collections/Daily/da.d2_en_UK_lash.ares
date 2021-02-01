@@ -6,7 +6,7 @@ daCommemoration.text = ""
 daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onSundayEvening
 
 daVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
-daVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
+daVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.incipit
 daVE.Apolytikion1.text = me.m11.d08_en_UK_lash.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_en_UK_lash.Mode4

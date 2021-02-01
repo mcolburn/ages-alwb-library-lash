@@ -147,10 +147,10 @@ peMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
 peMA.PostGospelIdiomelon.text = ""
 
-peMA.C1Poet = poets_en_UK_lash.IoannouMonachou
+peMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 
-peMA.C2Poet = poets_en_UK_lash.IosifThessalonikis
-peMA.C2Acrostic.text = ""
+peMA.C2.poet = poets_en_UK_lash.IosifThessalonikis
+peMA.C2.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode5
@@ -162,22 +162,22 @@ peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode1C11.melody = he.h.m5_en_UK_lash.ToSotiriTheo.name
+peMA.Ode1C11.melody = he.h.m5_en_UK_lash.ToSotiriTheo.incipit
 peMA.Ode1C11.text = "All peoples, let us sing a song of victory to Christ who has been taken up with glory on the shoulders of the Cherubim, and seated us at the Father's right hand; for he has been glorified." 
 
 peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode1C12.melody = he.h.m5_en_UK_lash.ToSotiriTheo.name
+peMA.Ode1C12.melody = he.h.m5_en_UK_lash.ToSotiriTheo.incipit
 peMA.Ode1C12.text = "The choirs of Angels were astounded when they saw Christ, the mediator between God and humankind in the highest with his flesh, while with one voice they sang a hymn of victory." 
 
 peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode1C13.melody = he.h.m5_en_UK_lash.ToSotiriTheo.name
+peMA.Ode1C13.melody = he.h.m5_en_UK_lash.ToSotiriTheo.incipit
 peMA.Ode1C13.text = "To God, who appeared on mount Sinai and gave the law to Moses, who saw God, and who was taken up in the flesh from the mount of Olives, let us all sing; for he has been glorified" 
 
 peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode1C1T.melody = he.h.m5_en_UK_lash.ToSotiriTheo.name
+peMA.Ode1C1T.melody = he.h.m5_en_UK_lash.ToSotiriTheo.incipit
 peMA.Ode1C1T.text = "Immaculate Mother of God, without ceasing implore the God who was incarnate from you, yet did not depart from the bosom of his Begetter, to save from every calamity those whom he fashioned."
 
 peMA.Ode1C2H.ode = misc_en_UK_lash.Ode1
@@ -190,22 +190,22 @@ peMA.C2.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C21.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+peMA.Ode1C21.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 peMA.Ode1C21.text = "Immortal by nature, you arose on the third day and appeared to the Eleven and to all the Disciples, and riding on a cloud you hastened back to the Father, O Christ, Maker of the universe." 
 
 peMA.Ode1C22.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C22.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+peMA.Ode1C22.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 peMA.Ode1C22.text = "David, inspired by God, in his song cried out most plainly, 'The Lord has gone up to the heavenly places with a shout of joy and the blast of the trumpet, and come to the Father, source of light'." 
 
 peMA.Ode1C23.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C23.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+peMA.Ode1C23.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 peMA.Ode1C23.text = "When by your passion and your rising, Lord, you had made new a world grown old through many sins, you ascended, riding on a cloud, to the heavenly places. Glory to your glory!" 
 
 peMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C2T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+peMA.Ode1C2T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 peMA.Ode1C2T.text = "All-spotless Lady, you bore the Master of all, who accepted the voluntary passion and has gone back to his own Father; whom he had not left, even though he had taken flesh."
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
@@ -215,27 +215,27 @@ peMA.Ode3C1H.text = he.h.m5_en_UK_lash.DynameiTouStavrouSou.text
 
 peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode3C11.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.name
+peMA.Ode3C11.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.incipit
 peMA.Ode3C11.text = "O Christ, Giver of life, lover of humankind, you went up to the Father and exalted our race in your ineffable compassion." 
 
 peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode3C12.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.name
+peMA.Ode3C12.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.incipit
 peMA.Ode3C12.text = "The ranks of Angels, as they saw your mortal nature going up with you, O Saviour, were astounded and without ceasing sang your praise." 
 
 peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode3C13.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.name
+peMA.Ode3C13.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.incipit
 peMA.Ode3C13.text = "The choirs of Angels were amazed, O Christ, as they saw you being taken up with your body, and they sang the praise of your holy Assumption." 
 
 peMA.Ode3C14.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C14.mode = misc_en_UK_lash.Mode5
-peMA.Ode3C14.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.name
+peMA.Ode3C14.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.incipit
 peMA.Ode3C14.text = "Human nature, which had fallen by corruption, you raised up, O Christ, and by your ascension you exalted and glorified us with yourself." 
 
 peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode3C1T.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.name
+peMA.Ode3C1T.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.incipit
 peMA.Ode3C1T.text = "Intercede unceasingly, pure Lady, with him who came forth from your womb, that those who praise you as Mother of God may be delivered from the deceit of the Devil."
 
 peMA.Ode3C2H.ode = misc_en_UK_lash.Ode3
@@ -245,22 +245,22 @@ peMA.Ode3C2H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
 
 peMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C21.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+peMA.Ode3C21.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 peMA.Ode3C21.text = "Lift up the heavenly gates, for see, Christ the King and Lord, wearing his earthly body, is at hand, said the powers below to those above." 
 
 peMA.Ode3C22.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C22.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+peMA.Ode3C22.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 peMA.Ode3C22.text = "When you had sought out Adam, who had been led astray by the deceit of the serpent, O Christ, as you had clothed yourself in him, you ascended and took your seat as equal sovereign on the Father's right hand, while the Angels sang your praise." 
 
 peMA.Ode3C23.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C23.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+peMA.Ode3C23.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 peMA.Ode3C23.text = "The earth keeps festival and dances, and heaven rejoices at the Assumption today of the maker of creation, who by his will has clearly united things which were separated." 
 
 peMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C2T.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+peMA.Ode3C2T.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 peMA.Ode3C2T.text = "All-pure Virgin mother, who gave birth to the Destroyer of death, the only immortal God, ever implore him to slay the passions which have put me to death and save me."
 
 peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
@@ -274,22 +274,22 @@ peMA.Ode4C1H.text = he.h.m5_en_UK_lash.EisakikoaTinAkoin.text
 
 peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode4C11.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.name
+peMA.Ode4C11.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.incipit
 peMA.Ode4C11.text = "You were taken up in glory, King of the Angels, to send us the Advocate from the Father. And so we cry out: Glory, O Christ, to your Assumption!" 
 
 peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode4C12.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.name
+peMA.Ode4C12.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.incipit
 peMA.Ode4C12.text = "As the Saviour had ascended to the Father with his flesh, the hosts of Angels were struck with amazement, and cried out: Glory, O Christ, to your Assumption!" 
 
 peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode4C13.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.name
+peMA.Ode4C13.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.incipit
 peMA.Ode4C13.text = "The angelic Powers cried out to those above: Lift up the gates for Christ, our King; whose praise we sing, together with the Father and the Spirit." 
 
 peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode4C1T.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.name
+peMA.Ode4C1T.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.incipit
 peMA.Ode4C1T.text = "The Virgin gave birth, and did not know a mother's pangs; but Mother she is, while Virgin she remained. Singing her praise we cry: Hail, Mother of God!"
 
 peMA.Ode4C2H.ode = misc_en_UK_lash.Ode4
@@ -299,22 +299,22 @@ peMA.Ode4C2H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
 peMA.Ode4C21.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C21.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+peMA.Ode4C21.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 peMA.Ode4C21.text = "Jesus the Giver of life, taking those he loved, ascended the mount of Olives and blessed them and, riding on a cloud, he came to the Father's bosom, which he had never left." 
 
 peMA.Ode4C22.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C22.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+peMA.Ode4C22.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 peMA.Ode4C22.text = "The whole world, visible and invisible, keeps the feast with gladness; Angels and humans leap for joy as they glorify without ceasing the Assumption of the One who by his goodness was united to us in the flesh." 
 
 peMA.Ode4C23.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C23.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+peMA.Ode4C23.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 peMA.Ode4C23.text = "Having abolished the might of death as immortal Lord, you granted immortality to all, O Lover of humankind, and you were taken up in glory, as your revered Disciples watched you, Jesu all-powerful." 
 
 peMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C2T.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+peMA.Ode4C2T.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 peMA.Ode4C2T.text = "Blessed has your womb become, All-blameless Lady, for you were found worthy to contain beyond explanation the One who marvellously emptied the belly of Hell. Implore him to save us who sing your praise."
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
@@ -324,22 +324,22 @@ peMA.Ode5C1H.text = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.text
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode5C11.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.name
+peMA.Ode5C11.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C11.text = "When you had filled the universe with gladness, merciful Lord, you took your place with your flesh among the powers on high." 
 
 peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode5C12.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.name
+peMA.Ode5C12.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C12.text = "The angelic powers, as they saw you being lifted up, cried out: Lift up the gates for our King!" 
 
 peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode5C13.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.name
+peMA.Ode5C13.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C13.text = "The Apostles, as the saw the Saviour being raised up, cried out with fear: Glory to you, our King!" 
 
 peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode5C1T.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.name
+peMA.Ode5C1T.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C1T.text = "Mother of God, we praise you as Virgin after childbirth; for you bore for the world God the Word in flesh."
 
 peMA.Ode5C2H.ode = misc_en_UK_lash.Ode5
@@ -349,22 +349,22 @@ peMA.Ode5C2H.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
 
 peMA.Ode5C21.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C21.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+peMA.Ode5C21.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 peMA.Ode5C21.text = "When you had slain death by your death, Lord, you took those whom you loved and ascended the holy mount of Olives, and from there you hastened back to your Begetter, O Christ, riding on a cloud." 
 
 peMA.Ode5C22.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C22.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+peMA.Ode5C22.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 peMA.Ode5C22.text = "Strange was your Birth, strange your Resurrection, strange and fearful your divine Assumption from the mount, O Giver of life, of which Elias was an icon when he went up in a four-horse chariot, singing your praise, O Lover of humankind." 
 
 peMA.Ode5C23.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C23.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+peMA.Ode5C23.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 peMA.Ode5C23.text = "Angels spoke to the Apostles as they watched: Men of Galilee, why are you amazed at the Assumption of Christ the Giver of life? He will come again to earth to judge the whole world, as most just Judge." 
 
 peMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C2T.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+peMA.Ode5C2T.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 peMA.Ode5C2T.text = "O Mother of God, Christ, who kept you a virgin after His birth without corruption, goes up to the Father, from whom He never departed, even though from you He took flesh, endowed with mind and soul, in His ineffable mercy." // added by S Dedes
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
@@ -374,22 +374,22 @@ peMA.Ode6C1H.text = he.h.m5_en_UK_lash.EkykloseMeAvyssos.text
 
 peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode6C11.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.name
+peMA.Ode6C11.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.incipit
 peMA.Ode6C11.text = "On seeing the Creator lifted up on high today, the Apostles leaped for joy in hope of the Spirit, and in fear they cried: Glory to your ascent!" 
 
 peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode6C12.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.name
+peMA.Ode6C12.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.incipit
 peMA.Ode6C12.text = "The Angels came and cried out, O Christ, to your Disciples: In the way that you have seen Christ going up, he will come in the flesh as just Judge of all." 
 
 peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode6C13.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.name
+peMA.Ode6C13.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.incipit
 peMA.Ode6C13.text = "As the heavenly powers saw you, our Saviour, lifted up to the heights with your body, they cried out, saying: Great, Master, is your love for humankind." 
 
 peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode6C1T.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.name
+peMA.Ode6C1T.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.incipit
 peMA.Ode6C1T.text = "As Bush unburned, mountain, living ladder and heavenly gate, fittingly we glorify you, glorious Mary, boast of the orthodox."
 
 peMA.Ode6C2H.ode = misc_en_UK_lash.Ode6
@@ -399,22 +399,22 @@ peMA.Ode6C2H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
 
 peMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C21.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+peMA.Ode6C21.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 peMA.Ode6C21.text = "Let the clouds rain down for us eternal gladness from above; for Christ, riding on a cloud as on the Cherubim, today ascends to his Father." 
 
 peMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C22.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+peMA.Ode6C22.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 peMA.Ode6C22.text = "Appearing in the likeness of flesh, you brought together in one things that were formerly separated, O Lover of humankind; and as your Disciples watched you, O Merciful, you were taken up to the heavenly places." 
 
 peMA.Ode6C23.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C23.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+peMA.Ode6C23.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 peMA.Ode6C23.text = "Why are the garments red of the One who was united to the solidity of flesh? said the holy Angels, as they saw Christ bearing the divine marks of his precious passion." 
 
 peMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C2T.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+peMA.Ode6C2T.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 peMA.Ode6C2T.text = "Pure Maiden, we hymn your conceiving, we hymn your ineffable giving birth, through which we have been delivered from the destruction, the wickedness and the gloomy incarceration of Hell."
 
 peMA.Kontakion1.mode = misc_en_UK_lash.Mode6
@@ -450,27 +450,27 @@ peMA.Ode7C1H.text = he.h.m5_en_UK_lash.OEnKaminoPyros.text
 
 peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode7C11.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.name
+peMA.Ode7C11.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.incipit
 peMA.Ode7C11.text = "You were taken up on a cloud of light and saved the world; blessed are you the God of our fathers." 
 
 peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode7C12.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.name
+peMA.Ode7C12.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.incipit
 peMA.Ode7C12.text = "Lifting up on your shoulders the nature which had been led astray, O Christ, you were taken up and brought it to God the Father." 
 
 peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode7C13.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.name
+peMA.Ode7C13.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.incipit
 peMA.Ode7C13.text = "You ascended in the flesh to the bodiless Father; blessed are you the God of our fathers." 
 
 peMA.Ode7C14.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C14.mode = misc_en_UK_lash.Mode5
-peMA.Ode7C14.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.name
+peMA.Ode7C14.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.incipit
 peMA.Ode7C14.text = "Lifting up our nature which had been slain by sin, O Saviour, you brought it to your own Father." 
 
 peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode7C1T.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.name
+peMA.Ode7C1T.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.incipit
 peMA.Ode7C1T.text = "You were born from a Virgin, whom you made Mother of God; blessed are you the God of our fathers."
 
 peMA.Ode7C2H.ode = misc_en_UK_lash.Ode7
@@ -480,22 +480,22 @@ peMA.Ode7C2H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
 
 peMA.Ode7C21.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C21.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+peMA.Ode7C21.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 peMA.Ode7C21.text = "A cloud of light received you, Lord, who are light, as you were being taken up beyond understanding from earth; and heavenly multitudes with the Apostles praised you, saying, 'O God, blessed are you'." 
 
 peMA.Ode7C22.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C22.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+peMA.Ode7C22.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 peMA.Ode7C22.text = "Let us all gladly clap our hands at Christ's Assumption, and let us shout with joy, 'The Lord has gone up with the sound of the trumpet and, as equal in majesty with the Father, taken his seat on his right hand to the ages'." 
 
 peMA.Ode7C23.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C23.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+peMA.Ode7C23.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 peMA.Ode7C23.text = "Great Moses of old chanted and cried out: Let the Angels of heaven worship Christ as he ascends as King of all. To him we cry, 'Lord and God of our Fathers, blessed are you'." 
 
 peMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C2T.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+peMA.Ode7C2T.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 peMA.Ode7C2T.text = "O marvellous wonders! How did you, O full of God's grace, contain the uncontainable God, who made himself poor according to the flesh, and today with great glory has been taken up to heavenly places and given life to humankind."
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
@@ -505,22 +505,22 @@ peMA.Ode8C1H.text = he.h.m5_en_UK_lash.TonEkPatrosProAionon.text
 
 peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode8C11.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.name
+peMA.Ode8C11.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.incipit
 peMA.Ode8C11.text = "Christ, the giver of life, who rose in his two natures with glory to heaven and is now seated with the Father, you priests praise, you people highly exalt to all the ages." 
 
 peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode8C12.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.name
+peMA.Ode8C12.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.incipit
 peMA.Ode8C12.text = "Saviour, who redeemed creation from the slavery of idols and set it free before your own Father, we praise you and highly exalt you to all the ages." 
 
 peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode8C13.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.name
+peMA.Ode8C13.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.incipit
 peMA.Ode8C13.text = "The One who by his descent threw down the opponent and by his ascent exalted humankind, you priests praise, you people highly exalt to all the ages." 
 
 peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode8C1T.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.name
+peMA.Ode8C1T.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.incipit
 peMA.Ode8C1T.text = "You were revealed, pure Mother of God, as higher than the Cherubim, for you carried in your womb the One who rides upon them; whom with the bodiless powers we mortals glorify to all the ages."
 
 peMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
@@ -530,22 +530,22 @@ peMA.Ode8C2H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
 peMA.Ode8C21.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C21.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+peMA.Ode8C21.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 peMA.Ode8C21.text = "The Intelligences appeared to the Apostles at the Assumption and said, 'Why do you stand gazing and amazed? He who is ascending into heaven will also come again to judge humankind on earth, for he alone is judge'." 
 
 peMA.Ode8C22.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C22.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+peMA.Ode8C22.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 peMA.Ode8C22.text = "Let us give majesty to God; let us cry aloud with one accord; let us sing; let us dance and let us clap our hands. Our God has gone up from earth to heaven, as Angels and Archangels sing his praise as Master and Maker of all things." 
 
 peMA.Ode8C23.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C23.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+peMA.Ode8C23.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 peMA.Ode8C23.text = "Our nature, which of old had fallen, has been raised above the Angels and beyond understanding established on God's throne. Come, let us keep festival and let us cry out, 'You his works, praise the Lord, and highly exalt him to all the ages'." 
 
 peMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C2T.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+peMA.Ode8C2T.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 peMA.Ode8C2T.text = "See, Mother of God, your Son, having despoiled death by his Cross, rose on the third day, and having shown himself to his Disciples he has hastened to the heavenly places; as we worship you with him, we give praise and glory to all the ages."
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
@@ -555,27 +555,27 @@ peMA.Ode9C1H.text = he.h.m5_en_UK_lash.SeTinYperNoun.text
 
 peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C11.mode = misc_en_UK_lash.Mode5
-peMA.Ode9C11.melody = he.h.m5_en_UK_lash.SeTinYperNoun.name
+peMA.Ode9C11.melody = he.h.m5_en_UK_lash.SeTinYperNoun.incipit
 peMA.Ode9C11.text = "As they watched you, Christ God, the redeemer of the world, being divinely exalted, the Apostles, leaping for joy, magnified you with awe." 
 
 peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C12.mode = misc_en_UK_lash.Mode5
-peMA.Ode9C12.melody = he.h.m5_en_UK_lash.SeTinYperNoun.name
+peMA.Ode9C12.melody = he.h.m5_en_UK_lash.SeTinYperNoun.incipit
 peMA.Ode9C12.text = "As the Angels saw in the height your flesh now made divine, O Christ, they signalled to one another: Truly this is our God." 
 
 peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C13.mode = misc_en_UK_lash.Mode5
-peMA.Ode9C13.melody = he.h.m5_en_UK_lash.SeTinYperNoun.name
+peMA.Ode9C13.melody = he.h.m5_en_UK_lash.SeTinYperNoun.incipit
 peMA.Ode9C13.text = "As the ranks of bodiless powers, Christ God, saw you being lifted up on clouds, they cried: For the King of glory lift up the gates." 
 
 peMA.Ode9C14.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C14.mode = misc_en_UK_lash.Mode5
-peMA.Ode9C14.melody = he.h.m5_en_UK_lash.SeTinYperNoun.name
+peMA.Ode9C14.melody = he.h.m5_en_UK_lash.SeTinYperNoun.incipit
 peMA.Ode9C14.text = "As the One who descended into the lowest part of the earth, saved humankind and raised it up by your ascension, we magnify you." 
 
 peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1T.mode = misc_en_UK_lash.Mode5
-peMA.Ode9C1T.melody = he.h.m5_en_UK_lash.SeTinYperNoun.name
+peMA.Ode9C1T.melody = he.h.m5_en_UK_lash.SeTinYperNoun.incipit
 peMA.Ode9C1T.text = "
 Hail, Mother of God, Mother of Christ God; as today you saw the One you bore flying up from earth, with Angels you magnified him."
 
@@ -588,22 +588,22 @@ peMA.Ode9C2H.text = he.h.m4_en_UK_lash.ApasGigenis.text
 
 peMA.Ode9C21.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C21.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C21.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+peMA.Ode9C21.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 peMA.Ode9C21.text = "O gifts beyond understanding! O dread mystery! For the Master of all things, rising from earth to heaven, sent to his Disciples the Holy Spirit, who enlightened their minds and set them afire with grace." 
 
 peMA.Ode9C22.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C22.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C22.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+peMA.Ode9C22.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 peMA.Ode9C22.text = "To the band of Disciples the Lord said: Stay in Jerusalem, and I shall send you another Advocate, equal in majesty with the Father, and equal in honour with me, whom you see being taken up and riding upon a cloud of light." 
 
 peMA.Ode9C23.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C23.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C23.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+peMA.Ode9C23.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 peMA.Ode9C23.text = "The majesty of him who became poor in the flesh has been raised above the heavens and our fallen nature honoured by sitting with the Father. Let us keep festival and all cry aloud with one accord, and gladly clap our hands." 
 
 peMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C2T.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C2T.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+peMA.Ode9C2T.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 peMA.Ode9C2T.text = "The Light which shone from Light dawned from you, dispelled all the blackness of atheism and led to the light those who slept in night; and so, as is fitting, to the ages we ever call you blessed."
 
 peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2

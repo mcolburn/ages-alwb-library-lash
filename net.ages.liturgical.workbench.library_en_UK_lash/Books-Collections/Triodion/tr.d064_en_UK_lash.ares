@@ -163,8 +163,8 @@ trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 trMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
-trMA.C1Poet = poets_en_UK_lash.KosmaMonachou
-trMA.C1Acrostic.text = "of which the acrostic is:
+trMA.C1.poet = poets_en_UK_lash.KosmaMonachou
+trMA.C1.acrostic = "of which the acrostic is:
 Hosanna Christ, blessed God"
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -177,12 +177,12 @@ trMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C11.melody = he.h.m4_en_UK_lash.OfthisanAiPigai.name
+trMA.Ode1C11.melody = he.h.m4_en_UK_lash.OfthisanAiPigai.incipit
 trMA.Ode1C11.text = "From the mouth of innocent babes and sucklings, your own servants, you made sure of praise, to destroy the opponent and by the suffering of the Cross to avenge the fall of the old Adam; to raise him up through a tree as he sang a song of victory to you, O Lord."
 
 trMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C12.melody = he.h.m4_en_UK_lash.OfthisanAiPigai.name
+trMA.Ode1C12.melody = he.h.m4_en_UK_lash.OfthisanAiPigai.incipit
 trMA.Ode1C12.text = "The Church of the holy ones offers you praise, O Christ who dwell in Sion, while Israel rejoices in you his Maker, and mountains, types of the stony hearted nations exulted before your face, as they sang you a song of victory, O Lord."
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
@@ -192,12 +192,12 @@ trMA.Ode3C1H.text = he.h.m4_en_UK_lash.NaousanAkrotomon.text
 
 trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C11.melody = he.h.m4_en_UK_lash.NaousanAkrotomon.name
+trMA.Ode3C11.melody = he.h.m4_en_UK_lash.NaousanAkrotomon.incipit
 trMA.Ode3C11.text = "Trembling at your command Hell let go Lazarus, dead for four days, from among the dead. For you, O Christ, are resurrection and life on whom the Church has been established as she cries, 'Hosanna! Blessed are you who come'."
 
 trMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C12.melody = he.h.m4_en_UK_lash.NaousanAkrotomon.name
+trMA.Ode3C12.melody = he.h.m4_en_UK_lash.NaousanAkrotomon.incipit
 trMA.Ode3C12.text = "You peoples, sing in Sion in a manner fitting God, and offer a prayer to Christ in Jerusalem. He comes himself in glory with dominion, on whom the Church has been established as she cries, 'Hosanna! Blessed are you who come'."
 
 trMA.Hypakoe.mode = misc_en_UK_lash.Mode6
@@ -211,17 +211,17 @@ trMA.Ode4C1H.text = he.h.m4_en_UK_lash.ChristosOErchomenos.text
 
 trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C11.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.name
+trMA.Ode4C11.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.incipit
 trMA.Ode4C11.text = "Let the mountains and all the hills break forth into mighty rejoicing at mercy, and let the trees of the forest clap their hands. Praise Christ, you nations, and all you peoples praise him as you cry out, 'Glory to your power, O Lord!'"
 
 trMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C12.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.name
+trMA.Ode4C12.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.incipit
 trMA.Ode4C12.text = "The Lord who is king over the ages will come clothed in strength. The splendour of his beauty and glory is beyond compare in Sion. Therefore let us all cry out, 'Glory to your power, O Lord!'"
 
 trMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C13.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.name
+trMA.Ode4C13.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.incipit
 trMA.Ode4C13.text = "The Lord who measures Heaven in a span and earth in the hollow of his hand is here. For he chose Sion. In her he was pleased to dwell and reign over the peoples who cry out in faith, 'Glory to your power, O Lord!'"
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
@@ -231,12 +231,12 @@ trMA.Ode5C1H.text = he.h.m4_en_UK_lash.TinSionEpOrous.text
 
 trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C11.melody = he.h.m4_en_UK_lash.TinSionEpOrous.name
+trMA.Ode5C11.melody = he.h.m4_en_UK_lash.TinSionEpOrous.incipit
 trMA.Ode5C11.text = "God who is seated in the highest upon the Cherubim and looks upon lowly things comes himself in glory with dominion,. And all things will b filled with his divine praise. Peace upon Israel and salvation to the nations."
 
 trMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C12.melody = he.h.m4_en_UK_lash.TinSionEpOrous.name
+trMA.Ode5C12.melody = he.h.m4_en_UK_lash.TinSionEpOrous.incipit
 trMA.Ode5C12.text = "Sion, holy mountain of God, and Jerusalem lift your eyes round about and see your children gathered in you. For see, they have come from afar to worship your King. Peace upon Israel and salvation to the nations."
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
@@ -246,12 +246,12 @@ trMA.Ode6C1H.text = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.text
 
 trMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C11.melody = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.name
+trMA.Ode6C11.melody = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.incipit
 trMA.Ode6C11.text = "Israel, receive the kingdom of God. And the one who walks in darkness see the great light And let a people be made new through sprinkling with divine Blood."
 
 trMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C12.melody = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.name
+trMA.Ode6C12.melody = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.incipit
 trMA.Ode6C12.text = "Sion, send forth your prisoners who have been set free, and lead them out of the waterless pit of ignorance. And let the people be made new through sprinkling with divine Blood."
 
 trMA.Kontakion1.mode = misc_en_UK_lash.Mode6
@@ -287,17 +287,17 @@ trMA.Ode7C1H.text = he.h.m4_en_UK_lash.ODiasosasEnPyri.text
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C11.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.name
+trMA.Ode7C11.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.incipit
 trMA.Ode7C11.text = "With palms in their hands, the peoples bending their knees and rejoicing with the Disciples were crying, 'Hosanna to the Son of David. O Lord, highly exalted and God of our Fathers, blessed are you'."
 
 trMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C12.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.name
+trMA.Ode7C12.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.incipit
 trMA.Ode7C12.text = "The innocent multitude, being still in infancy, sang your praise in a manner fitting God, O King of Israel and of Angels. 'O Lord, highly exalted and God of our Fathers, blessed are you.'"
 
 trMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C13.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.name
+trMA.Ode7C13.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.incipit
 trMA.Ode7C13.text = "With branches of palms the multitudes greeted you, O Christ, and cried out, 'Blessed is he who has come, King of the ages. O Lord, highly exalted and God of our Fathers, blessed are you.'"
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
@@ -307,17 +307,17 @@ trMA.Ode8C1H.text = he.h.m4_en_UK_lash.EffranthitiIerousalim.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C11.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.name
+trMA.Ode8C11.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.incipit
 trMA.Ode8C11.text = "Mounted on a young colt, Christ your King is here, O Sion. For to abolish the irrational error of idols and restrain the untamed wilfulness of all nations, he is at hand that they may sing, 'O Lord, highly exalted and God of our Fathers, blessed are you'."
 
 trMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C12.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.name
+trMA.Ode8C12.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.incipit
 trMA.Ode8C12.text = "Rejoice greatly, daughter of Sion, Christ your God has reigned to the ages, for so it is written, on a colt our just Redeemer has come, meek and bringing salvation, to destroy the prancing arrogance of foes who do not sing, 'O Lord, highly exalted and God of our Fathers, blessed are you'."
 
 trMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C13.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.name
+trMA.Ode8C13.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.incipit
 trMA.Ode8C13.text = "The lawless Sanhedrin of disobedient men is scattered from the sacred precincts, for it had made God's house of prayer into a den of thieves, having banished the Redeemer from their hearts. To him we cry, 'O Lord, highly exalted and God of our Fathers, blessed are you'."
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
@@ -327,17 +327,17 @@ trMA.Ode9C1H.text = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.text
 
 trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C11.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.name
+trMA.Ode9C11.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C11.text = "Nations, why did you rage? Scribes and Priests, why did you meditate vain things, saying, 'Who is this, to whom Children with palms and branches shout aloud with hymns, 'Blessed is he who comes in the name of the Lord, our Saviour'?'"
 
 trMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C12.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.name
+trMA.Ode9C12.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C12.text = "This is our God and there is none like him. He has found out every just way and given it to Israel his beloved. But after this he appeared and lived among mankind. Blessed is he who comes in the name of the Lord, our Saviour."
 
 trMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C13.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.name
+trMA.Ode9C13.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C13.text = "Disobedient people, why do put stumbling blocks for us on the path? Your feet are swift to shed the blood of the Master. But he will arise to save all those who cry, 'Blessed is he who comes in the name of the Lord, our Saviour'."
 
 trMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2

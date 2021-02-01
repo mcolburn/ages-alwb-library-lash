@@ -150,32 +150,32 @@ meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 
-meMA.C1Poet = poets_en_UK_lash.IoannouMonachou
+meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 
-meMA.C2Poet = poets_en_UK_lash.IoannouMonachou
-meMA.C2Acrostic.text = "To the Leaders of the Bodiless Minds. In the Theotokia: By Clement."
+meMA.C2.poet = poets_en_UK_lash.IoannouMonachou
+meMA.C2.acrostic = "To the Leaders of the Bodiless Minds. In the Theotokia: By Clement."
 
 meMA.C1.title = titles_en_UK_lash.KanonATonAsomaton
 meMA.C1.verse = prayers_en_UK_lash.verse_Angels.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C11.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.name
+meMA.Ode1C11.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 meMA.Ode1C11.text = "All we believers, let us praise the uncreated Trinity which directs all the immaterial ranks of the choirs on high, as we cry out: Holy, Holy, Holy are you, O God Almighty."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C12.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.name
+meMA.Ode1C12.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 meMA.Ode1C12.text = "As the beginning of your creatures, O Maker, you set in place the bodiless nature of the Angels, encircling your immaculate throne, to cry to you: Holy, Holy, Holy are you, O God Almighty."
 
 meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C13.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.name
+meMA.Ode1C13.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 meMA.Ode1C13.text = "Hail Gabriel, revealer of God's incarnation, and Michael, leader of the immaterial ranks, who cry unceasingly: Holy, Holy, Holy are you, O God Almighty."
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.name
+meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 meMA.Ode1C1T.text = "Eve, the foremother, once made the human race subject to the curse by her transgression; but you, Virgin Bride of God, led the whole race to blessing, by giving birth to the Creator."
 
 meMA.C2.title = titles_en_UK_lash.KanonBTonAsomaton
@@ -183,62 +183,62 @@ meMA.C2.verse = prayers_en_UK_lash.verse_Angels.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C21.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C21.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C21.text = "Come, as we join the dance, let us praise in songs the spiritual choirs of the bodiless ranks as Ministers of God, who tirelessly intercede for our salvation, and rejoice at our repentance."
 
 meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C22.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C22.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C22.text = "The princes and leaders, and shining captains of the Angels today rouse the bodiless Minds to a festive celebration of their bright memory, with whom mankind rejoices, as it brings a hymn to the Trinity."
 
 meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C23.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C23.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C23.text = "Let us mortals be glad together with the Angels, with spiritual joy; now Gabriel again brings the good news, the union of the Churches and the removal of every hostile heresy, on the coming of their commemoration."
 
 meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C2T.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+meMA.Ode1C2T.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C2T.text = "Immaculate one, you bore the Father's Word, who dwelt supernaturally in you, by the Holy Spirit; being in two natures and wills, but in one person without change, whose form we kiss in greeting."
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C11.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.name
+meMA.Ode3C11.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.incipit
 meMA.Ode3C11.text = "With strength, O Immortal, you established mighty beings to accomplish your all-holy will, who ever stand before you in the highest."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C12.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.name
+meMA.Ode3C12.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.incipit
 meMA.Ode3C12.text = "Accept the leaders of the Angels, the initiates of your incarnation and of your hallowed rising, O Christ, as they intercede on our behalf."
 
 meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C13.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.name
+meMA.Ode3C13.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.incipit
 meMA.Ode3C13.text = "In your compassion, O Christ, you have placed Angels as guardians of mankind, and made them the ministers of the salvation of your servants."
 
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.name
+meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.TonFovonSouKyrie.incipit
 meMA.Ode3C1T.text = "Ineffably, O Bride of God, you conceived the Lord, the Saviour who redeems from dangers us who call on you in truth."
 
 meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C21.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C21.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C21.text = "First of the Angels and second light after the Trinity, Prince Michael, you have appeared to us who praise you faithfully."
 
 meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C22.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C22.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C22.text = "Gabriel faithfully dazzled the whole earth with the ray of divine grace when he announced the descent of God in the body."
 
 meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C23.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C23.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C23.text = "Famed couple, radiant immaterial pair, show those who faithfully celebrate your memory to be God's lights."
 
 meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C2T.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
+meMA.Ode3C2T.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C2T.text = "Isaias sang your conceiving beyond understanding, O Pure one; I sing it too, that I may share his cleansing."
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
@@ -251,122 +251,122 @@ meMA.Ode3KathismaT.text = oc.m8.d1_en_UK_lash.ocMO.Kathisma22.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C11.melody = he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C11.melody = he.h.m8_en_UK_lash.EpevisEfIppous.incipit
 meMA.Ode4C11.text = "You mounted upon Angels, as upon horses, Lover of mankind, and took their reins in your hands, and your riding became salvation for those who ceaselessly cry out to you: Glory to your power, O Lord."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C12.melody = he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C12.melody = he.h.m8_en_UK_lash.EpevisEfIppous.incipit
 meMA.Ode4C12.text = "Your virtue covers Angels, Lover of mankind, and the ends of the earth are full of your glorious, divine praise, O Unoriginate, which with the Angels cries out to you: Glory to your power, O Lord."
 
 meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C13.melody = he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C13.melody = he.h.m8_en_UK_lash.EpevisEfIppous.incipit
 meMA.Ode4C13.text = "You came forth, O merciful Christ, for the salvation of your people; you summon with you your beloved Powers and your Coming is joy for those who cry out to you in faith: Glory to your power, O Lord."
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.EpevisEfIppous.name
+meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.EpevisEfIppous.incipit
 meMA.Ode4C1T.text = "O All-pure, you were seen to be Virgin and Mother, for you bore Christ, God himself and man, to whom the ranks of Angels cry with fear: Glory to your power, O Lord."
 
 meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C21.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C21.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C21.text = "As Jesus son of Navi warred of old against Jericho, the Chief Captain of power appeared to him, great Michael, victor and champion, the leader of the Bodiless Powers; receiving strength from him, the servant of the Lord took the citadel captive."
 
 meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C22.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C22.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C22.text = "A Prince of the bodiless Powers, great Gabriel, truly the great Archangel, once appeared to Zachary the priest bearing the good tidings of a child; and so when John, the voice of the Word, was born he gave his father back his voice."
 
 meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C23.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C23.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C23.text = "All the ends of the earth rejoice with joy today, as they celebrate the sacred memory of your Archangels, O God, of godlike Michael and of Gabriel, inspired by God; and the whole order of Angels rejoices with them, because the world is saved by their protection."
 
 meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C2T.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+meMA.Ode4C2T.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C2T.text = "You alone are pure even after child-birth; you alone were seen, though unwedded, giving suck to the true Word of God when, by the Holy Spirit, he had taken the form of a servant that is ours, O Virgin Mother of God; as we honour his appearing, we reverence the likeness of his form."
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C11.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.name
+meMA.Ode5C11.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.incipit
 meMA.Ode5C11.text = "Ever borne with unalterable longing towards the steep ascent, towards you, O Christ, the summit of all desires, the angelic Powers ceaselessly glorify you."
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C12.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.name
+meMA.Ode5C12.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.incipit
 meMA.Ode5C12.text = "O Christ, you have established singers of your greatness, spiritual in their nature, imperishable by your grace; you have created your Angels in your image, O Incomprehensible."
 
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C13.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.name
+meMA.Ode5C13.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.incipit
 meMA.Ode5C13.text = "You have kept your ministers, O Christ, from swerving to the worse, by their closeness to you; for you are the source of goodness, who make good those who fittingly worship you."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.name
+meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.TonEkNyktosAgnosias.incipit
 meMA.Ode5C1T.text = "Alone Virgin after childbirth, pure and unwedded, Mary immaculate, bring us to anchor in your haven, guiding us from dangers towards eternal salvation."
 
 meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C21.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C21.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 meMA.Ode5C21.text = "To Balaam the seer who of old do not believe the ineffable and divine marvels of God, the Angel, by appearing to the ass in the narrow lane, brought fearful reproof, and by showing the beast to be rational altered the signs of nature."
 
 meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C22.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C22.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 meMA.Ode5C22.text = "To Peter, imprisoned and waiting in gaol, God's Angel appeared delivering him from Herod's hands, and from bonds and from death; and so let us all honour the wise Archangels as God-inspired guardians of our souls."
 
 meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C23.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C23.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 meMA.Ode5C23.text = "Angels, Archangels, God's divine Powers, abolish the upheavals of wars, and the heresies and all the scandals of the Church by your constant entreaties to God, and keep us in peace."
 
 meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C2T.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+meMA.Ode5C2T.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 meMA.Ode5C2T.text = "We know you to be one God of creation in two natures, unconfused in both modes of action and both wills, the Son of God who took flesh from a woman, whose image we honour in pictures."
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C11.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.name
+meMA.Ode6C11.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.incipit
 meMA.Ode6C11.text = "As befits God, O Lord, you brought out of nothing by your word the natures of the immortal, heavenly hosts, creating them with forms of light."
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C12.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.name
+meMA.Ode6C12.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.incipit
 meMA.Ode6C12.text = "O Bodiless Powers, you have become honoured initiates of God's praise, citizens of the heavenly and truly divine tabernacle, as you fittingly adore the Maker."
 
 meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C13.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.name
+meMA.Ode6C13.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.incipit
 meMA.Ode6C13.text = "Son of God before all eternity, the spiritual ranks of the Bodiless ones praise you unceasingly, and glorify you as Maker and Creator of the universe."
 
 meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.name
+meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.incipit
 meMA.Ode6C1T.text = "O Immaculate, you were worthy to cradle in your arms the One who is seated eternally with the Father in the highest. Give him to us your servants, O Pure one, in your mercy."
 
 meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C21.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C21.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C21.text = "Flying upward in mind from the corruption of matter, let us in fear with lips of matter honour in songs the immaterial Bodiless Powers as beings of fire and flame and light."
 
 meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C22.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C22.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C22.text = "Put to death, O Archangels, the assaults of the passions, and with them bring to an end all the scandals of the faith, O Holy ones formed of fire, the Chief Captains of the Trinity."
 
 meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C23.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C23.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C23.text = "Archangels of God, leaders of the Bodiless hosts, by your freedom to speak save us from every heresy, Michael the Prince and Gabriel, the Chief Captains."
 
 meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C2T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+meMA.Ode6C2T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C2T.text = "Willingly, O Christ, you appeared in flesh from a womb that did not know wedlock as God without flesh, but as man you bore flesh; the form of whose likeness we the faithful honour."
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
@@ -377,122 +377,122 @@ meMA.Oikos1.text = "You said in the Scriptures, Lover of mankind, that the multi
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C11.melody = he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C11.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
 meMA.Ode7C11.text = "Tens thousand ministering Angels stand unceasingly before him, unable to bear the sight of his countenance, as they cry: Blessed are you, Lord God!"
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C12.melody = he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C12.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
 meMA.Ode7C12.text = "You have shown, O Merciful, that the immaterial substances of the Angels are lights, filled with the ineffable light, who cry out unceasingly: Blessed are you, Lord God, to the ages."
 
 meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C13.melody = he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C13.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
 meMA.Ode7C13.text = "Having created the multitude of Angels by your consubstantial Word, and hallowed them with the divine Spirit, you have taught them to praise the Trinity, God to the ages."
 
 meMA.Ode7C1Tr.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1Tr.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C1Tr.melody = he.h.m8_en_UK_lash.PaidesEvraion.name
+meMA.Ode7C1Tr.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
 meMA.Ode7C1Tr.text = "Keeping in mind three Persons, we glorify an infinite Essence, the Father, the Son and the Spirit, as we cry out: Blessed are you, Lord God, to the ages."
 
 meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C21.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+meMA.Ode7C21.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C21.text = "With choirs of Bodiless Powers, come race of mortals, let us clap our hands as we celebrate the auspicious day of the memorial of the wise Archangels of Christ, crying out: Blessed are you, O God of our Fathers."
 
 meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C22.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+meMA.Ode7C22.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C22.text = "Of old, as friends of strangers, Abraham who saw God and glorious Lot welcomed Angels and have found fellowship with Angels as they cry: O God of our Fathers, blessed are you."
 
 meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C23.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+meMA.Ode7C23.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C23.text = "Angels appeared to noble Manoe and to all-wise Tobit, bringing them the rewards of a worthy life; and the Angel of the three Youths once truly quenched the furnace's flame of fire."
 
 meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C2T.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
+meMA.Ode7C2T.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C2T.text = "Jesus, like the Fathers we proclaim that you took our whole nature from a Virgin without change, double in natures, but one in person; whose form we depict and faithfully reverence."
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C11.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C11.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 meMA.Ode8C11.text = "Let us rival the Angels' life and wing our minds on high, and immaterially raise the song with them, praising the Lord and highly exalting him to all the ages."
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C12.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C12.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 meMA.Ode8C12.text = "The Angels, worshippers of the heavenly choir, circling the throne of glory and ever wheeling about God, praise and highly exalt him to the ages."
 
 meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C13.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C13.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 meMA.Ode8C13.text = "The Trinity that makes a flame of fire those who minister unceasingly in the heights, and shows the Angels to be spirits, let us worship and glorify to all the ages."
 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 meMA.Ode8C1T.text = "The One before whom in heaven tens of thousands of Angels and Archangels trembling stand you were worthy to carry in your arms; implore him, Mother of God, that we may be saved, who glorify him to the ages."
 
 meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C21.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C21.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C21.text = "Michael the Archangel is Prince of Angels; but resplendently glorified with him is the initiate of grace and the Virgin's honoured suitor, the Captain of the Bodiless hosts, Gabriel who fittingly announces joy to those who cry: You people, highly exalt Christ to the ages."
 
 meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C22.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C22.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C22.text = "Ezekiel saw the ranks of Angels in varied form and in his opening proclaimed: Among them stand the six-winged Seraphim, and the many-eyed Cherubim circle round. With them he saw the Archangels shining like amber as they glorified Christ to all the ages."
 
 meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C23.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C23.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C23.text = "Daniel clearly foretold how fearful would be the arrival of your second coming down when he proclaimed how thrones were placed, and an Ancient took his seat; and he speaks of tens of thousands of Angels who stand around in fear and cry out to the Trinity with never silent voices to all the ages."
 
 meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C2T.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.name
+meMA.Ode8C2T.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C2T.text = "The Word, consubstantial with the Father and the Spirit, willingly appeared from the Virgin with the same form as us, not mingling the elements of the dread union; for he is shown to be one in both, in the two natures and one person; the image of whose likeness we now worship."
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C11.melody = he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C11.melody = he.h.m8_en_UK_lash.OrousParilthes.incipit
 meMA.Ode9C11.text = "Christ, who united the things of earth with those of heaven, and brought to completion one Church of Angels and of mortals, we unceasingly magnify you."
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C12.melody = he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C12.melody = he.h.m8_en_UK_lash.OrousParilthes.incipit
 meMA.Ode9C12.text = "Angels and Archangels, Thrones, Virtues and Dominations, Principalities and Powers, Cherubim and Seraphim, with the Mother of God, intercede on behalf of the world."
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C13.melody = he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C13.melody = he.h.m8_en_UK_lash.OrousParilthes.incipit
 meMA.Ode9C13.text = "Michael with Gabriel, shown as champions of all, watch over those who honour with longing and who hymn with faith your all-festive memory, and save them from every danger."
 
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.OrousParilthes.name
+meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.OrousParilthes.incipit
 meMA.Ode9C1T.text = "O Virgin, you received the eternal Word, when he wished to refashion my nature, and you gave birth to him incarnate; therefore, Mother of God, we unceasingly magnify you."
 
 meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C21.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+meMA.Ode9C21.melody = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C21.text = "First of the Bodiless ones, Michael and Gabriel, you have appeared as champions for the salvation of those in sickness and on sea, and of those in need."
 
 meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C22.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+meMA.Ode9C22.melody = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C22.text = "Dancing with the choirs of Powers and Thrones, as Captain of the Angels and initiate of God, O Gabriel, intercede for us to the Saviour."
 
 meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C23.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C23.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+meMA.Ode9C23.melody = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C23.text = "As guardians of the world and of the Church, and Commanders of the Powers on high, implore the Saviour on our behalf."
 
 meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C2T.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C2T.melody = he.h.m8_en_UK_lash.KyriosTheotokon.name
+meMA.Ode9C2T.melody = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C2T.text = "Harmoniously, Mother of God, we glorify you, for you deliver us from passions and from dangers, and you fulfil our entreaties for good things."
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3

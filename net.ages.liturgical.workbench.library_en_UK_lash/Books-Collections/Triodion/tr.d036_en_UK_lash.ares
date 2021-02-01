@@ -14,15 +14,15 @@ trHO.note2 = ""
 trDismissal = dismissals_en_UK_lash.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_UK_lash.Mode2
-trVE.Stichera01.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+trVE.Stichera01.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.incipit
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = misc_en_UK_lash.Mode2
-trVE.Stichera02.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+trVE.Stichera02.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.incipit
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = misc_en_UK_lash.Mode2
-trVE.Stichera03.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.name
+trVE.Stichera03.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.incipit
 trVE.Stichera03.text = ""
 
 trVE.SticGlory.mode = misc_en_UK_lash.Mode6
@@ -62,114 +62,114 @@ trMA.C1.verse = prayers_en_UK_lash.verse_SaintM.text
 
 trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C11.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+trMA.Ode1C11.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 trMA.Ode1C11.text = ""
 
 trMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C12.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+trMA.Ode1C12.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 trMA.Ode1C12.text = ""
 
 trMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C13.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+trMA.Ode1C13.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 trMA.Ode1C13.text = ""
 
 trMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C1T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+trMA.Ode1C1T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 trMA.Ode1C1T.text = ""
 
 trMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C11.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+trMA.Ode3C11.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 trMA.Ode3C11.text = ""
 
 trMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C12.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+trMA.Ode3C12.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 trMA.Ode3C12.text = ""
 
 trMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C13.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+trMA.Ode3C13.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 trMA.Ode3C13.text = ""
 
 trMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C1T.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+trMA.Ode3C1T.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 trMA.Ode3C1T.text = ""
 
 trMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
-trMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
+trMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.TachyProkatalave.incipit
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode4
-trMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
+trMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.TachyProkatalave.incipit
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C11.melody = he.h.m4_en_UK_lash.TinAnexichniaston.name
+trMA.Ode4C11.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
 trMA.Ode4C11.text = ""
 
 trMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C12.melody = he.h.m4_en_UK_lash.TinAnexichniaston.name
+trMA.Ode4C12.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
 trMA.Ode4C12.text = ""
 
 trMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C13.melody = he.h.m4_en_UK_lash.TinAnexichniaston.name
+trMA.Ode4C13.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
 trMA.Ode4C13.text = ""
 
 trMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C1T.melody = he.h.m4_en_UK_lash.TinAnexichniaston.name
+trMA.Ode4C1T.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
 trMA.Ode4C1T.text = ""
 
 trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C11.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+trMA.Ode5C11.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 trMA.Ode5C11.text = ""
 
 trMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C12.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+trMA.Ode5C12.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 trMA.Ode5C12.text = ""
 
 trMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C13.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+trMA.Ode5C13.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 trMA.Ode5C13.text = ""
 
 trMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C1T.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+trMA.Ode5C1T.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 trMA.Ode5C1T.text = ""
 
 trMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C11.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+trMA.Ode6C11.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 trMA.Ode6C11.text = ""
 
 trMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C12.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+trMA.Ode6C12.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 trMA.Ode6C12.text = ""
 
 trMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C13.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+trMA.Ode6C13.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 trMA.Ode6C13.text = ""
 
 trMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C1T.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+trMA.Ode6C1T.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 trMA.Ode6C1T.text = ""
 
 trMA.Kontakion1.mode = misc_en_UK_lash.Mode8
-trMA.Kontakion1.melody = he.a.m8_en_UK_lash.TiYpermacho.name
+trMA.Kontakion1.melody = he.a.m8_en_UK_lash.TiYpermacho.incipit
 trMA.Kontakion1.text = ""
 
 trMA.Oikos1.text = ""
@@ -203,86 +203,86 @@ trMA.Synaxarion.lastline.text = ""
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C11.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+trMA.Ode7C11.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 trMA.Ode7C11.text = ""
 
 trMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C12.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+trMA.Ode7C12.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 trMA.Ode7C12.text = ""
 
 trMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C13.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+trMA.Ode7C13.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 trMA.Ode7C13.text = ""
 
 trMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C1T.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+trMA.Ode7C1T.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 trMA.Ode7C1T.text = ""
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C11.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+trMA.Ode8C11.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C12.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+trMA.Ode8C12.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C13.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+trMA.Ode8C13.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C1T.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+trMA.Ode8C1T.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 trMA.Ode8C1T.text = ""
 
 trMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C11.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C11.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+trMA.Ode9C11.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C12.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C12.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+trMA.Ode9C12.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C13.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C13.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+trMA.Ode9C13.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1T.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C1T.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+trMA.Ode9C1T.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 trMA.Ode9C1T.text = ""
 
 trMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
-trMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+trMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.incipit
 trMA.Exaposteilarion1.text = ""
 
 trMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
-trMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+trMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.incipit
 trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = misc_en_UK_lash.Mode1
-trMA.Lauds1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+trMA.Lauds1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.incipit
 trMA.Lauds1.text = ""
 
 trMA.LaudsSundayVerse1.text = ""
 
 trMA.Lauds2.mode = misc_en_UK_lash.Mode1
-trMA.Lauds2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+trMA.Lauds2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.incipit
 trMA.Lauds2.text = ""
 
 trMA.LaudsSundayVerse2.text = ""
 
 trMA.Lauds3.mode = misc_en_UK_lash.Mode1
-trMA.Lauds3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+trMA.Lauds3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.incipit
 trMA.Lauds3.text = ""
 
 trMA.LaudsGlory.mode = misc_en_UK_lash.Mode6

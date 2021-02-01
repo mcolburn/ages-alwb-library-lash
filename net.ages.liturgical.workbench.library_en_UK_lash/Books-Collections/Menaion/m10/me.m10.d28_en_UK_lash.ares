@@ -48,30 +48,30 @@ meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_UK_lash.OTouParadoxou.notmetered
 meVE.SticStavrotheotokion.text = //me.m03.d12_en_UK_lash.meVE.SticStavrotheotokion.text
 
-meMA.C2Poet = poets_en_UK_lash.Theofanous
-meMA.C2Acrostic.text = ""
+meMA.C2.poet = poets_en_UK_lash.Theofanous
+meMA.C2.acrostic = ""
 
 meMA.C1.title = titles_en_UK_lash.KanonTonAgion
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C11.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C11.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C12.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C13.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+meMA.Ode1C1T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 meMA.Ode1C1T.text = ""
 
 meMA.C2.title = titles_en_UK_lash.KanonTouOsiou
@@ -79,62 +79,62 @@ meMA.C2.verse = prayers_en_UK_lash.verse_DevoutMan.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C21.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C22.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C23.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C23.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C2T.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C2T.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_UK_lash.OukEnSofia.name
+meMA.Ode3C11.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_UK_lash.OukEnSofia.name
+meMA.Ode3C12.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_UK_lash.OukEnSofia.name
+meMA.Ode3C13.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C1T.melody = he.h.m4_en_UK_lash.OukEnSofia.name
+meMA.Ode3C1T.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C21.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.incipit
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C22.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.incipit
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C23.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C23.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.incipit
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C2T.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C2T.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.incipit
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = misc_en_UK_lash.Ode3
@@ -160,122 +160,122 @@ meMA.Ode3KathismaSt.text = ""
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C11.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C11.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C12.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C13.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C1T.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C21.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C22.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C23.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 meMA.Ode4C23.text = ""
 
 meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C2T.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C2T.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C11.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C11.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C12.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C13.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C1T.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C21.melody = he.h.m2_en_UK_lash.MesitisTheou.incipit
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C22.melody = he.h.m2_en_UK_lash.MesitisTheou.incipit
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C23.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C23.melody = he.h.m2_en_UK_lash.MesitisTheou.incipit
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C2T.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C2T.melody = he.h.m2_en_UK_lash.MesitisTheou.incipit
 meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C11.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C12.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C13.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C1T.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C21.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C21.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C22.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C22.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C23.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C23.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C2T.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C2T.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = misc_en_UK_lash.Ode6
@@ -291,82 +291,82 @@ meMA.Oikos1.text = ""
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C11.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C11.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C12.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C13.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C1T.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
 meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C21.melody = he.h.m2_en_UK_lash.AntitheonProstagma.incipit
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C22.melody = he.h.m2_en_UK_lash.AntitheonProstagma.incipit
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C23.melody = he.h.m2_en_UK_lash.AntitheonProstagma.incipit
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C2T.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C2T.melody = he.h.m2_en_UK_lash.AntitheonProstagma.incipit
 meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C11.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C11.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C12.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C13.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C1T.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C21.melody = he.h.m2_en_UK_lash.KaminosPote.incipit
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C22.melody = he.h.m2_en_UK_lash.KaminosPote.incipit
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C23.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C23.melody = he.h.m2_en_UK_lash.KaminosPote.incipit
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C2T.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C2T.melody = he.h.m2_en_UK_lash.KaminosPote.incipit
 meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = misc_en_UK_lash.Ode8
@@ -376,42 +376,42 @@ meMA.Ode8H.text = he.h.m2_en_UK_lash.KaminosPote.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C11.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+meMA.Ode9C11.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+meMA.Ode9C12.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+meMA.Ode9C13.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.name
+meMA.Ode9C1T.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C21.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C22.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C23.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C23.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 meMA.Ode9C23.text = ""
 
 meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C2T.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C2T.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C2T.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = misc_en_UK_lash.Ode9
@@ -491,7 +491,7 @@ alt1.meSV.AposGlory.text = ""
 
 alt1.meSV.AposBoth.mode = misc_en_UK_lash.Mode2
 alt1.meSV.AposBoth.melody = misc_en_UK_lash.Heirmos
-alt1.meSV.AposBoth.text = he.a.m2_en_UK_lash.OikosTouEfratha.name
+alt1.meSV.AposBoth.text = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
 
 alt1.meVE.Stichera01.mode = misc_en_UK_lash.Mode1
 alt1.meVE.Stichera01.melody = he.a.m1_en_UK_lash.OTouParadoxouThavmatos.notmetered
@@ -589,11 +589,11 @@ alt1.meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 alt1.meMA.PostGospelIdiomelon.melody = ""
 alt1.meMA.PostGospelIdiomelon.text = "Today the all-praised Virgin, unfolding her shining Protection, manifested clearly to the faithful her rich good favour in good times and in afflictions; therefore as we, who are protected by her, praise her grace, let us cry out with joy: Hail, Full of grace, Mother of God, who save our race and safely accompany us and guide us to the way of salvation."
 
-alt1.meMA.C1Poet = poets_en_UK_lash.Gerasimou
-alt1.meMA.C1Acrostic.text = "You are the Protection of believers,"
+alt1.meMA.C1.poet = poets_en_UK_lash.Gerasimou
+alt1.meMA.C1.acrostic = "You are the Protection of believers,"
 
-alt1.meMA.C2Poet = poets_en_UK_lash.Gerasimou
-alt1.meMA.C2Acrostic.text = "I hymn the Protection of the Mother of God."
+alt1.meMA.C2.poet = poets_en_UK_lash.Gerasimou
+alt1.meMA.C2.acrostic = "I hymn the Protection of the Mother of God."
 
 alt1.meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
@@ -605,22 +605,22 @@ alt1.meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 alt1.meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode1C11.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+alt1.meMA.Ode1C11.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C11.text = "As all-pure Mother of God, grant me wisdom, and give me eloquence that I may radiantly praise the wonders of your holy Protection, through which you always protect those who honour you."
 
 alt1.meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode1C12.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+alt1.meMA.Ode1C12.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C12.text = "You unfolded from above the lighting blaze of your Protecting Veil, and sheltered under it not only the queen of cites but your whole race that bears the name of Christ."
 
 alt1.meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode1C13.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+alt1.meMA.Ode1C13.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C13.text = "Venerable Andrew saw you of old in an ineffable vision in the church of Vlachernae, Pure Virgin, protecting the ends of the world by the unfurling of your godly Robe."
 
 alt1.meMA.Ode1C14.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode1C14.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
+alt1.meMA.Ode1C14.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C14.text = "Your race's army, taking invincible strength from your Protection, defeated regiments of foes and won a radiant victory. And so, Sovereign Lady, it sings your mighty deeds."
 
 alt1.meMA.C2.title = titles_en_UK_lash.KanonBTisTheotokou
@@ -628,22 +628,22 @@ alt1.meMA.C2.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 alt1.meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode1C21.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+alt1.meMA.Ode1C21.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 alt1.meMA.Ode1C21.text = "Protection and fervent help of the world, Pure Virgin Mother, who gave birth ineffably to God the Word, by your rich grace make clear my voice who magnify in song your most wondrous Protection."
 
 alt1.meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode1C22.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+alt1.meMA.Ode1C22.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 alt1.meMA.Ode1C22.text = "Adorned with embroideries of the Spirit as queen of the universe, and blazing with rays brighter than the sun, you appeared and spiritually unfolded your Protecting Veil, and you protected your people, O Virgin, who hope in you."
 
 alt1.meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode1C23.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+alt1.meMA.Ode1C23.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 alt1.meMA.Ode1C23.text = "The cloud in the Law, which covered the Tent of Witness, prefigured of old your holy Protection; for each day you cover, bedew and warm the Church, O All-blameless, with the overshadowing of your Protecting Veil."
 
 alt1.meMA.Ode1C24.ode = misc_en_UK_lash.Ode1
 alt1.meMA.Ode1C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode1C24.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
+alt1.meMA.Ode1C24.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 alt1.meMA.Ode1C24.text = "Full of light, full of mercy, Sovereign Lady, you were mystically present in the church of Vlachernae, and with splendour you displayed the singular grace of your kindness towards us by the unfurling of your Protecting Veil. Therefore, as is fitting, we sing your praise."
 
 alt1.meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
@@ -653,42 +653,42 @@ alt1.meMA.Ode3C1H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
 
 alt1.meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode3C11.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+alt1.meMA.Ode3C11.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 alt1.meMA.Ode3C11.text = "Your Protection, formed of light, is a source of heavenly joy, O All-unblemished, ever awarding to those who wrestle with afflictions grace, mercy and salvation."
 
 alt1.meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode3C12.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+alt1.meMA.Ode3C12.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 alt1.meMA.Ode3C12.text = "From the beginning through compassion you placed us, as a chosen race, beneath your Protecting Veil, O Virgin, and both of old and now you have worked strange and wondrous things, rescuing us from dangers."
 
 alt1.meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode3C13.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+alt1.meMA.Ode3C13.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 alt1.meMA.Ode3C13.text = "When godly Epiphanios heard the words of Venerable Andrew, he saw you as a heavenly queen protecting the people that bears Christ's name."
 
 alt1.meMA.Ode3C14.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode3C14.melody = he.h.m4_en_UK_lash.TousSousYmnologous.name
+alt1.meMA.Ode3C14.melody = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 alt1.meMA.Ode3C14.text = "As we see the multitude of wonders of your godly Protection, O Virgin, which you work everyday for our preservation, we, the multitudes of believers, bring you thankful praises."
 
 alt1.meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode3C21.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+alt1.meMA.Ode3C21.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 alt1.meMA.Ode3C21.text = "Your all-radiant Protection, Mother of God, ever blazing with bolts of immaterial light, dissolves the gloomy plots of the enemies, but gladdens the minds of the faithful with your glory."
 
 alt1.meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode3C22.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+alt1.meMA.Ode3C22.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 alt1.meMA.Ode3C22.text = "You were the fulfilment of the Law, Pure Virgin, in giving birth beyond explanation to him who spoke to the Prophets in types and revealed to the world the fulfilment of the light of Law, your radiant Protection. And so we sing the praise of your glory."
 
 alt1.meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode3C23.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+alt1.meMA.Ode3C23.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 alt1.meMA.Ode3C23.text = "Each single day we run like nestlings beneath your Protecting Veil, Pure Virgin. Therefore protect us from the arrows of the serpent, giving to us peace and security of life."
 
 alt1.meMA.Ode3C24.ode = misc_en_UK_lash.Ode3
 alt1.meMA.Ode3C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode3C24.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.name
+alt1.meMA.Ode3C24.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 alt1.meMA.Ode3C24.text = "In giving birth to God the Word, you were revealed as cause of ten thousand blessings for the human race, and by your Protection, O Virgin, you rescue from ten thousand constraints and trials and afflictions those who honour you."
 
 alt1.meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode3
@@ -702,42 +702,42 @@ alt1.meMA.Ode4C1H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
 alt1.meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode4C11.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C11.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C11.text = "Invisibly unfolding your shining Protection, each day you protect, encompass, cherish and save from every affliction those who cry to you: Glory, O Virgin, to your glory!"
 
 alt1.meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode4C12.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C12.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C12.text = "The revelation of your great goodness, O Maiden, and your distribution of the gifts which your ever show to our race, amaze mind and thought. And so, Sovereign Lady, we sing the praise of your grace."
 
 alt1.meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode4C13.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C13.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C13.text = "Being present invisibly you clearly revealed to your servants your all-holy Protection in Byzantium of old, O Bride of God. Through it you ever protect us, for you love goodness."
 
 alt1.meMA.Ode4C14.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode4C14.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.name
+alt1.meMA.Ode4C14.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C14.text = "Having you, O Maiden, as defence in dangers, respite in slavery, guide and assistance in all the circumstances of our life, we take refuge under your shining Protection."
 
 alt1.meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode4C21.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+alt1.meMA.Ode4C21.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 alt1.meMA.Ode4C21.text = "By the overshadowing of your Protecting Veil, Mother of God, you dispel from our hearts the night of passions, for you are loving, and you make the day of joy and the brightness of gladness shine out; and you make radiant those who cry out to you: Hail, the world's Protection filled with light."
 
 alt1.meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode4C22.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+alt1.meMA.Ode4C22.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 alt1.meMA.Ode4C22.text = "From you God appeared to the world as man, born from your blood, and revealed you as the mighty Protection of the world, O Virgin, and help in afflictions; for you always shelter and rescue from dangers those who with love have recourse to your Protection."
 
 alt1.meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode4C23.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+alt1.meMA.Ode4C23.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 alt1.meMA.Ode4C23.text = "As you bore in your womb the King of the universe, you appeared as queen of all things, escorted by godlike Saints, and spiritually you revealed to us the manifestations of your holy Protection by your most godly appearing, O All-immaculate."
 
 alt1.meMA.Ode4C24.ode = misc_en_UK_lash.Ode4
 alt1.meMA.Ode4C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode4C24.melody = he.h.m8_en_UK_lash.SyMouIschys.name
+alt1.meMA.Ode4C24.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
 alt1.meMA.Ode4C24.text = "Your wondrous and dazzling Protection, through which, O All-praised, you protect and save every soul of the devout, we who are saved through it from dread trials praise and faithfully cry out to you: Hail, Maiden, help of mortals!"
 
 alt1.meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
@@ -747,42 +747,42 @@ alt1.meMA.Ode5C1H.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
 
 alt1.meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode5C11.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+alt1.meMA.Ode5C11.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C11.text = "Your suppliant people, O All-praised, celebrates the holy memory of your Protecting Veil, for you came to the church of Vlachernae and there, O Immaculate, you spiritually protected all those who faithfully glorify you."
 
 alt1.meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode5C12.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+alt1.meMA.Ode5C12.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C12.text = "By your visitation, pure Maiden, destroy the insolence of the hostile lion who goes roaring each day to swallow down your inheritance, and overthrow his arrogance and pride."
 
 alt1.meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode5C13.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+alt1.meMA.Ode5C13.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C13.text = "As we celebrate the memory of your light-bearing Protection, we sing you thanksgivings for salvation, O Virgin, for you have delivered us from bitter slavery and mightily humbled the overweening enemy who came against us."
 
 alt1.meMA.Ode5C14.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode5C14.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.name
+alt1.meMA.Ode5C14.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C14.text = "As a godly jar of alabaster of the All-holy Spirit, Mother of God full of grace, show me, who with faith ever take refuge under your Protection and sing the praise of your glory, to be a vessel of divine grace."
 
 alt1.meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode5C21.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+alt1.meMA.Ode5C21.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 alt1.meMA.Ode5C21.text = "Your holy Protection, like a cloud all of light unfurled upon your servants, O Maiden, as Isaias says, rescues from the evil heat of the assault of Beliar, and bedews us with your grace."
 
 alt1.meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode5C22.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+alt1.meMA.Ode5C22.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 alt1.meMA.Ode5C22.text = "Venerable Andrew was amazed seeing you in a strange vision being escorted like a queen by saints, O Maiden, when you spread your holy garment spiritually and covered your faithful people." //added by S Dedes
 
 alt1.meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode5C23.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+alt1.meMA.Ode5C23.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 alt1.meMA.Ode5C23.text = "You clearly displayed a great wonder, O All-blameless, for the safe-keeping of your faithful people; for you sheltered them invisibly with your godlike hands by your honoured Veil. Therefore rejoicing we all praise you."
 
 alt1.meMA.Ode5C24.ode = misc_en_UK_lash.Ode5
 alt1.meMA.Ode5C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode5C24.melody = he.h.m8_en_UK_lash.InaTiMeAposo.name
+alt1.meMA.Ode5C24.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 alt1.meMA.Ode5C24.text = "In the wilderness of old a shining cloud protected the Israelite people, O Maiden; while now your all-radiant Protecting Veil protects us and guides us, and directs us to the light of your Son's commandments every day."
 
 alt1.meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
@@ -792,42 +792,42 @@ alt1.meMA.Ode6C1H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
 
 alt1.meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode6C11.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+alt1.meMA.Ode6C11.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 alt1.meMA.Ode6C11.text = "By night a pillar of fire once guided the Israelite people, while now, O Immaculate, your Protecting Veil, formed like lightning, ever guides us to salvation."
 
 alt1.meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode6C12.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+alt1.meMA.Ode6C12.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 alt1.meMA.Ode6C12.text = "Unfolding your Protection, wholly light, you protect us each day, All-pure Virgin, as we now know. What return then shall we make you for your grace?"
 
 alt1.meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode6C13.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+alt1.meMA.Ode6C13.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 alt1.meMA.Ode6C13.text = "Of old and now you have shown us to be your own chosen portion and a people for your won possession, O Maiden. Therefore the company of the Orthodox sings your praise."
 
 alt1.meMA.Ode6C14.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode6C14.melody = he.h.m4_en_UK_lash.TinTheianTaftin.name
+alt1.meMA.Ode6C14.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 alt1.meMA.Ode6C14.text = "Your faithful and God-loving people, O Maiden, proclaims your grace and, delivered from dangers and perils, sings a song of thanksgiving to your Protection."
 
 alt1.meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode6C21.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C21.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 alt1.meMA.Ode6C21.text = "In truth, O Queen of the universe, you appeared all light and wondrously unfolded your most pure Protection, protecting your servants. Therefore we sing the praise of your great loving-kindness."
 
 alt1.meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode6C22.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C22.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 alt1.meMA.Ode6C22.text = "The Cherubim once overshadowed the ark under the Law; while now your Protection protects the Church of Christ, All blessed one, overshadows her and grants unstinted grace."
 
 alt1.meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode6C23.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C23.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 alt1.meMA.Ode6C23.text = "The Israel of old was led by a cloud to the Promised Land, while the new Israel is guided by your Protecting Veil towards unending life."
 
 alt1.meMA.Ode6C24.ode = misc_en_UK_lash.Ode6
 alt1.meMA.Ode6C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode6C24.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
+alt1.meMA.Ode6C24.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 alt1.meMA.Ode6C24.text = "Round us you throw your radiant Protection, O most pure, like fire consuming the foolish, saving us from their folly. Therefore we glorify you."
 
 alt1.meMA.Kontakion1.mode = misc_en_UK_lash.Mode8
@@ -857,42 +857,42 @@ alt1.meMA.Ode7C1H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
 
 alt1.meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode7C11.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+alt1.meMA.Ode7C11.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 alt1.meMA.Ode7C11.text = "You have placed us, Sovereign Lady, under your Protecting Veil, and you ever protect us from dread abuse, assault of foes and every affliction. Therefore with upraised voices we all sing your praise to the ages."
 
 alt1.meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode7C12.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+alt1.meMA.Ode7C12.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 alt1.meMA.Ode7C12.text = "You protected the royal city of Constantine as your chosen part, Pure Virgin; likewise you now protect with your glory, All-blameless Lady, us who take refuge in your fervent defence."
 
 alt1.meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode7C13.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+alt1.meMA.Ode7C13.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 alt1.meMA.Ode7C13.text = "The wondrous overshadowing of our race with your godlike Protection, Pure Virgin, clearly manifests your providence, through which you grant joy and peace to our souls."
 
 alt1.meMA.Ode7C14.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode7C14.melody = he.h.m4_en_UK_lash.OukElatrefsan.name
+alt1.meMA.Ode7C14.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 alt1.meMA.Ode7C14.text = "Unhusbanded, O All-pure, you husbanded Christ, the Husbandman of our life; as cause of our joy you appeared to those who sang, Hail, Sovereign Lady of our race, saviour and sweet help."
 
 alt1.meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode7C21.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+alt1.meMA.Ode7C21.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 alt1.meMA.Ode7C21.text = "The living house in which God Most High made his dwelling, the Pure Mother of God, was seen of old in her house and unfolding her Veil she wondrously protected those who had put their trust in her."
 
 alt1.meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode7C22.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+alt1.meMA.Ode7C22.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 alt1.meMA.Ode7C22.text = "We are wholly unable to comprehend the greatness of your goodness towards us, O Maiden; for as a truly loving mother you protect, cherish and nourish us each day. And so we sing the praise of your godly Protection."
 
 alt1.meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode7C23.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+alt1.meMA.Ode7C23.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 alt1.meMA.Ode7C23.text = "God-bearing Andrew in an immaterial vision saw you in mind spiritually unfolding your radiant Protection for your suppliants, and he praised you marvellous works, that are beyond reason and understanding."
 
 alt1.meMA.Ode7C24.ode = misc_en_UK_lash.Ode7
 alt1.meMA.Ode7C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode7C24.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.name
+alt1.meMA.Ode7C24.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 alt1.meMA.Ode7C24.text = "Of old a cloud of light covered the tent of witness; while now your wondrous and most radiant Protection, immaculate Maiden, covers the Church of Christ day and night as the mountain of God."
 
 alt1.meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
@@ -902,42 +902,42 @@ alt1.meMA.Ode8C1H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
 alt1.meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode8C11.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+alt1.meMA.Ode8C11.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 alt1.meMA.Ode8C11.text = "In many ways you revealed of old the force of your Protection, Mother of God, by signs and wonders and countless deeds of power, acting as our Champion every day, O All-pure; while now we sing the praise of your saving wondrous works."
 
 alt1.meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode8C12.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+alt1.meMA.Ode8C12.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 alt1.meMA.Ode8C12.text = "Your chosen people, O All-blameless, faithfully receiving force and strength from your godly Protection, ever escapes from afflictions that attack them and from warlike foes, and remains unharmed by any madness, Mother of God, through your solicitude."
 
 alt1.meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode8C13.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+alt1.meMA.Ode8C13.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 alt1.meMA.Ode8C13.text = "From on high, Immaculate Virgin, unfold your holy and most radiant Protection, and as of old protect us and keep us safe from foes who attack us, and deliver your inheritance from their wickedness and assault."
 
 alt1.meMA.Ode8C14.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode8C14.melody = he.h.m4_en_UK_lash.PaidasEvageis.name
+alt1.meMA.Ode8C14.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 alt1.meMA.Ode8C14.text = "Venerable Andrew and venerable and godly Epiphanios saw you unfolding the Protecting Veil that had protected your immaculate body, Mother of God Ever-Virgin, and they were amazed; for you protected all, O Maiden, with immaterial light and heavenly glory."
 
 alt1.meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode8C21.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+alt1.meMA.Ode8C21.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 alt1.meMA.Ode8C21.text = "To those who walk in the night of life, Pure Virgin, your all-holy Protection grants divine force, light and salvation and directs them all to the repose of eternal life."
 
 alt1.meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode8C22.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+alt1.meMA.Ode8C22.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 alt1.meMA.Ode8C22.text = "The choirs of the Bodiless Powers and of the Saints, seeing you, Pure Virgin, in your holy church unfolding your sacred veil and protecting the world, praised the fount of your mercy."
 
 alt1.meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode8C23.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+alt1.meMA.Ode8C23.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 alt1.meMA.Ode8C23.text = "Protection of the world, wider than a cloud, are you, pure Mother of God, salvation of mortals; and so, as we celebrate with love the commemoration of your honoured Protection, we praise the multitudes of your wonders."
 
 alt1.meMA.Ode8C24.ode = misc_en_UK_lash.Ode8
 alt1.meMA.Ode8C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode8C24.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.name
+alt1.meMA.Ode8C24.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 alt1.meMA.Ode8C24.text = "Having gained you, pure Virgin, as a mighty defence in life and unbreakable hope, we take refuge under your mighty Protection, and we are rescued from the stumbling-blocks of the Trickster as we sing the praise of your grace."
 
 alt1.meMA.Ode9C1M01.text = "Angels magnify in hymns the Protection of the Mother of God, for it protects the choirs of believers in every place."
@@ -965,42 +965,42 @@ alt1.meMA.Ode9C1H.text = he.h.m4_en_UK_lash.ApasGigenis.text
 
 alt1.meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C11.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode9C11.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+alt1.meMA.Ode9C11.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 alt1.meMA.Ode9C11.text = "The dew which falls in drops from your Godly Protection as from an immaterial cloud, O Immaculate, becomes healing for us and brings to an end sicknesses of soul and body for those who cry: Hail, Ever-Virgin, our joy and consolation!"
 
 alt1.meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C12.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode9C12.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+alt1.meMA.Ode9C12.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 alt1.meMA.Ode9C12.text = "The Church of the faithful celebrates a sacred memorial of your wonders to your glory and praise, O All-blameless, and with faith taking refuge under your Protection, cries out to you: Protect and guard me until my life's end, O All-praised."
 
 alt1.meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C13.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode9C13.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+alt1.meMA.Ode9C13.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 alt1.meMA.Ode9C13.text = "With all our soul let us gather to your godly Protection, immaculate Lady, bringing thankful praise with fervent gratitude, for you have chosen us for your own and you treat us kindly in all things; you guide us and save us from afflictions."
 
 alt1.meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C14.mode = misc_en_UK_lash.Mode4
-alt1.meMA.Ode9C14.melody = he.h.m4_en_UK_lash.ApasGigenis.name
+alt1.meMA.Ode9C14.melody = he.h.m4_en_UK_lash.ApasGigenis.incipit
 alt1.meMA.Ode9C14.text = "From above, pure Virgin, keep your godly Protection around your people like a rampart with a wealth of loving-kindness; while to me, who have now woven for you songs of praise, give enlightenment and illumination, I implore, and forgiveness of faults."
 
 alt1.meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode9C21.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+alt1.meMA.Ode9C21.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 alt1.meMA.Ode9C21.text = "Bending with motherly love, O Maiden, towards your people who fervently hope in you, for you are compassionate, in a strange manner you spiritually unfolded for them your godly Protection like a cloud of light. And so as we proclaim the wealth of your loving-kindness, Mother of God, we magnify you."
 
 alt1.meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode9C22.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+alt1.meMA.Ode9C22.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 alt1.meMA.Ode9C22.text = "Your Son, O Immaculate, who of old guided an ungrateful people with a cloud like a pillar, revealed you as a spiritual and living cloud that wondrously protects and saves for a land of incorruption the chosen people, O Pure One, by your ardent presence."
 
 alt1.meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C23.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode9C23.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+alt1.meMA.Ode9C23.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 alt1.meMA.Ode9C23.text = "Raising your hands to God you implore on our behalf the One who came forth from you, and thence, unfolding spiritually your light-bearing Protection, you protected all the faithful. And so, as we celebrate its yearly memorial, Mother of God, we magnify you."
 
 alt1.meMA.Ode9C24.ode = misc_en_UK_lash.Ode9
 alt1.meMA.Ode9C24.mode = misc_en_UK_lash.Mode8
-alt1.meMA.Ode9C24.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.name
+alt1.meMA.Ode9C24.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 alt1.meMA.Ode9C24.text = "As we sing the praise of the manifold gifts of your Protection and its unstinted grace, pure Mother, which we unceasingly enjoy, we cry out to you from our souls: As of old you protected your people, so now too protect us with your hand and save us until our life's end, O Immaculate."
 
 alt1.meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
