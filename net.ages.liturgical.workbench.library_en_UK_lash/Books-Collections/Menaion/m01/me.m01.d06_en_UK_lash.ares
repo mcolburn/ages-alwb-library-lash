@@ -1,704 +1,935 @@
-A_Resource_Whose_Name = me.m01.d06_en_UK_lash
+A_Resource_Whose_Name=me.m01.d06_en_UK_lash
 
-meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "" //full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" //for use in petitions and dismissal
-meInsert2 = "" //for use in petitions and dismissal
-meNote.text = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = rubrical_en_UK_lash.HolidayAll
-meHO.note2 = ""
-meDismissal = dismissals_en_UK_lash.dis00.epiphany
+meDate.text="" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meCommemoration.text="" //full title of day
+meShortCommemoration1.text=""
+meCom1.title=""
+meCom2.title=""
+meInsert1="" //for use in petitions and dismissal
+meInsert2="" //for use in petitions and dismissal
+meNote.text=""
+meLE.commemoration1=""
+meLE.commemoration2=""
+meHO.number=""
+meHO.rank=""
+meHO.commemorations=""
+meHO.note1=rubrical_en_UK_lash.HolidayAll
+meHO.note2=""
+meDismissal=dismissals_en_UK_lash.dis00.epiphany
 
-meVE.Stichera01.poet = poets_en_UK_lash.IoannouMonachou
-meVE.Stichera01.mode = misc_en_UK_lash.Mode2
-meVE.Stichera01.melody = ""
-meVE.Stichera01.text = ""
+meVE.Stichera01.poet=poets_en_UK_lash.IoannouMonachou
+meVE.Stichera01.mode=misc_en_UK_lash.Mode2
+meVE.Stichera01.melody=""
+meVE.Stichera01.incipit = ""
+meVE.Stichera01.text=""
 
-meVE.Stichera02.mode = misc_en_UK_lash.Mode2
-meVE.Stichera02.melody = ""
-meVE.Stichera02.text = ""
+meVE.Stichera02.mode=misc_en_UK_lash.Mode2
+meVE.Stichera02.melody=""
+meVE.Stichera02.incipit = ""
+meVE.Stichera02.text=""
 
-meVE.Stichera03.mode = misc_en_UK_lash.Mode2
-meVE.Stichera03.melody = ""
-meVE.Stichera03.text = ""
+meVE.Stichera03.mode=misc_en_UK_lash.Mode2
+meVE.Stichera03.melody=""
+meVE.Stichera03.incipit = ""
+meVE.Stichera03.text=""
 
-meVE.Stichera04.mode = misc_en_UK_lash.Mode2
-meVE.Stichera04.melody = ""
-meVE.Stichera04.text = ""
+meVE.Stichera04.mode=misc_en_UK_lash.Mode2
+meVE.Stichera04.melody=""
+meVE.Stichera04.incipit = ""
+meVE.Stichera04.text=""
 
-meVE.MM.Stichera123as567.text = properties_en_UK_lash.media.key
-meVE.MM.Stichera1234as78910.text = properties_en_UK_lash.media.key
+meVE.MM.Stichera123as567.text=properties_en_UK_lash.media.key
+meVE.MM.Stichera1234as78910.text=properties_en_UK_lash.media.key
 
-meVE.SticGlory.poet = poets_en_UK_lash.Vyzantos
-meVE.SticGlory.mode = misc_en_UK_lash.Mode2
-meVE.SticGlory.melody = ""
-meVE.SticGlory.text = ""
+meVE.SticGlory.poet=poets_en_UK_lash.Vyzantos
+meVE.SticGlory.mode=misc_en_UK_lash.Mode2
+meVE.SticGlory.melody=""
+meVE.SticGlory.incipit = ""
+meVE.SticGlory.text=""
 
-meVE.ProphecyTroparion1.mode = misc_en_UK_lash.Mode5
-meVE.ProphecyTroparion1.text = ""
-meVE.ProphecyTroparion1Refrain.text = ""
+meVE.ProphecyTroparion1.mode=misc_en_UK_lash.Mode5
+meVE.ProphecyTroparion1.incipit = ""
+meVE.ProphecyTroparion1.text=""
+meVE.ProphecyTroparion1Refrain.incipit = ""
+meVE.ProphecyTroparion1Refrain.text=""
 
-meVE.ProphecyTroparion2.mode = misc_en_UK_lash.Mode6
-meVE.ProphecyTroparion2.text = ""
-meVE.ProphecyTroparion2Refrain.text = ""
+meVE.ProphecyTroparion2.mode=misc_en_UK_lash.Mode6
+meVE.ProphecyTroparion2.incipit = ""
+meVE.ProphecyTroparion2.text=""
+meVE.ProphecyTroparion2Refrain.incipit = ""
+meVE.ProphecyTroparion2Refrain.text=""
 
 //Great Water Blessing for Jan 6 Epiphany
-meGW.title = "The Great Blessing of the Waters"
-meGW.translator = "Prayers translated by Archimandrite Ephrem Lash"
+meGW.title="The Great Blessing of the Waters"
+meGW.translator="Prayers translated by Archimandrite Ephrem Lash"
 
-meGW.Idiomelon1.poet = poets_en_UK_lash.SofroniouPatriarchouIerosolymon
-meGW.Idiomelon1.mode = misc_en_UK_lash.Mode8
-meGW.Idiomelon1.text = "The voice of the Lord upon the waters cries out, saying, 'Come all of you, receive the Spirit of wisdom, the Spirit of understanding, the Spirit of the fear of God, of Christ who has appeared'."
+meGW.Idiomelon1.poet=poets_en_UK_lash.SofroniouPatriarchouIerosolymon
+meGW.Idiomelon1.mode=misc_en_UK_lash.Mode8
+meGW.Idiomelon1.incipit = "The voice of the Lord"
+meGW.Idiomelon1.text="The voice of the Lord upon the waters cries out, saying, 'Come all of you, receive the Spirit of wisdom, the Spirit of understanding, the Spirit of the fear of God, of Christ who has appeared'."
 
-meGW.Idiomelon2.poet = poets_en_UK_lash.SofroniouPatriarchouIerosolymon
-meGW.Idiomelon2.mode = misc_en_UK_lash.Mode8
-meGW.Idiomelon2.text = me.m01.d05_en_UK_lash.meH1.Idiomelon1.text
+meGW.Idiomelon2.poet=poets_en_UK_lash.SofroniouPatriarchouIerosolymon
+meGW.Idiomelon2.mode=misc_en_UK_lash.Mode8
+meGW.Idiomelon2.incipit = me.m01.d05_en_UK_lash.meH1.Idiomelon1.incipit
+meGW.Idiomelon2.text=me.m01.d05_en_UK_lash.meH1.Idiomelon1.text
 
-meGW.Idiomelon3.poet = poets_en_UK_lash.SofroniouPatriarchouIerosolymon
-meGW.Idiomelon3.mode = misc_en_UK_lash.Mode8
-meGW.Idiomelon3.text = me.m01.d05_en_UK_lash.meH1.Idiomelon2.text
+meGW.Idiomelon3.poet=poets_en_UK_lash.SofroniouPatriarchouIerosolymon
+meGW.Idiomelon3.mode=misc_en_UK_lash.Mode8
+meGW.Idiomelon3.incipit = me.m01.d05_en_UK_lash.meH1.Idiomelon2.incipit
+meGW.Idiomelon3.text=me.m01.d05_en_UK_lash.meH1.Idiomelon2.text
 
-meGW.IdiomelonGlory.poet = poets_en_UK_lash.SofroniouPatriarchouIerosolymon
-meGW.IdiomelonGlory.mode = misc_en_UK_lash.Mode8
-meGW.IdiomelonGlory.text = me.m01.d05_en_UK_lash.meH1.Idiomelon3.text
+meGW.IdiomelonGlory.poet=poets_en_UK_lash.SofroniouPatriarchouIerosolymon
+meGW.IdiomelonGlory.mode=misc_en_UK_lash.Mode8
+meGW.IdiomelonGlory.incipit = me.m01.d05_en_UK_lash.meH1.Idiomelon3.incipit
+meGW.IdiomelonGlory.text=me.m01.d05_en_UK_lash.meH1.Idiomelon3.text
 
-meGW.R01 = "The Priest reads the following prayer in a low voice."
+meGW.R01="The Priest reads the following prayer in a low voice."
 
-meGW.Prayer1.text = "Lord Jesus Christ, only-begotten Son, who are in the bosom of the Father, true God, source of life and immortality, Light from Light, who came into the world to enlighten it, flood our mind with light by your Holy Spirit and accept us as we bring you praise and thanksgiving for your wondrous mighty works from every age, and for your saving dispensation in these last times. By it you clothe yourself in our weak and beggared matter and coming down to the measure of our servitude, King of all, you accepted also to be baptised in the Jordan by the hand of a servant, so that, having sanctified the nature of the waters, you, the sinless one, might make a way for our rebirth through water and Spirit and re-establish us in our original freedom. As we celebrate the memory of this divine Mystery, we entreat you, Master, lover of mankind: Sprinkle on us, your unworthy servants, cleansing water, in accordance with your divine promise, the gift of your compassion, that the request of us sinners over this water may become acceptable by your goodness and that through it your blessing to be granted to us and to all your faithful people, to the glory of your holy, venerated Name. For to you belong all glory, honour and worship, with your Father who is without beginning, with you all-holy, good and life-giving Spirit, now and forever, and to the ages of ages. Amen."
+meGW.Prayer1.text="Lord Jesus Christ, only-begotten Son, who are in the bosom of the Father, true God, source of life and immortality, Light from Light, who came into the world to enlighten it, flood our mind with light by your Holy Spirit and accept us as we bring you praise and thanksgiving for your wondrous mighty works from every age, and for your saving dispensation in these last times. By it you clothe yourself in our weak and beggared matter and coming down to the measure of our servitude, King of all, you accepted also to be baptised in the Jordan by the hand of a servant, so that, having sanctified the nature of the waters, you, the sinless one, might make a way for our rebirth through water and Spirit and re-establish us in our original freedom. As we celebrate the memory of this divine Mystery, we entreat you, Master, lover of mankind: Sprinkle on us, your unworthy servants, cleansing water, in accordance with your divine promise, the gift of your compassion, that the request of us sinners over this water may become acceptable by your goodness and that through it your blessing to be granted to us and to all your faithful people, to the glory of your holy, venerated Name. For to you belong all glory, honour and worship, with your Father who is without beginning, with you all-holy, good and life-giving Spirit, now and forever, and to the ages of ages. Amen."
 
-meGW.R02 = "And having said the Amen to himself, when the Deacon has finished the Litany, the Priest begins this Prayer in a loud voice:" // [the first part only on day of the Feast itself]"
+meGW.R02="And having said the Amen to himself, when the Deacon has finished the Litany, the Priest begins this Prayer in a loud voice:" // [the first part only on day of the Feast itself]"
 
-meGW.Prayer2.poet = poets_en_UK_lash.SofroniouPatriarchouIerosolymon
-meGW.Prayer2.text = "Trinity beyond all being, beyond all goodness, beyond all godhead, all-powerful, all-vigilant, invisible, incomprehensible; Creator of the spiritual beings and rational natures, innate goodness, unapproachable Light that enlightens everyone coming into the world, shine also in me your unworthy servant. Enlighten the eyes of my mind that I may dare to sing the praise of your measureless benevolence and power. May my supplication for the people here present be acceptable, so that my offences may not prevent the Holy Spirit from being present here; but permit me now without condemnation to cry out to you and say, Master, lover of mankind, beyond all goodness, Almighty, eternal King. We glorify you, the Creator and Fashioner of the universe. We glorify you, only-begotten Son of God, without father from your Mother, without mother from your Father. For in the preceding feast we saw you as a babe, but in the present one we see you full and perfect man, our God, made manifest as perfect God from perfect God. For today the moment of the feast is here for us and the choir of saints assembles here with us, and Angels keep festival with mortals. Today the grace of the Holy Spirit in the form of a dove dwelt upon the waters. Today the Sun that never sets has dawned and the world is made radiant with the light of the Lord. Today the Moon with its radiant beams sheds light on the world. Today the stars formed of light make the inhabited world lovely with the brightness of their splendour. Today the clouds rain down from heaven the shower of justice for mankind. Today the Uncreated by his own will accepts the laying on of hands by his own creature. Today the Prophet and Forerunner draws near, but stands by with fear seeing God's condescension towards us. Today the streams of Jordan are changed into healing by the presence of the Lord. Today all creation is watered by mystical streams. Today the failings of mankind are being washed away by the waters of Jordan. Today Paradise is opened for mortals and the Sun of justice shines down on us. Today the bitter water as once for Moses' people is changed to sweetness by the presence of the Lord. Today we have been delivered from the ancient grief, and saved as the new Israel. Today we have been redeemed from darkness and are filled with radiance by the light of the knowledge of God. Today the gloomy fog of the world is cleansed by the manifestation of our God. Today all creation shines with light from on high. Today error has been destroyed and the coming of the Master makes for us a way of salvation. Today things on high keep festival with those below, and those below commune with those on high. Today the sacred and triumphant festal assembly of the Orthodox exults. Today the Master hastens towards baptism, that he may lead humanity to the heights. Today the One who does not bow bows down to his own servant, that he may free us from servitude. Today we have purchased the Kingdom of heaven, for the Kingdom of the Lord will have no end. Today earth and sea share the joy of the world, and the world has been filled with gladness. The waters saw you, O God, the waters saw you and were afraid. The Jordan turned back when it saw the fire of the godhead descending in bodily form and entering it. The Jordan turned back as it contemplated the Holy Spirit in the form of a dove, descending and flying about you. The Jordan turned back as it saw the Invisible made visible, the Creator made flesh, the Master in the form of a servant. The Jordan turned back and the mountains leapt as they saw God in the flesh, and the clouds uttered their voice, marvelling at what had come to pass, seeing Light from Light, true God from true God, the Master's festival today in Jordan; seeing him drowning the death from disobedience, the goad of error and the bond of Hell in Jordan and granting the Baptism of salvation to the world. Therefore I too, a sinner and your unworthy servant, recount the greatness of your wonders and, seized with fear, in compunction cry out to you:"
+meGW.Prayer2.poet=poets_en_UK_lash.SofroniouPatriarchouIerosolymon
+meGW.Prayer2.text="Trinity beyond all being, beyond all goodness, beyond all godhead, all-powerful, all-vigilant, invisible, incomprehensible; Creator of the spiritual beings and rational natures, innate goodness, unapproachable Light that enlightens everyone coming into the world, shine also in me your unworthy servant. Enlighten the eyes of my mind that I may dare to sing the praise of your measureless benevolence and power. May my supplication for the people here present be acceptable, so that my offences may not prevent the Holy Spirit from being present here; but permit me now without condemnation to cry out to you and say, Master, lover of mankind, beyond all goodness, Almighty, eternal King. We glorify you, the Creator and Fashioner of the universe. We glorify you, only-begotten Son of God, without father from your Mother, without mother from your Father. For in the preceding feast we saw you as a babe, but in the present one we see you full and perfect man, our God, made manifest as perfect God from perfect God. For today the moment of the feast is here for us and the choir of saints assembles here with us, and Angels keep festival with mortals. Today the grace of the Holy Spirit in the form of a dove dwelt upon the waters. Today the Sun that never sets has dawned and the world is made radiant with the light of the Lord. Today the Moon with its radiant beams sheds light on the world. Today the stars formed of light make the inhabited world lovely with the brightness of their splendour. Today the clouds rain down from heaven the shower of justice for mankind. Today the Uncreated by his own will accepts the laying on of hands by his own creature. Today the Prophet and Forerunner draws near, but stands by with fear seeing God's condescension towards us. Today the streams of Jordan are changed into healing by the presence of the Lord. Today all creation is watered by mystical streams. Today the failings of mankind are being washed away by the waters of Jordan. Today Paradise is opened for mortals and the Sun of justice shines down on us. Today the bitter water as once for Moses' people is changed to sweetness by the presence of the Lord. Today we have been delivered from the ancient grief, and saved as the new Israel. Today we have been redeemed from darkness and are filled with radiance by the light of the knowledge of God. Today the gloomy fog of the world is cleansed by the manifestation of our God. Today all creation shines with light from on high. Today error has been destroyed and the coming of the Master makes for us a way of salvation. Today things on high keep festival with those below, and those below commune with those on high. Today the sacred and triumphant festal assembly of the Orthodox exults. Today the Master hastens towards baptism, that he may lead humanity to the heights. Today the One who does not bow bows down to his own servant, that he may free us from servitude. Today we have purchased the Kingdom of heaven, for the Kingdom of the Lord will have no end. Today earth and sea share the joy of the world, and the world has been filled with gladness. The waters saw you, O God, the waters saw you and were afraid. The Jordan turned back when it saw the fire of the godhead descending in bodily form and entering it. The Jordan turned back as it contemplated the Holy Spirit in the form of a dove, descending and flying about you. The Jordan turned back as it saw the Invisible made visible, the Creator made flesh, the Master in the form of a servant. The Jordan turned back and the mountains leapt as they saw God in the flesh, and the clouds uttered their voice, marvelling at what had come to pass, seeing Light from Light, true God from true God, the Master's festival today in Jordan; seeing him drowning the death from disobedience, the goad of error and the bond of Hell in Jordan and granting the Baptism of salvation to the world. Therefore I too, a sinner and your unworthy servant, recount the greatness of your wonders and, seized with fear, in compunction cry out to you:"
 
-meGW.R03 = "After completing this, he says in a more powerful voice,"
-meGW.Prayer31.text = "Great are you, O Lord, and wonderful your works, and no word is adequate to sing the praise of your wonders." //(ἐκ γʹ)
+meGW.R03="After completing this, he says in a more powerful voice,"
+meGW.Prayer31.text="Great are you, O Lord, and wonderful your works, and no word is adequate to sing the praise of your wonders." //(ἐκ γʹ)
 
-meGW.Prayer32.text = "For by your own will you brought the universe from non-existence into being, you hold creation together by your might, and by your providence you direct the world. You composed creation from four elements; with four seasons you crowned the circle of the year. All the spiritual Powers tremble before you. The sun sings your praise, the moon glorifies you, the stars entreat you, the light obeys you, the deeps tremble before you, the springs are your servants. You stretched out the heavens on the waters; you walled in the sea with sand; you poured out the air for breathing. Angelic Powers minister to you. The choirs of the Archangels worship you. The many-eyed Cherubim and the six-winged Seraphim as they stand and fly around you hide their faces in fear of your unapproachable glory. For you, being God uncircumscribed, without beginning and inexpressible, came upon earth, taking the form of a servant, being found in the likeness of mortals. For you could not bear, Master, in the compassion of your mercy to watch the human race being tyrannised by the devil, but you came and saved us. We acknowledge your grace, we proclaim your mercy, we do not conceal your benevolence. You freed the generations of our race. You sanctified a virgin womb by your birth. All creation sang your praise when you appeared. For you are our God who appeared on earth and lived among mortals. You sanctified the streams of Jordan by sending down from heaven your All-holy Spirit and you smashed the heads of the dragons that lurked there."
+meGW.Prayer32.text="For by your own will you brought the universe from non-existence into being, you hold creation together by your might, and by your providence you direct the world. You composed creation from four elements; with four seasons you crowned the circle of the year. All the spiritual Powers tremble before you. The sun sings your praise, the moon glorifies you, the stars entreat you, the light obeys you, the deeps tremble before you, the springs are your servants. You stretched out the heavens on the waters; you walled in the sea with sand; you poured out the air for breathing. Angelic Powers minister to you. The choirs of the Archangels worship you. The many-eyed Cherubim and the six-winged Seraphim as they stand and fly around you hide their faces in fear of your unapproachable glory. For you, being God uncircumscribed, without beginning and inexpressible, came upon earth, taking the form of a servant, being found in the likeness of mortals. For you could not bear, Master, in the compassion of your mercy to watch the human race being tyrannised by the devil, but you came and saved us. We acknowledge your grace, we proclaim your mercy, we do not conceal your benevolence. You freed the generations of our race. You sanctified a virgin womb by your birth. All creation sang your praise when you appeared. For you are our God who appeared on earth and lived among mortals. You sanctified the streams of Jordan by sending down from heaven your All-holy Spirit and you smashed the heads of the dragons that lurked there."
 
-meGW.Prayer33.text = "Therefore, O King, lover of mankind, be present now too through the visitation of your Holy Spirit, and sanctify this water." //(ἐκ γʹ)
+meGW.Prayer33.text="Therefore, O King, lover of mankind, be present now too through the visitation of your Holy Spirit, and sanctify this water." //(ἐκ γʹ)
 
-meGW.Prayer34.text = "And give to it the grace of redemption and the blessing of Jordan. Make it a source of incorruption, a gift of sanctification, a deliverance from sins, an averting of diseases, unapproachable by hostile powers, filled with angelic strength. That all who draw from it and partake of it may have it for cleansing of souls and bodies, for healing of passions, for sanctification of homes, for every suitable purpose. For you are our God, who through water and Spirit renewed our nature made old by sin. You are our God, who in the days of Noë drowned sin through the water of the flood. You are our God, who through Moses freed the Hebrew race from the slavery of Pharao through the sea. You are our God who split open the rock in the desert, and waters rushed out and torrents flooded down, and you satisfied your thirsty people. You are our God, who through Elias turned Israel from the error of Baal."
+meGW.Prayer34.text="And give to it the grace of redemption and the blessing of Jordan. Make it a source of incorruption, a gift of sanctification, a deliverance from sins, an averting of diseases, unapproachable by hostile powers, filled with angelic strength. That all who draw from it and partake of it may have it for cleansing of souls and bodies, for healing of passions, for sanctification of homes, for every suitable purpose. For you are our God, who through water and Spirit renewed our nature made old by sin. You are our God, who in the days of Noë drowned sin through the water of the flood. You are our God, who through Moses freed the Hebrew race from the slavery of Pharao through the sea. You are our God who split open the rock in the desert, and waters rushed out and torrents flooded down, and you satisfied your thirsty people. You are our God, who through Elias turned Israel from the error of Baal."
 
-meGW.Prayer35.text = "And now, Master, do you yourself sanctify this water by your Holy Spirit." //(ἐκ γʹ)
+meGW.Prayer35.text="And now, Master, do you yourself sanctify this water by your Holy Spirit." //(ἐκ γʹ)
 
-meGW.Prayer36.text = "Give to all who partake of it sanctification, blessing, cleansing, health."
+meGW.Prayer36.text="Give to all who partake of it sanctification, blessing, cleansing, health."
 
-meGW.Prayer37.text = "And save, Lord, our faithful Rulers." // (x3)
+meGW.Prayer37.text="And save, Lord, our faithful Rulers." // (x3)
 
-meGW.Prayer38.text = "And guard them under your protection in peace. Subdue beneath their feet every foe and enemy. Grant them all their requests that are for salvation and eternal life. Remember, Lord, our Archbishop N., the whole order of Presbyters, the Diaconate in Christ, every rank of the clergy, the people here present and our brethren who with good reason are absent, and have mercy on us in accordance with your great mercy. So that through elements and through Angels and through mortals and through things visible and through things unseen, your all-holy name may be glorified with the Father and the Holy Spirit, now and for ever, and to the ages of ages."
+meGW.Prayer38.text="And guard them under your protection in peace. Subdue beneath their feet every foe and enemy. Grant them all their requests that are for salvation and eternal life. Remember, Lord, our Archbishop N., the whole order of Presbyters, the Diaconate in Christ, every rank of the clergy, the people here present and our brethren who with good reason are absent, and have mercy on us in accordance with your great mercy. So that through elements and through Angels and through mortals and through things visible and through things unseen, your all-holy name may be glorified with the Father and the Holy Spirit, now and for ever, and to the ages of ages."
 
-meGW.R04 = "And the Priest says the Prayer in a low voice."
-meGW.Prayer4.text = "Incline your ear and hear us, Lord, who accepted to be baptised in Jordan and to sanctify the waters, and bless us all, who signify our calling as servants by the bending of our necks. And count us worthy to be filled with your sanctification through the partaking and sprinkling of this water. And let it be for us, Lord, for healing of soul and body."
+meGW.R04="And the Priest says the Prayer in a low voice."
+meGW.Prayer4.text="Incline your ear and hear us, Lord, who accepted to be baptised in Jordan and to sanctify the waters, and bless us all, who signify our calling as servants by the bending of our necks. And count us worthy to be filled with your sanctification through the partaking and sprinkling of this water. And let it be for us, Lord, for healing of soul and body."
 
-meGW.R05 = "Aloud"
-meGW.Prayer5.text = "For you are the sanctification of our souls and bodies, and to you we give glory, thanksgiving and worship, with your Father who is without beginning, and your All-holy, good and life-giving Spirit, now and for ever, and to the ages of ages."
+meGW.R05="Aloud"
+meGW.Prayer5.text="For you are the sanctification of our souls and bodies, and to you we give glory, thanksgiving and worship, with your Father who is without beginning, and your All-holy, good and life-giving Spirit, now and for ever, and to the ages of ages."
 
-meGW.R06 = "And the Priest immediately, blessing the waters in the figure of the Cross, immerses the precious Cross, plunging it upright into the water and lifting it out again, chanting the following Troparion. The Priest once and the Choirs once each."
-meGW.Apolytikion.mode = misc_en_UK_lash.Mode1
-meGW.Apolytikion.text = me.m01.d06_en_UK_lash.meVE.Apolytikion1.text
+meGW.R06="And the Priest immediately, blessing the waters in the figure of the Cross, immerses the precious Cross, plunging it upright into the water and lifting it out again, chanting the following Troparion. The Priest once and the Choirs once each."
+meGW.Apolytikion.mode=misc_en_UK_lash.Mode1
+meGW.Apolytikion.incipit = me.m01.d06_en_UK_lash.meVE.Apolytikion1.incipit
+meGW.Apolytikion.text=me.m01.d06_en_UK_lash.meVE.Apolytikion1.text
 
-meGW.R071 = "And he sprinkles all the People with the water."
-meGW.R072 = "On January 5."
-meGW.R073 = "On January 6."
-meGW.R08 = "As we enter the Church we chant the following Idiomelon."
+meGW.R071="And he sprinkles all the People with the water."
+meGW.R072="On January 5."
+meGW.R073="On January 6."
+meGW.R08="As we enter the Church we chant the following Idiomelon."
 
-meGW.Idiomelon4.mode = misc_en_UK_lash.Mode6
-meGW.Idiomelon4.text = me.m01.d12_en_UK_lash.meVE.AposGlory.text
+meGW.Idiomelon4.mode=misc_en_UK_lash.Mode6
+meGW.Idiomelon4.incipit = me.m01.d12_en_UK_lash.meVE.AposGlory.incipit
+meGW.Idiomelon4.text=me.m01.d12_en_UK_lash.meVE.AposGlory.text
 
-meGW.R09 = "Then the dismissal and the distribution of the Antidoron."
+meGW.R09="Then the dismissal and the distribution of the Antidoron."
 
-meVE.Lity1.poet = poets_en_UK_lash.KosmaMonachou
-meVE.Lity1.mode = misc_en_UK_lash.Mode4
-meVE.Lity1.melody = ""
-meVE.Lity1.text = ""
+meVE.Lity1.poet=poets_en_UK_lash.KosmaMonachou
+meVE.Lity1.mode=misc_en_UK_lash.Mode4
+meVE.Lity1.melody=""
+meVE.Lity1.incipit = ""
+meVE.Lity1.text=""
 
-meVE.Lity2.mode = misc_en_UK_lash.Mode4
-meVE.Lity2.melody = ""
-meVE.Lity2.text = "When the Baptist saw you, who take away the sin of the world by spirit and fire, coming to him, quailing and trembling he cried, 'I do not dare to grasp your immaculate head. But sanctify me, Master, by your Epiphany, only lover of humankind'."
-
-meVE.Lity3.mode = misc_en_UK_lash.Mode4
-meVE.Lity3.melody = ""
-meVE.Lity3.text = ""
-
-meVE.Lity4.mode = misc_en_UK_lash.Mode4
-meVE.Lity4.melody = ""
-meVE.Lity4.text = ""
-
-meVE.Lity5.mode = misc_en_UK_lash.Mode4
-meVE.Lity5.melody = ""
-meVE.Lity5.text = "The hand of the Baptist trembled when it touched your immaculate head; the river Jordan was turned back, not daring to minister to you; for how could the river that had stood in awe of Jesus son of Navi not be seized with alarm at its Maker? But you, our Saviour, fulfilled the whole dispensation, that you might save the world by your Epiphany, only lover of humankind."
-
-meVE.LityGlory.poet = poets_en_UK_lash.IoannouMonachou
-meVE.LityGlory.mode = misc_en_UK_lash.Mode8
-meVE.LityGlory.melody = ""
-meVE.LityGlory.text = ""
-
-meVE.LityBoth.poet = poets_en_UK_lash.Anatoliou
-meVE.LityBoth.mode = misc_en_UK_lash.Mode8
-meVE.LityBoth.melody = ""
-meVE.LityBoth.text = ""
-
-meVE.MM.LityBothasGloryBoth.text = properties_en_UK_lash.media.key
-
-meVE.Aposticha1.poet = poets_en_UK_lash.Anatoliou
-meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
-meVE.Aposticha1.melody = ""
-meVE.Aposticha1.text = ""
-
-meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
-meVE.Aposticha2.melody = ""
-meVE.Aposticha2.text = ""
-
-meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
-meVE.Aposticha3.melody = ""
-meVE.Aposticha3.text = ""
-
-meVE.AposGlory.poet = poets_en_UK_lash.Theofanous
-meVE.AposGlory.mode = misc_en_UK_lash.Mode6
-meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
-
-meVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
-meVE.Apolytikion1.melody = ""
-meVE.Apolytikion1.text = ""
-
-meMA.Kathisma11.mode = misc_en_UK_lash.Mode3
-meMA.Kathisma11.melody = he.a.m3_en_UK_lash.TinOraiotita.notmetered
-meMA.Kathisma11.text = ""
-
-meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
-meMA.Kathisma21.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
-meMA.Kathisma21.text = ""
-
-meMA.Kathisma31.mode = misc_en_UK_lash.Mode4
-meMA.Kathisma31.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-meMA.Kathisma31.text = ""
-
-meMA.MM.Prokeimenon.text = "" //for media
-
-meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
-meMA.PostGospelGlory.melody = ""
-meMA.PostGospelGlory.text = ""
-
-meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
-meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.text = meMA.PostGospelGlory.text 
-
-meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
-meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = ""
-
-meMA.C1.poet = poets_en_UK_lash.Kosma
-meMA.C1.acrostic = ""
-
-meMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou
-meMA.C2.acrostic = ""
-meMA.C2.Acrostic1.acrostic = ""
-meMA.C2.Acrostic2.acrostic = ""
-meMA.C2.Acrostic5.acrostic = ""
-meMA.C2.Acrostic4.acrostic = ""
-meMA.C2.Acrostic5.acrostic = ""
-
-meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C1H.text = he.h.m2_en_UK_lash.VythouAnekalypse.text
-
-meMA.C1.title = titles_en_UK_lash.KanonATisEortis
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
-
-meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C11.melody = he.h.m2_en_UK_lash.VythouAnekalypse.incipit
-meMA.Ode1C11.text = ""
-
-meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C12.melody = he.h.m2_en_UK_lash.VythouAnekalypse.incipit
-meMA.Ode1C12.text = ""
-
-meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C13.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C13.melody = he.h.m2_en_UK_lash.VythouAnekalypse.incipit
-meMA.Ode1C13.text = ""
-
-meMA.Ode1C2H.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C2H.text = he.h.m2_en_UK_lash.SteiveiThalassis.text
-meMA.Ode1C2H1.text = he.h.m2_en_UK_lash.SteiveiThalassis1.text
-meMA.Ode1C2H2.text = he.h.m2_en_UK_lash.SteiveiThalassis2.text
-meMA.Ode1C2H3.text = he.h.m2_en_UK_lash.SteiveiThalassis3.text
-meMA.Ode1C2H4.text = he.h.m2_en_UK_lash.SteiveiThalassis4.text
-meMA.Ode1C2H5.text = he.h.m2_en_UK_lash.SteiveiThalassis5.text
-
-meMA.C2.title = titles_en_UK_lash.KanonIamvikos
-meMA.C2.verse = prayers_en_UK_lash.verse_God.text
-
-meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_UK_lash.SteiveiThalassis.incipit
-meMA.Ode1C21.text = ""
-meMA.Ode1C211.text = ""
-meMA.Ode1C212.text = ""
-meMA.Ode1C213.text = ""
-meMA.Ode1C214.text = ""
-meMA.Ode1C215.text = ""
-
-meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_UK_lash.SteiveiThalassis.incipit
-meMA.Ode1C22.text = ""
-meMA.Ode1C221.text = ""
-meMA.Ode1C222.text = ""
-meMA.Ode1C223.text = ""
-meMA.Ode1C224.text = ""
-meMA.Ode1C225.text = ""
-
-meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C1H.text = he.h.m2_en_UK_lash.IschynODidous.text
-
-meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C11.melody = he.h.m2_en_UK_lash.IschynODidous.incipit
-meMA.Ode3C11.text = ""
-
-meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C12.melody = he.h.m2_en_UK_lash.IschynODidous.incipit
-meMA.Ode3C12.text = ""
-
-meMA.Ode3C2H.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C2H.text = he.h.m2_en_UK_lash.OsoiPalaion.text
-meMA.Ode3C2H1.text = he.h.m2_en_UK_lash.OsoiPalaion1.text
-meMA.Ode3C2H2.text = he.h.m2_en_UK_lash.OsoiPalaion2.text
-meMA.Ode3C2H3.text = he.h.m2_en_UK_lash.OsoiPalaion3.text
-meMA.Ode3C2H4.text = he.h.m2_en_UK_lash.OsoiPalaion4.text
-meMA.Ode3C2H5.text = he.h.m2_en_UK_lash.OsoiPalaion5.text
-
-meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_UK_lash.OsoiPalaion.incipit
-meMA.Ode3C21.text = ""
-meMA.Ode3C211.text = ""
-meMA.Ode3C212.text = ""
-meMA.Ode3C213.text = ""
-meMA.Ode3C214.text = ""
-meMA.Ode3C215.text = ""
-
-meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_UK_lash.OsoiPalaion.incipit
-meMA.Ode3C22.text = ""
-meMA.Ode3C221.text = ""
-meMA.Ode3C222.text = ""
-meMA.Ode3C223.text = ""
-meMA.Ode3C224.text = ""
-meMA.Ode3C225.text = ""
-
-meMA.Hypakoe.mode = misc_en_UK_lash.Mode5
-meMA.Hypakoe.melody = ""
-meMA.Hypakoe.text = ""
-
-meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode4C1H.text = he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.text
-
-meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C11.melody = he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
-meMA.Ode4C11.text = ""
-
-meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C12.melody = he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
-meMA.Ode4C12.text = ""
-
-meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C13.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C13.melody = he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
-meMA.Ode4C13.text = ""
-
-meMA.Ode4C2H.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode4C2H.text = he.h.m2_en_UK_lash.PyrsoKathartheis.text
-meMA.Ode4C2H1.text = he.h.m2_en_UK_lash.PyrsoKathartheis1.text
-meMA.Ode4C2H2.text = he.h.m2_en_UK_lash.PyrsoKathartheis2.text
-meMA.Ode4C2H3.text = he.h.m2_en_UK_lash.PyrsoKathartheis3.text
-meMA.Ode4C2H4.text = he.h.m2_en_UK_lash.PyrsoKathartheis4.text
-meMA.Ode4C2H5.text = he.h.m2_en_UK_lash.PyrsoKathartheis5.text
-
-meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
-meMA.Ode4C21.text = ""
-meMA.Ode4C211.text = ""
-meMA.Ode4C212.text = ""
-meMA.Ode4C213.text = ""
-meMA.Ode4C214.text = ""
-meMA.Ode4C215.text = ""
-
-meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
-meMA.Ode4C22.text = ""
-meMA.Ode4C221.text = ""
-meMA.Ode4C222.text = ""
-meMA.Ode4C223.text = ""
-meMA.Ode4C224.text = ""
-meMA.Ode4C225.text = ""
-
-meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
-meMA.Ode4C23.text = ""
-meMA.Ode4C231.text = ""
-meMA.Ode4C232.text = ""
-meMA.Ode4C233.text = ""
-meMA.Ode4C234.text = ""
-meMA.Ode4C235.text = ""
-
-meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode5C1H.text = he.h.m2_en_UK_lash.IisousOZoisArchigos.text
-
-meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C11.melody = he.h.m2_en_UK_lash.IisousOZoisArchigos.incipit
-meMA.Ode5C11.text = ""
-
-meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C12.melody = he.h.m2_en_UK_lash.IisousOZoisArchigos.incipit
-meMA.Ode5C12.text = ""
-
-meMA.Ode5C2H.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode5C2H.text = he.h.m2_en_UK_lash.EchthrouZofodous.text
-meMA.Ode5C2H1.text = he.h.m2_en_UK_lash.EchthrouZofodous1.text
-meMA.Ode5C2H2.text = he.h.m2_en_UK_lash.EchthrouZofodous2.text
-meMA.Ode5C2H3.text = he.h.m2_en_UK_lash.EchthrouZofodous3.text
-meMA.Ode5C2H4.text = he.h.m2_en_UK_lash.EchthrouZofodous4.text
-meMA.Ode5C2H5.text = he.h.m2_en_UK_lash.EchthrouZofodous5.text
-
-meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_UK_lash.EchthrouZofodous.incipit
-meMA.Ode5C21.text = ""
-meMA.Ode5C211.text = ""
-meMA.Ode5C212.text = ""
-meMA.Ode5C213.text = ""
-meMA.Ode5C214.text = ""
-meMA.Ode5C215.text = ""
-
-meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_UK_lash.EchthrouZofodous.incipit
-meMA.Ode5C22.text = ""
-meMA.Ode5C221.text = ""
-meMA.Ode5C222.text = ""
-meMA.Ode5C223.text = ""
-meMA.Ode5C224.text = ""
-meMA.Ode5C225.text = ""
-
-meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C1H.text = he.h.m2_en_UK_lash.IFoniTouLogou.text
-
-meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C11.melody = he.h.m2_en_UK_lash.IFoniTouLogou.incipit
-meMA.Ode6C11.text = ""
-
-meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C12.melody = he.h.m2_en_UK_lash.IFoniTouLogou.incipit
-meMA.Ode6C12.text = ""
-
-meMA.Ode6C2H.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C2H.text = he.h.m2_en_UK_lash.ImertonExefine.text
-meMA.Ode6C2H1.text = he.h.m2_en_UK_lash.ImertonExefine1.text
-meMA.Ode6C2H2.text = he.h.m2_en_UK_lash.ImertonExefine2.text
-meMA.Ode6C2H3.text = he.h.m2_en_UK_lash.ImertonExefine3.text
-meMA.Ode6C2H4.text = he.h.m2_en_UK_lash.ImertonExefine4.text
-meMA.Ode6C2H5.text = he.h.m2_en_UK_lash.ImertonExefine5.text
-
-meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C21.melody = ""
-meMA.Ode6C21.text = ""
-meMA.Ode6C211.text = ""
-meMA.Ode6C212.text = ""
-meMA.Ode6C213.text = ""
-meMA.Ode6C214.text = ""
-meMA.Ode6C215.text = ""
-
-meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C22.melody = ""
-meMA.Ode6C22.text = ""
-meMA.Ode6C221.text = ""
-meMA.Ode6C222.text = ""
-meMA.Ode6C223.text = ""
-meMA.Ode6C224.text = ""
-meMA.Ode6C225.text = ""
-
-meMA.Kontakion1.poet = poets_en_UK_lash.RomanouTouMelodou
-meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
-meMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
-meMA.Kontakion1.text = he.a.m4_en_UK_lash.EpefanisSimeron.text
-
-meMA.Oikos1.text = ""
-
-meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode7C1H.text = he.h.m2_en_UK_lash.NeousEfseveis.text
-
-meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C11.melody = he.h.m2_en_UK_lash.NeousEfseveis.incipit
-meMA.Ode7C11.text = ""
-
-meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C12.melody = he.h.m2_en_UK_lash.NeousEfseveis.incipit
-meMA.Ode7C12.text = ""
-
-meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C13.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C13.melody = he.h.m2_en_UK_lash.NeousEfseveis.incipit
-meMA.Ode7C13.text = ""
-
-meMA.Ode7C2H.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode7C2H.text = he.h.m2_en_UK_lash.EflexeReithro.text
-meMA.Ode7C2H1.text = he.h.m2_en_UK_lash.EflexeReithro1.text
-meMA.Ode7C2H2.text = he.h.m2_en_UK_lash.EflexeReithro2.text
-meMA.Ode7C2H3.text = he.h.m2_en_UK_lash.EflexeReithro3.text
-meMA.Ode7C2H4.text = he.h.m2_en_UK_lash.EflexeReithro4.text
-meMA.Ode7C2H5.text = he.h.m2_en_UK_lash.EflexeReithro5.text
-
-meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_UK_lash.EflexeReithro.incipit
-meMA.Ode7C21.text = ""
-meMA.Ode7C211.text = ""
-meMA.Ode7C212.text = ""
-meMA.Ode7C213.text = ""
-meMA.Ode7C214.text = ""
-meMA.Ode7C215.text = ""
-
-meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_UK_lash.EflexeReithro.incipit
-meMA.Ode7C22.text = ""
-meMA.Ode7C221.text = ""
-meMA.Ode7C222.text = ""
-meMA.Ode7C223.text = ""
-meMA.Ode7C224.text = ""
-meMA.Ode7C225.text = ""
-
-meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C23.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_UK_lash.EflexeReithro.incipit
-meMA.Ode7C23.text = ""
-meMA.Ode7C231.text = ""
-meMA.Ode7C232.text = ""
-meMA.Ode7C233.text = ""
-meMA.Ode7C234.text = ""
-meMA.Ode7C235.text = ""
-
-meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode8C1H.text = he.h.m2_en_UK_lash.MystirionParadoxon.text
-
-meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C11.melody = he.h.m2_en_UK_lash.MystirionParadoxon.incipit
-meMA.Ode8C11.text = ""
-
-meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C12.melody = he.h.m2_en_UK_lash.MystirionParadoxon.incipit
-meMA.Ode8C12.text = ""
-
-meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C13.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C13.melody = he.h.m2_en_UK_lash.MystirionParadoxon.incipit
-meMA.Ode8C13.text = ""
-
-meMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode8C2H.text = he.h.m2_en_UK_lash.EleftheraMenIKtisis.text
-meMA.Ode8C2H1.text = he.h.m2_en_UK_lash.EleftheraMenIKtisis1.text
-meMA.Ode8C2H2.text = he.h.m2_en_UK_lash.EleftheraMenIKtisis2.text
-meMA.Ode8C2H3.text = he.h.m2_en_UK_lash.EleftheraMenIKtisis3.text
-meMA.Ode8C2H4.text = he.h.m2_en_UK_lash.EleftheraMenIKtisis4.text
-meMA.Ode8C2H5.text = he.h.m2_en_UK_lash.EleftheraMenIKtisis5.text
-
-meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_UK_lash.EleftheraMenIKtisis.incipit
-meMA.Ode8C21.text = ""
-meMA.Ode8C211.text = ""
-meMA.Ode8C212.text = ""
-meMA.Ode8C213.text = ""
-meMA.Ode8C214.text = ""
-meMA.Ode8C215.text = ""
-
-meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_UK_lash.EleftheraMenIKtisis.incipit
-meMA.Ode8C22.text = ""
-meMA.Ode8C221.text = ""
-meMA.Ode8C222.text = ""
-meMA.Ode8C223.text = ""
-meMA.Ode8C224.text = ""
-meMA.Ode8C225.text = ""
-
-meMA.Ode9C1M01.text = ""
-meMA.Ode9C1M02.text = ""
-meMA.Ode9C1M03.text = ""
-meMA.Ode9C1M04.text = ""
-meMA.Ode9C1M05.text = ""
-meMA.Ode9C1M06.text = ""
-meMA.Ode9C1M07.text = ""
-
-meMA.Ode9C2M01.text = ""
-meMA.Ode9C2M02.text = ""
-meMA.Ode9C2M03.text = ""
-meMA.Ode9C2M04.text = ""
-meMA.Ode9C2M05.text = ""
-meMA.Ode9C2M06.text = ""
-meMA.Ode9C2MTr.text = ""
-meMA.Ode9C2MTh.text = ""
-
-meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.text = he.h.m2_en_UK_lash.AporeiPasaGlossa.text
-
-meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C11.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C11.melody = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
-meMA.Ode9C11.text = ""
-
-meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C12.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C12.melody = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
-meMA.Ode9C12.text = ""
-
-meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C13.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C13.melody = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
-meMA.Ode9C13.text = ""
-
-meMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C2H.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C2H.text = he.h.m2_en_UK_lash.OTonYperNoun.text
-meMA.Ode9C2H1.text = he.h.m2_en_UK_lash.OTonYperNoun1.text
-meMA.Ode9C2H2.text = he.h.m2_en_UK_lash.OTonYperNoun2.text
-meMA.Ode9C2H3.text = he.h.m2_en_UK_lash.OTonYperNoun3.text
-meMA.Ode9C2H4.text = he.h.m2_en_UK_lash.OTonYperNoun4.text
-meMA.Ode9C2H5.text = he.h.m2_en_UK_lash.OTonYperNoun5.text
-
-meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C21.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_UK_lash.OTonYperNoun.incipit
-meMA.Ode9C21.text = ""
-meMA.Ode9C211.text = ""
-meMA.Ode9C212.text = ""
-meMA.Ode9C213.text = ""
-meMA.Ode9C214.text = ""
-meMA.Ode9C215.text = ""
-
-meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C22.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_UK_lash.OTonYperNoun.incipit
-meMA.Ode9C22.text = ""
-meMA.Ode9C221.text = ""
-meMA.Ode9C222.text = ""
-meMA.Ode9C223.text = ""
-meMA.Ode9C224.text = ""
-meMA.Ode9C225.text = ""
-
-meMA.Exaposteilarion1.poet = ""
-meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
-meMA.Exaposteilarion1.melody = misc_en_UK_lash.AutomelonNotMetered
-meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.EpefaniOSotir.text
-
-meMA.Lauds1.poet = poets_en_UK_lash.GermanouPatriarchou
-meMA.Lauds1.mode = misc_en_UK_lash.Mode1
-meMA.Lauds1.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds1.text = ""
-
-meMA.Lauds2.mode = misc_en_UK_lash.Mode1
-meMA.Lauds2.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds2.text = ""
-
-meMA.Lauds3.mode = misc_en_UK_lash.Mode1
-meMA.Lauds3.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds3.text = ""
-
-meMA.Lauds4.mode = misc_en_UK_lash.Mode1
-meMA.Lauds4.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds4.text = ""
-
-meMA.Lauds5.poet = poets_en_UK_lash.AndreouIerosolymitou
-meMA.Lauds5.mode = misc_en_UK_lash.Mode1
-meMA.Lauds5.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds5.text = ""
-
-meMA.LaudsGlory.poet = poets_en_UK_lash.Anatoliou
-meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
-meMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
-meMA.LaudsGlory.text = ""
-
-meMA.LaudsBoth.poet = poets_en_UK_lash.Anatoliou
-meMA.LaudsBoth.mode = misc_en_UK_lash.Mode2
-meMA.LaudsBoth.melody = misc_en_UK_lash.Idiomelon
-meMA.LaudsBoth.text = ""
-
-meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
-
-meLI.Antiphon2.text = ""
-
-meLI.MM.EntranceHymn.text = ""
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meLI.TheotokosHymn.mode = misc_en_UK_lash.Mode2
-meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
-meLI.TheotokosHymn.text = meMA.Ode9C1H.text
-
-meLI.MM.CommunionHymn.text = ""
-
-meMegalynarion.text = ""
+meVE.Lity2.mode=misc_en_UK_lash.Mode4
+meVE.Lity2.melody=""
+meVE.Lity2.incipit = "When the Baptist saw you,"
+meVE.Lity2.text="When the Baptist saw you, who take away the sin of the world by spirit and fire, coming to him, quailing and trembling he cried, 'I do not dare to grasp your immaculate head. But sanctify me, Master, by your Epiphany, only lover of humankind'."
+
+meVE.Lity3.mode=misc_en_UK_lash.Mode4
+meVE.Lity3.melody=""
+meVE.Lity3.incipit = ""
+meVE.Lity3.text=""
+
+meVE.Lity4.mode=misc_en_UK_lash.Mode4
+meVE.Lity4.melody=""
+meVE.Lity4.incipit = ""
+meVE.Lity4.text=""
+
+meVE.Lity5.mode=misc_en_UK_lash.Mode4
+meVE.Lity5.melody=""
+meVE.Lity5.incipit = "The hand of the Baptist"
+meVE.Lity5.text="The hand of the Baptist trembled when it touched your immaculate head; the river Jordan was turned back, not daring to minister to you; for how could the river that had stood in awe of Jesus son of Navi not be seized with alarm at its Maker? But you, our Saviour, fulfilled the whole dispensation, that you might save the world by your Epiphany, only lover of humankind."
+
+meVE.LityGlory.poet=poets_en_UK_lash.IoannouMonachou
+meVE.LityGlory.mode=misc_en_UK_lash.Mode8
+meVE.LityGlory.melody=""
+meVE.LityGlory.incipit = ""
+meVE.LityGlory.text=""
+
+meVE.LityBoth.poet=poets_en_UK_lash.Anatoliou
+meVE.LityBoth.mode=misc_en_UK_lash.Mode8
+meVE.LityBoth.melody=""
+meVE.LityBoth.incipit = ""
+meVE.LityBoth.text=""
+
+meVE.MM.LityBothasGloryBoth.text=properties_en_UK_lash.media.key
+
+meVE.Aposticha1.poet=poets_en_UK_lash.Anatoliou
+meVE.Aposticha1.mode=misc_en_UK_lash.Mode2
+meVE.Aposticha1.melody=""
+meVE.Aposticha1.incipit = ""
+meVE.Aposticha1.text=""
+
+meVE.Aposticha2.mode=misc_en_UK_lash.Mode2
+meVE.Aposticha2.melody=""
+meVE.Aposticha2.incipit = ""
+meVE.Aposticha2.text=""
+
+meVE.Aposticha3.mode=misc_en_UK_lash.Mode2
+meVE.Aposticha3.melody=""
+meVE.Aposticha3.incipit = ""
+meVE.Aposticha3.text=""
+
+meVE.AposGlory.poet=poets_en_UK_lash.Theofanous
+meVE.AposGlory.mode=misc_en_UK_lash.Mode6
+meVE.AposGlory.melody=""
+meVE.AposGlory.incipit = ""
+meVE.AposGlory.text=""
+
+meVE.Apolytikion1.mode=misc_en_UK_lash.Mode1
+meVE.Apolytikion1.melody=""
+meVE.Apolytikion1.incipit = ""
+meVE.Apolytikion1.text=""
+
+meMA.Kathisma11.mode=misc_en_UK_lash.Mode3
+meMA.Kathisma11.melody=he.a.m3_en_UK_lash.TinOraiotita.notmetered
+meMA.Kathisma11.incipit = ""
+meMA.Kathisma11.text=""
+
+meMA.Kathisma21.mode=misc_en_UK_lash.Mode4
+meMA.Kathisma21.melody=he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+meMA.Kathisma21.incipit = ""
+meMA.Kathisma21.text=""
+
+meMA.Kathisma31.mode=misc_en_UK_lash.Mode4
+meMA.Kathisma31.melody=he.a.m4_en_UK_lash.TachyProkatalave.notmetered
+meMA.Kathisma31.incipit = ""
+meMA.Kathisma31.text=""
+
+meMA.MM.Prokeimenon.text="" //for media
+
+meMA.PostGospelGlory.mode=misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody=""
+meMA.PostGospelGlory.incipit = ""
+meMA.PostGospelGlory.text=""
+
+meMA.PostGospelBoth.mode=misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody=""
+meMA.PostGospelBoth.incipit = meMA.PostGospelGlory.incipit
+meMA.PostGospelBoth.text=meMA.PostGospelGlory.text
+
+meMA.PostGospelIdiomelon.mode=misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.melody=""
+meMA.PostGospelIdiomelon.incipit = ""
+meMA.PostGospelIdiomelon.text=""
+
+meMA.C1.poet=poets_en_UK_lash.Kosma
+meMA.C1.acrostic=""
+
+meMA.C2.poet=poets_en_UK_lash.IoannouTouDamaskinou
+meMA.C2.acrostic=""
+meMA.C2.Acrostic1.acrostic=""
+meMA.C2.Acrostic2.acrostic=""
+meMA.C2.Acrostic5.acrostic=""
+meMA.C2.Acrostic4.acrostic=""
+meMA.C2.Acrostic5.acrostic=""
+
+meMA.Ode1C1H.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.VythouAnekalypse.incipit
+meMA.Ode1C1H.text=he.h.m2_en_UK_lash.VythouAnekalypse.text
+
+meMA.C1.title=titles_en_UK_lash.KanonATisEortis
+meMA.C1.verse=prayers_en_UK_lash.verse_God.text
+
+meMA.Ode1C11.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C11.melody=he.h.m2_en_UK_lash.VythouAnekalypse.incipit
+meMA.Ode1C11.incipit = ""
+meMA.Ode1C11.text=""
+
+meMA.Ode1C12.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C12.melody=he.h.m2_en_UK_lash.VythouAnekalypse.incipit
+meMA.Ode1C12.incipit = ""
+meMA.Ode1C12.text=""
+
+meMA.Ode1C13.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C13.melody=he.h.m2_en_UK_lash.VythouAnekalypse.incipit
+meMA.Ode1C13.incipit = ""
+meMA.Ode1C13.text=""
+
+meMA.Ode1C2H.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C2H.incipit = he.h.m2_en_UK_lash.SteiveiThalassis.incipit
+meMA.Ode1C2H.text=he.h.m2_en_UK_lash.SteiveiThalassis.text
+meMA.Ode1C2H1.incipit = he.h.m2_en_UK_lash.SteiveiThalassis1.incipit
+meMA.Ode1C2H1.text=he.h.m2_en_UK_lash.SteiveiThalassis1.text
+meMA.Ode1C2H2.incipit = he.h.m2_en_UK_lash.SteiveiThalassis2.incipit
+meMA.Ode1C2H2.text=he.h.m2_en_UK_lash.SteiveiThalassis2.text
+meMA.Ode1C2H3.incipit = he.h.m2_en_UK_lash.SteiveiThalassis3.incipit
+meMA.Ode1C2H3.text=he.h.m2_en_UK_lash.SteiveiThalassis3.text
+meMA.Ode1C2H4.incipit = he.h.m2_en_UK_lash.SteiveiThalassis4.incipit
+meMA.Ode1C2H4.text=he.h.m2_en_UK_lash.SteiveiThalassis4.text
+meMA.Ode1C2H5.incipit = he.h.m2_en_UK_lash.SteiveiThalassis5.incipit
+meMA.Ode1C2H5.text=he.h.m2_en_UK_lash.SteiveiThalassis5.text
+
+meMA.C2.title=titles_en_UK_lash.KanonIamvikos
+meMA.C2.verse=prayers_en_UK_lash.verse_God.text
+
+meMA.Ode1C21.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C21.melody=he.h.m2_en_UK_lash.SteiveiThalassis.incipit
+meMA.Ode1C21.incipit = ""
+meMA.Ode1C21.text=""
+meMA.Ode1C211.incipit = ""
+meMA.Ode1C211.text=""
+meMA.Ode1C212.incipit = ""
+meMA.Ode1C212.text=""
+meMA.Ode1C213.incipit = ""
+meMA.Ode1C213.text=""
+meMA.Ode1C214.incipit = ""
+meMA.Ode1C214.text=""
+meMA.Ode1C215.incipit = ""
+meMA.Ode1C215.text=""
+
+meMA.Ode1C22.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode1C22.melody=he.h.m2_en_UK_lash.SteiveiThalassis.incipit
+meMA.Ode1C22.incipit = ""
+meMA.Ode1C22.text=""
+meMA.Ode1C221.incipit = ""
+meMA.Ode1C221.text=""
+meMA.Ode1C222.incipit = ""
+meMA.Ode1C222.text=""
+meMA.Ode1C223.incipit = ""
+meMA.Ode1C223.text=""
+meMA.Ode1C224.incipit = ""
+meMA.Ode1C224.text=""
+meMA.Ode1C225.incipit = ""
+meMA.Ode1C225.text=""
+
+meMA.Ode3C1H.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode3C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.IschynODidous.incipit
+meMA.Ode3C1H.text=he.h.m2_en_UK_lash.IschynODidous.text
+
+meMA.Ode3C11.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode3C11.melody=he.h.m2_en_UK_lash.IschynODidous.incipit
+meMA.Ode3C11.incipit = ""
+meMA.Ode3C11.text=""
+
+meMA.Ode3C12.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode3C12.melody=he.h.m2_en_UK_lash.IschynODidous.incipit
+meMA.Ode3C12.incipit = ""
+meMA.Ode3C12.text=""
+
+meMA.Ode3C2H.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode3C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C2H.incipit = he.h.m2_en_UK_lash.OsoiPalaion.incipit
+meMA.Ode3C2H.text=he.h.m2_en_UK_lash.OsoiPalaion.text
+meMA.Ode3C2H1.incipit = he.h.m2_en_UK_lash.OsoiPalaion1.incipit
+meMA.Ode3C2H1.text=he.h.m2_en_UK_lash.OsoiPalaion1.text
+meMA.Ode3C2H2.incipit = he.h.m2_en_UK_lash.OsoiPalaion2.incipit
+meMA.Ode3C2H2.text=he.h.m2_en_UK_lash.OsoiPalaion2.text
+meMA.Ode3C2H3.incipit = he.h.m2_en_UK_lash.OsoiPalaion3.incipit
+meMA.Ode3C2H3.text=he.h.m2_en_UK_lash.OsoiPalaion3.text
+meMA.Ode3C2H4.incipit = he.h.m2_en_UK_lash.OsoiPalaion4.incipit
+meMA.Ode3C2H4.text=he.h.m2_en_UK_lash.OsoiPalaion4.text
+meMA.Ode3C2H5.incipit = he.h.m2_en_UK_lash.OsoiPalaion5.incipit
+meMA.Ode3C2H5.text=he.h.m2_en_UK_lash.OsoiPalaion5.text
+
+meMA.Ode3C21.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode3C21.melody=he.h.m2_en_UK_lash.OsoiPalaion.incipit
+meMA.Ode3C21.incipit = ""
+meMA.Ode3C21.text=""
+meMA.Ode3C211.incipit = ""
+meMA.Ode3C211.text=""
+meMA.Ode3C212.incipit = ""
+meMA.Ode3C212.text=""
+meMA.Ode3C213.incipit = ""
+meMA.Ode3C213.text=""
+meMA.Ode3C214.incipit = ""
+meMA.Ode3C214.text=""
+meMA.Ode3C215.incipit = ""
+meMA.Ode3C215.text=""
+
+meMA.Ode3C22.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode3C22.melody=he.h.m2_en_UK_lash.OsoiPalaion.incipit
+meMA.Ode3C22.incipit = ""
+meMA.Ode3C22.text=""
+meMA.Ode3C221.incipit = ""
+meMA.Ode3C221.text=""
+meMA.Ode3C222.incipit = ""
+meMA.Ode3C222.text=""
+meMA.Ode3C223.incipit = ""
+meMA.Ode3C223.text=""
+meMA.Ode3C224.incipit = ""
+meMA.Ode3C224.text=""
+meMA.Ode3C225.incipit = ""
+meMA.Ode3C225.text=""
+
+meMA.Hypakoe.mode=misc_en_UK_lash.Mode5
+meMA.Hypakoe.melody=""
+meMA.Hypakoe.incipit = ""
+meMA.Hypakoe.text=""
+
+meMA.Ode4C1H.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
+meMA.Ode4C1H.text=he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.text
+
+meMA.Ode4C11.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C11.melody=he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
+meMA.Ode4C11.incipit = ""
+meMA.Ode4C11.text=""
+
+meMA.Ode4C12.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C12.melody=he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
+meMA.Ode4C12.incipit = ""
+meMA.Ode4C12.text=""
+
+meMA.Ode4C13.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C13.melody=he.h.m2_en_UK_lash.AkikoeKyrieFonisSou.incipit
+meMA.Ode4C13.incipit = ""
+meMA.Ode4C13.text=""
+
+meMA.Ode4C2H.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C2H.incipit = he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
+meMA.Ode4C2H.text=he.h.m2_en_UK_lash.PyrsoKathartheis.text
+meMA.Ode4C2H1.incipit = he.h.m2_en_UK_lash.PyrsoKathartheis1.incipit
+meMA.Ode4C2H1.text=he.h.m2_en_UK_lash.PyrsoKathartheis1.text
+meMA.Ode4C2H2.incipit = he.h.m2_en_UK_lash.PyrsoKathartheis2.incipit
+meMA.Ode4C2H2.text=he.h.m2_en_UK_lash.PyrsoKathartheis2.text
+meMA.Ode4C2H3.incipit = he.h.m2_en_UK_lash.PyrsoKathartheis3.incipit
+meMA.Ode4C2H3.text=he.h.m2_en_UK_lash.PyrsoKathartheis3.text
+meMA.Ode4C2H4.incipit = he.h.m2_en_UK_lash.PyrsoKathartheis4.incipit
+meMA.Ode4C2H4.text=he.h.m2_en_UK_lash.PyrsoKathartheis4.text
+meMA.Ode4C2H5.incipit = he.h.m2_en_UK_lash.PyrsoKathartheis5.incipit
+meMA.Ode4C2H5.text=he.h.m2_en_UK_lash.PyrsoKathartheis5.text
+
+meMA.Ode4C21.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C21.melody=he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
+meMA.Ode4C21.incipit = ""
+meMA.Ode4C21.text=""
+meMA.Ode4C211.incipit = ""
+meMA.Ode4C211.text=""
+meMA.Ode4C212.incipit = ""
+meMA.Ode4C212.text=""
+meMA.Ode4C213.incipit = ""
+meMA.Ode4C213.text=""
+meMA.Ode4C214.incipit = ""
+meMA.Ode4C214.text=""
+meMA.Ode4C215.incipit = ""
+meMA.Ode4C215.text=""
+
+meMA.Ode4C22.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C22.melody=he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
+meMA.Ode4C22.incipit = ""
+meMA.Ode4C22.text=""
+meMA.Ode4C221.incipit = ""
+meMA.Ode4C221.text=""
+meMA.Ode4C222.incipit = ""
+meMA.Ode4C222.text=""
+meMA.Ode4C223.incipit = ""
+meMA.Ode4C223.text=""
+meMA.Ode4C224.incipit = ""
+meMA.Ode4C224.text=""
+meMA.Ode4C225.incipit = ""
+meMA.Ode4C225.text=""
+
+meMA.Ode4C23.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode=misc_en_UK_lash.Mode2
+meMA.Ode4C23.melody=he.h.m2_en_UK_lash.PyrsoKathartheis.incipit
+meMA.Ode4C23.incipit = ""
+meMA.Ode4C23.text=""
+meMA.Ode4C231.incipit = ""
+meMA.Ode4C231.text=""
+meMA.Ode4C232.incipit = ""
+meMA.Ode4C232.text=""
+meMA.Ode4C233.incipit = ""
+meMA.Ode4C233.text=""
+meMA.Ode4C234.incipit = ""
+meMA.Ode4C234.text=""
+meMA.Ode4C235.incipit = ""
+meMA.Ode4C235.text=""
+
+meMA.Ode5C1H.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode5C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.IisousOZoisArchigos.incipit
+meMA.Ode5C1H.text=he.h.m2_en_UK_lash.IisousOZoisArchigos.text
+
+meMA.Ode5C11.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode5C11.melody=he.h.m2_en_UK_lash.IisousOZoisArchigos.incipit
+meMA.Ode5C11.incipit = ""
+meMA.Ode5C11.text=""
+
+meMA.Ode5C12.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode5C12.melody=he.h.m2_en_UK_lash.IisousOZoisArchigos.incipit
+meMA.Ode5C12.incipit = ""
+meMA.Ode5C12.text=""
+
+meMA.Ode5C2H.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode5C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C2H.incipit = he.h.m2_en_UK_lash.EchthrouZofodous.incipit
+meMA.Ode5C2H.text=he.h.m2_en_UK_lash.EchthrouZofodous.text
+meMA.Ode5C2H1.incipit = he.h.m2_en_UK_lash.EchthrouZofodous1.incipit
+meMA.Ode5C2H1.text=he.h.m2_en_UK_lash.EchthrouZofodous1.text
+meMA.Ode5C2H2.incipit = he.h.m2_en_UK_lash.EchthrouZofodous2.incipit
+meMA.Ode5C2H2.text=he.h.m2_en_UK_lash.EchthrouZofodous2.text
+meMA.Ode5C2H3.incipit = he.h.m2_en_UK_lash.EchthrouZofodous3.incipit
+meMA.Ode5C2H3.text=he.h.m2_en_UK_lash.EchthrouZofodous3.text
+meMA.Ode5C2H4.incipit = he.h.m2_en_UK_lash.EchthrouZofodous4.incipit
+meMA.Ode5C2H4.text=he.h.m2_en_UK_lash.EchthrouZofodous4.text
+meMA.Ode5C2H5.incipit = he.h.m2_en_UK_lash.EchthrouZofodous5.incipit
+meMA.Ode5C2H5.text=he.h.m2_en_UK_lash.EchthrouZofodous5.text
+
+meMA.Ode5C21.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode5C21.melody=he.h.m2_en_UK_lash.EchthrouZofodous.incipit
+meMA.Ode5C21.incipit = ""
+meMA.Ode5C21.text=""
+meMA.Ode5C211.incipit = ""
+meMA.Ode5C211.text=""
+meMA.Ode5C212.incipit = ""
+meMA.Ode5C212.text=""
+meMA.Ode5C213.incipit = ""
+meMA.Ode5C213.text=""
+meMA.Ode5C214.incipit = ""
+meMA.Ode5C214.text=""
+meMA.Ode5C215.incipit = ""
+meMA.Ode5C215.text=""
+
+meMA.Ode5C22.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode5C22.melody=he.h.m2_en_UK_lash.EchthrouZofodous.incipit
+meMA.Ode5C22.incipit = ""
+meMA.Ode5C22.text=""
+meMA.Ode5C221.incipit = ""
+meMA.Ode5C221.text=""
+meMA.Ode5C222.incipit = ""
+meMA.Ode5C222.text=""
+meMA.Ode5C223.incipit = ""
+meMA.Ode5C223.text=""
+meMA.Ode5C224.incipit = ""
+meMA.Ode5C224.text=""
+meMA.Ode5C225.incipit = ""
+meMA.Ode5C225.text=""
+
+meMA.Ode6C1H.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode6C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.IFoniTouLogou.incipit
+meMA.Ode6C1H.text=he.h.m2_en_UK_lash.IFoniTouLogou.text
+
+meMA.Ode6C11.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode6C11.melody=he.h.m2_en_UK_lash.IFoniTouLogou.incipit
+meMA.Ode6C11.incipit = ""
+meMA.Ode6C11.text=""
+
+meMA.Ode6C12.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode6C12.melody=he.h.m2_en_UK_lash.IFoniTouLogou.incipit
+meMA.Ode6C12.incipit = ""
+meMA.Ode6C12.text=""
+
+meMA.Ode6C2H.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode6C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C2H.incipit = he.h.m2_en_UK_lash.ImertonExefine.incipit
+meMA.Ode6C2H.text=he.h.m2_en_UK_lash.ImertonExefine.text
+meMA.Ode6C2H1.incipit = he.h.m2_en_UK_lash.ImertonExefine1.incipit
+meMA.Ode6C2H1.text=he.h.m2_en_UK_lash.ImertonExefine1.text
+meMA.Ode6C2H2.incipit = he.h.m2_en_UK_lash.ImertonExefine2.incipit
+meMA.Ode6C2H2.text=he.h.m2_en_UK_lash.ImertonExefine2.text
+meMA.Ode6C2H3.incipit = he.h.m2_en_UK_lash.ImertonExefine3.incipit
+meMA.Ode6C2H3.text=he.h.m2_en_UK_lash.ImertonExefine3.text
+meMA.Ode6C2H4.incipit = he.h.m2_en_UK_lash.ImertonExefine4.incipit
+meMA.Ode6C2H4.text=he.h.m2_en_UK_lash.ImertonExefine4.text
+meMA.Ode6C2H5.incipit = he.h.m2_en_UK_lash.ImertonExefine5.incipit
+meMA.Ode6C2H5.text=he.h.m2_en_UK_lash.ImertonExefine5.text
+
+meMA.Ode6C21.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode6C21.melody=""
+meMA.Ode6C21.incipit = ""
+meMA.Ode6C21.text=""
+meMA.Ode6C211.incipit = ""
+meMA.Ode6C211.text=""
+meMA.Ode6C212.incipit = ""
+meMA.Ode6C212.text=""
+meMA.Ode6C213.incipit = ""
+meMA.Ode6C213.text=""
+meMA.Ode6C214.incipit = ""
+meMA.Ode6C214.text=""
+meMA.Ode6C215.incipit = ""
+meMA.Ode6C215.text=""
+
+meMA.Ode6C22.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode6C22.melody=""
+meMA.Ode6C22.incipit = ""
+meMA.Ode6C22.text=""
+meMA.Ode6C221.incipit = ""
+meMA.Ode6C221.text=""
+meMA.Ode6C222.incipit = ""
+meMA.Ode6C222.text=""
+meMA.Ode6C223.incipit = ""
+meMA.Ode6C223.text=""
+meMA.Ode6C224.incipit = ""
+meMA.Ode6C224.text=""
+meMA.Ode6C225.incipit = ""
+meMA.Ode6C225.text=""
+
+meMA.Kontakion1.poet=poets_en_UK_lash.RomanouTouMelodou
+meMA.Kontakion1.mode=misc_en_UK_lash.Mode4
+meMA.Kontakion1.melody=misc_en_UK_lash.AutomelonNotMetered
+meMA.Kontakion1.incipit = he.a.m4_en_UK_lash.EpefanisSimeron.incipit
+meMA.Kontakion1.text=he.a.m4_en_UK_lash.EpefanisSimeron.text
+
+meMA.Oikos1.text=""
+
+meMA.Ode7C1H.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.NeousEfseveis.incipit
+meMA.Ode7C1H.text=he.h.m2_en_UK_lash.NeousEfseveis.text
+
+meMA.Ode7C11.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C11.melody=he.h.m2_en_UK_lash.NeousEfseveis.incipit
+meMA.Ode7C11.incipit = ""
+meMA.Ode7C11.text=""
+
+meMA.Ode7C12.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C12.melody=he.h.m2_en_UK_lash.NeousEfseveis.incipit
+meMA.Ode7C12.incipit = ""
+meMA.Ode7C12.text=""
+
+meMA.Ode7C13.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C13.melody=he.h.m2_en_UK_lash.NeousEfseveis.incipit
+meMA.Ode7C13.incipit = ""
+meMA.Ode7C13.text=""
+
+meMA.Ode7C2H.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C2H.incipit = he.h.m2_en_UK_lash.EflexeReithro.incipit
+meMA.Ode7C2H.text=he.h.m2_en_UK_lash.EflexeReithro.text
+meMA.Ode7C2H1.incipit = he.h.m2_en_UK_lash.EflexeReithro1.incipit
+meMA.Ode7C2H1.text=he.h.m2_en_UK_lash.EflexeReithro1.text
+meMA.Ode7C2H2.incipit = he.h.m2_en_UK_lash.EflexeReithro2.incipit
+meMA.Ode7C2H2.text=he.h.m2_en_UK_lash.EflexeReithro2.text
+meMA.Ode7C2H3.incipit = he.h.m2_en_UK_lash.EflexeReithro3.incipit
+meMA.Ode7C2H3.text=he.h.m2_en_UK_lash.EflexeReithro3.text
+meMA.Ode7C2H4.incipit = he.h.m2_en_UK_lash.EflexeReithro4.incipit
+meMA.Ode7C2H4.text=he.h.m2_en_UK_lash.EflexeReithro4.text
+meMA.Ode7C2H5.incipit = he.h.m2_en_UK_lash.EflexeReithro5.incipit
+meMA.Ode7C2H5.text=he.h.m2_en_UK_lash.EflexeReithro5.text
+
+meMA.Ode7C21.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C21.melody=he.h.m2_en_UK_lash.EflexeReithro.incipit
+meMA.Ode7C21.incipit = ""
+meMA.Ode7C21.text=""
+meMA.Ode7C211.incipit = ""
+meMA.Ode7C211.text=""
+meMA.Ode7C212.incipit = ""
+meMA.Ode7C212.text=""
+meMA.Ode7C213.incipit = ""
+meMA.Ode7C213.text=""
+meMA.Ode7C214.incipit = ""
+meMA.Ode7C214.text=""
+meMA.Ode7C215.incipit = ""
+meMA.Ode7C215.text=""
+
+meMA.Ode7C22.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C22.melody=he.h.m2_en_UK_lash.EflexeReithro.incipit
+meMA.Ode7C22.incipit = ""
+meMA.Ode7C22.text=""
+meMA.Ode7C221.incipit = ""
+meMA.Ode7C221.text=""
+meMA.Ode7C222.incipit = ""
+meMA.Ode7C222.text=""
+meMA.Ode7C223.incipit = ""
+meMA.Ode7C223.text=""
+meMA.Ode7C224.incipit = ""
+meMA.Ode7C224.text=""
+meMA.Ode7C225.incipit = ""
+meMA.Ode7C225.text=""
+
+meMA.Ode7C23.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode=misc_en_UK_lash.Mode2
+meMA.Ode7C23.melody=he.h.m2_en_UK_lash.EflexeReithro.incipit
+meMA.Ode7C23.incipit = ""
+meMA.Ode7C23.text=""
+meMA.Ode7C231.incipit = ""
+meMA.Ode7C231.text=""
+meMA.Ode7C232.incipit = ""
+meMA.Ode7C232.text=""
+meMA.Ode7C233.incipit = ""
+meMA.Ode7C233.text=""
+meMA.Ode7C234.incipit = ""
+meMA.Ode7C234.text=""
+meMA.Ode7C235.incipit = ""
+meMA.Ode7C235.text=""
+
+meMA.Ode8C1H.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.MystirionParadoxon.incipit
+meMA.Ode8C1H.text=he.h.m2_en_UK_lash.MystirionParadoxon.text
+
+meMA.Ode8C11.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C11.melody=he.h.m2_en_UK_lash.MystirionParadoxon.incipit
+meMA.Ode8C11.incipit = ""
+meMA.Ode8C11.text=""
+
+meMA.Ode8C12.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C12.melody=he.h.m2_en_UK_lash.MystirionParadoxon.incipit
+meMA.Ode8C12.incipit = ""
+meMA.Ode8C12.text=""
+
+meMA.Ode8C13.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C13.melody=he.h.m2_en_UK_lash.MystirionParadoxon.incipit
+meMA.Ode8C13.incipit = ""
+meMA.Ode8C13.text=""
+
+meMA.Ode8C2H.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C2H.incipit = he.h.m2_en_UK_lash.EleftheraMenIKtisis.incipit
+meMA.Ode8C2H.text=he.h.m2_en_UK_lash.EleftheraMenIKtisis.text
+meMA.Ode8C2H1.incipit = he.h.m2_en_UK_lash.EleftheraMenIKtisis1.incipit
+meMA.Ode8C2H1.text=he.h.m2_en_UK_lash.EleftheraMenIKtisis1.text
+meMA.Ode8C2H2.incipit = he.h.m2_en_UK_lash.EleftheraMenIKtisis2.incipit
+meMA.Ode8C2H2.text=he.h.m2_en_UK_lash.EleftheraMenIKtisis2.text
+meMA.Ode8C2H3.incipit = he.h.m2_en_UK_lash.EleftheraMenIKtisis3.incipit
+meMA.Ode8C2H3.text=he.h.m2_en_UK_lash.EleftheraMenIKtisis3.text
+meMA.Ode8C2H4.incipit = he.h.m2_en_UK_lash.EleftheraMenIKtisis4.incipit
+meMA.Ode8C2H4.text=he.h.m2_en_UK_lash.EleftheraMenIKtisis4.text
+meMA.Ode8C2H5.incipit = he.h.m2_en_UK_lash.EleftheraMenIKtisis5.incipit
+meMA.Ode8C2H5.text=he.h.m2_en_UK_lash.EleftheraMenIKtisis5.text
+
+meMA.Ode8C21.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C21.melody=he.h.m2_en_UK_lash.EleftheraMenIKtisis.incipit
+meMA.Ode8C21.incipit = ""
+meMA.Ode8C21.text=""
+meMA.Ode8C211.incipit = ""
+meMA.Ode8C211.text=""
+meMA.Ode8C212.incipit = ""
+meMA.Ode8C212.text=""
+meMA.Ode8C213.incipit = ""
+meMA.Ode8C213.text=""
+meMA.Ode8C214.incipit = ""
+meMA.Ode8C214.text=""
+meMA.Ode8C215.incipit = ""
+meMA.Ode8C215.text=""
+
+meMA.Ode8C22.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode8C22.melody=he.h.m2_en_UK_lash.EleftheraMenIKtisis.incipit
+meMA.Ode8C22.incipit = ""
+meMA.Ode8C22.text=""
+meMA.Ode8C221.incipit = ""
+meMA.Ode8C221.text=""
+meMA.Ode8C222.incipit = ""
+meMA.Ode8C222.text=""
+meMA.Ode8C223.incipit = ""
+meMA.Ode8C223.text=""
+meMA.Ode8C224.incipit = ""
+meMA.Ode8C224.text=""
+meMA.Ode8C225.incipit = ""
+meMA.Ode8C225.text=""
+
+meMA.Ode9C1M01.text=""
+meMA.Ode9C1M02.text=""
+meMA.Ode9C1M03.text=""
+meMA.Ode9C1M04.text=""
+meMA.Ode9C1M05.text=""
+meMA.Ode9C1M06.text=""
+meMA.Ode9C1M07.text=""
+
+meMA.Ode9C2M01.text=""
+meMA.Ode9C2M02.text=""
+meMA.Ode9C2M03.text=""
+meMA.Ode9C2M04.text=""
+meMA.Ode9C2M05.text=""
+meMA.Ode9C2M06.text=""
+meMA.Ode9C2MTr.text=""
+meMA.Ode9C2MTh.text=""
+
+meMA.Ode9C1H.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C1H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
+meMA.Ode9C1H.text=he.h.m2_en_UK_lash.AporeiPasaGlossa.text
+
+meMA.Ode9C11.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C11.melody=he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
+meMA.Ode9C11.incipit = ""
+meMA.Ode9C11.text=""
+
+meMA.Ode9C12.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C12.melody=he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
+meMA.Ode9C12.incipit = ""
+meMA.Ode9C12.text=""
+
+meMA.Ode9C13.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C13.melody=he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
+meMA.Ode9C13.incipit = ""
+meMA.Ode9C13.text=""
+
+meMA.Ode9C2H.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C2H.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C2H.melody=misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C2H.incipit = he.h.m2_en_UK_lash.OTonYperNoun.incipit
+meMA.Ode9C2H.text=he.h.m2_en_UK_lash.OTonYperNoun.text
+meMA.Ode9C2H1.incipit = he.h.m2_en_UK_lash.OTonYperNoun1.incipit
+meMA.Ode9C2H1.text=he.h.m2_en_UK_lash.OTonYperNoun1.text
+meMA.Ode9C2H2.incipit = he.h.m2_en_UK_lash.OTonYperNoun2.incipit
+meMA.Ode9C2H2.text=he.h.m2_en_UK_lash.OTonYperNoun2.text
+meMA.Ode9C2H3.incipit = he.h.m2_en_UK_lash.OTonYperNoun3.incipit
+meMA.Ode9C2H3.text=he.h.m2_en_UK_lash.OTonYperNoun3.text
+meMA.Ode9C2H4.incipit = he.h.m2_en_UK_lash.OTonYperNoun4.incipit
+meMA.Ode9C2H4.text=he.h.m2_en_UK_lash.OTonYperNoun4.text
+meMA.Ode9C2H5.incipit = he.h.m2_en_UK_lash.OTonYperNoun5.incipit
+meMA.Ode9C2H5.text=he.h.m2_en_UK_lash.OTonYperNoun5.text
+
+meMA.Ode9C21.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C21.melody=he.h.m2_en_UK_lash.OTonYperNoun.incipit
+meMA.Ode9C21.incipit = ""
+meMA.Ode9C21.text=""
+meMA.Ode9C211.incipit = ""
+meMA.Ode9C211.text=""
+meMA.Ode9C212.incipit = ""
+meMA.Ode9C212.text=""
+meMA.Ode9C213.incipit = ""
+meMA.Ode9C213.text=""
+meMA.Ode9C214.incipit = ""
+meMA.Ode9C214.text=""
+meMA.Ode9C215.incipit = ""
+meMA.Ode9C215.text=""
+
+meMA.Ode9C22.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode=misc_en_UK_lash.Mode2
+meMA.Ode9C22.melody=he.h.m2_en_UK_lash.OTonYperNoun.incipit
+meMA.Ode9C22.incipit = ""
+meMA.Ode9C22.text=""
+meMA.Ode9C221.incipit = ""
+meMA.Ode9C221.text=""
+meMA.Ode9C222.incipit = ""
+meMA.Ode9C222.text=""
+meMA.Ode9C223.incipit = ""
+meMA.Ode9C223.text=""
+meMA.Ode9C224.incipit = ""
+meMA.Ode9C224.text=""
+meMA.Ode9C225.incipit = ""
+meMA.Ode9C225.text=""
+
+meMA.Exaposteilarion1.poet=""
+meMA.Exaposteilarion1.mode=misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody=misc_en_UK_lash.AutomelonNotMetered
+meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.EpefaniOSotir.incipit
+meMA.Exaposteilarion1.text=he.a.m3_en_UK_lash.EpefaniOSotir.text
+
+meMA.Lauds1.poet=poets_en_UK_lash.GermanouPatriarchou
+meMA.Lauds1.mode=misc_en_UK_lash.Mode1
+meMA.Lauds1.melody=misc_en_UK_lash.Idiomelon
+meMA.Lauds1.incipit = ""
+meMA.Lauds1.text=""
+
+meMA.Lauds2.mode=misc_en_UK_lash.Mode1
+meMA.Lauds2.melody=misc_en_UK_lash.Idiomelon
+meMA.Lauds2.incipit = ""
+meMA.Lauds2.text=""
+
+meMA.Lauds3.mode=misc_en_UK_lash.Mode1
+meMA.Lauds3.melody=misc_en_UK_lash.Idiomelon
+meMA.Lauds3.incipit = ""
+meMA.Lauds3.text=""
+
+meMA.Lauds4.mode=misc_en_UK_lash.Mode1
+meMA.Lauds4.melody=misc_en_UK_lash.Idiomelon
+meMA.Lauds4.incipit = ""
+meMA.Lauds4.text=""
+
+meMA.Lauds5.poet=poets_en_UK_lash.AndreouIerosolymitou
+meMA.Lauds5.mode=misc_en_UK_lash.Mode1
+meMA.Lauds5.melody=misc_en_UK_lash.Idiomelon
+meMA.Lauds5.incipit = ""
+meMA.Lauds5.text=""
+
+meMA.LaudsGlory.poet=poets_en_UK_lash.Anatoliou
+meMA.LaudsGlory.mode=misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody=misc_en_UK_lash.Idiomelon
+meMA.LaudsGlory.incipit = ""
+meMA.LaudsGlory.text=""
+
+meMA.LaudsBoth.poet=poets_en_UK_lash.Anatoliou
+meMA.LaudsBoth.mode=misc_en_UK_lash.Mode2
+meMA.LaudsBoth.melody=misc_en_UK_lash.Idiomelon
+meMA.LaudsBoth.incipit = ""
+meMA.LaudsBoth.text=""
+
+meMA.MM.Lauds1234as5678.text=properties_en_UK_lash.media.key
+
+meLI.Antiphon2.text=""
+
+meLI.MM.EntranceHymn.text=""
+
+meLI.Kontakion1.mode=meMA.Kontakion1.mode
+meLI.Kontakion1.melody=meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
+meLI.Kontakion1.text=meMA.Kontakion1.text
+
+meLI.TheotokosHymn.mode=misc_en_UK_lash.Mode2
+meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1M01.incipit
+meLI.TheotokosHymnVerse.text=meMA.Ode9C1M01.text
+meLI.TheotokosHymn.incipit = meMA.Ode9C1H.incipit
+meLI.TheotokosHymn.text=meMA.Ode9C1H.text
+
+meLI.MM.CommunionHymn.text=""
+
+meMegalynarion.text=""
 

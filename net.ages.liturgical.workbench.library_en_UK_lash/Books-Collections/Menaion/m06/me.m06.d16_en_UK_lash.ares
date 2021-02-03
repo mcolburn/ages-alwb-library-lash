@@ -1,7 +1,8 @@
-A_Resource_Whose_Name = me.m06.d16_en_UK_lash
+A_Resource_Whose_Name=me.m06.d16_en_UK_lash
 
 //This file is referred to by tr.d032
 
-meMA.Ode3KathismaSt.mode = misc_en_UK_lash.Mode3
-meMA.Ode3KathismaSt.melody = he.a.m3_en_UK_lash.TinOraiotita.incipit
-meMA.Ode3KathismaSt.text = ""
+meMA.Ode3KathismaSt.mode=misc_en_UK_lash.Mode3
+meMA.Ode3KathismaSt.melody=he.a.m3_en_UK_lash.TinOraiotita.incipit
+meMA.Ode3KathismaSt.incipit = ""
+meMA.Ode3KathismaSt.text=""

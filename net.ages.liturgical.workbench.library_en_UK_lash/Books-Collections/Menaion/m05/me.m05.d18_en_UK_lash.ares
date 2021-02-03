@@ -1,5 +1,6 @@
-A_Resource_Whose_Name = me.m05.d18_en_UK_lash 
+A_Resource_Whose_Name=me.m05.d18_en_UK_lash
 
-meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode4
-meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
-meVE.SticStavrotheotokion.text = "When the All-pure saw Christ the lover of mankind crucified and pierced in the side, she wept and cried out; What is this, my Son ? Is this how an ungrateful people repays you for the good things you have done for them? Why, so much beloved, do you hasten to leave me childless? I am filled with amazement, O Compassionate, at your voluntary crucifixion."
+meVE.SticStavrotheotokion.mode=misc_en_UK_lash.Mode4
+meVE.SticStavrotheotokion.melody=he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.SticStavrotheotokion.incipit = "When the All-pure saw Christ"
+meVE.SticStavrotheotokion.text="When the All-pure saw Christ the lover of mankind crucified and pierced in the side, she wept and cried out; What is this, my Son ? Is this how an ungrateful people repays you for the good things you have done for them? Why, so much beloved, do you hasten to leave me childless? I am filled with amazement, O Compassionate, at your voluntary crucifixion."

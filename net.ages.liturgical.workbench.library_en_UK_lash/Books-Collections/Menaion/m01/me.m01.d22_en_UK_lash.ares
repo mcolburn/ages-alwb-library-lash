@@ -1,7 +1,8 @@
-A_Resource_Whose_Name = me.m01.d22_en_UK_lash
+A_Resource_Whose_Name=me.m01.d22_en_UK_lash
 
 
-meVE.AposStavrotheotokion.mode = misc_en_UK_lash.Mode4
-meVE.AposStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.AposStavrotheotokion.text = "When you saw the Maker of the universe enduring many affronts and hanged on Cross, O All-immaculate, you groaned and cried, ‘Lord beyond praise, my Son and my God, how, when you wish to honour what you fashioned, do you bear dishonour? Glory to your great compassion and condescension, Lover of humankind!’"
+meVE.AposStavrotheotokion.mode=misc_en_UK_lash.Mode4
+meVE.AposStavrotheotokion.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.AposStavrotheotokion.incipit = "When you saw the Maker"
+meVE.AposStavrotheotokion.text="When you saw the Maker of the universe enduring many affronts and hanged on Cross, O All-immaculate, you groaned and cried, ‘Lord beyond praise, my Son and my God, how, when you wish to honour what you fashioned, do you bear dishonour? Glory to your great compassion and condescension, Lover of humankind!’"
 
