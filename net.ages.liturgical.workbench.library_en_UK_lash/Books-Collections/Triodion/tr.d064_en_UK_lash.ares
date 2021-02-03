@@ -164,8 +164,7 @@ trMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
 trMA.C1.poet = poets_en_UK_lash.KosmaMonachou
-trMA.C1.acrostic = "of which the acrostic is:
-Hosanna Christ, blessed God"
+trMA.C1.acrostic = "of which the acrostic is: Hosanna Christ, blessed God"
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4

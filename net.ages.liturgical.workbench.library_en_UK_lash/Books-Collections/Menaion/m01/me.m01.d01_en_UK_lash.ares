@@ -4,8 +4,7 @@ meHO.Month.text = "JANUARY"
 meHO.DaysHours.text = "HAVING THIRTY ONE DAYS"
 
 meDate.text = "On the 1st of the Month" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The Circumcision of Our Lord Jesus Christ
-and commemoration of our Father among the Saints Basil the Great." // full title of day
+meCommemoration.text = "The Circumcision of Our Lord Jesus Christ and commemoration of our Father among the Saints Basil the Great." // full title of day
 meShortCommemoration1.text = ""
 meCom1.title = ""
 meCom2.title = ""

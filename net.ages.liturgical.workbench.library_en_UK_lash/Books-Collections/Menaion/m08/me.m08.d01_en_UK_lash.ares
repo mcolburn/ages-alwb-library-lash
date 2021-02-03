@@ -322,8 +322,7 @@ meMA.Ode5C13.text = "Compassionate Lord, heal the persistent passions of my soul
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
-meMA.Ode5C1T.text = "[missing] 
-Ἐν Σταυρῷ καθορῶσα, τὸν δι' ἀγαθότητα, ἐκ σοῦ Πανάμωμε, ὑπὲρ νοῦν τεχθέντα, ἐδονήθης τὰ σπλάγχνα καὶ ἔλεγες· Οἴμοι! θεῖον τέκνον, πῶς ὑπὲρ πάντων ὀδυνᾶσαι; Προσκυνῶ σου τὸ εὔσπλαγνον Κύριε."
+meMA.Ode5C1T.text = "[missing]"
 
 meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C21.mode = misc_en_UK_lash.Mode1
