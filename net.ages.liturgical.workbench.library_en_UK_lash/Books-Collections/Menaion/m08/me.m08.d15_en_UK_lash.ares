@@ -1,609 +1,507 @@
-A_Resource_Whose_Name=me.m08.d15_en_UK_lash
+A_Resource_Whose_Name = me.m08.d15_en_UK_lash
 
-meDate.text="August 15"
-meCommemoration.text="Commemoration of the Falling Asleep of our Most Holy Lady, the Mother of God and Ever-Virgin Mary" // full title of day
-meShortCommemoration1.text="Commemoration of the Falling Asleep of our Most Holy Lady, the Mother of God and Ever-Virgin Mary"
-meCom1.title=""
-meCom2.title=""
-meInsert1="" // for use in petitions and dismissal
-meInsert2="whose falling asleep we celebrate," // for use in petitions and dismissal
-meNote.text=""
-meLE.commemoration1=""
-meLE.commemoration2=""
-meHO.number=""
-meHO.rank=""
-meHO.commemorations=""
-meHO.note1=""
-meHO.note2=""
+meDate.text = "August 15"
+meCommemoration.text = "Commemoration of the Falling Asleep of our Most Holy Lady, the Mother of God and Ever-Virgin Mary" // full title of day
+meShortCommemoration1.text = "Commemoration of the Falling Asleep of our Most Holy Lady, the Mother of God and Ever-Virgin Mary"
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" // for use in petitions and dismissal
+meInsert2 = "whose falling asleep we celebrate," // for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
 
-meSV.Stichera1.mode=misc_en_UK_lash.Mode2
-meSV.Stichera1.melody=he.a.m2_en_UK_lash.PoioisEffimionStemmasin.notmetered
-meSV.Stichera1.incipit = "With what lips shall we,"
-meSV.Stichera1.text="With what lips shall we, poor and worthless, call the Mother of God blest? She is more honoured than creation and holier than the Cherubim and all the Angels; she is the unshaken throne of the King, the house in which the Most High made his dwelling; the salvation of the world; the hallowing of God, who on her godly feast richly grants the faithful his great mercy."
+meSV.Stichera1.mode = misc_en_UK_lash.Mode2
+meSV.Stichera1.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.notmetered
+meSV.Stichera1.text = "With what lips shall we, poor and worthless, call the Mother of God blest? She is more honoured than creation and holier than the Cherubim and all the Angels; she is the unshaken throne of the King, the house in which the Most High made his dwelling; the salvation of the world; the hallowing of God, who on her godly feast richly grants the faithful his great mercy."
 
-meSV.Stichera2.mode=misc_en_UK_lash.Mode2
-meSV.Stichera2.melody=he.a.m2_en_UK_lash.PoioisEffimionStemmasin.notmetered
-meSV.Stichera2.incipit = "What songs of awe did"
-meSV.Stichera2.text="What songs of awe did all the Apostles of the Word offer you then, O Virgin, as they stood around your death-bed and cried aloud with wonder: The Palace of the King departs, the Ark of hallowing is exalted. You gates be lifted up, that the gate of Gate may enter in great joy, as she unceasingly asks for the world his great mercy."
+meSV.Stichera2.mode = misc_en_UK_lash.Mode2
+meSV.Stichera2.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.notmetered
+meSV.Stichera2.text = "What songs of awe did all the Apostles of the Word offer you then, O Virgin, as they stood around your death-bed and cried aloud with wonder: The Palace of the King departs, the Ark of hallowing is exalted. You gates be lifted up, that the gate of Gate may enter in great joy, as she unceasingly asks for the world his great mercy."
 
-meSV.Stichera3.mode=misc_en_UK_lash.Mode2
-meSV.Stichera3.melody=he.a.m2_en_UK_lash.PoioisEffimionStemmasin.notmetered
-meSV.Stichera3.incipit = "What spiritual songs may we"
-meSV.Stichera3.text="What spiritual songs may we now offer you, all-holy? For by your immortal Falling Asleep you have hallowed the whole world, and have passed over to things beyond the world to perceive the beauty of the Almighty and, as his Mother, to rejoice in it exceedingly. Ranks of Angels escort you, pure Virgin, and the souls of the just; with them ask for us peace and his great mercy."
+meSV.Stichera3.mode = misc_en_UK_lash.Mode2
+meSV.Stichera3.melody = he.a.m2_en_UK_lash.PoioisEffimionStemmasin.notmetered
+meSV.Stichera3.text = "What spiritual songs may we now offer you, all-holy? For by your immortal Falling Asleep you have hallowed the whole world, and have passed over to things beyond the world to perceive the beauty of the Almighty and, as his Mother, to rejoice in it exceedingly. Ranks of Angels escort you, pure Virgin, and the souls of the just; with them ask for us peace and his great mercy."
 
-meSV.SticGlory.mode=misc_en_UK_lash.Mode2
-meSV.SticGlory.melody=""
-meSV.SticGlory.incipit = meVE.Lity2.incipit
-meSV.SticGlory.text=meVE.Lity2.text
+meSV.SticGlory.mode = misc_en_UK_lash.Mode2
+meSV.SticGlory.melody = ""
+meSV.SticGlory.text = meVE.Lity2.text
 
-meSV.Aposticha1.mode=misc_en_UK_lash.Mode2
-meSV.Aposticha1.melody=he.a.m2_en_UK_lash.OikosTouEfratha.incipit
-meSV.Aposticha1.incipit = me.m08.d14_en_UK_lash.meMA.Aposticha1.incipit
-meSV.Aposticha1.text=me.m08.d14_en_UK_lash.meMA.Aposticha1.text
+meSV.Aposticha1.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
+meSV.Aposticha1.text = me.m08.d14_en_UK_lash.meMA.Aposticha1.text
 
-meSV.Aposticha2.mode=misc_en_UK_lash.Mode2
-meSV.Aposticha2.melody=he.a.m2_en_UK_lash.OikosTouEfratha.incipit
-meSV.Aposticha2.incipit = me.m08.d14_en_UK_lash.meMA.Aposticha2.incipit
-meSV.Aposticha2.text=me.m08.d14_en_UK_lash.meMA.Aposticha2.text
+meSV.Aposticha2.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
+meSV.Aposticha2.text = me.m08.d14_en_UK_lash.meMA.Aposticha2.text
 
-meSV.Aposticha3.mode=misc_en_UK_lash.Mode2
-meSV.Aposticha3.melody=he.a.m2_en_UK_lash.OikosTouEfratha.incipit
-meSV.Aposticha3.incipit = me.m08.d14_en_UK_lash.meMA.Aposticha3.incipit
-meSV.Aposticha3.text=me.m08.d14_en_UK_lash.meMA.Aposticha3.text
+meSV.Aposticha3.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
+meSV.Aposticha3.text = me.m08.d14_en_UK_lash.meMA.Aposticha3.text
 
-meSV.AposGlory.mode=misc_en_UK_lash.Mode2
-meSV.AposGlory.melody=he.a.m2_en_UK_lash.OikosTouEfratha.incipit
-meSV.AposGlory.incipit = me.m08.d14_en_UK_lash.meMA.AposGlory.incipit
-meSV.AposGlory.text=me.m08.d14_en_UK_lash.meMA.AposGlory.text
+meSV.AposGlory.mode = misc_en_UK_lash.Mode2
+meSV.AposGlory.melody = he.a.m2_en_UK_lash.OikosTouEfratha.incipit
+meSV.AposGlory.text = me.m08.d14_en_UK_lash.meMA.AposGlory.text
 
-meVE.Stichera01.mode=misc_en_UK_lash.Mode1
-meVE.Stichera01.melody=misc_en_UK_lash.Automelon
-meVE.Stichera01.incipit = he.a.m1_en_UK_lash.OTouParadoxouThavmatos.incipit
-meVE.Stichera01.text=he.a.m1_en_UK_lash.OTouParadoxouThavmatos.text
+meVE.Stichera01.mode = misc_en_UK_lash.Mode1
+meVE.Stichera01.melody = misc_en_UK_lash.Automelon
+meVE.Stichera01.text = he.a.m1_en_UK_lash.OTouParadoxouThavmatos.text
 
-meVE.Stichera02.mode=misc_en_UK_lash.Mode1
-meVE.Stichera02.melody=he.a.m1_en_UK_lash.OTouParadoxouThavmatos.notmetered
-meVE.Stichera02.incipit = "O wonder of your mysteries,"
-meVE.Stichera02.text="O wonder of your mysteries, pure Lady! You were proclaimed the Throne of the Most High, and you have passed today from earth to heaven. Your glory is full of splendour, shining with grace in divine brightness. O Virgins, with the Mother of the King, be raised to the heights. O Full of grace, hail! The Lord is with you, who grants the world through you his great mercy."
+meVE.Stichera02.mode = misc_en_UK_lash.Mode1
+meVE.Stichera02.melody = he.a.m1_en_UK_lash.OTouParadoxouThavmatos.notmetered
+meVE.Stichera02.text = "O wonder of your mysteries, pure Lady! You were proclaimed the Throne of the Most High, and you have passed today from earth to heaven. Your glory is full of splendour, shining with grace in divine brightness. O Virgins, with the Mother of the King, be raised to the heights. O Full of grace, hail! The Lord is with you, who grants the world through you his great mercy."
 
-meVE.Stichera03.mode=misc_en_UK_lash.Mode1
-meVE.Stichera03.melody=he.a.m1_en_UK_lash.OTouParadoxouThavmatos.notmetered
-meVE.Stichera03.incipit = "Dominions, Thrones, Rulers, Principalities and"
-meVE.Stichera03.text="Dominions, Thrones, Rulers, Principalities and Powers, Cherubim and the fearful Seraphim glorify your Falling Asleep. Those born of earth rejoice, adorned by your divine glory. Kings fall down and sing with Angels and Archangels: O Full of grace, hail! The Lord is with you, who grants the world through you his great mercy."
+meVE.Stichera03.mode = misc_en_UK_lash.Mode1
+meVE.Stichera03.melody = he.a.m1_en_UK_lash.OTouParadoxouThavmatos.notmetered
+meVE.Stichera03.text = "Dominions, Thrones, Rulers, Principalities and Powers, Cherubim and the fearful Seraphim glorify your Falling Asleep. Those born of earth rejoice, adorned by your divine glory. Kings fall down and sing with Angels and Archangels: O Full of grace, hail! The Lord is with you, who grants the world through you his great mercy."
 
-meVE.MM.Stichera1123as78910.text=properties_en_UK_lash.media.key
+meVE.MM.Stichera1123as78910.text = properties_en_UK_lash.media.key
 
-meVE.SticGlory1.mode=misc_en_UK_lash.Mode1
-meVE.SticGlory1.melody=""
-meVE.SticGlory1.incipit = "By divine command the god-bearing"
-meVE.SticGlory1.text="By divine command the god-bearing Apostles were caught up from all over the world by clouds on high."
+meVE.SticGlory1.mode = misc_en_UK_lash.Mode1
+meVE.SticGlory1.melody = ""
+meVE.SticGlory1.text = "By divine command the god-bearing Apostles were caught up from all over the world by clouds on high."
 
-meVE.SticGlory2.mode=misc_en_UK_lash.Mode5
-meVE.SticGlory2.melody=""
-meVE.SticGlory2.incipit = "Reaching your all-immaculate body, source"
-meVE.SticGlory2.text="Reaching your all-immaculate body, source of life, they kissed it with mighty honour."
+meVE.SticGlory2.mode = misc_en_UK_lash.Mode5
+meVE.SticGlory2.melody = ""
+meVE.SticGlory2.text = "Reaching your all-immaculate body, source of life, they kissed it with mighty honour."
 
-meVE.SticGlory3.mode=misc_en_UK_lash.Mode2
-meVE.SticGlory3.melody=""
-meVE.SticGlory3.incipit = "The highest Powers of heaven"
-meVE.SticGlory3.text="The highest Powers of heaven stood by with their own Master."
+meVE.SticGlory3.mode = misc_en_UK_lash.Mode2
+meVE.SticGlory3.melody = ""
+meVE.SticGlory3.text = "The highest Powers of heaven stood by with their own Master."
 
-meVE.SticGlory4.mode=misc_en_UK_lash.Mode6
-meVE.SticGlory4.melody=""
-meVE.SticGlory4.incipit = "Seized with dread they accompanied"
-meVE.SticGlory4.text="Seized with dread they accompanied your inviolate body that had contained God; while they went on before in a manner not of this world and crying out, unseen, to the ranks above them: See, the Queen of all, God’s Child, has come."
+meVE.SticGlory4.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory4.melody = ""
+meVE.SticGlory4.text = "Seized with dread they accompanied your inviolate body that had contained God; while they went on before in a manner not of this world and crying out, unseen, to the ranks above them: See, the Queen of all, God’s Child, has come."
 
-meVE.SticGlory5.mode=misc_en_UK_lash.Mode3
-meVE.SticGlory5.melody=""
-meVE.SticGlory5.incipit = "Lift up the gates, and"
-meVE.SticGlory5.text="Lift up the gates, and in a manner not of this world receive the Mother of the everlasting light."
+meVE.SticGlory5.mode = misc_en_UK_lash.Mode3
+meVE.SticGlory5.melody = ""
+meVE.SticGlory5.text = "Lift up the gates, and in a manner not of this world receive the Mother of the everlasting light."
 
-meVE.SticGlory6.mode=misc_en_UK_lash.Mode7
-meVE.SticGlory6.melody=""
-meVE.SticGlory6.incipit = "For through her the salvation"
-meVE.SticGlory6.text="For through her the salvation of all mortals has come. We have not the strength to gaze on her, and it is not possible to render her worthy honour."
+meVE.SticGlory6.mode = misc_en_UK_lash.Mode7
+meVE.SticGlory6.melody = ""
+meVE.SticGlory6.text = "For through her the salvation of all mortals has come. We have not the strength to gaze on her, and it is not possible to render her worthy honour."
 
-meVE.SticGlory7.mode=misc_en_UK_lash.Mode4
-meVE.SticGlory7.melody=""
-meVE.SticGlory7.incipit = "For her excellence outstrips all"
-meVE.SticGlory7.text="For her excellence outstrips all understanding."
+meVE.SticGlory7.mode = misc_en_UK_lash.Mode4
+meVE.SticGlory7.melody = ""
+meVE.SticGlory7.text = "For her excellence outstrips all understanding."
 
-meVE.SticGlory8.mode=misc_en_UK_lash.Mode8
-meVE.SticGlory8.melody=""
-meVE.SticGlory8.incipit = "Therefore, immaculate Mother of God,"
-meVE.SticGlory8.text="Therefore, immaculate Mother of God, as you live for ever with the life-bearing King, your Offspring, pray without ceasing that he guard and save from every hostile assault your new people; for we have gained your protection."
+meVE.SticGlory8.mode = misc_en_UK_lash.Mode8
+meVE.SticGlory8.melody = ""
+meVE.SticGlory8.text = "Therefore, immaculate Mother of God, as you live for ever with the life-bearing King, your Offspring, pray without ceasing that he guard and save from every hostile assault your new people; for we have gained your protection."
 
-meVE.SticGlory9.mode=misc_en_UK_lash.Mode1
-meVE.SticGlory9.melody=""
-meVE.SticGlory9.incipit = "As to the ages with"
-meVE.SticGlory9.text="As to the ages with splendour we call you blessed."
+meVE.SticGlory9.mode = misc_en_UK_lash.Mode1
+meVE.SticGlory9.melody = ""
+meVE.SticGlory9.text = "As to the ages with splendour we call you blessed."
 
-meVE.Lity1.mode=misc_en_UK_lash.Mode1
-meVE.Lity1.melody=""
-meVE.Lity1.incipit = "It was fitting for the"
-meVE.Lity1.text="It was fitting for the eye-witnesses and ministers of the Word to see the Falling Asleep of his mother according to the flesh, the final mystery concerning her, that they might not only see the Ascension of the Saviour from the earth, but also be witnesses to the Translation from earth of her who bore him. Therefore carried over from all parts by divine power, they came to Sion and escorted her, as she who is higher than the Cherubim hastened towards heaven. With them we worship her as she intercedes for our souls."
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = "It was fitting for the eye-witnesses and ministers of the Word to see the Falling Asleep of his mother according to the flesh, the final mystery concerning her, that they might not only see the Ascension of the Saviour from the earth, but also be witnesses to the Translation from earth of her who bore him. Therefore carried over from all parts by divine power, they came to Sion and escorted her, as she who is higher than the Cherubim hastened towards heaven. With them we worship her as she intercedes for our souls."
 
-meVE.Lity2.poet=poets_en_UK_lash.Anatoliou
-meVE.Lity2.mode=misc_en_UK_lash.Mode2
-meVE.Lity2.melody=""
-meVE.Lity2.incipit = "She who is higher than"
-meVE.Lity2.text="She who is higher than the heavens, more glorious than Cherubim and greater in honour than creation, who through her surpassing purity became the vessel of the eternal being, today places in the hands of her Son her all-holy soul. With her the universe is filled with joy and to us is given his great mercy."
+meVE.Lity2.poet = poets_en_UK_lash.Anatoliou
+meVE.Lity2.mode = misc_en_UK_lash.Mode2
+meVE.Lity2.melody = ""
+meVE.Lity2.text = "She who is higher than the heavens, more glorious than Cherubim and greater in honour than creation, who through her surpassing purity became the vessel of the eternal being, today places in the hands of her Son her all-holy soul. With her the universe is filled with joy and to us is given his great mercy."
 
-meVE.Lity3.poet=poets_en_UK_lash.Ioannou
-meVE.Lity3.mode=misc_en_UK_lash.Mode2
-meVE.Lity3.melody=""
-meVE.Lity3.incipit = "The all-blameless Bride and Mother"
-meVE.Lity3.text="The all-blameless Bride and Mother of the Father’s Good Pleasure, who was foreordained by God as a dwelling for himself of the union without confusion, today delivers her immaculate soul to her Maker and God. The Bodiless Powers receive her in a manner fitting God, and she, who is indeed Mother of life, passes over to life, the lamp of the unapproachable Light, the salvation of the faithful, the hope of our souls."
+meVE.Lity3.poet = poets_en_UK_lash.Ioannou
+meVE.Lity3.mode = misc_en_UK_lash.Mode2
+meVE.Lity3.melody = ""
+meVE.Lity3.text = "The all-blameless Bride and Mother of the Father’s Good Pleasure, who was foreordained by God as a dwelling for himself of the union without confusion, today delivers her immaculate soul to her Maker and God. The Bodiless Powers receive her in a manner fitting God, and she, who is indeed Mother of life, passes over to life, the lamp of the unapproachable Light, the salvation of the faithful, the hope of our souls."
 
-meVE.Lity4.poet=poets_en_UK_lash.Germanou
-meVE.Lity4.mode=misc_en_UK_lash.Mode3
-meVE.Lity4.melody=""
-meVE.Lity4.incipit = "Come, all the ends of"
-meVE.Lity4.text="Come, all the ends of the earth, let us call blessed the Translation of the Mother of God. For she has placed her unblemished soul in the hands of her Son. Therefore the world has been restored to life by her holy Falling Asleep, as with psalms and hymns and spiritual songs it radiantly celebrates the feast with the Bodiless hosts and the Apostles."
+meVE.Lity4.poet = poets_en_UK_lash.Germanou
+meVE.Lity4.mode = misc_en_UK_lash.Mode3
+meVE.Lity4.melody = ""
+meVE.Lity4.text = "Come, all the ends of the earth, let us call blessed the Translation of the Mother of God. For she has placed her unblemished soul in the hands of her Son. Therefore the world has been restored to life by her holy Falling Asleep, as with psalms and hymns and spiritual songs it radiantly celebrates the feast with the Bodiless hosts and the Apostles."
 
-meVE.LityGlory.poet=poets_en_UK_lash.Theofanous
-meVE.LityGlory.mode=misc_en_UK_lash.Mode5
-meVE.LityGlory.melody=""
-meVE.LityGlory.incipit = "Come, gathering of the lovers"
-meVE.LityGlory.text="Come, gathering of the lovers of festivals; come, and let us form a choir; come, let us garland the Church with songs as the Ark of God goes to her rest. For today heaven unfolds its bosom as it receives the one who gave birth to him whom nothing can contain. The earth, as it gives back the source of life, is robed in blessing and majesty. Angels with Apostles form a choir as they gaze with fear while she who gave birth to the Prince of life is translated from life to life. Let us all worship her as we beg: ‘Sovereign Lady, do not forget your ties of kinship with those who celebrate with faith your all-holy Falling Asleep’."
+meVE.LityGlory.poet = poets_en_UK_lash.Theofanous
+meVE.LityGlory.mode = misc_en_UK_lash.Mode5
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = "Come, gathering of the lovers of festivals; come, and let us form a choir; come, let us garland the Church with songs as the Ark of God goes to her rest. For today heaven unfolds its bosom as it receives the one who gave birth to him whom nothing can contain. The earth, as it gives back the source of life, is robed in blessing and majesty. Angels with Apostles form a choir as they gaze with fear while she who gave birth to the Prince of life is translated from life to life. Let us all worship her as we beg: ‘Sovereign Lady, do not forget your ties of kinship with those who celebrate with faith your all-holy Falling Asleep’."
 
-meVE.LityBoth.mode=misc_en_UK_lash.Mode5
-meVE.LityBoth.melody=""
-meVE.LityBoth.incipit = "Sing, you peoples, to the"
-meVE.LityBoth.text="Sing, you peoples, to the Mother of our God, sing! For today she places her soul, all filled with light, in the immaculate palms of the One who was incarnate from her without seed. And she implores him without ceasing that to the inhabited world there may be granted his peace and great mercy."
+meVE.LityBoth.mode = misc_en_UK_lash.Mode5
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = "Sing, you peoples, to the Mother of our God, sing! For today she places her soul, all filled with light, in the immaculate palms of the One who was incarnate from her without seed. And she implores him without ceasing that to the inhabited world there may be granted his peace and great mercy."
 
-meVE.Aposticha1.mode=misc_en_UK_lash.Mode4
-meVE.Aposticha1.melody=misc_en_UK_lash.Idiomelon
-meVE.Aposticha1.incipit = "Come, you peoples, let us"
-meVE.Aposticha1.text="Come, you peoples, let us sing the praises of the pure, all-holy Virgin, from whom the Word of the Father came forth ineffably incarnate, as we cry and say: Blessed are you among women. Blessed is the womb which contained Christ. As you deliver your soul into his holy hands, intercede, O Immaculate, that our souls may be saved."
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
+meVE.Aposticha1.text = "Come, you peoples, let us sing the praises of the pure, all-holy Virgin, from whom the Word of the Father came forth ineffably incarnate, as we cry and say: Blessed are you among women. Blessed is the womb which contained Christ. As you deliver your soul into his holy hands, intercede, O Immaculate, that our souls may be saved."
 
-meVE.Aposticha2.mode=misc_en_UK_lash.Mode4
-meVE.Aposticha2.melody=misc_en_UK_lash.Idiomelon
-meVE.Aposticha2.incipit = "The multitudes of Angels in"
-meVE.Aposticha2.text="The multitudes of Angels in heaven and we the human race on earth call your all-revered Falling Asleep blessed, O pure and all-holy Virgin; because you became Mother of the Maker of all things, Christ God. Do not cease to intercede with him, we beg, for us who next to God place our hopes in you, O Mother of God, all-praised and who did not know wedlock."
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha2.melody = misc_en_UK_lash.Idiomelon
+meVE.Aposticha2.text = "The multitudes of Angels in heaven and we the human race on earth call your all-revered Falling Asleep blessed, O pure and all-holy Virgin; because you became Mother of the Maker of all things, Christ God. Do not cease to intercede with him, we beg, for us who next to God place our hopes in you, O Mother of God, all-praised and who did not know wedlock."
 
-meVE.Aposticha3.mode=misc_en_UK_lash.Mode4
-meVE.Aposticha3.melody=misc_en_UK_lash.Idiomelon
-meVE.Aposticha3.incipit = "You peoples, let us sing"
-meVE.Aposticha3.text="You peoples, let us sing David’s song today to Christ God: ‘Virgins, he says, will be brought after her to the King, they will be brought in joy and gladness’. For she, who is from the seed of David and through whom we have been made divine, passes over in glory and beyond reason into the hands of her own Son and Master. As we sing her praise as Mother of God we cry out and say: ‘Save us who confess you, O Mother of God, from every disaster, and from dangers rescue our souls’."
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode4
+meVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
+meVE.Aposticha3.text = "You peoples, let us sing David’s song today to Christ God: ‘Virgins, he says, will be brought after her to the King, they will be brought in joy and gladness’. For she, who is from the seed of David and through whom we have been made divine, passes over in glory and beyond reason into the hands of her own Son and Master. As we sing her praise as Mother of God we cry out and say: ‘Save us who confess you, O Mother of God, from every disaster, and from dangers rescue our souls’."
 
-meVE.AposGlory.mode=misc_en_UK_lash.Mode4
-meVE.AposGlory.melody=""
-meVE.AposGlory.incipit = "When you departed, Virgin Mother"
-meVE.AposGlory.text="When you departed, Virgin Mother of God, to the One who was born ineffably from you, James, God’s brother and first Hierarch, was present with Peter, the most honoured high summit of the Theologians, and all the godly choir of the Apostles; in teachings that revealed the things of God they sang in praise of the divine and amazing mystery of Christ’s dispensation; and as they buried your body, source of life and which had received God, O all-praised, they rejoiced. From above the all-holy and most venerable of the Angelic Powers, amazed at the wonder, bowed and said to one another: ‘Lift up your gates and receive her who gave birth to the Maker of heaven and earth. And let us praise with hymns of glory the revered and holy body which contained the Lord on whom we may not look’. Therefore we too, as we celebrate your memory, cry out to you, all-praised: ‘Exalt the horn of Christians and save our souls’."
+meVE.AposGlory.mode = misc_en_UK_lash.Mode4
+meVE.AposGlory.melody = ""
+meVE.AposGlory.text = "When you departed, Virgin Mother of God, to the One who was born ineffably from you, James, God’s brother and first Hierarch, was present with Peter, the most honoured high summit of the Theologians, and all the godly choir of the Apostles; in teachings that revealed the things of God they sang in praise of the divine and amazing mystery of Christ’s dispensation; and as they buried your body, source of life and which had received God, O all-praised, they rejoiced. From above the all-holy and most venerable of the Angelic Powers, amazed at the wonder, bowed and said to one another: ‘Lift up your gates and receive her who gave birth to the Maker of heaven and earth. And let us praise with hymns of glory the revered and holy body which contained the Lord on whom we may not look’. Therefore we too, as we celebrate your memory, cry out to you, all-praised: ‘Exalt the horn of Christians and save our souls’."
 
-meVE.Apolytikion1.mode=misc_en_UK_lash.Mode1
-meVE.Apolytikion1.melody=""
-meVE.Apolytikion1.incipit = "In giving birth you retained"
-meVE.Apolytikion1.text="In giving birth you retained your virginity; in falling asleep, O Mother of God, you did not abandon the world. You passed over into life, you, the Mother of life; and by your prayers you deliver our souls from death."
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "In giving birth you retained your virginity; in falling asleep, O Mother of God, you did not abandon the world. You passed over into life, you, the Mother of life; and by your prayers you deliver our souls from death."
 
-meMA.Kathisma11.mode=misc_en_UK_lash.Mode4
-meMA.Kathisma11.melody=he.a.m4_en_UK_lash.KateplagiIosif.notmetered
-meMA.Kathisma11.incipit = ""
-meMA.Kathisma11.text=""
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma11.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+meMA.Kathisma11.text = ""
 
-meMA.Kathisma21.mode=misc_en_UK_lash.Mode1
-meMA.Kathisma21.melody=he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
-meMA.Kathisma21.incipit = ""
-meMA.Kathisma21.text=""
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
+meMA.Kathisma21.text = ""
 
-meMA.Kathisma31.mode=misc_en_UK_lash.Mode3
-meMA.Kathisma31.melody=he.a.m3_en_UK_lash.TinOraiotita.notmetered
-meMA.Kathisma31.incipit = ""
-meMA.Kathisma31.text=""
+meMA.Kathisma31.mode = misc_en_UK_lash.Mode3
+meMA.Kathisma31.melody = he.a.m3_en_UK_lash.TinOraiotita.notmetered
+meMA.Kathisma31.text = ""
 
-meMA.PostGospelGlory.mode=misc_en_UK_lash.Mode2
-meMA.PostGospelGlory.melody=""
-meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelGlory.text=ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
-meMA.PostGospelBoth.mode=misc_en_UK_lash.Mode2
-meMA.PostGospelBoth.melody=""
-meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text=ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
-meMA.PostGospelIdiomelon.poet=poets_en_UK_lash.Vyzantos
-meMA.PostGospelIdiomelon.mode=misc_en_UK_lash.Mode6
-meMA.PostGospelIdiomelon.melody=""
-meMA.PostGospelIdiomelon.incipit = "When the Translation of your"
-meMA.PostGospelIdiomelon.text="When the Translation of your immaculate Body was being prepared, the Apostles surrounded your deathbed and looked on you with dread. And as they gazed at your body they were seized with awe, while Peter cried out to you with tears: ‘Immaculate Virgin, I see you, who are the life of all, lying here outstretched, and I am struck with wonder; for in you the Delight of the life to come made his dwelling. But fervently implore your Son and God that your City may be kept safe from harm’."
+meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.Vyzantos
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = "When the Translation of your immaculate Body was being prepared, the Apostles surrounded your deathbed and looked on you with dread. And as they gazed at your body they were seized with awe, while Peter cried out to you with tears: ‘Immaculate Virgin, I see you, who are the life of all, lying here outstretched, and I am struck with wonder; for in you the Delight of the life to come made his dwelling. But fervently implore your Son and God that your City may be kept safe from harm’."
 
-meMA.C1.poet=poets_en_UK_lash.Kosma
-meMA.C1.acrostic=""
+meMA.C1.poet = poets_en_UK_lash.Kosma
+meMA.C1.acrostic = ""
 
-meMA.C2.poet=poets_en_UK_lash.IoannouTouDamaskinou
+meMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou
 
-meMA.Ode1C1H.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode1C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.incipit
-meMA.Ode1C1H.text=he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.text
+meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.text = he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.text
 
-meMA.C1.title=titles_en_UK_lash.KanonATisEortis
-meMA.C1.verse=prayers_en_UK_lash.verse_Theotokos.text
+meMA.C1.title = titles_en_UK_lash.KanonATisEortis
+meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
-meMA.Ode1C11.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode1C11.melody=he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.incipit
-meMA.Ode1C11.incipit = ""
-meMA.Ode1C11.text=""
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C11.melody = he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.incipit
+meMA.Ode1C11.text = ""
 
-meMA.Ode1C12.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode1C12.melody=he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.incipit
-meMA.Ode1C12.incipit = ""
-meMA.Ode1C12.text=""
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode1C12.melody = he.h.m1_en_UK_lash.PepoikilmeniTiTheiaDoxi.incipit
+meMA.Ode1C12.text = ""
 
 //Added the following (ode 1, canon 2)
-meMA.Ode1C2H.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode1C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C2H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.incipit
-meMA.Ode1C2H.text=he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.text
-
-meMA.C2.title=titles_en_UK_lash.KanonBTisEortis
-meMA.C2.verse=prayers_en_UK_lash.verse_Theotokos.text
-
-meMA.Ode1C21.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode1C21.melody=he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.incipit
-meMA.Ode1C21.incipit = ""
-meMA.Ode1C21.text=""
-
-meMA.Ode1C22.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode1C22.melody=he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.incipit
-meMA.Ode1C22.incipit = ""
-meMA.Ode1C22.text=""
-
-meMA.Ode3C1H.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode3C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.IDimiourgiki.incipit
-meMA.Ode3C1H.text=he.h.m1_en_UK_lash.IDimiourgiki.text
-
-meMA.Ode3C11.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode3C11.melody=he.h.m1_en_UK_lash.IDimiourgiki.incipit
-meMA.Ode3C11.incipit = ""
-meMA.Ode3C11.text=""
-
-meMA.Ode3C12.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode3C12.melody=he.h.m1_en_UK_lash.IDimiourgiki.incipit
-meMA.Ode3C12.incipit = ""
-meMA.Ode3C12.text=""
-
-meMA.Ode3C2H.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode3C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C2H.incipit = he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.incipit
-meMA.Ode3C2H.text=he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.text
-
-meMA.Ode3C21.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode3C21.melody=he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.incipit
-meMA.Ode3C21.incipit = ""
-meMA.Ode3C21.text=""
-
-meMA.Ode3C22.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode3C22.melody=he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.incipit
-meMA.Ode3C22.incipit = ""
-meMA.Ode3C22.text=""
-
-meMA.Hypakoe.mode=misc_en_UK_lash.Mode5
-meMA.Hypakoe.melody=""
-meMA.Hypakoe.incipit = "All generations we call you"
-meMA.Hypakoe.text="All generations we call you blessed, Virgin Mother of God; for in you Christ our God, the uncontainable, was well-pleased to be contained. Blessed are we also, for we have your protection, for day and night you intercede for us and the sceptres of the kingdom are strengthened by your intercessions. And so we sing your praises and cry out to you: ‘Hail, full of grace, the Lord is with you’."
-
-meMA.Ode4C1H.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode4C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
-meMA.Ode4C1H.text=he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.text
-
-meMA.Ode4C11.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode4C11.melody=he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
-meMA.Ode4C11.incipit = ""
-meMA.Ode4C11.text=""
-
-meMA.Ode4C12.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode4C12.melody=he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
-meMA.Ode4C12.incipit = ""
-meMA.Ode4C12.text=""
-
-meMA.Ode4C13.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C13.mode=misc_en_UK_lash.Mode1
-meMA.Ode4C13.melody=he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
-meMA.Ode4C13.incipit = ""
-meMA.Ode4C13.text=""
-
-meMA.Ode4C2H.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode4C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode4C2H.incipit = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
-meMA.Ode4C2H.text=he.h.m4_en_UK_lash.TinAnexichniaston.text
-
-meMA.Ode4C21.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode4C21.melody=he.h.m4_en_UK_lash.TinAnexichniaston.incipit
-meMA.Ode4C21.incipit = ""
-meMA.Ode4C21.text=""
-
-meMA.Ode4C22.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode4C22.melody=he.h.m4_en_UK_lash.TinAnexichniaston.incipit
-meMA.Ode4C22.incipit = ""
-meMA.Ode4C22.text=""
-
-meMA.Ode4C23.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C23.mode=misc_en_UK_lash.Mode4
-meMA.Ode4C23.melody=he.h.m4_en_UK_lash.TinAnexichniaston.incipit
-meMA.Ode4C23.incipit = ""
-meMA.Ode4C23.text=""
-
-meMA.Ode5C1H.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode5C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.ToTheionKaiArriton.incipit
-meMA.Ode5C1H.text=he.h.m1_en_UK_lash.ToTheionKaiArriton.text
-
-meMA.Ode5C11.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode5C11.melody=he.h.m1_en_UK_lash.ToTheionKaiArriton.incipit
-meMA.Ode5C11.incipit = ""
-meMA.Ode5C11.text=""
-
-meMA.Ode5C12.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode5C12.melody=he.h.m1_en_UK_lash.ToTheionKaiArriton.incipit
-meMA.Ode5C12.incipit = ""
-meMA.Ode5C12.text=""
-
-meMA.Ode5C2H.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode5C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode5C2H.incipit = ""
-meMA.Ode5C2H.text=""
-
-meMA.Ode5C21.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode5C21.melody=he.h.m4_en_UK_lash.ExestiTaSympanta_Koimisis.incipit
-meMA.Ode5C21.incipit = ""
-meMA.Ode5C21.text=""
-
-meMA.Ode5C22.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode5C22.melody=he.h.m4_en_UK_lash.ExestiTaSympanta_Koimisis.incipit
-meMA.Ode5C22.incipit = ""
-meMA.Ode5C22.text=""
-
-meMA.Ode6C1H.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode6C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.AlionPontogenes.incipit
-meMA.Ode6C1H.text=he.h.m1_en_UK_lash.AlionPontogenes.text
-
-meMA.Ode6C11.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode6C11.melody=he.h.m1_en_UK_lash.AlionPontogenes.incipit
-meMA.Ode6C11.incipit = ""
-meMA.Ode6C11.text=""
-
-meMA.Ode6C12.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode6C12.melody=he.h.m1_en_UK_lash.AlionPontogenes.incipit
-meMA.Ode6C12.incipit = ""
-meMA.Ode6C12.text=""
-
-meMA.Ode6C2H.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode6C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C2H.incipit = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
-meMA.Ode6C2H.text=he.h.m4_en_UK_lash.TinTheianTaftin.text
-
-meMA.Ode6C21.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode6C21.melody=he.h.m4_en_UK_lash.TinTheianTaftin.incipit
-meMA.Ode6C21.incipit = ""
-meMA.Ode6C21.text=""
-
-meMA.Ode6C22.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode6C22.melody=he.h.m4_en_UK_lash.TinTheianTaftin.incipit
-meMA.Ode6C22.incipit = ""
-meMA.Ode6C22.text=""
-
-meMA.Kontakion1.mode=misc_en_UK_lash.Mode6
-meMA.Kontakion1.melody=misc_en_UK_lash.Automelon
-meMA.Kontakion1.incipit = he.a.m6_en_UK_lash.TinEnPresveiais.incipit
-meMA.Kontakion1.text=he.a.m6_en_UK_lash.TinEnPresveiais.text
-
-meMA.Oikos1.text="Set a rampart about my mind, my Saviour, for I dare to sing the praise of the rampart of the world, your all-pure Mother. Strengthen me in the tower of my words and fortify my in the turrets of my thoughts. For you cry out that you fulfil the requests of those who ask in faith. Grant me therefore tongue, utterance and thought without shame. For every gift of enlightenment is sent down from you, Giver of light, who dwelt in her ever-virgin womb."
-
-meMA.Ode7C1H.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode7C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.ItamoThymo.incipit
-meMA.Ode7C1H.text=he.h.m1_en_UK_lash.ItamoThymo.text
-
-meMA.Ode7C11.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode7C11.melody=he.h.m1_en_UK_lash.ItamoThymo.incipit
-meMA.Ode7C11.incipit = ""
-meMA.Ode7C11.text=""
-
-meMA.Ode7C12.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode7C12.melody=he.h.m1_en_UK_lash.ItamoThymo.incipit
-meMA.Ode7C12.incipit = ""
-meMA.Ode7C12.text=""
-
-meMA.Ode7C13.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C13.mode=misc_en_UK_lash.Mode1
-meMA.Ode7C13.melody=he.h.m1_en_UK_lash.ItamoThymo.incipit
-meMA.Ode7C13.incipit = ""
-meMA.Ode7C13.text=""
-
-meMA.Ode7C2H.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode7C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode7C2H.incipit = he.h.m4_en_UK_lash.OukElatrefsan.incipit
-meMA.Ode7C2H.text=he.h.m4_en_UK_lash.OukElatrefsan.text
-
-meMA.Ode7C21.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode7C21.melody=he.h.m4_en_UK_lash.OukElatrefsan.incipit
-meMA.Ode7C21.incipit = ""
-meMA.Ode7C21.text=""
-
-meMA.Ode7C22.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode7C22.melody=he.h.m4_en_UK_lash.OukElatrefsan.incipit
-meMA.Ode7C22.incipit = ""
-meMA.Ode7C22.text=""
-
-meMA.Ode7C23.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C23.mode=misc_en_UK_lash.Mode4
-meMA.Ode7C23.melody=he.h.m4_en_UK_lash.OukElatrefsan.incipit
-meMA.Ode7C23.incipit = ""
-meMA.Ode7C23.text=""
-
-meMA.Ode8C1H.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode8C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.FlogaDrosizousanOsious.incipit
-meMA.Ode8C1H.text=he.h.m1_en_UK_lash.FlogaDrosizousanOsious.text
-
-meMA.Ode8C11.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode8C11.melody=he.h.m1_en_UK_lash.FlogaDrosizousanOsious.incipit
-meMA.Ode8C11.incipit = ""
-meMA.Ode8C11.text=""
-
-meMA.Ode8C12.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode8C12.melody=he.h.m1_en_UK_lash.FlogaDrosizousanOsious.incipit
-meMA.Ode8C12.incipit = ""
-meMA.Ode8C12.text=""
-
-meMA.Ode8C2H.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode8C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode8C2H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C2H.text=he.h.m4_en_UK_lash.PaidasEvageis.text
-
-meMA.Ode8C21.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode8C21.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C21.incipit = ""
-meMA.Ode8C21.text=""
-
-meMA.Ode8C22.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode8C22.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C22.incipit = ""
-meMA.Ode8C22.text=""
-
-meMA.Ode8C23.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C23.mode=misc_en_UK_lash.Mode4
-meMA.Ode8C23.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C23.incipit = ""
-meMA.Ode8C23.text=""
-
-meMA.Ode9C1M01.text="All generations call you blessed, the only Mother of God."
-
-meMA.Ode9C1H.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C1H.mode=misc_en_UK_lash.Mode1
-meMA.Ode9C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.NenikintaiTisFyseos.incipit
-meMA.Ode9C1H.text=he.h.m1_en_UK_lash.NenikintaiTisFyseos.text
-
-meMA.Ode9C11.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C11.mode=misc_en_UK_lash.Mode1
-meMA.Ode9C11.melody=he.h.m1_en_UK_lash.NenikintaiTisFyseos.incipit
-meMA.Ode9C11.incipit = ""
-meMA.Ode9C11.text=""
-
-meMA.Ode9C12.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C12.mode=misc_en_UK_lash.Mode1
-meMA.Ode9C12.melody=he.h.m1_en_UK_lash.NenikintaiTisFyseos.incipit
-meMA.Ode9C12.incipit = ""
-meMA.Ode9C12.text=""
-
-meMA.Ode9C2M01.text=""
-
-meMA.Ode9C2H.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C2H.mode=misc_en_UK_lash.Mode4
-meMA.Ode9C2H.melody=misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C2H.incipit = he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
-meMA.Ode9C2H.text=he.h.m4_en_UK_lash.ApasGigenis_Koimisis.text
-
-meMA.Ode9C21.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C21.mode=misc_en_UK_lash.Mode4
-meMA.Ode9C21.melody=he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
-meMA.Ode9C21.incipit = ""
-meMA.Ode9C21.text=""
-
-meMA.Ode9C22.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C22.mode=misc_en_UK_lash.Mode4
-meMA.Ode9C22.melody=he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
-meMA.Ode9C22.incipit = ""
-meMA.Ode9C22.text=""
-
-meMA.Ode9C23.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C23.mode=misc_en_UK_lash.Mode4
-meMA.Ode9C23.melody=he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
-meMA.Ode9C23.incipit = ""
-meMA.Ode9C23.text=""
-
-meMA.Exaposteilarion1.mode=misc_en_UK_lash.Mode3
-meMA.Exaposteilarion1.melody=misc_en_UK_lash.Automelon
-meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.ApostoloiEkPeraton.incipit
-meMA.Exaposteilarion1.text=he.a.m3_en_UK_lash.ApostoloiEkPeraton.text
-
-meMA.Lauds1.mode=misc_en_UK_lash.Mode4
-meMA.Lauds1.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meMA.Lauds1.incipit = "At your glorious Falling Asleep"
-meMA.Lauds1.text="At your glorious Falling Asleep the heavens rejoice and the armies of Angels exult; the whole earth is glad as it utters its funeral hymn to you, Mother of the Master of all things, all-holy Virgin, who knew not wedlock, who have delivered the human race from the ancestral sentence."
-
-meMA.Lauds2.mode=misc_en_UK_lash.Mode4
-meMA.Lauds2.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meMA.Lauds2.incipit = "At a divine command the"
-meMA.Lauds2.text="At a divine command the chief Apostles hastened from the ends of the earth to bury you, and when they saw you being taken from the earth to heaven they cried out with joy in Gabriel’s words: Hail, chariot of the whole Godhead; hail, who alone by your childbirth have joined together things on earth with those on high."
-
-meMA.Lauds3.mode=misc_en_UK_lash.Mode4
-meMA.Lauds3.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meMA.Lauds3.incipit = "Virgin Mother, Bride of God,"
-meMA.Lauds3.text="Virgin Mother, Bride of God, who gave birth to life, you have passed over to immortal life by your revered Falling Asleep. Angels, Rulers and Powers, Apostles, Prophets and all creation escorted you, and your Son received in his immaculate hands your unblemished soul."
-
-meMA.LaudsGlory.mode=misc_en_UK_lash.Mode6
-meMA.LaudsGlory.melody=""
-meMA.LaudsGlory.incipit = "At your immortal Falling Asleep,"
-meMA.LaudsGlory.text="At your immortal Falling Asleep, O Mother of God, Mother of life, clouds caught the Apostles up into the air; and though they were scattered through the world, made them form a single choir in the presence of your immaculate body. As they reverently buried you they sang Gabriel’s song, crying out: ‘Hail, full of grace, Virgin Mother without bridegroom, the Lord is with you’. With them implore him as your Son and our God that our souls may be saved."
-
-meMA.MM.Lauds1123as5678.text=properties_en_UK_lash.media.key
-
-meLI.Antiphon2.incipit = ho.s07_en_UK_lash.hoLI.Antiphon2w.incipit
-meLI.Antiphon2.text=ho.s07_en_UK_lash.hoLI.Antiphon2w.text
-
-meLI.MM.EntranceHymn.text=properties_en_UK_lash.media.key
-
-meLI.Kontakion1.mode=meMA.Kontakion1.mode
-meLI.Kontakion1.melody=meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text=meMA.Kontakion1.text
-
-meLI.TheotokosHymn.mode=meMA.Ode9C1H.mode
-meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1M01.incipit
-meLI.TheotokosHymnVerse.text=meMA.Ode9C1M01.text
-meLI.TheotokosHymn.incipit = meMA.Ode9C1H.incipit
-meLI.TheotokosHymn.text=meMA.Ode9C1H.text
-
-meLI.MM.CommunionHymn.text=properties_en_UK_lash.media.key
-
-meMegalynarion.text=""
+meMA.Ode1C2H.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C2H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.text
+
+meMA.C2.title = titles_en_UK_lash.KanonBTisEortis
+meMA.C2.verse = prayers_en_UK_lash.verse_Theotokos.text
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C21.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.incipit
+meMA.Ode1C21.text = ""
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode1C22.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou_Koimisis.incipit
+meMA.Ode1C22.text = ""
+
+meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.text = he.h.m1_en_UK_lash.IDimiourgiki.text
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C11.melody = he.h.m1_en_UK_lash.IDimiourgiki.incipit
+meMA.Ode3C11.text = ""
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode3C12.melody = he.h.m1_en_UK_lash.IDimiourgiki.incipit
+meMA.Ode3C12.text = ""
+
+meMA.Ode3C2H.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C2H.text = he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.text
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C21.melody = he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.incipit
+meMA.Ode3C21.text = ""
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode3C22.melody = he.h.m4_en_UK_lash.TousSousYmnologous_Koimisis.incipit
+meMA.Ode3C22.text = ""
+
+meMA.Hypakoe.mode = misc_en_UK_lash.Mode5
+meMA.Hypakoe.melody = ""
+meMA.Hypakoe.text = "All generations we call you blessed, Virgin Mother of God; for in you Christ our God, the uncontainable, was well-pleased to be contained. Blessed are we also, for we have your protection, for day and night you intercede for us and the sceptres of the kingdom are strengthened by your intercessions. And so we sing your praises and cry out to you: ‘Hail, full of grace, the Lord is with you’."
+
+meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.text = he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.text
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C11.melody = he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
+meMA.Ode4C11.text = ""
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C12.melody = he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
+meMA.Ode4C12.text = ""
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode4C13.melody = he.h.m1_en_UK_lash.RiseisProfitonKaiAinigmata.incipit
+meMA.Ode4C13.text = ""
+
+meMA.Ode4C2H.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C2H.text = he.h.m4_en_UK_lash.TinAnexichniaston.text
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C21.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
+meMA.Ode4C21.text = ""
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C22.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
+meMA.Ode4C22.text = ""
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode4
+meMA.Ode4C23.melody = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
+meMA.Ode4C23.text = ""
+
+meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.text = he.h.m1_en_UK_lash.ToTheionKaiArriton.text
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C11.melody = he.h.m1_en_UK_lash.ToTheionKaiArriton.incipit
+meMA.Ode5C11.text = ""
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode5C12.melody = he.h.m1_en_UK_lash.ToTheionKaiArriton.incipit
+meMA.Ode5C12.text = ""
+
+meMA.Ode5C2H.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C2H.text = ""
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C21.melody = he.h.m4_en_UK_lash.ExestiTaSympanta_Koimisis.incipit
+meMA.Ode5C21.text = ""
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode5C22.melody = he.h.m4_en_UK_lash.ExestiTaSympanta_Koimisis.incipit
+meMA.Ode5C22.text = ""
+
+meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.text = he.h.m1_en_UK_lash.AlionPontogenes.text
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C11.melody = he.h.m1_en_UK_lash.AlionPontogenes.incipit
+meMA.Ode6C11.text = ""
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode6C12.melody = he.h.m1_en_UK_lash.AlionPontogenes.incipit
+meMA.Ode6C12.text = ""
+
+meMA.Ode6C2H.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C2H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C21.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
+meMA.Ode6C21.text = ""
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode6C22.melody = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
+meMA.Ode6C22.text = ""
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode6
+meMA.Kontakion1.melody = misc_en_UK_lash.Automelon
+meMA.Kontakion1.text = he.a.m6_en_UK_lash.TinEnPresveiais.text
+
+meMA.Oikos1.text = "Set a rampart about my mind, my Saviour, for I dare to sing the praise of the rampart of the world, your all-pure Mother. Strengthen me in the tower of my words and fortify my in the turrets of my thoughts. For you cry out that you fulfil the requests of those who ask in faith. Grant me therefore tongue, utterance and thought without shame. For every gift of enlightenment is sent down from you, Giver of light, who dwelt in her ever-virgin womb."
+
+meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.text = he.h.m1_en_UK_lash.ItamoThymo.text
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C11.melody = he.h.m1_en_UK_lash.ItamoThymo.incipit
+meMA.Ode7C11.text = ""
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C12.melody = he.h.m1_en_UK_lash.ItamoThymo.incipit
+meMA.Ode7C12.text = ""
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode1
+meMA.Ode7C13.melody = he.h.m1_en_UK_lash.ItamoThymo.incipit
+meMA.Ode7C13.text = ""
+
+meMA.Ode7C2H.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C2H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C21.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
+meMA.Ode7C21.text = ""
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C22.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
+meMA.Ode7C22.text = ""
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode4
+meMA.Ode7C23.melody = he.h.m4_en_UK_lash.OukElatrefsan.incipit
+meMA.Ode7C23.text = ""
+
+meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.text = he.h.m1_en_UK_lash.FlogaDrosizousanOsious.text
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C11.melody = he.h.m1_en_UK_lash.FlogaDrosizousanOsious.incipit
+meMA.Ode8C11.text = ""
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode8C12.melody = he.h.m1_en_UK_lash.FlogaDrosizousanOsious.incipit
+meMA.Ode8C12.text = ""
+
+meMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C2H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C21.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C21.text = ""
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C22.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C22.text = ""
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode4
+meMA.Ode8C23.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C23.text = ""
+
+meMA.Ode9C1M01.text = "All generations call you blessed, the only Mother of God."
+
+meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.text = he.h.m1_en_UK_lash.NenikintaiTisFyseos.text
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C11.melody = he.h.m1_en_UK_lash.NenikintaiTisFyseos.incipit
+meMA.Ode9C11.text = ""
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode1
+meMA.Ode9C12.melody = he.h.m1_en_UK_lash.NenikintaiTisFyseos.incipit
+meMA.Ode9C12.text = ""
+
+meMA.Ode9C2M01.text = ""
+
+meMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2H.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C2H.text = he.h.m4_en_UK_lash.ApasGigenis_Koimisis.text
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C21.melody = he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
+meMA.Ode9C21.text = ""
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C22.melody = he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
+meMA.Ode9C22.text = ""
+
+meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C23.mode = misc_en_UK_lash.Mode4
+meMA.Ode9C23.melody = he.h.m4_en_UK_lash.ApasGigenis_Koimisis.incipit
+meMA.Ode9C23.text = ""
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion1.melody = misc_en_UK_lash.Automelon
+meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.ApostoloiEkPeraton.text
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode4
+meMA.Lauds1.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meMA.Lauds1.text = "At your glorious Falling Asleep the heavens rejoice and the armies of Angels exult; the whole earth is glad as it utters its funeral hymn to you, Mother of the Master of all things, all-holy Virgin, who knew not wedlock, who have delivered the human race from the ancestral sentence."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode4
+meMA.Lauds2.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meMA.Lauds2.text = "At a divine command the chief Apostles hastened from the ends of the earth to bury you, and when they saw you being taken from the earth to heaven they cried out with joy in Gabriel’s words: Hail, chariot of the whole Godhead; hail, who alone by your childbirth have joined together things on earth with those on high."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode4
+meMA.Lauds3.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meMA.Lauds3.text = "Virgin Mother, Bride of God, who gave birth to life, you have passed over to immortal life by your revered Falling Asleep. Angels, Rulers and Powers, Apostles, Prophets and all creation escorted you, and your Son received in his immaculate hands your unblemished soul."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = "At your immortal Falling Asleep, O Mother of God, Mother of life, clouds caught the Apostles up into the air; and though they were scattered through the world, made them form a single choir in the presence of your immaculate body. As they reverently buried you they sang Gabriel’s song, crying out: ‘Hail, full of grace, Virgin Mother without bridegroom, the Lord is with you’. With them implore him as your Son and our God that our souls may be saved."
+
+meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
+
+meLI.Antiphon2.text = ho.s07_en_UK_lash.hoLI.Antiphon2w.text
+
+meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode
+meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
+meLI.TheotokosHymn.text = meMA.Ode9C1H.text
+
+meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
+
+meMegalynarion.text = ""
 

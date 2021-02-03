@@ -1,635 +1,528 @@
-A_Resource_Whose_Name=me.m08.d29_en_UK_lash
-
-meDate.text="August 29"
-meCommemoration.text="" //full title of day
-meShortCommemoration1.text="St. John the Baptist"
-meCom1.title=""
-meCom2.title=""
-meInsert1="" //for use in petitions and dismissal
-meInsert2="whose memory we celebrate; " //for use in petitions and dismissal
-meNote.text=""
-meLE.commemoration1=""
-meLE.commemoration2=""
-meHO.number=""
-meHO.rank=""
-meHO.commemorations=""
-meHO.note1=""
-meHO.note2=""
-
-meVE.Stichera01.poet=""
-meVE.Stichera01.mode=misc_en_UK_lash.Mode6
-meVE.Stichera01.melody=misc_en_UK_lash.Idiomelon
-meVE.Stichera01.incipit = "As shameless Herod's birthday was"
-meVE.Stichera01.text="As shameless Herod's birthday was being celebrated the terms of the oath to the wanton dancing girl were fulfilled; for the head of the Forerunner was struck off and brought in on a dish like a delicacy for those at table. O hateful banquet, full of impious behaviour and bloodthirsty murder! But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
-
-meVE.Stichera02.mode=misc_en_UK_lash.Mode6
-meVE.Stichera02.melody=misc_en_UK_lash.Idiomelon
-meVE.Stichera02.incipit = "She danced, the disciple of"
-meVE.Stichera02.text="She danced, the disciple of the all-evil devil, and took your head, O Forerunner, as her wages. O banquet filled with blood! If only you had not sworn, lawless Herod, offspring of falsehood. But if you had sworn, if only you had not kept your oath; for it was better to have lied and attained life, than to speak truly and to cut off the head of the Forerunner. But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
-
-meVE.Stichera03.mode=misc_en_UK_lash.Mode6
-meVE.Stichera03.melody=misc_en_UK_lash.Idiomelon
-meVE.Stichera03.incipit = "You should not, Herod, have"
-meVE.Stichera03.text="You should not, Herod, have condemned to death the one who denounced your adultery, the result of satanic love and the insane passion of lust for a woman. You should not have perilously handed over his all-honoured head to a lawless woman because of an oath made for a dance. How did you dare to accomplish such a murder? How was the wanton dancing girl not consumed by fire in the middle of the banquet as she brought this head in on a dish? But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
-
-meVE.Stichera04.mode=misc_en_UK_lash.Mode6
-meVE.Stichera04.melody=misc_en_UK_lash.Idiomelon
-meVE.Stichera04.incipit = "Once again Herodias rages, once"
-meVE.Stichera04.text="Once again Herodias rages, once again she is deranged. O deceitful dance and revelry with deceit! The Baptist was beheaded and Herod was troubled. At the prayers of your Forerunner, Lord, grant peace to our souls."
-
-meVE.SticGlory.mode=misc_en_UK_lash.Mode6
-meVE.SticGlory.melody=misc_en_UK_lash.Idiomelon
-meVE.SticGlory.incipit = me.m08.d29_en_UK_lash.meVE.Stichera01.incipit
-meVE.SticGlory.text=me.m08.d29_en_UK_lash.meVE.Stichera01.text
-
-meVE.SticTheotokion.mode=misc_en_UK_lash.Mode6
-meVE.SticTheotokion.melody=""
-meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
-meVE.SticTheotokion.text=oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
-
-meVE.Lity1.poet=""
-meVE.Lity1.mode=misc_en_UK_lash.Mode1
-meVE.Lity1.melody=""
-meVE.Lity1.incipit = ""
-meVE.Lity1.text=""
-
-meVE.Lity2.mode=misc_en_UK_lash.Mode1
-meVE.Lity2.melody=""
-meVE.Lity2.incipit = ""
-meVE.Lity2.text=""
-
-meVE.Lity3.mode=misc_en_UK_lash.Mode1
-meVE.Lity3.melody=""
-meVE.Lity3.incipit = ""
-meVE.Lity3.text=""
-
-meVE.LityGlory.poet=""
-meVE.LityGlory.mode=misc_en_UK_lash.Mode5
-meVE.LityGlory.melody=""
-meVE.LityGlory.incipit = ""
-meVE.LityGlory.text=""
-
-meVE.LityBoth.mode=misc_en_UK_lash.Mode5
-meVE.LityBoth.melody=""
-meVE.LityBoth.incipit = ""
-meVE.LityBoth.text=""
-
-meVE.Aposticha1.mode=misc_en_UK_lash.Mode2
-meVE.Aposticha1.melody=misc_en_UK_lash.Idiomelon
-meVE.Aposticha1.incipit = "Herald of repentance, John Baptist,"
-meVE.Aposticha1.text="Herald of repentance, John Baptist, when your head was struck off you sanctified the earth; because you made clear God's law to the faithful and utterly destroyed lawlessness. As you stand before the throne of Christ the King of heaven, implore him to have mercy on our souls."
-
-meVE.Aposticha2.mode=misc_en_UK_lash.Mode2
-meVE.Aposticha2.melody=misc_en_UK_lash.Idiomelon
-meVE.Aposticha2.incipit = "For the law of the"
-meVE.Aposticha2.text="For the law of the Lord your head was struck off, all-holy John. With blameless boldness of speech you rebuked the impious king when he transgressed the law. And so the hosts of Angels marvel at you; the choirs of Apostles and Martyrs glorify you; we too honour your yearly memorial, as we glorify the Holy Trinity, who crowned you, blessed Forerunner."
-
-meVE.Aposticha3.mode=misc_en_UK_lash.Mode2
-meVE.Aposticha3.melody=misc_en_UK_lash.Idiomelon
-meVE.Aposticha3.incipit = "The Prophet from a Prophet,"
-meVE.Aposticha3.text="The Prophet from a Prophet, who became greater than the Prophets, who was sanctified from his mother's womb for the service of the Lord, had his head struck off today by a lawless king; and both before his execution and after it clearly rebuking the maiden who danced licentiously, he put the regiment of sin to shame. And so we cry out: Baptist John, as you have freedom to speak, intercede insistently for our souls."
-
-meVE.AposGlory.mode=misc_en_UK_lash.Mode8
-meVE.AposGlory.melody=misc_en_UK_lash.Idiomelon
-meVE.AposGlory.incipit = "Forerunner of the Saviour, you"
-meVE.AposGlory.text="Forerunner of the Saviour, you rebuked kings that they should not act lawlessly; and so the little darling of a lawless woman persuaded Herod to cut off your head, and therefore from the rising of the sun to its setting your name is to be praised. As you have freedom before the Lord intercede insistently for our souls."
-
-meVE.AposTheotokion.mode=misc_en_UK_lash.Mode8
-meVE.AposTheotokion.melody=""
-meVE.AposTheotokion.incipit = "Virgin without bridegroom, who conceived"
-meVE.AposTheotokion.text="Virgin without bridegroom, who conceived God ineffably in the flesh, Mother of God Most High, accept the supplications of your servants, O all-blameless, who bestow on all cleansing from faults. Now accept our entreaties and implore that we may all be saved."
-
-meVE.Apolytikion1.mode=misc_en_UK_lash.Mode2
-meVE.Apolytikion1.melody=""
-meVE.Apolytikion1.incipit = "The just is remembered with"
-meVE.Apolytikion1.text="The just is remembered with praises, but for you the Lord's testimony suffices, O Forerunner; for you were declared more praiseworthy than the Prophets, because you were found worthy to baptize in running streams the One they had proclaimed. Therefore, having struggled bravely for the truth with joy, you preached to those in Hell a God who had appeared in flesh, who takes away the sin of the world, and grants us his great mercy."
-
-meMA.Kathisma11.mode=misc_en_UK_lash.Mode5
-meMA.Kathisma11.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
-meMA.Kathisma11.incipit = "The intermediary of law and"
-meMA.Kathisma11.text="The intermediary of law and grace let us the faithful, gathered together, praise with one accord, because he preached repentance to us and, when he openly and bravely denounced Herod, had his head struck off. And now he lives with the Angels and im­plores Christ that we may be saved."
-
-meMA.Kathisma1T.mode=misc_en_UK_lash.Mode5
-meMA.Kathisma1T.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
-meMA.Kathisma1T.incipit = "The astounding wonder of your"
-meMA.Kathisma1T.text="The astounding wonder of your con­ceiving and the ineffable birth-giving of your womb have been made known in you, pure Ever-Virgin. Your glory, Mother of God, which is unfurled over all for our salvation, amazes my mind and astounds my thought."
-
-meMA.Kathisma21.mode=misc_en_UK_lash.Mode5
-meMA.Kathisma21.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
-meMA.Kathisma21.incipit = "The one who was revealed"
-meMA.Kathisma21.text="The one who was revealed to us as a Prophet from the womb and who came forth radiantly from a barren woman as a beacon for the inhabited world, the Baptist of Christ, the vic­torious athlete, the Forerunner John, let us praise in songs, for he inter­cedes with the Lord to have mercy on our souls."
-
-meMA.Kathisma2T.mode=misc_en_UK_lash.Mode5
-meMA.Kathisma2T.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
-meMA.Kathisma2T.incipit = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
-meMA.Kathisma2T.text=oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
-
-meMA.Kathisma31.mode=misc_en_UK_lash.Mode8
-meMA.Kathisma31.melody=he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
-meMA.Kathisma31.incipit = "By God’s decree you shone"
-meMA.Kathisma31.text="By God’s decree you shone out from the barren woman, broke open the bonds on your father’s tongue and revealed the Sun that shines with the light of dawn. And in the wilderness you preached the Creator to the peoples, the Lamb that takes away the faults of the world. There­fore too with fervour you rebuked the king and your head was struck off, famous and all-praised John. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
-
-meMA.Kathisma3T.mode=misc_en_UK_lash.Mode8
-meMA.Kathisma3T.melody=he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
-meMA.Kathisma3T.incipit = "All-holy Virgin, Mother of God,"
-meMA.Kathisma3T.text="All-holy Virgin, Mother of God, heal the dread passions of my soul, I beg, and grant me pardon of the faults that I have senselessly committed, defiling soul and body, wretch that I am. Alas! What shall I do in that hour when the Angels separate my soul from my wretched body? Sovereign Lady, be my help then and my ardent protector; for I, your servant, have you as my hope."
-
-meMA.MM.Prokeimenon.text=properties_en_UK_lash.media.key
-
-meMA.PostGospelGlory.mode=misc_en_UK_lash.Mode2
-meMA.PostGospelGlory.melody=""
-meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelForerunner.incipit
-meMA.PostGospelGlory.text=ho.s03_en_UK_lash.hoMA.PostGospelForerunner.text
-
-meMA.PostGospelBoth.mode=misc_en_UK_lash.Mode2
-meMA.PostGospelBoth.melody=""
-meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.text=ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
-
-meMA.PostGospelIdiomelon.mode=misc_en_UK_lash.Mode2
-meMA.PostGospelIdiomelon.melody=""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
-meMA.PostGospelIdiomelon.text=meVE.Aposticha1.text
-
-meMA.C1.poet=poets_en_UK_lash.IoannouMonachou
-
-meMA.C1.title=titles_en_UK_lash.KanonATouProdromou
-meMA.C1.verse=prayers_en_UK_lash.verse_Baptist.text
-
-meMA.Ode1C11.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C11.melody=he.h.m8_en_UK_lash.YgranDiodefsas.incipit
-meMA.Ode1C11.incipit = "Let us sing praise of"
-meMA.Ode1C11.text="Let us sing praise of the Prophet who appeared from a barren womb, the sacred Forerunner of the One who was born ineffably from a virgin womb."
-
-meMA.Ode1C12.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C12.melody=he.h.m8_en_UK_lash.YgranDiodefsas.incipit
-meMA.Ode1C12.incipit = "Though you had surpassed the"
-meMA.Ode1C12.text="Though you had surpassed the bounds of nature, you preserved the laws of righteousness when you re­buked a lawless union, unafraid of the arrogance of kings."
-
-meMA.Ode1C13.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C13.melody=he.h.m8_en_UK_lash.YgranDiodefsas.incipit
-meMA.Ode1C13.incipit = "Nourished on the milk of"
-meMA.Ode1C13.text="Nourished on the milk of the law, sealing, like a seal of the law, the legislation of lawful union, you were confronted with licentious hate."
-
-meMA.Ode1C1T.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C1T.melody=he.h.m8_en_UK_lash.YgranDiodefsas.incipit
-meMA.Ode1C1T.incipit = "Ranks of Angels and of"
-meMA.Ode1C1T.text="Ranks of Angels and of mortals praise you without ceasing, Mother without bridegroom, for you carried in your arms as a babe their Creator."
-
-meMA.C2.title=titles_en_UK_lash.KanonBTouProdromou
-meMA.C2.verse=prayers_en_UK_lash.verse_Baptist.text
-
-meMA.Ode1C21.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C21.melody=he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
-meMA.Ode1C21.incipit = "Let us all praise godlike"
-meMA.Ode1C21.text="Let us all praise godlike John, to whom above all mortals Christ bore witness as his Forerunner and friend."
-
-meMA.Ode1C22.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C22.melody=he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
-meMA.Ode1C22.incipit = "Let us all praise godlike"
-meMA.Ode1C22.text="Let us all praise godlike John, the citizen of the desert and companion of the Angels, the boast of the new people."
-
-meMA.Ode1C23.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C23.melody=he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
-meMA.Ode1C23.incipit = "At the memory of the"
-meMA.Ode1C23.text="At the memory of the Forerunner, let us all dance like the Angels and cry out to Christ: At his intercessions, O Christ, give peace to your world."
-
-meMA.Ode1C2T.ode=misc_en_UK_lash.Ode1
-meMA.Ode1C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode1C2T.melody=he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
-meMA.Ode1C2T.incipit = "At every moment, Mother of"
-meMA.Ode1C2T.text="At every moment, Mother of God, entreat God, who was incarnate from you by an ineffable word, to rescue your servants from every disaster."
-
-meMA.Ode3C11.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C11.melody=he.h.m8_en_UK_lash.SyEiToStereoma.incipit
-meMA.Ode3C11.incipit = "A dissolute girl, filled with"
-meMA.Ode3C11.text="A dissolute girl, filled with drunken­ness, said, Give me here and now, Herod, the head of John on a dish."
-
-meMA.Ode3C12.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C12.melody=he.h.m8_en_UK_lash.SyEiToStereoma.incipit
-meMA.Ode3C12.incipit = "The girl danced and as"
-meMA.Ode3C12.text="The girl danced and as she delighted lawless Herod she lured him to the murder of the Forerunner and herald."
-
-meMA.Ode3C13.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C13.melody=he.h.m8_en_UK_lash.SyEiToStereoma.incipit
-meMA.Ode3C13.incipit = "Wretch that you are, foolish"
-meMA.Ode3C13.text="Wretch that you are, foolish and lawless Herod! By what insolence of a dissolute girl did you commit an unjust murder."
-
-meMA.Ode3C1T.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C1T.melody=he.h.m8_en_UK_lash.SyEiToStereoma.incipit
-meMA.Ode3C1T.incipit = "Give us help by your"
-meMA.Ode3C1T.text="Give us help by your intercessions, O All-pure, by driving off the assaults of dreadful troubles."
-
-meMA.Ode3C21.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C21.melody=he.h.m8_en_UK_lash.OuraniasApsidos.incipit
-meMA.Ode3C21.incipit = "As mediator of the Old"
-meMA.Ode3C21.text="As mediator of the Old and Forerun­ner of the New, leader of the preach­ing of the Gospel, you reproached the lawless union of a tyrant and glori­ously met your death with joy."
-
-meMA.Ode3C22.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C22.melody=he.h.m8_en_UK_lash.OuraniasApsidos.incipit
-meMA.Ode3C22.incipit = "A girl that had come"
-meMA.Ode3C22.text="A girl that had come from a lawless womb, filled by drunkenness with Bacchic frenzy, said to Herod, Give me the head of John on a dish, to be­stow on my mother a longed for gift."
-
-meMA.Ode3C23.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C23.melody=he.h.m8_en_UK_lash.OuraniasApsidos.incipit
-meMA.Ode3C23.incipit = "The shameless tyrant, unable to"
-meMA.Ode3C23.text="The shameless tyrant, unable to endure the reproaches of your God-protected tongue, glorious Forerun­ner, gives your revered head to a girl as a prize for her vulgar dances."
-
-meMA.Ode3C2T.ode=misc_en_UK_lash.Ode3
-meMA.Ode3C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode3C2T.melody=he.h.m8_en_UK_lash.OuraniasApsidos.incipit
-meMA.Ode3C2T.incipit = "Having dwelt bodily in a"
-meMA.Ode3C2T.text="Having dwelt bodily in a Virgin, Lord, you appeared to mortals as it was fitting for them to see you; and you revealed her as true Mother of God and help of believers, only Lover of mankind."
-
-meMA.Ode3Kathisma1.mode=misc_en_UK_lash.Mode1
-meMA.Ode3Kathisma1.melody=he.a.m1_en_UK_lash.TonTafonSouSotir.incipit
-meMA.Ode3Kathisma1.incipit = "Let us believers honour with"
-meMA.Ode3Kathisma1.text="Let us believers honour with a pure conscience the Forerunner of Christ, Baptist and Prophet, as glorious her­ald, teacher of repentance and as most true martyr of the Saviour; for when he had rebuked the folly of Herod his head was cut off."
-
-meMA.Ode3Kathisma2.mode=misc_en_UK_lash.Mode4
-meMA.Ode3Kathisma2.melody=he.a.m4_en_UK_lash.KateplagiIosif.incipit
-meMA.Ode3Kathisma2.incipit = "Now the Baptist of the"
-meMA.Ode3Kathisma2.text="Now the Baptist of the Saviour has appeared and spiritually makes joyful the minds of the faithful; he the adornment of the wilderness and the seal of the Prophets; there he was revealed as Forerunner of Christ and unerring witness of his Coming. So with spiritual songs let us cry out to John with one accord, Prophet, her­ald of the truth, intercede that we may be saved."
-
-meMA.Ode3KathismaT.mode=misc_en_UK_lash.Mode4
-meMA.Ode3KathismaT.melody=he.a.m4_en_UK_lash.KateplagiIosif.incipit
-meMA.Ode3KathismaT.incipit = "All the choirs of Angels"
-meMA.Ode3KathismaT.text="All the choirs of Angels were amazed, pure Virgin, at the dread mystery of your child-bearing: how the One who by his will alone upholds the universe is held as a mortal in your arms, and how the pre-eternal accepts a beginning, and the One who nourishes everything that breathes by his ineffable goodness is suckled at the breast. And as they praise you as truly God’s Mother glorify you."
-
-meMA.Ode4C11.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C11.melody=he.h.m8_en_UK_lash.SyMouIschys.incipit
-meMA.Ode4C11.incipit = "Unable to bear the severity"
-meMA.Ode4C11.text="Unable to bear the severity of the rebukes and the god-fearing boldness of speech, the one who was liable to the penalties of the law, disfigured by the licentiousness of the pleasures, bound and imprisoned the one who in spirit was joined before the end with the choirs on high."
-
-meMA.Ode4C12.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C12.melody=he.h.m8_en_UK_lash.SyMouIschys.incipit
-meMA.Ode4C12.incipit = "Afflicted by drunkenness that harms"
-meMA.Ode4C12.text="Afflicted by drunkenness that harms the soul and by licentious passion, the coward, betrayed by the beat of the dancing feet, was revealed to be the murderer of a Prophet; for he conceived drunkenness, mother of intemperance, and gave birth to dread iniquity."
-
-meMA.Ode4C13.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C13.melody=he.h.m8_en_UK_lash.SyMouIschys.incipit
-meMA.Ode4C13.incipit = "Truly in you the divine"
-meMA.Ode4C13.text="Truly in you the divine voice was not deceived; for you are more than the Prophets, having being deemed worthy of prophecy from the womb while your body was not fully formed and having seen and baptized in the body God the Word, who had been prophesied by you."
-
-meMA.Ode4C1T.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C1T.melody=he.h.m8_en_UK_lash.SyMouIschys.incipit
-meMA.Ode4C1T.incipit = "You are the boast of"
-meMA.Ode4C1T.text="You are the boast of the faithful, Virgin without bridegroom, you are the protection and you are the refuge, wall and haven of Christians, for you bring supplications to your Son, All-blameless one, and you save from dangers those who with faith and love know you to be the pure Mother of God."
-
-meMA.Ode4C21.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C21.melody=he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
-meMA.Ode4C21.incipit = "Herod did not endure your"
-meMA.Ode4C21.text="Herod did not endure your rebukes, O servant of Christ, all-blessed John, and so he prepared unjust murder against you, for he had no reverence for your holiness."
-
-meMA.Ode4C22.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C22.melody=he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
-meMA.Ode4C22.incipit = "The unjust king, maddened by"
-meMA.Ode4C22.text="The unjust king, maddened by Bacchic frenzy and drunkenness, made away with you, O Prophet, by an murderous sentence, for he had no reverence for your holiness."
-
-meMA.Ode4C23.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C23.melody=he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
-meMA.Ode4C23.incipit = "Impious, dread Herod, led on"
-meMA.Ode4C23.text="Impious, dread Herod, led on by the words of a girl, gave your head as a gift to the adulteress, O Prophet. From it you pour out grace for us all."
-
-meMA.Ode4C2T.ode=misc_en_UK_lash.Ode4
-meMA.Ode4C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode4C2T.melody=he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
-meMA.Ode4C2T.incipit = "Hail from our lips, holy"
-meMA.Ode4C2T.text="Hail from our lips, holy Mother of God. Hail, who bore joy for the world. Hail, only help of mortals, pure and blessed Mother of God."
-
-meMA.Ode5C11.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C11.melody=he.h.m8_en_UK_lash.InaTiMeAposo.incipit
-meMA.Ode5C11.incipit = "On her mother’s instructions the"
-meMA.Ode5C11.text="On her mother’s instructions the cub, more savage than the savage lioness, possessed of an evil spirit, asked as the reward for her dance the head of the Forerunner and herald, which even all the wild beasts in the deserts treated with reverence."
-
-meMA.Ode5C12.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C12.melody=he.h.m8_en_UK_lash.InaTiMeAposo.incipit
-meMA.Ode5C12.incipit = "How beyond reach and beyond"
-meMA.Ode5C12.text="How beyond reach and beyond un­derstanding are your judgements, O Lover of mankind! Because a licen­tious girl danced in triumph over the one who had been revealed from the womb as a vessel of the Spirit and who had advanced in soberness and purity."
-
-meMA.Ode5C13.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C13.melody=he.h.m8_en_UK_lash.InaTiMeAposo.incipit
-meMA.Ode5C13.incipit = "It was agreeable and natural"
-meMA.Ode5C13.text="It was agreeable and natural to the one who favoured an improper union to link to his birthday drinking bouts the removal of a Prophet and to mix for the pleasure-seekers a full bowl of prophetic and holy blood."
-
-meMA.Ode5C1T.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C1T.melody=he.h.m8_en_UK_lash.InaTiMeAposo.incipit
-meMA.Ode5C1T.incipit = "As you gained a mother’s"
-meMA.Ode5C1T.text="As you gained a mother’s boldness towards your Son, All-pure Virgin, do not despise our kindred care, we beg, for we Christians put you alone forward to the Master as a kindly means of atonement."
-
-meMA.Ode5C21.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C21.melody=he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C21.incipit = "As payment for a dance"
-meMA.Ode5C21.text="As payment for a dance the head of the Forerunner on a dish was given through deception to the girl. O folly!"
-
-meMA.Ode5C22.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C22.melody=he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C22.incipit = "A presumptuous adulteress was de­lighted"
-meMA.Ode5C22.text="A presumptuous adulteress was de­lighted by the gore dripping from your head, O Herald of God. O folly!"
-
-meMA.Ode5C23.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C23.melody=he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C23.incipit = "Herod compelled your tongue to"
-meMA.Ode5C23.text="Herod compelled your tongue to be silent; but when silenced it rebuked him all the more, All-praised Fore­runner."
-
-meMA.Ode5C2T.ode=misc_en_UK_lash.Ode5
-meMA.Ode5C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode5C2T.melody=he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
-meMA.Ode5C2T.incipit = "We sing your praise as"
-meMA.Ode5C2T.text="We sing your praise as Virgin after child-birth, Mother of God, because for the world you bore in the flesh God the Word."
-
-meMA.Ode6C11.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C11.melody=he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
-meMA.Ode6C11.incipit = "Braving danger for the law"
-meMA.Ode6C11.text="Braving danger for the law of the commandments, blessed one, you disciplined the transgressor by your rebukes, for you were a reed blown about by the breaths of hostile spirits."
-
-meMA.Ode6C12.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C12.melody=he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
-meMA.Ode6C12.incipit = "The head, dripping with the"
-meMA.Ode6C12.text="The head, dripping with the gore of slaughter, was brought as payment for licentious actions, even after death rebuking Herod as one who befouled nature."
-
-meMA.Ode6C13.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C13.melody=he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
-meMA.Ode6C13.incipit = "Wandering in deserts, clothed in"
-meMA.Ode6C13.text="Wandering in deserts, clothed in camel’s hairs, you dwell in the former as in a royal palace, wearing the latter as a kingly robe you reigned over your passions."
-
-meMA.Ode6C1T.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C1T.melody=he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
-meMA.Ode6C1T.incipit = "May we be delivered from"
-meMA.Ode6C1T.text="May we be delivered from dread failings by your intercessions, pure Mother of God, and may we obtain the divine radiance of the Son of God who was ineffably incarnate from you."
-
-meMA.Ode6C21.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C21.melody=he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
-meMA.Ode6C21.incipit = "For the multitude of the"
-meMA.Ode6C21.text="For the multitude of the faithful, glo­rious John, you were a source of di­vine teachings when you announced the Lamb of God to us."
-
-meMA.Ode6C22.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C22.melody=he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
-meMA.Ode6C22.incipit = "Unerring example of holiness and"
-meMA.Ode6C22.text="Unerring example of holiness and strict life, O Forerunner, as you stand before Christ remember those who sing your praise."
-
-meMA.Ode6C23.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C23.melody=he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
-meMA.Ode6C23.incipit = "At your prayers, Prophet, Baptist"
-meMA.Ode6C23.text="At your prayers, Prophet, Baptist and Forerunner of Christ, give peace to the world and save our souls from dangers."
-
-meMA.Ode6C2T.ode=misc_en_UK_lash.Ode6
-meMA.Ode6C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode6C2T.melody=he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
-meMA.Ode6C2T.incipit = "You that alone through a"
-meMA.Ode6C2T.text="You that alone through a word bore the Word in your womb deliver, we pray, our souls from the snares of the foe."
-
-meMA.Kontakion1.mode=misc_en_UK_lash.Mode5
-meMA.Kontakion1.melody=""
-meMA.Kontakion1.incipit = "The glorious beheading of the"
-meMA.Kontakion1.text="The glorious beheading of the Fore­runner became a divine dispensation, that he might proclaim to those in Hell the coming of the Saviour. So let Herodias grieve who asked for lawless murder, for she loved neither the law of God nor the age that lives, but one artificial and temporary."
-
-meMA.Oikos1.text="The birthday feast of Herod appeared to all as unholy, for among the revellers the head of the faster was brought in like food. Grief was joined to joy and bitter lament was mingled with the laughter because the young woman entered among them bearing the head of the Baptist on a dish, as it says, and through mad passion grief fell on all who were then feasting with the king, for she delighted nei­ther them nor Herod, it says, and they were grieved, not with true grief but with artificial and temporary."
-
-meMA.Ode7C11.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C11.melody=he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
-meMA.Ode7C11.incipit = "Lawless Herod, armed with licentious"
-meMA.Ode7C11.text="Lawless Herod, armed with licentious lust and terrible drunkenness you as­saulted and tore down the unshakeable tower of self-mastery, the invincible city of sobriety, the Baptist of Christ."
-
-meMA.Ode7C12.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C12.melody=he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
-meMA.Ode7C12.incipit = "She that had been made"
-meMA.Ode7C12.text="She that had been made a disciple of the devil did not tremble, O Forerun­ner, did not draw back, did not hesi­tate as she shamelessly brought forward your precious head on a dish, for she was bolted fast to constraints of her mother."
-
-meMA.Ode7C13.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C13.melody=he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
-meMA.Ode7C13.incipit = "As a lamp you shone"
-meMA.Ode7C13.text="As a lamp you shone out beforehand, as an Angel you were sent ahead, as a Prophet you proclaim as lamb of God Christ who has appeared, as a martyr your head was cut off by a sword, and you announced Christ in advance to the dead in Hell."
-
-meMA.Ode7C1T.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C1T.melody=he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
-meMA.Ode7C1T.incipit = "Delivered by your Offspring from"
-meMA.Ode7C1T.text="Delivered by your Offspring from the condemnation of the ancient fall, we ever glorify you, Virgin Mother, who were revealed as cause of freedom with your Son who gave himself as a ransom for us."
-
-meMA.Ode7C21.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C21.melody=he.h.m8_en_UK_lash.PaidesEvraion.incipit
-meMA.Ode7C21.incipit = "Servant heralding the Master’s Com­ing,"
-meMA.Ode7C21.text="Servant heralding the Master’s Com­ing, morning star heralding the sun, John hastened to Hades crying, Blessed are you, Lord God, to the ages."
-
-meMA.Ode7C22.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C22.melody=he.h.m8_en_UK_lash.PaidesEvraion.incipit
-meMA.Ode7C22.incipit = "O folly of Herod! He"
-meMA.Ode7C22.text="O folly of Herod! He gives to a dissolute woman as a plaything the one who with an immaterial body was equal to the Angels and who cried, Blessed are you, O God, to the ages."
-
-meMA.Ode7C23.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C23.melody=he.h.m8_en_UK_lash.PaidesEvraion.incipit
-meMA.Ode7C23.incipit = "Accept, O Holy of Holies,"
-meMA.Ode7C23.text="Accept, O Holy of Holies, as I inter­cede for the Church, cries out the Forerunner to the Master and cries, Blessed are you, Lord God, to the ages."
-
-meMA.Ode7C2T.ode=misc_en_UK_lash.Ode7
-meMA.Ode7C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode7C2T.melody=he.h.m8_en_UK_lash.PaidesEvraion.incipit
-meMA.Ode7C2T.incipit = "You stemmed the onrush of"
-meMA.Ode7C2T.text="You stemmed the onrush of death, pure Virgin, when you conceived and gave birth to immortal God, to whom we all sing, Blessed are you, Lord God, to the ages."
-
-meMA.Ode8C11.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C11.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C11.incipit = "John, who outran your birth"
-meMA.Ode8C11.text="John, who outran your birth and your passion, came through a sword to the lowest parts of the earth as Prophet and Messenger of your entrance also there, crying as voice of the Word, You dead, highly exalt the Giver of life, you blind, the Giver of light, you prisoners, the Deliverer Christ."
-
-meMA.Ode8C12.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C12.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C12.incipit = "You outran a virgin birth"
-meMA.Ode8C12.text="You outran a virgin birth by your birth from a barren mother and now you have become the precursor of the voluntary crucifixion of the creator of the universe by the cutting off of your head, as you cry to those in Hades, You dead, highly exalt the Giver of life, you blind, the Giver of light, you prisoners, the Deliverer Christ."
-
-meMA.Ode8C13.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C13.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C13.incipit = "When your head was smitten"
-meMA.Ode8C13.text="When your head was smitten from your body, O Forerunner, your soul that ruled it was parted from your flesh; but the Godhead was not parted from the flesh of Emmanuel, not a bone was broken of the God and Master. And so we highly exalt him to the ages."
-
-meMA.Ode8C1T.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C1T.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C1T.incipit = "Sovereign Lady, Mother of the"
-meMA.Ode8C1T.text="Sovereign Lady, Mother of the Lord, by your compassionate intercession wipe out the wounds and bruises of my soul and raise me who am fallen. Save me the prodigal, O All-blame­less, save me. For you are my protection and only assistance, pure and blessed to all the ages."
-
-meMA.Ode8C21.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C21.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C21.incipit = "Once the boastful tyrant Herod"
-meMA.Ode8C21.text="Once the boastful tyrant Herod transgressed and having turned his attention to the festivities of his birthday he arranges for the young woman to dance, having convinced her that he will fulfil her every re­quest. But she, compelled by her mother’s instructions, asked for the head of the Forerunner on a dish."
-
-meMA.Ode8C22.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C22.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C22.incipit = "Having gained for himself the"
-meMA.Ode8C22.text="Having gained for himself the charge of foul murder the wretched king Herod earns himself inescapable pun­ishment, by transgressing outrageously. For he brings to the table like food the head of the Forerunner, which rebukes him together with Herodias to all the ages."
-
-meMA.Ode8C23.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C23.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C23.incipit = "Blessed John, shining Apostle and"
-meMA.Ode8C23.text="Blessed John, shining Apostle and Forerunner of the Lord, chosen of the Prophets, by your entreaties save those who celebrate with love your radiant and light-bearing memory as they cry out, O Youths bless, O Priests praise, O people highly exalt Christ to the ages."
-
-meMA.Ode8C2T.ode=misc_en_UK_lash.Ode8
-meMA.Ode8C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode8C2T.melody=he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C2T.incipit = "You have become holier than"
-meMA.Ode8C2T.text="You have become holier than the An­gels, All-holy Maiden, for you bore the One who is Holy for the Holy, who through pity became without what we mortals are to save those who cry out to him without ceasing, O Youths bless, O Priests praise, O people highly exalt Christ to the ages."
-
-meMA.Ode9C11.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C11.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C11.melody=he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
-meMA.Ode9C11.incipit = "Every regiment of evil trembled"
-meMA.Ode9C11.text="Every regiment of evil trembled together with their champion the devil at your theologian’s tongue, O Prophet, which proclaims Christ, and through a dissolute girl they persuaded Herod to cut off your head. But we, the faithful, magnify you."
-
-meMA.Ode9C12.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C12.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C12.melody=he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
-meMA.Ode9C12.incipit = "A valley, humble nature, has"
-meMA.Ode9C12.text="A valley, humble nature, has been exalted and a hill, the arrogance of death, has been humbled, for the voice of one who cries cried aloud in the deserts without light, the tents of Hades, Lift up the gates, for the mighty King will enter."
-
-meMA.Ode9C13.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C13.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C13.melody=he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
-meMA.Ode9C13.incipit = "The passions of mortals tremble"
-meMA.Ode9C13.text="The passions of mortals tremble and demons flee in terror at the over­shadowing of the grace that was given you from God. But guard from both trials, O Forerunner of the Lord, your flock which ever magnifies you with faith."
-
-meMA.Ode9C1T.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C1T.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C1T.melody=he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
-meMA.Ode9C1T.incipit = "Bend your bow, march forward"
-meMA.Ode9C1T.text="Bend your bow, march forward and reign, O Son of God’s Mother, subduing the Ishmaelite people that wars against us, granting victories to our Orthodox Sovereign over barbarian enemies at the prayers of the one who gave you birth, O Word of God."
-
-meMA.Ode9C21.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C21.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C21.melody=he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
-meMA.Ode9C21.incipit = "You were a voice of"
-meMA.Ode9C21.text="You were a voice of one who cries, O Baptist, for you shone forth as a Prophet from a Prophet crying out in the desert to all, Repent; and you rebuked Herod who did evil, licentious deeds, And so you hurried on to Hades proclaiming the Kingdom of our God."
-
-meMA.Ode9C22.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C22.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C22.melody=he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
-meMA.Ode9C22.incipit = "A shameless girl, forced by"
-meMA.Ode9C22.text="A shameless girl, forced by her mother Herodias, asked that the sa­cred head of the Baptist be cut off. Then Herod with speed gives orders that it be laid out like food on a dish and given as a gift, which folly it rebukes."
-
-meMA.Ode9C23.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C23.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C23.melody=he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
-meMA.Ode9C23.incipit = "As Martyr and Prophet and"
-meMA.Ode9C23.text="As Martyr and Prophet and Baptist, as voice and lamp and Messenger, witnessed to by God as greater than the Prophets, entreat the Lord to deliver from trials of every kind and from hostile harm those who cele­brate your light-bearing memory, O Forerunner."
-
-meMA.Ode9C2T.ode=misc_en_UK_lash.Ode9
-meMA.Ode9C2T.mode=misc_en_UK_lash.Mode8
-meMA.Ode9C2T.melody=he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
-meMA.Ode9C2T.incipit = "You were seen, O Virgin"
-meMA.Ode9C2T.text="You were seen, O Virgin Mother of God, to give birth beyond nature in a body to the good Word that the Father uttered from his own heart before all the ages as he is good. Him we know also to be beyond bodies, even though he has been clothed in a body."
-
-meMA.Exaposteilarion1.mode=misc_en_UK_lash.Mode2
-meMA.Exaposteilarion1.melody=he.a.m2_en_UK_lash.TonMathitonOrontonSe.incipit
-meMA.Exaposteilarion1.incipit = "Let us garland with hymns"
-meMA.Exaposteilarion1.text="Let us garland with hymns of praise the one known to be greatest among Prophets and who became precursor of Apostles, the Forerunner of grace, for his head was cut off for the sake of the law of the Lord."
-
-meMA.Exaposteilarion2.mode=misc_en_UK_lash.Mode3
-meMA.Exaposteilarion2.melody=he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
-meMA.Exaposteilarion2.incipit = "Dissolute Herod treacherously cut off"
-meMA.Exaposteilarion2.text="Dissolute Herod treacherously cut off your head, planter of purity, Baptist of the Saviour, but was quite unable to cut out the rebukes of your tongue."
-
-meMA.ExapTheotokion.mode=misc_en_UK_lash.Mode3
-meMA.ExapTheotokion.melody=he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
-meMA.ExapTheotokion.incipit = "Holy Maiden, who abolished by"
-meMA.ExapTheotokion.text="Holy Maiden, who abolished by your divine childbearing the curse of the world, deliver by your prayers from dangers of every kind the flock that faithfully entreats you."
-
-meMA.Lauds1.mode=misc_en_UK_lash.Mode8
-meMA.Lauds1.melody=he.a.m8_en_UK_lash.OTouParadoxou.incipit
-meMA.Lauds1.incipit = "O marvellous wonder! A dissolute,"
-meMA.Lauds1.text="O marvellous wonder! A dissolute, licentious girl carries round the sacred head revered by Angels. She offers to her adulterous mother the tongue that rebuked the lawless. O your ineffable forbearance, lover of mankind! Through it, O Christ, save our souls, for you alone are compas­sionate."
-
-meMA.Lauds2.mode=misc_en_UK_lash.Mode8
-meMA.Lauds2.melody=he.a.m8_en_UK_lash.OTouParadoxou.incipit
-meMA.Lauds2.incipit = "O the blindness of Herod!"
-meMA.Lauds2.text="O the blindness of Herod! Having dishonoured God by neglect of the law he treacherously promises to keep his oaths. And he adds murder to adultery, pretending to be sad. O your ineffable compassion, lover of mankind! Through it, O Christ, save our souls, for you alone are compas­sionate."
-
-meMA.Lauds3.mode=misc_en_UK_lash.Mode8
-meMA.Lauds3.melody=he.a.m8_en_UK_lash.OTouParadoxou.incipit
-meMA.Lauds3.incipit = "O amazement beyond understanding! The"
-meMA.Lauds3.text="O amazement beyond understanding! The seal of the Prophets, the earthly Angel is displayed as the reward of a harlot’s dance. The tongue that spoke of God is sent on before and is the herald of Christ to those in Hades. O your forethought beyond speech, lover of mankind! Through it, O Christ, save our souls, for you alone are compassionate."
-
-meMA.LaudsGlory.mode=misc_en_UK_lash.Mode6
-meMA.LaudsGlory.melody=""
-meMA.LaudsGlory.incipit = meVE.Stichera04.incipit
-meMA.LaudsGlory.text=meVE.Stichera04.text
-
-meMA.LaudsTheotokion.mode=misc_en_UK_lash.Mode6
-meMA.LaudsTheotokion.melody=he.o_en_UK_lash.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiProdromou.incipit
-meMA.LaudsTheotokion.text=he.o_en_UK_lash.TheotokeSyEiProdromou.text
-
-meMA.MM.Lauds1123as5678.text=properties_en_UK_lash.media.key
-
-meMA.AdditionalIdiomelon1.mode=misc_en_UK_lash.Mode4
-meMA.AdditionalIdiomelon1.melody=""
-meMA.AdditionalIdiomelon1.incipit = ""
-meMA.AdditionalIdiomelon1.text=""
-
-meMA.AdditionalIdiomelon2.mode=misc_en_UK_lash.Mode4
-meMA.AdditionalIdiomelon2.melody=""
-meMA.AdditionalIdiomelon2.incipit = ""
-meMA.AdditionalIdiomelon2.text=""
-
-meMA.AdditionalIdiomelonGlory.mode=misc_en_UK_lash.Mode4
-meMA.AdditionalIdiomelonGlory.melody=""
-meMA.AdditionalIdiomelonGlory.incipit = ""
-meMA.AdditionalIdiomelonGlory.text=""
-
-meMA.AdditionalIdiomelonBoth.mode=misc_en_UK_lash.Mode4
-meMA.AdditionalIdiomelonBoth.melody=""
-meMA.AdditionalIdiomelonBoth.incipit = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.incipit
-meMA.AdditionalIdiomelonBoth.text=oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.text
-
-meLI.Kontakion1.mode=meMA.Kontakion1.mode
-meLI.Kontakion1.melody=meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text=meMA.Kontakion1.text
-
-meMegalynarion.text=""
+A_Resource_Whose_Name = me.m08.d29_en_UK_lash
+
+meDate.text = "August 29"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = "St. John the Baptist"
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "whose memory we celebrate; " //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.poet = ""
+meVE.Stichera01.mode = misc_en_UK_lash.Mode6
+meVE.Stichera01.melody = misc_en_UK_lash.Idiomelon
+meVE.Stichera01.text = "As shameless Herod's birthday was being celebrated the terms of the oath to the wanton dancing girl were fulfilled; for the head of the Forerunner was struck off and brought in on a dish like a delicacy for those at table. O hateful banquet, full of impious behaviour and bloodthirsty murder! But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.Stichera02.mode = misc_en_UK_lash.Mode6
+meVE.Stichera02.melody = misc_en_UK_lash.Idiomelon
+meVE.Stichera02.text = "She danced, the disciple of the all-evil devil, and took your head, O Forerunner, as her wages. O banquet filled with blood! If only you had not sworn, lawless Herod, offspring of falsehood. But if you had sworn, if only you had not kept your oath; for it was better to have lied and attained life, than to speak truly and to cut off the head of the Forerunner. But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.Stichera03.mode = misc_en_UK_lash.Mode6
+meVE.Stichera03.melody = misc_en_UK_lash.Idiomelon
+meVE.Stichera03.text = "You should not, Herod, have condemned to death the one who denounced your adultery, the result of satanic love and the insane passion of lust for a woman. You should not have perilously handed over his all-honoured head to a lawless woman because of an oath made for a dance. How did you dare to accomplish such a murder? How was the wanton dancing girl not consumed by fire in the middle of the banquet as she brought this head in on a dish? But we, as we fittingly honour the Baptist as greatest among the offspring of women, call him blessed."
+
+meVE.Stichera04.mode = misc_en_UK_lash.Mode6
+meVE.Stichera04.melody = misc_en_UK_lash.Idiomelon
+meVE.Stichera04.text = "Once again Herodias rages, once again she is deranged. O deceitful dance and revelry with deceit! The Baptist was beheaded and Herod was troubled. At the prayers of your Forerunner, Lord, grant peace to our souls."
+
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+meVE.SticGlory.text = me.m08.d29_en_UK_lash.meVE.Stichera01.text
+
+meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody = ""
+meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
+
+meVE.Lity1.poet = ""
+meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.melody = ""
+meVE.Lity1.text = ""
+
+meVE.Lity2.mode = misc_en_UK_lash.Mode1
+meVE.Lity2.melody = ""
+meVE.Lity2.text = ""
+
+meVE.Lity3.mode = misc_en_UK_lash.Mode1
+meVE.Lity3.melody = ""
+meVE.Lity3.text = ""
+
+meVE.LityGlory.poet = ""
+meVE.LityGlory.mode = misc_en_UK_lash.Mode5
+meVE.LityGlory.melody = ""
+meVE.LityGlory.text = ""
+
+meVE.LityBoth.mode = misc_en_UK_lash.Mode5
+meVE.LityBoth.melody = ""
+meVE.LityBoth.text = ""
+
+meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
+meVE.Aposticha1.text = "Herald of repentance, John Baptist, when your head was struck off you sanctified the earth; because you made clear God's law to the faithful and utterly destroyed lawlessness. As you stand before the throne of Christ the King of heaven, implore him to have mercy on our souls."
+
+meVE.Aposticha2.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha2.melody = misc_en_UK_lash.Idiomelon
+meVE.Aposticha2.text = "For the law of the Lord your head was struck off, all-holy John. With blameless boldness of speech you rebuked the impious king when he transgressed the law. And so the hosts of Angels marvel at you; the choirs of Apostles and Martyrs glorify you; we too honour your yearly memorial, as we glorify the Holy Trinity, who crowned you, blessed Forerunner."
+
+meVE.Aposticha3.mode = misc_en_UK_lash.Mode2
+meVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
+meVE.Aposticha3.text = "The Prophet from a Prophet, who became greater than the Prophets, who was sanctified from his mother's womb for the service of the Lord, had his head struck off today by a lawless king; and both before his execution and after it clearly rebuking the maiden who danced licentiously, he put the regiment of sin to shame. And so we cry out: Baptist John, as you have freedom to speak, intercede insistently for our souls."
+
+meVE.AposGlory.mode = misc_en_UK_lash.Mode8
+meVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+meVE.AposGlory.text = "Forerunner of the Saviour, you rebuked kings that they should not act lawlessly; and so the little darling of a lawless woman persuaded Herod to cut off your head, and therefore from the rising of the sun to its setting your name is to be praised. As you have freedom before the Lord intercede insistently for our souls."
+
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode8
+meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.text = "Virgin without bridegroom, who conceived God ineffably in the flesh, Mother of God Most High, accept the supplications of your servants, O all-blameless, who bestow on all cleansing from faults. Now accept our entreaties and implore that we may all be saved."
+
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
+meVE.Apolytikion1.melody = ""
+meVE.Apolytikion1.text = "The just is remembered with praises, but for you the Lord's testimony suffices, O Forerunner; for you were declared more praiseworthy than the Prophets, because you were found worthy to baptize in running streams the One they had proclaimed. Therefore, having struggled bravely for the truth with joy, you preached to those in Hell a God who had appeared in flesh, who takes away the sin of the world, and grants us his great mercy."
+
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma11.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
+meMA.Kathisma11.text = "The intermediary of law and grace let us the faithful, gathered together, praise with one accord, because he preached repentance to us and, when he openly and bravely denounced Herod, had his head struck off. And now he lives with the Angels and im­plores Christ that we may be saved."
+
+meMA.Kathisma1T.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma1T.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
+meMA.Kathisma1T.text = "The astounding wonder of your con­ceiving and the ineffable birth-giving of your womb have been made known in you, pure Ever-Virgin. Your glory, Mother of God, which is unfurled over all for our salvation, amazes my mind and astounds my thought."
+
+meMA.Kathisma21.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma21.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
+meMA.Kathisma21.text = "The one who was revealed to us as a Prophet from the womb and who came forth radiantly from a barren woman as a beacon for the inhabited world, the Baptist of Christ, the vic­torious athlete, the Forerunner John, let us praise in songs, for he inter­cedes with the Lord to have mercy on our souls."
+
+meMA.Kathisma2T.mode = misc_en_UK_lash.Mode5
+meMA.Kathisma2T.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
+meMA.Kathisma2T.text = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma31.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
+meMA.Kathisma31.text = "By God’s decree you shone out from the barren woman, broke open the bonds on your father’s tongue and revealed the Sun that shines with the light of dawn. And in the wilderness you preached the Creator to the peoples, the Lamb that takes away the faults of the world. There­fore too with fervour you rebuked the king and your head was struck off, famous and all-praised John. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
+
+meMA.Kathisma3T.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma3T.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
+meMA.Kathisma3T.text = "All-holy Virgin, Mother of God, heal the dread passions of my soul, I beg, and grant me pardon of the faults that I have senselessly committed, defiling soul and body, wretch that I am. Alas! What shall I do in that hour when the Angels separate my soul from my wretched body? Sovereign Lady, be my help then and my ardent protector; for I, your servant, have you as my hope."
+
+meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
+
+meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.melody = ""
+meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelForerunner.text
+
+meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+
+meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
+
+meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
+
+meMA.C1.title = titles_en_UK_lash.KanonATouProdromou
+meMA.C1.verse = prayers_en_UK_lash.verse_Baptist.text
+
+meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C11.melody = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
+meMA.Ode1C11.text = "Let us sing praise of the Prophet who appeared from a barren womb, the sacred Forerunner of the One who was born ineffably from a virgin womb."
+
+meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C12.melody = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
+meMA.Ode1C12.text = "Though you had surpassed the bounds of nature, you preserved the laws of righteousness when you re­buked a lawless union, unafraid of the arrogance of kings."
+
+meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C13.melody = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
+meMA.Ode1C13.text = "Nourished on the milk of the law, sealing, like a seal of the law, the legislation of lawful union, you were confronted with licentious hate."
+
+meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
+meMA.Ode1C1T.text = "Ranks of Angels and of mortals praise you without ceasing, Mother without bridegroom, for you carried in your arms as a babe their Creator."
+
+meMA.C2.title = titles_en_UK_lash.KanonBTouProdromou
+meMA.C2.verse = prayers_en_UK_lash.verse_Baptist.text
+
+meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C21.melody = he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
+meMA.Ode1C21.text = "Let us all praise godlike John, to whom above all mortals Christ bore witness as his Forerunner and friend."
+
+meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C22.melody = he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
+meMA.Ode1C22.text = "Let us all praise godlike John, the citizen of the desert and companion of the Angels, the boast of the new people."
+
+meMA.Ode1C23.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C23.melody = he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
+meMA.Ode1C23.text = "At the memory of the Forerunner, let us all dance like the Angels and cry out to Christ: At his intercessions, O Christ, give peace to your world."
+
+meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
+meMA.Ode1C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C2T.melody = he.h.m8_en_UK_lash.TonIsrailEkDouleias.incipit
+meMA.Ode1C2T.text = "At every moment, Mother of God, entreat God, who was incarnate from you by an ineffable word, to rescue your servants from every disaster."
+
+meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C11.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C11.text = "A dissolute girl, filled with drunken­ness, said, Give me here and now, Herod, the head of John on a dish."
+
+meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C12.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C12.text = "The girl danced and as she delighted lawless Herod she lured him to the murder of the Forerunner and herald."
+
+meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C13.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C13.text = "Wretch that you are, foolish and lawless Herod! By what insolence of a dissolute girl did you commit an unjust murder."
+
+meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C1T.text = "Give us help by your intercessions, O All-pure, by driving off the assaults of dreadful troubles."
+
+meMA.Ode3C21.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C21.melody = he.h.m8_en_UK_lash.OuraniasApsidos.incipit
+meMA.Ode3C21.text = "As mediator of the Old and Forerun­ner of the New, leader of the preach­ing of the Gospel, you reproached the lawless union of a tyrant and glori­ously met your death with joy."
+
+meMA.Ode3C22.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C22.melody = he.h.m8_en_UK_lash.OuraniasApsidos.incipit
+meMA.Ode3C22.text = "A girl that had come from a lawless womb, filled by drunkenness with Bacchic frenzy, said to Herod, Give me the head of John on a dish, to be­stow on my mother a longed for gift."
+
+meMA.Ode3C23.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C23.melody = he.h.m8_en_UK_lash.OuraniasApsidos.incipit
+meMA.Ode3C23.text = "The shameless tyrant, unable to endure the reproaches of your God-protected tongue, glorious Forerun­ner, gives your revered head to a girl as a prize for her vulgar dances."
+
+meMA.Ode3C2T.ode = misc_en_UK_lash.Ode3
+meMA.Ode3C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C2T.melody = he.h.m8_en_UK_lash.OuraniasApsidos.incipit
+meMA.Ode3C2T.text = "Having dwelt bodily in a Virgin, Lord, you appeared to mortals as it was fitting for them to see you; and you revealed her as true Mother of God and help of believers, only Lover of mankind."
+
+meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
+meMA.Ode3Kathisma1.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.incipit
+meMA.Ode3Kathisma1.text = "Let us believers honour with a pure conscience the Forerunner of Christ, Baptist and Prophet, as glorious her­ald, teacher of repentance and as most true martyr of the Saviour; for when he had rebuked the folly of Herod his head was cut off."
+
+meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode4
+meMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.KateplagiIosif.incipit
+meMA.Ode3Kathisma2.text = "Now the Baptist of the Saviour has appeared and spiritually makes joyful the minds of the faithful; he the adornment of the wilderness and the seal of the Prophets; there he was revealed as Forerunner of Christ and unerring witness of his Coming. So with spiritual songs let us cry out to John with one accord, Prophet, her­ald of the truth, intercede that we may be saved."
+
+meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
+meMA.Ode3KathismaT.melody = he.a.m4_en_UK_lash.KateplagiIosif.incipit
+meMA.Ode3KathismaT.text = "All the choirs of Angels were amazed, pure Virgin, at the dread mystery of your child-bearing: how the One who by his will alone upholds the universe is held as a mortal in your arms, and how the pre-eternal accepts a beginning, and the One who nourishes everything that breathes by his ineffable goodness is suckled at the breast. And as they praise you as truly God’s Mother glorify you."
+
+meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C11.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
+meMA.Ode4C11.text = "Unable to bear the severity of the rebukes and the god-fearing boldness of speech, the one who was liable to the penalties of the law, disfigured by the licentiousness of the pleasures, bound and imprisoned the one who in spirit was joined before the end with the choirs on high."
+
+meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C12.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
+meMA.Ode4C12.text = "Afflicted by drunkenness that harms the soul and by licentious passion, the coward, betrayed by the beat of the dancing feet, was revealed to be the murderer of a Prophet; for he conceived drunkenness, mother of intemperance, and gave birth to dread iniquity."
+
+meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C13.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
+meMA.Ode4C13.text = "Truly in you the divine voice was not deceived; for you are more than the Prophets, having being deemed worthy of prophecy from the womb while your body was not fully formed and having seen and baptized in the body God the Word, who had been prophesied by you."
+
+meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.SyMouIschys.incipit
+meMA.Ode4C1T.text = "You are the boast of the faithful, Virgin without bridegroom, you are the protection and you are the refuge, wall and haven of Christians, for you bring supplications to your Son, All-blameless one, and you save from dangers those who with faith and love know you to be the pure Mother of God."
+
+meMA.Ode4C21.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C21.melody = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
+meMA.Ode4C21.text = "Herod did not endure your rebukes, O servant of Christ, all-blessed John, and so he prepared unjust murder against you, for he had no reverence for your holiness."
+
+meMA.Ode4C22.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C22.melody = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
+meMA.Ode4C22.text = "The unjust king, maddened by Bacchic frenzy and drunkenness, made away with you, O Prophet, by an murderous sentence, for he had no reverence for your holiness."
+
+meMA.Ode4C23.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C23.melody = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
+meMA.Ode4C23.text = "Impious, dread Herod, led on by the words of a girl, gave your head as a gift to the adulteress, O Prophet. From it you pour out grace for us all."
+
+meMA.Ode4C2T.ode = misc_en_UK_lash.Ode4
+meMA.Ode4C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C2T.melody = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
+meMA.Ode4C2T.text = "Hail from our lips, holy Mother of God. Hail, who bore joy for the world. Hail, only help of mortals, pure and blessed Mother of God."
+
+meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C11.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
+meMA.Ode5C11.text = "On her mother’s instructions the cub, more savage than the savage lioness, possessed of an evil spirit, asked as the reward for her dance the head of the Forerunner and herald, which even all the wild beasts in the deserts treated with reverence."
+
+meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C12.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
+meMA.Ode5C12.text = "How beyond reach and beyond un­derstanding are your judgements, O Lover of mankind! Because a licen­tious girl danced in triumph over the one who had been revealed from the womb as a vessel of the Spirit and who had advanced in soberness and purity."
+
+meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C13.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
+meMA.Ode5C13.text = "It was agreeable and natural to the one who favoured an improper union to link to his birthday drinking bouts the removal of a Prophet and to mix for the pleasure-seekers a full bowl of prophetic and holy blood."
+
+meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
+meMA.Ode5C1T.text = "As you gained a mother’s boldness towards your Son, All-pure Virgin, do not despise our kindred care, we beg, for we Christians put you alone forward to the Master as a kindly means of atonement."
+
+meMA.Ode5C21.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C21.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C21.text = "As payment for a dance the head of the Forerunner on a dish was given through deception to the girl. O folly!"
+
+meMA.Ode5C22.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C22.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C22.text = "A presumptuous adulteress was de­lighted by the gore dripping from your head, O Herald of God. O folly!"
+
+meMA.Ode5C23.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C23.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C23.text = "Herod compelled your tongue to be silent; but when silenced it rebuked him all the more, All-praised Fore­runner."
+
+meMA.Ode5C2T.ode = misc_en_UK_lash.Ode5
+meMA.Ode5C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C2T.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C2T.text = "We sing your praise as Virgin after child-birth, Mother of God, because for the world you bore in the flesh God the Word."
+
+meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C11.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
+meMA.Ode6C11.text = "Braving danger for the law of the commandments, blessed one, you disciplined the transgressor by your rebukes, for you were a reed blown about by the breaths of hostile spirits."
+
+meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C12.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
+meMA.Ode6C12.text = "The head, dripping with the gore of slaughter, was brought as payment for licentious actions, even after death rebuking Herod as one who befouled nature."
+
+meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C13.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
+meMA.Ode6C13.text = "Wandering in deserts, clothed in camel’s hairs, you dwell in the former as in a royal palace, wearing the latter as a kingly robe you reigned over your passions."
+
+meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
+meMA.Ode6C1T.text = "May we be delivered from dread failings by your intercessions, pure Mother of God, and may we obtain the divine radiance of the Son of God who was ineffably incarnate from you."
+
+meMA.Ode6C21.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C21.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C21.text = "For the multitude of the faithful, glo­rious John, you were a source of di­vine teachings when you announced the Lamb of God to us."
+
+meMA.Ode6C22.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C22.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C22.text = "Unerring example of holiness and strict life, O Forerunner, as you stand before Christ remember those who sing your praise."
+
+meMA.Ode6C23.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C23.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C23.text = "At your prayers, Prophet, Baptist and Forerunner of Christ, give peace to the world and save our souls from dangers."
+
+meMA.Ode6C2T.ode = misc_en_UK_lash.Ode6
+meMA.Ode6C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C2T.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C2T.text = "You that alone through a word bore the Word in your womb deliver, we pray, our souls from the snares of the foe."
+
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode5
+meMA.Kontakion1.melody = ""
+meMA.Kontakion1.text = "The glorious beheading of the Fore­runner became a divine dispensation, that he might proclaim to those in Hell the coming of the Saviour. So let Herodias grieve who asked for lawless murder, for she loved neither the law of God nor the age that lives, but one artificial and temporary."
+
+meMA.Oikos1.text = "The birthday feast of Herod appeared to all as unholy, for among the revellers the head of the faster was brought in like food. Grief was joined to joy and bitter lament was mingled with the laughter because the young woman entered among them bearing the head of the Baptist on a dish, as it says, and through mad passion grief fell on all who were then feasting with the king, for she delighted nei­ther them nor Herod, it says, and they were grieved, not with true grief but with artificial and temporary."
+
+meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C11.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
+meMA.Ode7C11.text = "Lawless Herod, armed with licentious lust and terrible drunkenness you as­saulted and tore down the unshakeable tower of self-mastery, the invincible city of sobriety, the Baptist of Christ."
+
+meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C12.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
+meMA.Ode7C12.text = "She that had been made a disciple of the devil did not tremble, O Forerun­ner, did not draw back, did not hesi­tate as she shamelessly brought forward your precious head on a dish, for she was bolted fast to constraints of her mother."
+
+meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C13.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
+meMA.Ode7C13.text = "As a lamp you shone out beforehand, as an Angel you were sent ahead, as a Prophet you proclaim as lamb of God Christ who has appeared, as a martyr your head was cut off by a sword, and you announced Christ in advance to the dead in Hell."
+
+meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C1T.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
+meMA.Ode7C1T.text = "Delivered by your Offspring from the condemnation of the ancient fall, we ever glorify you, Virgin Mother, who were revealed as cause of freedom with your Son who gave himself as a ransom for us."
+
+meMA.Ode7C21.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C21.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
+meMA.Ode7C21.text = "Servant heralding the Master’s Com­ing, morning star heralding the sun, John hastened to Hades crying, Blessed are you, Lord God, to the ages."
+
+meMA.Ode7C22.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C22.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
+meMA.Ode7C22.text = "O folly of Herod! He gives to a dissolute woman as a plaything the one who with an immaterial body was equal to the Angels and who cried, Blessed are you, O God, to the ages."
+
+meMA.Ode7C23.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C23.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
+meMA.Ode7C23.text = "Accept, O Holy of Holies, as I inter­cede for the Church, cries out the Forerunner to the Master and cries, Blessed are you, Lord God, to the ages."
+
+meMA.Ode7C2T.ode = misc_en_UK_lash.Ode7
+meMA.Ode7C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C2T.melody = he.h.m8_en_UK_lash.PaidesEvraion.incipit
+meMA.Ode7C2T.text = "You stemmed the onrush of death, pure Virgin, when you conceived and gave birth to immortal God, to whom we all sing, Blessed are you, Lord God, to the ages."
+
+meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C11.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C11.text = "John, who outran your birth and your passion, came through a sword to the lowest parts of the earth as Prophet and Messenger of your entrance also there, crying as voice of the Word, You dead, highly exalt the Giver of life, you blind, the Giver of light, you prisoners, the Deliverer Christ."
+
+meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C12.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C12.text = "You outran a virgin birth by your birth from a barren mother and now you have become the precursor of the voluntary crucifixion of the creator of the universe by the cutting off of your head, as you cry to those in Hades, You dead, highly exalt the Giver of life, you blind, the Giver of light, you prisoners, the Deliverer Christ."
+
+meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C13.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C13.text = "When your head was smitten from your body, O Forerunner, your soul that ruled it was parted from your flesh; but the Godhead was not parted from the flesh of Emmanuel, not a bone was broken of the God and Master. And so we highly exalt him to the ages."
+
+meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C1T.text = "Sovereign Lady, Mother of the Lord, by your compassionate intercession wipe out the wounds and bruises of my soul and raise me who am fallen. Save me the prodigal, O All-blame­less, save me. For you are my protection and only assistance, pure and blessed to all the ages."
+
+meMA.Ode8C21.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C21.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C21.text = "Once the boastful tyrant Herod transgressed and having turned his attention to the festivities of his birthday he arranges for the young woman to dance, having convinced her that he will fulfil her every re­quest. But she, compelled by her mother’s instructions, asked for the head of the Forerunner on a dish."
+
+meMA.Ode8C22.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C22.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C22.text = "Having gained for himself the charge of foul murder the wretched king Herod earns himself inescapable pun­ishment, by transgressing outrageously. For he brings to the table like food the head of the Forerunner, which rebukes him together with Herodias to all the ages."
+
+meMA.Ode8C23.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C23.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C23.text = "Blessed John, shining Apostle and Forerunner of the Lord, chosen of the Prophets, by your entreaties save those who celebrate with love your radiant and light-bearing memory as they cry out, O Youths bless, O Priests praise, O people highly exalt Christ to the ages."
+
+meMA.Ode8C2T.ode = misc_en_UK_lash.Ode8
+meMA.Ode8C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C2T.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
+meMA.Ode8C2T.text = "You have become holier than the An­gels, All-holy Maiden, for you bore the One who is Holy for the Holy, who through pity became without what we mortals are to save those who cry out to him without ceasing, O Youths bless, O Priests praise, O people highly exalt Christ to the ages."
+
+meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C11.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
+meMA.Ode9C11.text = "Every regiment of evil trembled together with their champion the devil at your theologian’s tongue, O Prophet, which proclaims Christ, and through a dissolute girl they persuaded Herod to cut off your head. But we, the faithful, magnify you."
+
+meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C12.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
+meMA.Ode9C12.text = "A valley, humble nature, has been exalted and a hill, the arrogance of death, has been humbled, for the voice of one who cries cried aloud in the deserts without light, the tents of Hades, Lift up the gates, for the mighty King will enter."
+
+meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C13.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
+meMA.Ode9C13.text = "The passions of mortals tremble and demons flee in terror at the over­shadowing of the grace that was given you from God. But guard from both trials, O Forerunner of the Lord, your flock which ever magnifies you with faith."
+
+meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
+meMA.Ode9C1T.text = "Bend your bow, march forward and reign, O Son of God’s Mother, subduing the Ishmaelite people that wars against us, granting victories to our Orthodox Sovereign over barbarian enemies at the prayers of the one who gave you birth, O Word of God."
+
+meMA.Ode9C21.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C21.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C21.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
+meMA.Ode9C21.text = "You were a voice of one who cries, O Baptist, for you shone forth as a Prophet from a Prophet crying out in the desert to all, Repent; and you rebuked Herod who did evil, licentious deeds, And so you hurried on to Hades proclaiming the Kingdom of our God."
+
+meMA.Ode9C22.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C22.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C22.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
+meMA.Ode9C22.text = "A shameless girl, forced by her mother Herodias, asked that the sa­cred head of the Baptist be cut off. Then Herod with speed gives orders that it be laid out like food on a dish and given as a gift, which folly it rebukes."
+
+meMA.Ode9C23.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C23.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C23.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
+meMA.Ode9C23.text = "As Martyr and Prophet and Baptist, as voice and lamp and Messenger, witnessed to by God as greater than the Prophets, entreat the Lord to deliver from trials of every kind and from hostile harm those who cele­brate your light-bearing memory, O Forerunner."
+
+meMA.Ode9C2T.ode = misc_en_UK_lash.Ode9
+meMA.Ode9C2T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C2T.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
+meMA.Ode9C2T.text = "You were seen, O Virgin Mother of God, to give birth beyond nature in a body to the good Word that the Father uttered from his own heart before all the ages as he is good. Him we know also to be beyond bodies, even though he has been clothed in a body."
+
+meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.incipit
+meMA.Exaposteilarion1.text = "Let us garland with hymns of praise the one known to be greatest among Prophets and who became precursor of Apostles, the Forerunner of grace, for his head was cut off for the sake of the law of the Lord."
+
+meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+meMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+meMA.Exaposteilarion2.text = "Dissolute Herod treacherously cut off your head, planter of purity, Baptist of the Saviour, but was quite unable to cut out the rebukes of your tongue."
+
+meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode3
+meMA.ExapTheotokion.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+meMA.ExapTheotokion.text = "Holy Maiden, who abolished by your divine childbearing the curse of the world, deliver by your prayers from dangers of every kind the flock that faithfully entreats you."
+
+meMA.Lauds1.mode = misc_en_UK_lash.Mode8
+meMA.Lauds1.melody = he.a.m8_en_UK_lash.OTouParadoxou.incipit
+meMA.Lauds1.text = "O marvellous wonder! A dissolute, licentious girl carries round the sacred head revered by Angels. She offers to her adulterous mother the tongue that rebuked the lawless. O your ineffable forbearance, lover of mankind! Through it, O Christ, save our souls, for you alone are compas­sionate."
+
+meMA.Lauds2.mode = misc_en_UK_lash.Mode8
+meMA.Lauds2.melody = he.a.m8_en_UK_lash.OTouParadoxou.incipit
+meMA.Lauds2.text = "O the blindness of Herod! Having dishonoured God by neglect of the law he treacherously promises to keep his oaths. And he adds murder to adultery, pretending to be sad. O your ineffable compassion, lover of mankind! Through it, O Christ, save our souls, for you alone are compas­sionate."
+
+meMA.Lauds3.mode = misc_en_UK_lash.Mode8
+meMA.Lauds3.melody = he.a.m8_en_UK_lash.OTouParadoxou.incipit
+meMA.Lauds3.text = "O amazement beyond understanding! The seal of the Prophets, the earthly Angel is displayed as the reward of a harlot’s dance. The tongue that spoke of God is sent on before and is the herald of Christ to those in Hades. O your forethought beyond speech, lover of mankind! Through it, O Christ, save our souls, for you alone are compassionate."
+
+meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody = ""
+meMA.LaudsGlory.text = meVE.Stichera04.text
+
+meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode6
+meMA.LaudsTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
+meMA.LaudsTheotokion.text = he.o_en_UK_lash.TheotokeSyEiProdromou.text
+
+meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
+
+meMA.AdditionalIdiomelon1.mode = misc_en_UK_lash.Mode4
+meMA.AdditionalIdiomelon1.melody = ""
+meMA.AdditionalIdiomelon1.text = ""
+
+meMA.AdditionalIdiomelon2.mode = misc_en_UK_lash.Mode4
+meMA.AdditionalIdiomelon2.melody = ""
+meMA.AdditionalIdiomelon2.text = ""
+
+meMA.AdditionalIdiomelonGlory.mode = misc_en_UK_lash.Mode4
+meMA.AdditionalIdiomelonGlory.melody = ""
+meMA.AdditionalIdiomelonGlory.text = ""
+
+meMA.AdditionalIdiomelonBoth.mode = misc_en_UK_lash.Mode4
+meMA.AdditionalIdiomelonBoth.melody = ""
+meMA.AdditionalIdiomelonBoth.text = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.text
+
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.text = meMA.Kontakion1.text
+
+meMegalynarion.text = ""

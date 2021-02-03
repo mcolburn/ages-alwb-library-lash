@@ -1,516 +1,432 @@
-A_Resource_Whose_Name=pe.d106_en_UK_lash
-
-peCommemoration.text="Sunday of the Man Born Blind" //full title of day
-peShortCommemoration1.text="Sunday of the Man Born Blind"
-peInsert1="" //for use in petitions and dismissal
-peInsert2="" //for use in petitions and dismissal
-peNote.text=""
-peHO.daytitle=""
-peHO.commemorations=""
-peHO.description1=""
-peHO.description2=""
-peHO.note1=""
-peHO.note2=""
-peDismissal=dismissals_en_UK_lash.dis00.resurrection
-
-peSV.Aposticha2.mode=misc_en_UK_lash.Mode5
-peSV.Aposticha2.melody=he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
-peSV.Aposticha2.incipit = ""
-peSV.Aposticha2.text=""
-
-peSV.Aposticha3.mode=misc_en_UK_lash.Mode5
-peSV.Aposticha3.melody=he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
-peSV.Aposticha3.incipit = ""
-peSV.Aposticha3.text=""
-
-peSV.Aposticha4.mode=misc_en_UK_lash.Mode5
-peSV.Aposticha4.melody=he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
-peSV.Aposticha4.incipit = ""
-peSV.Aposticha4.text=""
-
-peVE.Stichera09.mode=misc_en_UK_lash.Mode2
-peVE.Stichera09.melody=misc_en_UK_lash.Idiomelon
-peVE.Stichera09.incipit = "The man born blind reasoned"
-peVE.Stichera09.text="The man born blind reasoned with himself, \"Was it through my parents' sin that I was born blind? Or was I born because of the unbelief of the nations as an accusation? I am not competent to ask when it is day, when night. My feet cannot detect the stumbling blocks of the stones. I have not seen the sun shining, nor him who fashioned me in his image. But I beg you, Christ God: Look on me and have mercy on me.\""
-
-peVE.Stichera10.mode=misc_en_UK_lash.Mode2
-peVE.Stichera10.melody=misc_en_UK_lash.Idiomelon
-peVE.Stichera10.incipit = "As Jesus was passing by"
-peVE.Stichera10.text="As Jesus was passing by from the temple, he found a man blind from birth, and moved with compassion for him put clay on his eyes and said to him, \"Go, wash in the Pool of Siloam.\" He, having washed, gained his sight and gave glory to God. But his next of kin said to him, \"Who opened the eyes which none of those with sight could cure?\" But he cried out and said, \"A man called Jesus, he it was said to me: Wash in the Pool of Siloam; and I gained my sight. He is truly Christ Messias of whom Moses spoke in the Law; he is the Saviour of our souls.\""
-
-peVE.SticGlory.mode=misc_en_UK_lash.Mode5
-peVE.SticGlory.melody=misc_en_UK_lash.Idiomelon
-peVE.SticGlory.incipit = "O Lord, as you passed"
-peVE.SticGlory.text="O Lord, as you passed by on the way, you found a man blind from birth. Your Disciples were amazed and asked you, saying, \"Teacher, who has sinned, this man or his parents, that he was born blind?\" But you, my Saviour, cried out to them, \"Neither has he sinned, nor his parents, but that the works of God might be revealed in him. I must do the works of him who sent me, which none can do.\" So saying you spat on the ground, made clay, and anointed his eyes, and said, \"Go, wash in the Pool of Siloam.\" When he had washed he became whole and cried out to you, \"I believe Lord.\" And he worshipped you. Therefore we too cry out: Have mercy on us!"
-
-peVE.LityGlory.mode=misc_en_UK_lash.Mode4
-peVE.LityGlory.melody=misc_en_UK_lash.Idiomelon
-peVE.LityGlory.incipit = "Considering his whole life to"
-peVE.LityGlory.text="Considering his whole life to be night, the Blind man cried out to you, O Lord: \"Open my pupils, Son of David, our Saviour, that with all I too may hymn your power.\""
-
-peVE.LityBoth.mode=misc_en_UK_lash.Mode4
-peVE.LityBoth.melody=""
-peVE.LityBoth.incipit = "Assent to the supplications of"
-peVE.LityBoth.text="Assent to the supplications of your servants, O Most Pure, by ending the assaults of our dangers and delivering us from every tribulation: for we have you as our only safe and sure anchor and we have gained your protection; may we who call for your aid, Sovereign Lady, not be put to shame; hasten to the entreaties of those who cry out to you in faith: Hail Sovereign Lady, the help of all, the joy and protection and salvation of our souls."
-
-peVE.AposGlory.mode=misc_en_UK_lash.Mode8
-peVE.AposGlory.melody=misc_en_UK_lash.Idiomelon
-peVE.AposGlory.incipit = "Christ our God, spiritual Sun"
-peVE.AposGlory.text="Christ our God, spiritual Sun of justice, by your pure touch you enlightened the one who had been deprived of light from his mother's womb; by shedding your rays on the eyes of our souls, show us to be sons of the day, that we may cry to you with faith, \"Great and ineffable is your compassion for us. Lover of humankind, glory to you!\""
-
-peMA.Kathisma11.mode=misc_en_UK_lash.Mode5
-peMA.Kathisma11.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
-peMA.Kathisma11.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma11.incipit
-peMA.Kathisma11.text=oc.m5.d1_en_UK_lash.ocMA.Kathisma11.text
-
-peMA.Kathisma12.mode=misc_en_UK_lash.Mode5
-peMA.Kathisma12.melody=""
-peMA.Kathisma12.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma12.incipit
-peMA.Kathisma12.text=oc.m5.d1_en_UK_lash.ocMA.Kathisma12.text
-
-peMA.Kathisma13.mode=misc_en_UK_lash.Mode5
-peMA.Kathisma13.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
-peMA.Kathisma13.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.incipit
-peMA.Kathisma13.text=oc.m5.d1_en_UK_lash.ocMA.Kathisma13.text
-
-peMA.Kathisma21.mode=misc_en_UK_lash.Mode5
-peMA.Kathisma21.melody=""
-peMA.Kathisma21.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma22.incipit
-peMA.Kathisma21.text=oc.m5.d1_en_UK_lash.ocMA.Kathisma22.text
-
-peMA.Kathisma22.mode=misc_en_UK_lash.Mode5
-peMA.Kathisma22.melody=""
-peMA.Kathisma22.incipit = ""
-peMA.Kathisma22.text=""
-
-peMA.Kathisma23.mode=misc_en_UK_lash.Mode5
-peMA.Kathisma23.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
-peMA.Kathisma23.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma23.incipit
-peMA.Kathisma23.text=oc.m5.d1_en_UK_lash.ocMA.Kathisma23.text
-
-peMA.C1.poet=poets_en_UK_lash.IosifThessalonikis
-peMA.C1.acrostic=""
-
-peMA.Ode1C1H.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode1C1H.incipit = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C1H.text=he.h.m5_en_UK_lash.GinEfInOukElampsen.text
-
-peMA.C1.title=titles_en_UK_lash.KanonTisEortis
-peMA.C1.verse=prayers_en_UK_lash.verse_God.text
-
-peMA.Ode1C11.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C11.melody=he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C11.incipit = "By willingly accepting crucifixion in"
-peMA.Ode1C11.text="By willingly accepting crucifixion in the flesh, you have become a source of blessing and life for the world, O Master, only all-blessed and Creator of all; therefore we bless you, we hymn and glorify you, as we sing and chant a song of victory."
-
-peMA.Ode1C12.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C12.melody=he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C12.incipit = "When you were dead, O"
-peMA.Ode1C12.text="When you were dead, O long-suffering, the noble Joseph laid you in the lowest pit and rolled a stone to the door of the grave; but you rose in glory, raising the world with you, as it sang and chanted a song of victory."
-
-peMA.Ode1C13.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C13.melody=he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C13.incipit = "The Angel appeared and said"
-peMA.Ode1C13.text="The Angel appeared and said to the holy women: Why do you bring spices with tears? Christ has risen! Run, tell the Disciples who have seen God, as they mourn and weep, so that they may leap and dance for joy."
-
-peMA.Ode1C1F1.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C1F1.melody=he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C1F1.incipit = "Extraordinary wonders the Redeemer performs;"
-peMA.Ode1C1F1.text="Extraordinary wonders the Redeemer performs; he even cured a man blind from birth, anointing him with clay and saying: Go, wash in Siloam, that you may know that I am God who walk the earth bearing flesh because of my compassionate pity."
-
-peMA.Ode1C1Tr.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C1Tr.melody=he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C1Tr.incipit = "Honouring one Essence in three"
-peMA.Ode1C1Tr.text="Honouring one Essence in three Persons, let us the faithful glorify the Father and the Son and the right Spirit, maker and Lord, and redeemer of all, one uncreated God, as we cry with the Bodiless hosts: Holy, Holy, Holy are you, O King!"
-
-peMA.Ode1C1T.ode=misc_en_UK_lash.Ode1
-peMA.Ode1C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode1C1T.melody=he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
-peMA.Ode1C1T.incipit = "Because of his compassionate pity"
-peMA.Ode1C1T.text="Because of his compassionate pity the Lord dwelt in your womb that had not known wedlock, O Pure one, for he wished to save mankind which had perished through the wiles of the foe: implore him then that this city may be saved from every capture and invasion by foes."
-
-peMA.Ode3C1H.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode3C1H.incipit = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C1H.text=he.h.m5_en_UK_lash.SalevomeninTinKardian.text
-
-peMA.Ode3C11.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C11.melody=he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C11.incipit = "Long-suffering Lord, you made firm"
-peMA.Ode3C11.text="Long-suffering Lord, you made firm the hearts of those who are shaken when you shook the earth, by your hallowed Crucifixion, which you underwent in the flesh."
-
-peMA.Ode3C12.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C12.melody=he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C12.incipit = "The noble Joseph laid you"
-peMA.Ode3C12.text="The noble Joseph laid you in a new tomb, O merciful; but you arose from the dead on the third day, renewing us all."
-
-peMA.Ode3C13.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C13.melody=he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C13.incipit = "Why do you seek the"
-peMA.Ode3C13.text="Why do you seek the Lord as a corpse? He has risen as he said, cried the Angel to the women, dazzling with his godlike form."
-
-peMA.Ode3C1F1.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C1F1.melody=he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C1F1.incipit = "You once cured a man"
-peMA.Ode3C1F1.text="You once cured a man blind from birth who came to you, All-merciful, glorifying your dispensation and your wonders."
-
-peMA.Ode3C1Tr.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C1Tr.melody=he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C1Tr.incipit = "We worship God, Father without"
-peMA.Ode3C1Tr.text="We worship God, Father without beginning, Son and divine Spirit, triple uncreated, three-personned nature, one God of all."
-
-peMA.Ode3C1T.ode=misc_en_UK_lash.Ode3
-peMA.Ode3C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode3C1T.melody=he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
-peMA.Ode3C1T.incipit = "You gave birth from a"
-peMA.Ode3C1T.text="You gave birth from a virgin womb to God incarnate; implore him, all-holy Lady, to have pity on us."
-
-peMA.Ode3Kathisma1.mode=misc_en_UK_lash.Mode8
-peMA.Ode3Kathisma1.melody=he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-peMA.Ode3Kathisma1.incipit = "The Master and maker of"
-peMA.Ode3Kathisma1.text="The Master and maker of all things, as he passed along found a Blind Man sitting by the way, lamenting and saying: 'Never in my life have I seen the sun shining or the moon shedding its light; therefore I cry out to you, born of a Virgin to enlighten the universe: Enlighten me, as you are compassionate, that falling down I may cry to you: Master Christ God, grant me forgiveness of my offences through the multitude of your mercy, only lover of mankind'. (Twice)."
-
-peMA.Ode4C1H.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode4C1H.incipit = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C1H.text=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.text
-
-peMA.Ode4C11.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C11.melody=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C11.incipit = "By being placed on a"
-peMA.Ode4C11.text="By being placed on a Tree you, who are life, brought me, who had died through a tree, back to life through your great mercy. Therefore, O Word, I glorify you."
-
-peMA.Ode4C12.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C12.melody=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C12.incipit = "Marvellously assembled together with your"
-peMA.Ode4C12.text="Marvellously assembled together with your Initiates, O Lord, you said to them: Go forth, proclaim my Resurrection everywhere."
-
-peMA.Ode4C13.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C13.melody=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C13.incipit = "Confirming your Rising from the"
-peMA.Ode4C13.text="Confirming your Rising from the grave, Lord, for many days you assembled together with your friends, and made them joyful."
-
-peMA.Ode4C1F1.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C1F1.melody=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C1F1.incipit = "You gave sight to a"
-peMA.Ode4C1F1.text="You gave sight to a man Blind from the womb, Lord, when you said: Go, wash and receive your sight, and glorify my Godhead."
-
-peMA.Ode4C1Tr.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C1Tr.melody=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C1Tr.incipit = "O Trinity, identical in honour,"
-peMA.Ode4C1Tr.text="O Trinity, identical in honour, undivided in Essence, divided in Persons, save all who with fear faithfully glorify you."
-
-peMA.Ode4C1T.ode=misc_en_UK_lash.Ode4
-peMA.Ode4C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode4C1T.melody=he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
-peMA.Ode4C1T.incipit = "We glorify your child-bearing above"
-peMA.Ode4C1T.text="We glorify your child-bearing above nature, O Immaculate, in faith blessing you, O all unblemished, as the one who gave birth to the God of all."
-
-peMA.Ode5C1H.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode5C1H.incipit = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C1H.text=he.h.m5_en_UK_lash.TinTalainanPsychinMou.text
-
-peMA.Ode5C11.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C11.melody=he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C11.incipit = "You were lifted up on"
-peMA.Ode5C11.text="You were lifted up on a Tree, and lifting up all mortals with yourself, O merciful, you put to death the hostile serpent and, as only God of all, gave life to what your hands had fashioned."
-
-peMA.Ode5C12.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C12.melody=he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C12.incipit = "Willingly you became a corpse"
-peMA.Ode5C12.text="Willingly you became a corpse and were laid in a tomb, immortal King, and you emptied all the palaces of Hell, raising the dead by your Resurrection."
-
-peMA.Ode5C13.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C13.melody=he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C13.incipit = "When you had accomplished great"
-peMA.Ode5C13.text="When you had accomplished great marvels upon earth, O Word, a lawless people slew you; but, being alone powerful, Lord Christ, you rose, as you had foretold, from the dead."
-
-peMA.Ode5C1F1.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C1F1.melody=he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C1F1.incipit = "Having opened the eyes of"
-peMA.Ode5C1F1.text="Having opened the eyes of one who had not seen the natural light, you enlightened the pupils of his soul and led him to give glory when he recognised you as maker, through compassion seen as a mortal."
-
-peMA.Ode5C1Tr.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C1Tr.melody=he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C1Tr.incipit = "Let all us faithful glorify"
-peMA.Ode5C1Tr.text="Let all us faithful glorify a Trinity in unity and a Unity in trinity, Father, Son and right Spirit, one God, truly creator of all."
-
-peMA.Ode5C1T.ode=misc_en_UK_lash.Ode5
-peMA.Ode5C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode5C1T.melody=he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
-peMA.Ode5C1T.incipit = "How did you bear a"
-peMA.Ode5C1T.text="How did you bear a child without knowing man, O Virgin-mother, full of God's grace? How nourish creation's nourisher? As he alone understands, who is maker of all and God."
-
-peMA.Ode6C1H.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode6C1H.incipit = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C1H.text=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.text
-
-peMA.Ode6C11.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C11.melody=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C11.incipit = "Crucified with thieves, O Master,"
-peMA.Ode6C11.text="Crucified with thieves, O Master, from evil thieves and soul-destroying passions, you delivered us who praise in harmony your Crucifixion and your Rising, O Lord who loves mankind."
-
-peMA.Ode6C12.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C12.melody=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C12.incipit = "A lifeless corpse they laid"
-peMA.Ode6C12.text="A lifeless corpse they laid you in a tomb, O Christ, who breathe life into all the dead; but you arose, Lord, emptying all the graves, O Word, by your sovereign power."
-
-peMA.Ode6C13.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C13.melody=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C13.incipit = "After your Rising, O Christ,"
-peMA.Ode6C13.text="After your Rising, O Christ, you said to your friends: Tarry in Jerusalem, until you are clothed with invincible strength and sure support from on high."
-
-peMA.Ode6C1F1.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C1F1.melody=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C1F1.incipit = "You made clay, and anointed"
-peMA.Ode6C1F1.text="You made clay, and anointed the eyes of the man Blind from birth, and you gave him the grace of sight as he hymned your immaculate power, through which you saved the world."
-
-peMA.Ode6C1Tr.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C1Tr.melody=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C1Tr.incipit = "Three-personned Unity, Father unbegotten, Son"
-peMA.Ode6C1Tr.text="Three-personned Unity, Father unbegotten, Son begotten, Spirit proceeding, thrice-holy Lord, one Essence, one Power, save your whole people."
-
-peMA.Ode6C1T.ode=misc_en_UK_lash.Ode6
-peMA.Ode6C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode6C1T.melody=he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
-peMA.Ode6C1T.incipit = "Who can recount your great"
-peMA.Ode6C1T.text="Who can recount your great things, O Pure one? For beyond nature you bore God in the flesh, who delivers the world from every sin through you, Virgin all-unblemished."
-
-peMA.Kontakion1.mode=misc_en_UK_lash.Mode4
-peMA.Kontakion1.melody=he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
-peMA.Kontakion1.incipit = "With the eyes of my"
-peMA.Kontakion1.text="With the eyes of my soul mutilated I come to you, O Christ, as the man blind from birth, crying to you in repentance: You are the radiant light of those in darkness."
-
-peMA.Oikos1.text="Grant me a stream of inexpressible wisdom, and knowledge from above, O Christ, light of those in darkness and guide of those who stray; that I may recount what the divine book of the Gospel of peace teaches: the miracle of the blind man; for being blind from birth he receives both physical eyes and eyes of the soul, as he cries: You are the radiant light of those in darkness."
-
-peMA.Synaxarion.commemoration.text=""
-peMA.Synaxarion.couplet1.title=titles_en_UK_lash.Stichoi
-peMA.Synaxarion.couplet1.verse1=""
-peMA.Synaxarion.couplet1.verse2=""
-peMA.Synaxarion.narration1.p01.text="[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text="[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text="[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text="[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text="[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text="[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text="[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text="[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text="[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text="[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text="[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text="[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text="[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text="[paragraph 07]"
-peMA.Synaxarion.lastline.text=""
-
-peMA.Ode7C1H.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode7C1H.incipit = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C1H.text=he.h.m5_en_UK_lash.PyrosSvestirion.text
-
-peMA.Ode7C11.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C11.melody=he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C11.incipit = "When you were hung upon"
-peMA.Ode7C11.text="When you were hung upon the Tree, O Saviour, the sun was quenched, the earth heaved, all creation was shaken, and the dead were raised from the graves."
-
-peMA.Ode7C12.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C12.melody=he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C12.incipit = "When you rose from the"
-peMA.Ode7C12.text="When you rose from the dead, O King, the souls which slept there were raised with you and glorified your sovereign power, through which the bonds of death were loosed."
-
-peMA.Ode7C13.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C13.melody=he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C13.incipit = "At dawn a choir of"
-peMA.Ode7C13.text="At dawn a choir of women came to anoint you, but learning that you had risen, Lord, they rejoiced with the sacred Disciples; through whom grant us redemption from evils."
-
-peMA.Ode7C1F1.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C1F1.melody=he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C1F1.incipit = "You anointed with clay the"
-peMA.Ode7C1F1.text="You anointed with clay the eyes of the man born Blind and you ordered him to go to Siloam: having washed he gained his sight as he hymned you, O Christ, King of all."
-
-peMA.Ode7C1Tr.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C1Tr.melody=he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C1Tr.incipit = "Let us hymn the Father"
-peMA.Ode7C1Tr.text="Let us hymn the Father without beginning, the Son likewise without beginning and the all-holy Spirit: Holy, Holy, Holy, are you, O God, King of all."
-
-peMA.Ode7C1T.ode=misc_en_UK_lash.Ode7
-peMA.Ode7C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode7C1T.melody=he.h.m5_en_UK_lash.PyrosSvestirion.incipit
-peMA.Ode7C1T.incipit = "After child-birth you were seen"
-peMA.Ode7C1T.text="After child-birth you were seen to be a virgin, O Pure one; for you gave birth, O Immaculate, to God who made natures new by his power; ever implore him that we may be saved."
-
-peMA.Ode8C1H.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode8C1H.incipit = he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C1H.text=he.h.m5_en_UK_lash.AngelonSystima.text
-
-peMA.Ode8C11.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C11.melody=he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C11.incipit = "The ranks of Angels, seeing"
-peMA.Ode8C11.text="The ranks of Angels, seeing you hanging upon the Cross, O Christ, universal King, and altering all creation, were struck with fear as they hymned your love for mankind."
-
-peMA.Ode8C12.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C12.melody=he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C12.incipit = "Hell, seeing you below, groaned"
-peMA.Ode8C12.text="Hell, seeing you below, groaned aloud and rapidly gave back the dead whom it had held under guard since time began, O Christ, as they hymned your love for mankind."
-
-peMA.Ode8C13.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C13.melody=he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C13.incipit = "Having accomplished extraordinary marvels, you"
-peMA.Ode8C13.text="Having accomplished extraordinary marvels, you were willingly lifted up on a cross and joined with the dead, O Christ, and you put Hell to death and with courage released all its prisoners."
-
-peMA.Ode8C1F1.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C1F1.melody=he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C1F1.incipit = "You gave eyes to the"
-peMA.Ode8C1F1.text="You gave eyes to the Blind Man who came to you, O Christ, ordering him to wash in the spring of Siloam, to see and to proclaim you as God, manifest in the flesh for the salvation of the world."
-
-peMA.Ode8C1Tr.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C1Tr.melody=he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C1Tr.incipit = "O undivided Trinity, unconfused Unity,"
-peMA.Ode8C1Tr.text="O undivided Trinity, unconfused Unity, God of all and creator of all things, save from manifold temptations those who hymn and faithfully worship your might."
-
-peMA.Ode8C1T.ode=misc_en_UK_lash.Ode8
-peMA.Ode8C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode8C1T.melody=he.h.m5_en_UK_lash.AngelonSystima.incipit
-peMA.Ode8C1T.incipit = "Immaculate Virgin, full of God's"
-peMA.Ode8C1T.text="Immaculate Virgin, full of God's grace, ever implore your Son not to put me to shame on the day of judgement, but to number me with the chosen sheep."
-
-peMA.Ode9C1H.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C1H.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C1H.melody=misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode9C1H.incipit = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C1H.text=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.text
-
-peMA.Ode9C11.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C11.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C11.melody=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C11.incipit = "Joined to the gallows of"
-peMA.Ode9C11.text="Joined to the gallows of the Cross, Christ Saviour, you triumphed over all the hostile forces of the foe, and abolished the former curse; therefore as is right we magnify you."
-
-peMA.Ode9C12.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C12.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C12.melody=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C12.incipit = "On seeing you below with"
-peMA.Ode9C12.text="On seeing you below with your soul, O Word, Hell groaned aloud and in fear released all the dead, who recognised the might of your authority; with whom as is right we magnify you."
-
-peMA.Ode9C13.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C13.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C13.melody=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C13.incipit = "Seeing him accomplishing signs and"
-peMA.Ode9C13.text="Seeing him accomplishing signs and dread wonders the people of the Hebrews in jealousy slew him who plundered Hell by his Resurrection, and as powerful raised all with him."
-
-peMA.Ode9C1F1.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C1F1.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C1F1.melody=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C1F1.incipit = "Even as you said, you"
-peMA.Ode9C1F1.text="Even as you said, you rose from the dead, O Giver of Life, and appeared to the holy Disciples after your Rising, you who did signs and gave sight to the blind; with them to the ages we magnify you."
-
-peMA.Ode9C1Tr.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C1Tr.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C1Tr.melody=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C1Tr.incipit = "Praise I give to Light,"
-peMA.Ode9C1Tr.text="Praise I give to Light, the Father, glory to Light, the Son, a hymn to Light, the 'upright Spirit': one undivided Light, recognised in three Persons, God, King of all creation."
-
-peMA.Ode9C1T.ode=misc_en_UK_lash.Ode9
-peMA.Ode9C1T.mode=misc_en_UK_lash.Mode5
-peMA.Ode9C1T.melody=he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
-peMA.Ode9C1T.incipit = "Holy Virgin, you appear wider"
-peMA.Ode9C1T.text="Holy Virgin, you appear wider then the heavens for you contained and bore in a body God, the uncircumscribed, for the redemption of all those who sing your praise with undoubting faith."
-
-peMA.Exaposteilarion1.mode=misc_en_UK_lash.Mode2
-peMA.Exaposteilarion1.melody=he.a.m2_en_UK_lash.SarkiYpnosas.notmetered
-peMA.Exaposteilarion1.incipit = "Give sight, O Lord, to"
-peMA.Exaposteilarion1.text="Give sight, O Lord, to the eyes of my soul, maimed by gloomy sin, by grafting in humility, O merciful, and cleansing me with tears of repentance."
-
-peMA.Exaposteilarion2.mode=misc_en_UK_lash.Mode2
-peMA.Exaposteilarion2.melody=he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-peMA.Exaposteilarion2.incipit = "As he passed by, our"
-peMA.Exaposteilarion2.text="As he passed by, our Saviour found a blind man without sight; spitting upon the ground and making clay he anointed him and sent him to Siloam to go and wash; when he had washed he came seeing your light, my Christ."
-
-peMA.Lauds1.mode=oc.m5.d1_en_UK_lash.ocMA.Lauds1.mode
-peMA.Lauds1.melody=oc.m5.d1_en_UK_lash.ocMA.Lauds1.melody
-peMA.Lauds1.incipit = oc.m5.d1_en_UK_lash.ocMA.Lauds1.incipit
-peMA.Lauds1.text=oc.m5.d1_en_UK_lash.ocMA.Lauds1.text
-
-peMA.Lauds2.mode=oc.m5.d1_en_UK_lash.ocMA.Lauds2.mode
-peMA.Lauds2.melody=oc.m5.d1_en_UK_lash.ocMA.Lauds2.melody
-peMA.Lauds2.incipit = oc.m5.d1_en_UK_lash.ocMA.Lauds2.incipit
-peMA.Lauds2.text=oc.m5.d1_en_UK_lash.ocMA.Lauds2.text
-
-peMA.Lauds3.mode=oc.m5.d1_en_UK_lash.ocMA.Lauds3.mode
-peMA.Lauds3.melody=oc.m5.d1_en_UK_lash.ocMA.Lauds3.melody
-peMA.Lauds3.incipit = oc.m5.d1_en_UK_lash.ocMA.Lauds3.incipit
-peMA.Lauds3.text=oc.m5.d1_en_UK_lash.ocMA.Lauds3.text
-
-peMA.Lauds4.mode=oc.m5.d1_en_UK_lash.ocMA.Lauds4.mode
-peMA.Lauds4.melody=oc.m5.d1_en_UK_lash.ocMA.Lauds4.melody
-peMA.Lauds4.incipit = oc.m5.d1_en_UK_lash.ocMA.Lauds4.incipit
-peMA.Lauds4.text=oc.m5.d1_en_UK_lash.ocMA.Lauds4.text
-
-peMA.Lauds8.mode=misc_en_UK_lash.Mode8
-peMA.Lauds8.melody=misc_en_UK_lash.Idiomelon
-peMA.Lauds8.incipit = "Christ our God, who took"
-peMA.Lauds8.text="Christ our God, who took flesh through your compassionate mercy and taking pity in your ineffable compassion on one who had been deprived of light from the womb, you granted him divine brilliance, touching with soil his pupils with your moulding fingers. Do you now, O provider of light, illumine too the senses of our souls, as you alone are provider without stinting."
-
-peMA.LaudsGlory.mode=misc_en_UK_lash.Mode8
-peMA.LaudsGlory.melody=misc_en_UK_lash.Idiomelon
-peMA.LaudsGlory.incipit = "Who will recount your powers,"
-peMA.LaudsGlory.text="Who will recount your powers, O Christ? Who number the multitudes of your wonders? For twofold you appeared on earth through your goodness, twofold also the healings you bestow: for you opened not only the bodily eyes of one who was maimed from the womb, but also those of his soul. Therefore he confessed you the hidden God, who grant to all your great mercy."
-
-peLI.Kontakion1.mode=peMA.Kontakion1.mode
-peLI.Kontakion1.melody=peMA.Kontakion1.melody
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.text=peMA.Kontakion1.text
-
-peLI.TheotokosHymn.mode=misc_en_UK_lash.Mode1
-peLI.TheotokosHymnVerse.incipit = pe.d00P_en_UK_lash.pePA.Ode9MKa.incipit
-peLI.TheotokosHymnVerse.text=pe.d00P_en_UK_lash.pePA.Ode9MKa.text
-peLI.TheotokosHymn.incipit = pe.d00P_en_UK_lash.pePA.Ode9H.incipit
-peLI.TheotokosHymn.text=pe.d00P_en_UK_lash.pePA.Ode9H.text
-
-peMegalynarion.text=""
+A_Resource_Whose_Name = pe.d106_en_UK_lash 
+
+peCommemoration.text = "Sunday of the Man Born Blind" //full title of day
+peShortCommemoration1.text = "Sunday of the Man Born Blind"
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = dismissals_en_UK_lash.dis00.resurrection
+
+peSV.Aposticha2.mode = misc_en_UK_lash.Mode5
+peSV.Aposticha2.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
+peSV.Aposticha2.text = ""
+
+peSV.Aposticha3.mode = misc_en_UK_lash.Mode5
+peSV.Aposticha3.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
+peSV.Aposticha3.text = ""
+
+peSV.Aposticha4.mode = misc_en_UK_lash.Mode5
+peSV.Aposticha4.melody = he.a.m5_en_UK_lash.ChairoisAskitikon.notmetered
+peSV.Aposticha4.text = ""
+
+peVE.Stichera09.mode = misc_en_UK_lash.Mode2
+peVE.Stichera09.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera09.text = "The man born blind reasoned with himself, \"Was it through my parents' sin that I was born blind? Or was I born because of the unbelief of the nations as an accusation? I am not competent to ask when it is day, when night. My feet cannot detect the stumbling blocks of the stones. I have not seen the sun shining, nor him who fashioned me in his image. But I beg you, Christ God: Look on me and have mercy on me.\""
+
+peVE.Stichera10.mode = misc_en_UK_lash.Mode2
+peVE.Stichera10.melody = misc_en_UK_lash.Idiomelon
+peVE.Stichera10.text = "As Jesus was passing by from the temple, he found a man blind from birth, and moved with compassion for him put clay on his eyes and said to him, \"Go, wash in the Pool of Siloam.\" He, having washed, gained his sight and gave glory to God. But his next of kin said to him, \"Who opened the eyes which none of those with sight could cure?\" But he cried out and said, \"A man called Jesus, he it was said to me: Wash in the Pool of Siloam; and I gained my sight. He is truly Christ Messias of whom Moses spoke in the Law; he is the Saviour of our souls.\""
+
+peVE.SticGlory.mode = misc_en_UK_lash.Mode5
+peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.SticGlory.text = "O Lord, as you passed by on the way, you found a man blind from birth. Your Disciples were amazed and asked you, saying, \"Teacher, who has sinned, this man or his parents, that he was born blind?\" But you, my Saviour, cried out to them, \"Neither has he sinned, nor his parents, but that the works of God might be revealed in him. I must do the works of him who sent me, which none can do.\" So saying you spat on the ground, made clay, and anointed his eyes, and said, \"Go, wash in the Pool of Siloam.\" When he had washed he became whole and cried out to you, \"I believe Lord.\" And he worshipped you. Therefore we too cry out: Have mercy on us!"
+
+peVE.LityGlory.mode = misc_en_UK_lash.Mode4
+peVE.LityGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.LityGlory.text = "Considering his whole life to be night, the Blind man cried out to you, O Lord: \"Open my pupils, Son of David, our Saviour, that with all I too may hymn your power.\""
+
+peVE.LityBoth.mode = misc_en_UK_lash.Mode4
+peVE.LityBoth.melody = ""
+peVE.LityBoth.text = "Assent to the supplications of your servants, O Most Pure, by ending the assaults of our dangers and delivering us from every tribulation: for we have you as our only safe and sure anchor and we have gained your protection; may we who call for your aid, Sovereign Lady, not be put to shame; hasten to the entreaties of those who cry out to you in faith: Hail Sovereign Lady, the help of all, the joy and protection and salvation of our souls."
+
+peVE.AposGlory.mode = misc_en_UK_lash.Mode8
+peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peVE.AposGlory.text = "Christ our God, spiritual Sun of justice, by your pure touch you enlightened the one who had been deprived of light from his mother's womb; by shedding your rays on the eyes of our souls, show us to be sons of the day, that we may cry to you with faith, \"Great and ineffable is your compassion for us. Lover of humankind, glory to you!\""
+
+peMA.Kathisma11.mode = misc_en_UK_lash.Mode5
+peMA.Kathisma11.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+peMA.Kathisma11.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_UK_lash.Mode5
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma12.text
+
+peMA.Kathisma13.mode = misc_en_UK_lash.Mode5
+peMA.Kathisma13.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+peMA.Kathisma13.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.text
+
+peMA.Kathisma21.mode = misc_en_UK_lash.Mode5
+peMA.Kathisma21.melody = ""
+peMA.Kathisma21.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma22.text
+
+peMA.Kathisma22.mode = misc_en_UK_lash.Mode5
+peMA.Kathisma22.melody = ""
+peMA.Kathisma22.text = ""
+
+peMA.Kathisma23.mode = misc_en_UK_lash.Mode5
+peMA.Kathisma23.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+peMA.Kathisma23.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma23.text
+
+peMA.C1.poet = poets_en_UK_lash.IosifThessalonikis
+peMA.C1.acrostic = ""
+
+peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.text = he.h.m5_en_UK_lash.GinEfInOukElampsen.text
+
+peMA.C1.title = titles_en_UK_lash.KanonTisEortis
+peMA.C1.verse = prayers_en_UK_lash.verse_God.text
+
+peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C11.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
+peMA.Ode1C11.text = "By willingly accepting crucifixion in the flesh, you have become a source of blessing and life for the world, O Master, only all-blessed and Creator of all; therefore we bless you, we hymn and glorify you, as we sing and chant a song of victory." 
+
+peMA.Ode1C12.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C12.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
+peMA.Ode1C12.text = "When you were dead, O long-suffering, the noble Joseph laid you in the lowest pit and rolled a stone to the door of the grave; but you rose in glory, raising the world with you, as it sang and chanted a song of victory." 
+
+peMA.Ode1C13.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C13.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
+peMA.Ode1C13.text = "The Angel appeared and said to the holy women: Why do you bring spices with tears? Christ has risen! Run, tell the Disciples who have seen God, as they mourn and weep, so that they may leap and dance for joy." 
+
+peMA.Ode1C1F1.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C1F1.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
+peMA.Ode1C1F1.text = "Extraordinary wonders the Redeemer performs; he even cured a man blind from birth, anointing him with clay and saying: Go, wash in Siloam, that you may know that I am God who walk the earth bearing flesh because of my compassionate pity."
+
+peMA.Ode1C1Tr.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C1Tr.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
+peMA.Ode1C1Tr.text = "Honouring one Essence in three Persons, let us the faithful glorify the Father and the Son and the right Spirit, maker and Lord, and redeemer of all, one uncreated God, as we cry with the Bodiless hosts: Holy, Holy, Holy are you, O King!"
+
+peMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
+peMA.Ode1C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode1C1T.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
+peMA.Ode1C1T.text = "Because of his compassionate pity the Lord dwelt in your womb that had not known wedlock, O Pure one, for he wished to save mankind which had perished through the wiles of the foe: implore him then that this city may be saved from every capture and invasion by foes."
+
+peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.text = he.h.m5_en_UK_lash.SalevomeninTinKardian.text
+
+peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C11.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
+peMA.Ode3C11.text = "Long-suffering Lord, you made firm the hearts of those who are shaken when you shook the earth, by your hallowed Crucifixion, which you underwent in the flesh." 
+
+peMA.Ode3C12.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C12.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
+peMA.Ode3C12.text = "The noble Joseph laid you in a new tomb, O merciful; but you arose from the dead on the third day, renewing us all." 
+
+peMA.Ode3C13.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C13.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
+peMA.Ode3C13.text = "Why do you seek the Lord as a corpse? He has risen as he said, cried the Angel to the women, dazzling with his godlike form." 
+
+peMA.Ode3C1F1.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C1F1.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
+peMA.Ode3C1F1.text = "You once cured a man blind from birth who came to you, All-merciful, glorifying your dispensation and your wonders."
+
+peMA.Ode3C1Tr.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C1Tr.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
+peMA.Ode3C1Tr.text = "We worship God, Father without beginning, Son and divine Spirit, triple uncreated, three-personned nature, one God of all."
+
+peMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
+peMA.Ode3C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode3C1T.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
+peMA.Ode3C1T.text = "You gave birth from a virgin womb to God incarnate; implore him, all-holy Lady, to have pity on us."
+
+peMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
+peMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+peMA.Ode3Kathisma1.text = "The Master and maker of all things, as he passed along found a Blind Man sitting by the way, lamenting and saying: 'Never in my life have I seen the sun shining or the moon shedding its light; therefore I cry out to you, born of a Virgin to enlighten the universe: Enlighten me, as you are compassionate, that falling down I may cry to you: Master Christ God, grant me forgiveness of my offences through the multitude of your mercy, only lover of mankind'. (Twice)."
+
+peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.text = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.text
+
+peMA.Ode4C11.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C11.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
+peMA.Ode4C11.text = "By being placed on a Tree you, who are life, brought me, who had died through a tree, back to life through your great mercy. Therefore, O Word, I glorify you." 
+
+peMA.Ode4C12.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C12.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
+peMA.Ode4C12.text = "Marvellously assembled together with your Initiates, O Lord, you said to them: Go forth, proclaim my Resurrection everywhere." 
+
+peMA.Ode4C13.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C13.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
+peMA.Ode4C13.text = "Confirming your Rising from the grave, Lord, for many days you assembled together with your friends, and made them joyful." 
+
+peMA.Ode4C1F1.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C1F1.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
+peMA.Ode4C1F1.text = "You gave sight to a man Blind from the womb, Lord, when you said: Go, wash and receive your sight, and glorify my Godhead."
+
+peMA.Ode4C1Tr.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C1Tr.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
+peMA.Ode4C1Tr.text = "O Trinity, identical in honour, undivided in Essence, divided in Persons, save all who with fear faithfully glorify you."
+
+peMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
+peMA.Ode4C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode4C1T.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
+peMA.Ode4C1T.text = "We glorify your child-bearing above nature, O Immaculate, in faith blessing you, O all unblemished, as the one who gave birth to the God of all."
+
+peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C1H.text = he.h.m5_en_UK_lash.TinTalainanPsychinMou.text
+
+peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C11.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
+peMA.Ode5C11.text = "You were lifted up on a Tree, and lifting up all mortals with yourself, O merciful, you put to death the hostile serpent and, as only God of all, gave life to what your hands had fashioned." 
+
+peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C12.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
+peMA.Ode5C12.text = "Willingly you became a corpse and were laid in a tomb, immortal King, and you emptied all the palaces of Hell, raising the dead by your Resurrection." 
+
+peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C13.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
+peMA.Ode5C13.text = "When you had accomplished great marvels upon earth, O Word, a lawless people slew you; but, being alone powerful, Lord Christ, you rose, as you had foretold, from the dead." 
+
+peMA.Ode5C1F1.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C1F1.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
+peMA.Ode5C1F1.text = "Having opened the eyes of one who had not seen the natural light, you enlightened the pupils of his soul and led him to give glory when he recognised you as maker, through compassion seen as a mortal."
+
+peMA.Ode5C1Tr.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C1Tr.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
+peMA.Ode5C1Tr.text = "Let all us faithful glorify a Trinity in unity and a Unity in trinity, Father, Son and right Spirit, one God, truly creator of all."
+
+peMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
+peMA.Ode5C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode5C1T.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
+peMA.Ode5C1T.text = "How did you bear a child without knowing man, O Virgin-mother, full of God's grace? How nourish creation's nourisher? As he alone understands, who is maker of all and God."
+
+peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.text = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.text
+
+peMA.Ode6C11.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C11.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
+peMA.Ode6C11.text = "Crucified with thieves, O Master, from evil thieves and soul-destroying passions, you delivered us who praise in harmony your Crucifixion and your Rising, O Lord who loves mankind." 
+
+peMA.Ode6C12.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C12.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
+peMA.Ode6C12.text = "A lifeless corpse they laid you in a tomb, O Christ, who breathe life into all the dead; but you arose, Lord, emptying all the graves, O Word, by your sovereign power." 
+
+peMA.Ode6C13.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C13.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
+peMA.Ode6C13.text = "After your Rising, O Christ, you said to your friends: Tarry in Jerusalem, until you are clothed with invincible strength and sure support from on high." 
+
+peMA.Ode6C1F1.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C1F1.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
+peMA.Ode6C1F1.text = "You made clay, and anointed the eyes of the man Blind from birth, and you gave him the grace of sight as he hymned your immaculate power, through which you saved the world."
+
+peMA.Ode6C1Tr.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C1Tr.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
+peMA.Ode6C1Tr.text = "Three-personned Unity, Father unbegotten, Son begotten, Spirit proceeding, thrice-holy Lord, one Essence, one Power, save your whole people."
+
+peMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
+peMA.Ode6C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode6C1T.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
+peMA.Ode6C1T.text = "Who can recount your great things, O Pure one? For beyond nature you bore God in the flesh, who delivers the world from every sin through you, Virgin all-unblemished."
+
+peMA.Kontakion1.mode = misc_en_UK_lash.Mode4
+peMA.Kontakion1.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
+peMA.Kontakion1.text = "With the eyes of my soul mutilated I come to you, O Christ, as the man blind from birth, crying to you in repentance: You are the radiant light of those in darkness."
+
+peMA.Oikos1.text = "Grant me a stream of inexpressible wisdom, and knowledge from above, O Christ, light of those in darkness and guide of those who stray; that I may recount what the divine book of the Gospel of peace teaches: the miracle of the blind man; for being blind from birth he receives both physical eyes and eyes of the soul, as he cries: You are the radiant light of those in darkness."
+
+peMA.Synaxarion.commemoration.text = ""
+peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
+peMA.Synaxarion.couplet1.verse1 = ""
+peMA.Synaxarion.couplet1.verse2 = ""
+peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
+peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
+peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
+peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
+peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
+peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
+peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
+peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
+peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
+peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
+peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
+peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
+peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
+peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
+peMA.Synaxarion.lastline.text = ""
+
+peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C1H.text = he.h.m5_en_UK_lash.PyrosSvestirion.text
+
+peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C11.melody = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
+peMA.Ode7C11.text = "When you were hung upon the Tree, O Saviour, the sun was quenched, the earth heaved, all creation was shaken, and the dead were raised from the graves." 
+
+peMA.Ode7C12.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C12.melody = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
+peMA.Ode7C12.text = "When you rose from the dead, O King, the souls which slept there were raised with you and glorified your sovereign power, through which the bonds of death were loosed." 
+
+peMA.Ode7C13.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C13.melody = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
+peMA.Ode7C13.text = "At dawn a choir of women came to anoint you, but learning that you had risen, Lord, they rejoiced with the sacred Disciples; through whom grant us redemption from evils." 
+
+peMA.Ode7C1F1.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C1F1.melody = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
+peMA.Ode7C1F1.text = "You anointed with clay the eyes of the man born Blind and you ordered him to go to Siloam: having washed he gained his sight as he hymned you, O Christ, King of all."
+
+peMA.Ode7C1Tr.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C1Tr.melody = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
+peMA.Ode7C1Tr.text = "Let us hymn the Father without beginning, the Son likewise without beginning and the all-holy Spirit: Holy, Holy, Holy, are you, O God, King of all."
+
+peMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
+peMA.Ode7C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode7C1T.melody = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
+peMA.Ode7C1T.text = "After child-birth you were seen to be a virgin, O Pure one; for you gave birth, O Immaculate, to God who made natures new by his power; ever implore him that we may be saved."
+
+peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.text = he.h.m5_en_UK_lash.AngelonSystima.text
+
+peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C11.melody = he.h.m5_en_UK_lash.AngelonSystima.incipit
+peMA.Ode8C11.text = "The ranks of Angels, seeing you hanging upon the Cross, O Christ, universal King, and altering all creation, were struck with fear as they hymned your love for mankind." 
+
+peMA.Ode8C12.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C12.melody = he.h.m5_en_UK_lash.AngelonSystima.incipit
+peMA.Ode8C12.text = "Hell, seeing you below, groaned aloud and rapidly gave back the dead whom it had held under guard since time began, O Christ, as they hymned your love for mankind." 
+
+peMA.Ode8C13.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C13.melody = he.h.m5_en_UK_lash.AngelonSystima.incipit
+peMA.Ode8C13.text = "Having accomplished extraordinary marvels, you were willingly lifted up on a cross and joined with the dead, O Christ, and you put Hell to death and with courage released all its prisoners." 
+
+peMA.Ode8C1F1.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C1F1.melody = he.h.m5_en_UK_lash.AngelonSystima.incipit
+peMA.Ode8C1F1.text = "You gave eyes to the Blind Man who came to you, O Christ, ordering him to wash in the spring of Siloam, to see and to proclaim you as God, manifest in the flesh for the salvation of the world."
+
+peMA.Ode8C1Tr.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C1Tr.melody = he.h.m5_en_UK_lash.AngelonSystima.incipit
+peMA.Ode8C1Tr.text = "O undivided Trinity, unconfused Unity, God of all and creator of all things, save from manifold temptations those who hymn and faithfully worship your might."
+
+peMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
+peMA.Ode8C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode8C1T.melody = he.h.m5_en_UK_lash.AngelonSystima.incipit
+peMA.Ode8C1T.text = "Immaculate Virgin, full of God's grace, ever implore your Son not to put me to shame on the day of judgement, but to number me with the chosen sheep."
+
+peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1H.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.text = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.text
+
+peMA.Ode9C11.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C11.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C11.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
+peMA.Ode9C11.text = "Joined to the gallows of the Cross, Christ Saviour, you triumphed over all the hostile forces of the foe, and abolished the former curse; therefore as is right we magnify you." 
+
+peMA.Ode9C12.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C12.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C12.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
+peMA.Ode9C12.text = "On seeing you below with your soul, O Word, Hell groaned aloud and in fear released all the dead, who recognised the might of your authority; with whom as is right we magnify you." 
+
+peMA.Ode9C13.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C13.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C13.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
+peMA.Ode9C13.text = "Seeing him accomplishing signs and dread wonders the people of the Hebrews in jealousy slew him who plundered Hell by his Resurrection, and as powerful raised all with him." 
+
+peMA.Ode9C1F1.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1F1.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C1F1.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
+peMA.Ode9C1F1.text = "Even as you said, you rose from the dead, O Giver of Life, and appeared to the holy Disciples after your Rising, you who did signs and gave sight to the blind; with them to the ages we magnify you."
+
+peMA.Ode9C1Tr.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1Tr.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C1Tr.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
+peMA.Ode9C1Tr.text = "Praise I give to Light, the Father, glory to Light, the Son, a hymn to Light, the 'upright Spirit': one undivided Light, recognised in three Persons, God, King of all creation."
+
+peMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
+peMA.Ode9C1T.mode = misc_en_UK_lash.Mode5
+peMA.Ode9C1T.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
+peMA.Ode9C1T.text = "Holy Virgin, you appear wider then the heavens for you contained and bore in a body God, the uncircumscribed, for the redemption of all those who sing your praise with undoubting faith."
+
+peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.SarkiYpnosas.notmetered
+peMA.Exaposteilarion1.text = "Give sight, O Lord, to the eyes of my soul, maimed by gloomy sin, by grafting in humility, O merciful, and cleansing me with tears of repentance."
+
+peMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
+peMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
+peMA.Exaposteilarion2.text = "As he passed by, our Saviour found a blind man without sight; spitting upon the ground and making clay he anointed him and sent him to Siloam to go and wash; when he had washed he came seeing your light, my Christ."
+
+peMA.Lauds1.mode = oc.m5.d1_en_UK_lash.ocMA.Lauds1.mode
+peMA.Lauds1.melody = oc.m5.d1_en_UK_lash.ocMA.Lauds1.melody
+peMA.Lauds1.text = oc.m5.d1_en_UK_lash.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = oc.m5.d1_en_UK_lash.ocMA.Lauds2.mode
+peMA.Lauds2.melody = oc.m5.d1_en_UK_lash.ocMA.Lauds2.melody
+peMA.Lauds2.text = oc.m5.d1_en_UK_lash.ocMA.Lauds2.text
+
+peMA.Lauds3.mode = oc.m5.d1_en_UK_lash.ocMA.Lauds3.mode
+peMA.Lauds3.melody = oc.m5.d1_en_UK_lash.ocMA.Lauds3.melody
+peMA.Lauds3.text = oc.m5.d1_en_UK_lash.ocMA.Lauds3.text
+
+peMA.Lauds4.mode = oc.m5.d1_en_UK_lash.ocMA.Lauds4.mode
+peMA.Lauds4.melody = oc.m5.d1_en_UK_lash.ocMA.Lauds4.melody
+peMA.Lauds4.text = oc.m5.d1_en_UK_lash.ocMA.Lauds4.text
+
+peMA.Lauds8.mode = misc_en_UK_lash.Mode8
+peMA.Lauds8.melody = misc_en_UK_lash.Idiomelon
+peMA.Lauds8.text = "Christ our God, who took flesh through your compassionate mercy and taking pity in your ineffable compassion on one who had been deprived of light from the womb, you granted him divine brilliance, touching with soil his pupils with your moulding fingers. Do you now, O provider of light, illumine too the senses of our souls, as you alone are provider without stinting."
+
+peMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
+peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.LaudsGlory.text = "Who will recount your powers, O Christ? Who number the multitudes of your wonders? For twofold you appeared on earth through your goodness, twofold also the healings you bestow: for you opened not only the bodily eyes of one who was maimed from the womb, but also those of his soul. Therefore he confessed you the hidden God, who grant to all your great mercy."
+
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
+
+peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
+peLI.TheotokosHymnVerse.text = pe.d00P_en_UK_lash.pePA.Ode9MKa.text
+peLI.TheotokosHymn.text = pe.d00P_en_UK_lash.pePA.Ode9H.text
+
+peMegalynarion.text = ""

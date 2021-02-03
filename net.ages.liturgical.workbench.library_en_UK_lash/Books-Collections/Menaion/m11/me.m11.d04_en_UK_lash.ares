@@ -1,8 +1,7 @@
-A_Resource_Whose_Name=me.m11.d04_en_UK_lash
+A_Resource_Whose_Name = me.m11.d04_en_UK_lash
 
 
-meVE.AposTheotokion.mode=misc_en_UK_lash.Mode6
-meVE.AposTheotokion.melody=he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
-meVE.AposTheotokion.incipit = oc.m6.d1_en_UK_lash.ocSV.Aposticha2.incipit
-meVE.AposTheotokion.text=oc.m6.d1_en_UK_lash.ocSV.Aposticha2.text
+meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
+meVE.AposTheotokion.melody = he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
+meVE.AposTheotokion.text = oc.m6.d1_en_UK_lash.ocSV.Aposticha2.text
 

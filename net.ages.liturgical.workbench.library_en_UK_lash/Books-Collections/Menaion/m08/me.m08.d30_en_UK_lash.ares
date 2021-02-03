@@ -1,23 +1,22 @@
-A_Resource_Whose_Name=me.m08.d30_en_UK_lash
+A_Resource_Whose_Name = me.m08.d30_en_UK_lash
 
-meDate.text=""
-meCommemoration.text="" //full title of day
-meShortCommemoration1.text=""
-meCom1.title=""
-meCom2.title=""
-meInsert1="" //for use in petitions and dismissal
-meInsert2="" //for use in petitions and dismissal
-meNote.text=""
-meLE.commemoration1=""
-meLE.commemoration2=""
-meHO.number=""
-meHO.rank=""
-meHO.commemorations=""
-meHO.note1=""
-meHO.note2=""
+meDate.text = ""
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
 
-meVE.SticGlory.mode=misc_en_UK_lash.Mode6
-meVE.SticGlory.melody=""
-meVE.SticGlory.incipit = me.m08.d29_en_UK_lash.meVE.Stichera01.incipit
-meVE.SticGlory.text=me.m08.d29_en_UK_lash.meVE.Stichera01.text
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.text = me.m08.d29_en_UK_lash.meVE.Stichera01.text
 

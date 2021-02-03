@@ -1,0 +1,44 @@
+A_Resource_Whose_Name = da.d4_en_UK_lash 
+
+daDay.text = ""
+daCommemoration.text = ""
+
+daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onTuesdayEvening
+
+daVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+daVE.Apolytikion1.melody = ""
+daVE.Apolytikion1.text = me.m09.d14_en_UK_lash.meVE.Apolytikion1.text
+
+daVE.ApolTheotokion.mode = misc_en_UK_lash.Mode1
+daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.text = oc.m1.d4_en_UK_lash.ocVE.ApolTheotokionVM.text
+
+daMA.Triadic1Ending.text = ""
+daMA.Triadic2Ending.text = prayers_en_UK_lash.trPresveiaisTonAgion
+daMA.Triadic3Ending.text = prayers_en_UK_lash.trDiaTisTheotokou
+
+daMA.Photagogic1Ending.text = ""
+daMA.Photagogic2Ending.text = prayers_en_UK_lash.fePresveiaisTonAgionKaiSosonMe
+daMA.Photagogic3Ending.text = prayers_en_UK_lash.fePresveiaisTisTheotokou
+
+daMA.Photagogic1Beginning.text = ""
+daMA.Photagogic2Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTonAgion
+daMA.Photagogic3Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTisTheotokou
+
+daMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+daMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
+daMA.Exaposteilarion1.text = "We hymn and with faith we worship the divine Cross, the invincible weapon, the support of the Faith. As is fitting we proclaim aloud the great refuge, the boast of Christians, the guardian of the Orthodox, the glory of the Champions."
+
+daMA.ExapTheotokion1.mode = misc_en_UK_lash.Mode2
+daMA.ExapTheotokion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
+daMA.ExapTheotokion1.text = ""
+
+daMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
+daMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
+daMA.Exaposteilarion2.text = "Cross of my Christ, great weapon of the Orthodox, victory of Sovereigns, defeat of demons, protect those who worship you in faith and give us your grace."
+
+daMA.ExapTheotokion2.mode = misc_en_UK_lash.Mode3
+daMA.ExapTheotokion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
+daMA.ExapTheotokion2.text = "Those who with all devotion and undoubting hearts worship the Cross and sufferings of your Son, Mother of God, show to be citizens of Paradise and partakers in glory."
+
+daLI.CommunionHymn.text = properties_en_UK_lash.media.key
