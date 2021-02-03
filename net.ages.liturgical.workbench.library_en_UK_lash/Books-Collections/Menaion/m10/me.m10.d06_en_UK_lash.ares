@@ -1,318 +1,379 @@
-A_Resource_Whose_Name = me.m10.d06_en_UK_lash
-
-meDate.text = "6 October"
-meCommemoration.text = "Commemoration of the holy, glorious Apostle Thomas." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
-meLE.commemoration1 = ""
-meLE.commemoration2 = ""
-meHO.number = ""
-meHO.rank = ""
-meHO.commemorations = ""
-meHO.note1 = ""
-meHO.note2 = ""
-
-meVE.Stichera01.mode = misc_en_UK_lash.Mode4
-meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera01.text = "You handled the Master’s side, all-blessed Apostle, and grasped the summit of blessings; for like a sponge you soaked up streams from there, the source of good things and eternal life, and you watered hearts dried up through ignorance of God, as you well up with the doctrines of the knowledge of God."
-
-meVE.Stichera02.mode = misc_en_UK_lash.Mode4
-meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera02.text = "By your believing unbelief you confirmed believers when you began to speak of him as God and Lord of all creation, he who bore flesh for us who are on earth and who endured the Cross and death and the holes of the nails and who was pierced by a lance in his side, from which we draw life."
-
-meVE.Stichera03.mode = misc_en_UK_lash.Mode4
-meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera03.text = "Wondrous Thomas opened up the source of doctrines, Master, for the godly; for when he handled your side he was fittingly initiated into the double energy with the two essences, and he cried out: You are my God and Master, you are the Lord of glory, who became flesh for my sake."
-
-meVE.SticGlory.mode = misc_en_UK_lash.Mode6
-meVE.SticGlory.melody = ""
-meVE.SticGlory.text = "As a servant of the Word and of his ineffable incarnation, Apostle Thomas, you drew from the depth of wisdom; for searching with the reed of the Cross, you caught souls from the depth of deception. Therefore you enlightened the whole inhabited world with the net of your doctrines, and made the clouded souls of the Indians bright with the light of knowledge. And so, as you radiantly enjoy Christ’s glory, implore him to have mercy on our souls."
-
-meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
-meVE.SticTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
-meVE.SticTheotokion.text = he.o_en_UK_lash.TheotokeSyEiApostolou.text
-
-meVE.Aposticha1.mode = misc_en_UK_lash.Mode4
-meVE.Aposticha1.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
-meVE.Aposticha1.text = "Christ, the lover of mankind, drew you out like a pearl from the abyss of the confusion of the world, Apostle Thomas, and through you he enriched those who were in doubt and involved in the poverty of dread deeds. And so we call you blessed and glorify with songs of praise you festive memorial, as we devoutly honour you."
-
-meVE.Aposticha2.mode = misc_en_UK_lash.Mode4
-meVE.Aposticha2.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
-meVE.Aposticha2.text = "Sacred Apostle who looked on God, you made the whole land of the Indians radiant, for you enlightened them all and by the Spirit, wise Saint, you made them children of the light and of the day; you smashed the temples of the idols and by grace you raised up churches to God’s glory and praise, blessed Intercessor for our souls."
-
-meVE.Aposticha3.mode = misc_en_UK_lash.Mode4
-meVE.Aposticha3.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
-meVE.Aposticha3.text = "With your restless hand, Thomas, you searched God’s side and the wounds of the nails, which he underwent for us, and as you joyfully changed your unbelief to fair belief you cried out: You are my Lord and my God, and I glorify you, lover of mankind, who by your passion pour forth dispassion for believers."
-
-meVE.AposGlory.poet = poets_en_UK_lash.Anatoliou
-meVE.AposGlory.mode = misc_en_UK_lash.Mode6
-meVE.AposGlory.melody = ""
-meVE.AposGlory.text = "You gazed on the divine mysteries of Christ, Apostle Thomas, and mystically you have been declared to be a spiritual mixing bowl, in which the souls of believers rejoice; for with the divine net of the Spirit you drew peoples from the deep of ignorance; therefore you came from Sion as a river of grace, welling up with your inspired doctrines into the whole creation. And so, imitating the passion of Christ, you were pierced in the side and entered the darkness of incorruption; implore him to have mercy on our souls."
-
-meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
-meVE.AposTheotokion.melody = he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
-meVE.AposTheotokion.text = "When to mind there comes the thought of the dread judgement seat of your Son, All-pure Virgin, and the universal tribunal, I am in despair, trembling and terrified at the examination of my deeds; for they are all worthless and filled with every kind of shame, and truly worthy of darkness and punishment and rejection. See my distress, and see the abasement of my soul, and deliver me from every constraint and punishment."
-
-meVE.GeneralApolytikion1.mode = misc_en_UK_lash.Mode3
-meVE.GeneralApolytikion1.melody = he.ga_en_UK_lash.ApostoleAgie.incipit
-meVE.MM.GeneralApolytikion1.text = properties_en_UK_lash.media.key
-meVE.GeneralApolytikion1.name = "Thomas,"
-
-meVE.Apolytikion2.poet = poets_en_UK_lash.Gerasimou
-meVE.Apolytikion2.mode = misc_en_UK_lash.Mode4
-meVE.Apolytikion2.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-meVE.Apolytikion2.text = ""
-
-meMA.Kathisma21.mode = misc_en_UK_lash.Mode5
-meMA.Kathisma21.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
-meMA.Kathisma21.text = "Let us all praise the Apostle and Disciple of Christ with hymns on his commemoration; for in a manner fitting God he has confirmed our minds in the Lord, having handled the marks of the nails as he sought firm belief, and he intercedes unrelentingly that he have mercy on our souls."
-
-meMA.Kathisma2T.mode = misc_en_UK_lash.Mode5
-meMA.Kathisma2T.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
-meMA.Kathisma2T.text = "Implore the God and Lord who was incarnate of you, Holy Lady, for the sake of us who were corrupted by sins, to take pity on us and to turn away his anger and rage from those who cry out with faith and unceasingly praise the mighty deeds of his grace."
-
-meMA.C1.poet = poets_en_UK_lash.Theofanous
-meMA.C1.acrostic = "of which the Acrostic is. I marvel at Thomas, filled with marvels."
-
-meMA.C1.title = titles_en_UK_lash.KanonTouApostolou
-meMA.C1.verse = prayers_en_UK_lash.verse_Apostle.text
-
-meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C11.melody = he.h.m4_en_UK_lash.TristatasKrataious.incipit
-meMA.Ode1C11.text = "Implore the Son of God without beginning, the Word of God, who appeared on earth in form like us, whom you saw, glorious Apostle, and whose hands and side you handled with your palm, to save your servants."
-
-meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_UK_lash.TristatasKrataious.incipit
-meMA.Ode1C12.text = "My God, Jesus, who knows what is hidden, and who tests minds and examines hearts, made you, all-blessed Thomas, a servant and witness and godly Apostle of his theophany."
-
-meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_UK_lash.TristatasKrataious.incipit
-meMA.Ode1C13.text = "A river of mystic waters you have been declared, Thomas, watering the face of the earth and the body of the Church with streams of the knowledge of God, and by the surge of the Spirit driving away the deception of belief in many gods."
-
-meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_UK_lash.TristatasKrataious.incipit
-meMA.Ode1C1T.text = "You are the overthrower of death and corruption, All-hymned Mother of God, for you bore Christ the source of incorruption, who made human nature lovely with grace of immortality, O all-blameless."
-
-meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
-meMA.Ode3C11.text = "Virtue’s beauty and wonders adorning you, Apostle who saw God, you shone on the ugliness of the Indians with the divine light and made their darkness bright with faith."
-
-meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
-meMA.Ode3C12.text = "Set aflame by the splendour, by the action of the Spirit, you were sent out, inspired Thomas, like a shaft of divine light and enlightened the world with wonders."
-
-meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
-meMA.Ode3C13.text = "Like the swiftness of passing lightning, Apostle Thomas, initiated into the doctrines of divine wisdom, you have made radiant the ends of the earth."
-
-meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode3C1T.melody = he.h.m4_en_UK_lash.OukEnSofia.incipit
-meMA.Ode3C1T.text = "Virgin who did not know wedlock and who bore God incarnate, establish me, who am battered by the assaults of the passions; for there is no help but yours, O Immaculate."
-
-meMA.Ode3H.ode = misc_en_UK_lash.Ode3
-meMA.Ode3H.mode = misc_en_UK_lash.Mode4
-meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode3H.text = he.h.m4_en_UK_lash.OukEnSofia.text
-
-meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
-meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Ode3Kathisma1.text = "Catching in the net of the divine words spiritual fish, you offered them as firstfruits to our God; and being granted to put on the support of Christ, you have been revealed as an imitator of his passion; therefore we have assembled and honour as is fitting, glorious Apostle, your all-festive memory, and with one voice we cry to you: Intercede with Christ God to bestow forgiveness of faults on those who celebrate with love your holy memory."
-
-meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.text = "Let us hymn the heavenly gate and ark, the all-holy mountain, the cloud of light, the bush unburned, the spiritual Paradise, the ransom of Eve, the great foundation of the whole inhabited world; because in her salvation was wrought for the world and forgiveness of ancient offences; and so we cry to her: Intercede with your Son and God to bestow forgiveness of faults on those who devoutly worship your all-holy child-bearing."
-
-meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C11.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
-meMA.Ode4C11.text = "Using the greatest proof of marvels, and radiantly displaying the glory of divine doctrines, you grasped by your preaching the whole inhabited world, which cries out: Glory, O Christ, to your power!"
-
-meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
-meMA.Ode4C12.text = "Thomas, blessed and all-honoured, we praise you as an eye-witness and zealous servant of the Word, a witness of his glory and majesty, as a faithful steward and Apostle."
-
-meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
-meMA.Ode4C13.text = "O blessed and all-revered Thomas, fixing a corner-stone as base, you constructed for those who believe as it were a bridal chamber and heavenly tabernacle."
-
-meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
-meMA.Ode4C1T.text = "We name the all-holy Virgin earth unploughed, which produced the ear of life, light cloud, source of the rain which gives life, as we cry out: Glory, O Christ, to your power!"
-
-meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C11.melody = he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
-meMA.Ode5C11.text = "Apostle, made radiant by Christ’s glory and having handled his life-giving side, you drew on an unfathomable abyss of blessing and enriched the world."
-
-meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
-meMA.Ode5C12.text = "At your first entrance Thomas was not present and did not believe the Disciples; but afterwards, brought to belief, he cried out with joy: Most merciful, I proclaim you God and Lord!"
-
-meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
-meMA.Ode5C13.text = "With spiritual thunder Thomas, the living heaven of your glory, cried out, proclaiming you, O Christ, to be both God and Lord and he preached you reverently."
-
-meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
-meMA.Ode5C1T.text = "Make my mind a victor over the passions, O all-blameless, and subdue their assaults by reason, Bride of God, who gave birth to the Saviour of our souls [who gave birth to eternal dispassion]."
-
-meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
-meMA.Ode6C11.text = "Your unbelief, blessed Thomas, heals the soul-destroying unbelief of all; for you indisputably investigated the holes of the nails and the lance."
-
-meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
-meMA.Ode6C12.text = "Like a sharpened arrow, O Christ, as a man of power, you loosed the Apostle into the hearts of the foe, O Giver of life, and he brought you the plunder of their spoils."
-
-meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
-meMA.Ode6C13.text = "Lord of mercy, you destroyed idolatrous sacrifices by your being slaughtered on a tree and by the holy slaughter of your inspired Apostles, as they imitated your sufferings."
-
-meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
-meMA.Ode6C1T.text = "O marvel, newer than all marvels! For a Virgin conceives in her womb without knowing man him who cherishes the universe and she is not straitened."
-
-meMA.Ode6H.ode = misc_en_UK_lash.Ode6
-meMA.Ode6H.mode = misc_en_UK_lash.Mode4
-meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode6H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
-
-meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
-meMA.Kontakion1.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
-meMA.Kontakion1.text = "Filled with God’s grace, Christ’s Apostle and true servant cried in repentance, ‘You are my God and Lord!’"
-
-meMA.Oikos1.text = "When Peter said to the inspired Thomas, Christ’s Disciple and great speaker of mysteries, ‘We have seen the Lord’, he said, ,If I do not see in his hands the mark of the nails, and handle his side, I will not believe’. But the Creator and Master of all things came as a slave, wishing to save all, and said to Thomas, ‘Handle the marks in my hands and side, and do not be unbelieving; for I am the Lord your God’. But he cried in repentance, ‘You are my God and Lord’."
-
-meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C11.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C11.text = "Dancing joyfully as an Apostle with the choir above in heaven, gladly you sing, blessed saint: Blessed are you, Lord, in the temple of your glory."
-
-meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C12.text = "From end to end of the world your sound has sped, and the utterance of divine words has taught those who cry: Blessed are you, Lord, in the temple of your glory."
-
-meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C13.text = "You became a temple of the Trinity, all-honoured Apostle; therefore you wiped out the temples and altars of idols, while you raised temples for the praise and worship of Christ God."
-
-meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C1T.text = "Through your giving birth we have been delivered from the slavery of the law; for without knowing man, O Mother of God, you bore for us a liberator. Blessed are you among women, O all-blameless."
-
-meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C11.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C11.text = "Companion of God in the flesh, you were seen to have abandoned the flesh; while you were enriched with deification above the world, made divine by your nearness to God and crying: Praise the Lord, and highly exalt him to all the ages."
-
-meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C12.text = "Close knit with God by love, you longed for death with him, blessed Apostle, when you called out to your fellow Apostles: Let us go, and let us accept death with him, as we cry: Praise the Lord, and highly exalt him to all the ages."
-
-meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C13.text = "As clouds of heavenly rain, O Christ, you revealed your Apostles, overflowing with showers of divine knowledge, and watering the Churches, and crying: Praise the Lord, and highly exalt him to all the ages."
-
-meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8C1T.text = "Pure of spot and blemish, and a sacred enclosure of all holiness, you bore the all-holy Word, who hallows all, with the Father without beginning; and so we praise you, O Virgin, and highly exalt you to all the ages."
-
-meMA.Ode8H.ode = misc_en_UK_lash.Ode8
-meMA.Ode8H.mode = misc_en_UK_lash.Mode4
-meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode8H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
-
-meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C11.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C11.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
-meMA.Ode9C11.text = "You were revealed as a light-bearing chariot, glorious Apostle, carrying with your obedient and god-bearing soul the Word seated upon it, as he drives towards salvation those who hymn you."
-
-meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C12.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
-meMA.Ode9C12.text = "As we celebrate your all-blessed memorial, we implore that we may be delivered from every storm by the mediation of the confidence which you have as Christ’s Apostle, O all-honoured eye-witness of God."
-
-meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C13.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
-meMA.Ode9C13.text = "We all celebrate your memory to-day, Apostle Thomas; enlighten, hallow us with faith, ever rescuing us from trials and dangers and sufferings by your prayers."
-
-meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C1T.mode = misc_en_UK_lash.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
-meMA.Ode9C1T.text = "You appeared as a Mother, bride of God, and an all-spotless Virgin; for you joined in one virginity and child-bearing, immaculate Lady, in giving birth to the Maker and Lord of all creation."
-
-meMA.Ode9H.ode = misc_en_UK_lash.Ode9
-meMA.Ode9H.mode = misc_en_UK_lash.Mode4
-meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode9H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
-
-meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.Exaposteilarion1.text = "Eyewitness and Apostle of Christ the all-pitying, grant peace to the whole inhabited world, victories to our Christ-loving Sovereign, ask forgiveness of faults and salvation for us who praise you, Thomas, as an inspired disciple."
-
-meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
-meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.Exaposteilarion2.text = "Christ, the great Sun, sent you as a beam radiant with light to India, as an initiate dispelling utterly the fog of error, O wise Apostle Thomas, and enlightening the peoples to honour the divine Trinity, by which we are all guarded."
-
-meMA.ExapTheotokion.mode = misc_en_UK_lash.Mode2
-meMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-meMA.ExapTheotokion.text = "All-blameless Mother of God, the great rampart of the Apostles, Martyrs, Prophets and Saints, make your Son and Lord merciful to us your servants, Mother of God, when he takes his seat to judge each as they deserve."
-
-meMA.Lauds1.poet = poets_en_UK_lash.Anatoliou
-meMA.Lauds1.mode = misc_en_UK_lash.Mode2
-meMA.Lauds1.melody = ""
-meMA.Lauds1.text = "You followed Christ, Apostle Thomas, and you despised the world, and hiding his teachings in your store, you were revealed as an Apostle; therefore among the nations you enlightened their souls, darkened by the error and the passions, with the commandments of the Saviour, to believe in the consubstantial Trinity."
-
-meMA.Lauds2.mode = misc_en_UK_lash.Mode4
-meMA.Lauds2.melody = ""
-meMA.Lauds2.text = "Made radiant in soul by the divine fire of knowledge, you became in all things an imitator of the Master, as an outstanding Disciple, Apostle Thomas; for with the rod of the Cross you caught souls of the devout from the deep of ignorance. Therefore too you netted with the hook of the divine Spirit the beclouded mind of the Indians. Ever beseech Christ God to deliver us also from the darkened sight of the foe and to save our souls."
-
-meMA.Lauds3.mode = misc_en_UK_lash.Mode4
-meMA.Lauds3.melody = ""
-meMA.Lauds3.text = "Leaving behind the deep of fishing, by faith you advanced with the rod of the Cross and caught all with it, Apostle Thomas; and so having handled the side of the Word with your hand, you were found worthy to explore with your finger the holes of the piercing nails. Intercede insistently with Christ God that our souls may be saved."
-
-meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
-meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.text = meVE.AposGlory.text
-
-meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode6
-meMA.LaudsTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.text = he.o_en_UK_lash.TheotokeSyEiApostolou.text
-
-meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
-
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.text = meMA.Kontakion1.text
-
-meMegalynarion.text = ""
+A_Resource_Whose_Name=me.m10.d06_en_UK_lash
+
+meDate.text="6 October"
+meCommemoration.text="Commemoration of the holy, glorious Apostle Thomas." // full title of day
+meShortCommemoration1.text=""
+meCom1.title=""
+meCom2.title=""
+meInsert1="" // for use in petitions and dismissal
+meInsert2="" // for use in petitions and dismissal
+meNote.text=""
+meLE.commemoration1=""
+meLE.commemoration2=""
+meHO.number=""
+meHO.rank=""
+meHO.commemorations=""
+meHO.note1=""
+meHO.note2=""
+
+meVE.Stichera01.mode=misc_en_UK_lash.Mode4
+meVE.Stichera01.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.incipit = "You handled the Master’s side,"
+meVE.Stichera01.text="You handled the Master’s side, all-blessed Apostle, and grasped the summit of blessings; for like a sponge you soaked up streams from there, the source of good things and eternal life, and you watered hearts dried up through ignorance of God, as you well up with the doctrines of the knowledge of God."
+
+meVE.Stichera02.mode=misc_en_UK_lash.Mode4
+meVE.Stichera02.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.incipit = "By your believing unbelief you"
+meVE.Stichera02.text="By your believing unbelief you confirmed believers when you began to speak of him as God and Lord of all creation, he who bore flesh for us who are on earth and who endured the Cross and death and the holes of the nails and who was pierced by a lance in his side, from which we draw life."
+
+meVE.Stichera03.mode=misc_en_UK_lash.Mode4
+meVE.Stichera03.melody=he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.incipit = "Wondrous Thomas opened up the"
+meVE.Stichera03.text="Wondrous Thomas opened up the source of doctrines, Master, for the godly; for when he handled your side he was fittingly initiated into the double energy with the two essences, and he cried out: You are my God and Master, you are the Lord of glory, who became flesh for my sake."
+
+meVE.SticGlory.mode=misc_en_UK_lash.Mode6
+meVE.SticGlory.melody=""
+meVE.SticGlory.incipit = "As a servant of the"
+meVE.SticGlory.text="As a servant of the Word and of his ineffable incarnation, Apostle Thomas, you drew from the depth of wisdom; for searching with the reed of the Cross, you caught souls from the depth of deception. Therefore you enlightened the whole inhabited world with the net of your doctrines, and made the clouded souls of the Indians bright with the light of knowledge. And so, as you radiantly enjoy Christ’s glory, implore him to have mercy on our souls."
+
+meVE.SticTheotokion.mode=misc_en_UK_lash.Mode6
+meVE.SticTheotokion.melody=he.o_en_UK_lash.TheotokeSyEi.incipit
+meVE.SticTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiApostolou.incipit
+meVE.SticTheotokion.text=he.o_en_UK_lash.TheotokeSyEiApostolou.text
+
+meVE.Aposticha1.mode=misc_en_UK_lash.Mode4
+meVE.Aposticha1.melody=he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.Aposticha1.incipit = "Christ, the lover of mankind,"
+meVE.Aposticha1.text="Christ, the lover of mankind, drew you out like a pearl from the abyss of the confusion of the world, Apostle Thomas, and through you he enriched those who were in doubt and involved in the poverty of dread deeds. And so we call you blessed and glorify with songs of praise you festive memorial, as we devoutly honour you."
+
+meVE.Aposticha2.mode=misc_en_UK_lash.Mode4
+meVE.Aposticha2.melody=he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.Aposticha2.incipit = "Sacred Apostle who looked on"
+meVE.Aposticha2.text="Sacred Apostle who looked on God, you made the whole land of the Indians radiant, for you enlightened them all and by the Spirit, wise Saint, you made them children of the light and of the day; you smashed the temples of the idols and by grace you raised up churches to God’s glory and praise, blessed Intercessor for our souls."
+
+meVE.Aposticha3.mode=misc_en_UK_lash.Mode4
+meVE.Aposticha3.melody=he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.Aposticha3.incipit = "With your restless hand, Thomas,"
+meVE.Aposticha3.text="With your restless hand, Thomas, you searched God’s side and the wounds of the nails, which he underwent for us, and as you joyfully changed your unbelief to fair belief you cried out: You are my Lord and my God, and I glorify you, lover of mankind, who by your passion pour forth dispassion for believers."
+
+meVE.AposGlory.poet=poets_en_UK_lash.Anatoliou
+meVE.AposGlory.mode=misc_en_UK_lash.Mode6
+meVE.AposGlory.melody=""
+meVE.AposGlory.incipit = "You gazed on the divine"
+meVE.AposGlory.text="You gazed on the divine mysteries of Christ, Apostle Thomas, and mystically you have been declared to be a spiritual mixing bowl, in which the souls of believers rejoice; for with the divine net of the Spirit you drew peoples from the deep of ignorance; therefore you came from Sion as a river of grace, welling up with your inspired doctrines into the whole creation. And so, imitating the passion of Christ, you were pierced in the side and entered the darkness of incorruption; implore him to have mercy on our souls."
+
+meVE.AposTheotokion.mode=misc_en_UK_lash.Mode6
+meVE.AposTheotokion.melody=he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
+meVE.AposTheotokion.incipit = "When to mind there comes"
+meVE.AposTheotokion.text="When to mind there comes the thought of the dread judgement seat of your Son, All-pure Virgin, and the universal tribunal, I am in despair, trembling and terrified at the examination of my deeds; for they are all worthless and filled with every kind of shame, and truly worthy of darkness and punishment and rejection. See my distress, and see the abasement of my soul, and deliver me from every constraint and punishment."
+
+meVE.GeneralApolytikion1.mode=misc_en_UK_lash.Mode3
+meVE.GeneralApolytikion1.melody=he.ga_en_UK_lash.ApostoleAgie.incipit
+meVE.MM.GeneralApolytikion1.text=properties_en_UK_lash.media.key
+meVE.GeneralApolytikion1.name="Thomas,"
+
+meVE.Apolytikion2.poet=poets_en_UK_lash.Gerasimou
+meVE.Apolytikion2.mode=misc_en_UK_lash.Mode4
+meVE.Apolytikion2.melody=he.a.m4_en_UK_lash.TachyProkatalave.notmetered
+meVE.Apolytikion2.incipit = ""
+meVE.Apolytikion2.text=""
+
+meMA.Kathisma21.mode=misc_en_UK_lash.Mode5
+meMA.Kathisma21.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+meMA.Kathisma21.incipit = "Let us all praise the"
+meMA.Kathisma21.text="Let us all praise the Apostle and Disciple of Christ with hymns on his commemoration; for in a manner fitting God he has confirmed our minds in the Lord, having handled the marks of the nails as he sought firm belief, and he intercedes unrelentingly that he have mercy on our souls."
+
+meMA.Kathisma2T.mode=misc_en_UK_lash.Mode5
+meMA.Kathisma2T.melody=he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+meMA.Kathisma2T.incipit = "Implore the God and Lord"
+meMA.Kathisma2T.text="Implore the God and Lord who was incarnate of you, Holy Lady, for the sake of us who were corrupted by sins, to take pity on us and to turn away his anger and rage from those who cry out with faith and unceasingly praise the mighty deeds of his grace."
+
+meMA.C1.poet=poets_en_UK_lash.Theofanous
+meMA.C1.acrostic="of which the Acrostic is. I marvel at Thomas, filled with marvels."
+
+meMA.C1.title=titles_en_UK_lash.KanonTouApostolou
+meMA.C1.verse=prayers_en_UK_lash.verse_Apostle.text
+
+meMA.Ode1C11.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode1C11.melody=he.h.m4_en_UK_lash.TristatasKrataious.incipit
+meMA.Ode1C11.incipit = "Implore the Son of God"
+meMA.Ode1C11.text="Implore the Son of God without beginning, the Word of God, who appeared on earth in form like us, whom you saw, glorious Apostle, and whose hands and side you handled with your palm, to save your servants."
+
+meMA.Ode1C12.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode1C12.melody=he.h.m4_en_UK_lash.TristatasKrataious.incipit
+meMA.Ode1C12.incipit = "My God, Jesus, who knows"
+meMA.Ode1C12.text="My God, Jesus, who knows what is hidden, and who tests minds and examines hearts, made you, all-blessed Thomas, a servant and witness and godly Apostle of his theophany."
+
+meMA.Ode1C13.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode1C13.melody=he.h.m4_en_UK_lash.TristatasKrataious.incipit
+meMA.Ode1C13.incipit = "A river of mystic waters"
+meMA.Ode1C13.text="A river of mystic waters you have been declared, Thomas, watering the face of the earth and the body of the Church with streams of the knowledge of God, and by the surge of the Spirit driving away the deception of belief in many gods."
+
+meMA.Ode1C1T.ode=misc_en_UK_lash.Ode1
+meMA.Ode1C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode1C1T.melody=he.h.m4_en_UK_lash.TristatasKrataious.incipit
+meMA.Ode1C1T.incipit = "You are the overthrower of"
+meMA.Ode1C1T.text="You are the overthrower of death and corruption, All-hymned Mother of God, for you bore Christ the source of incorruption, who made human nature lovely with grace of immortality, O all-blameless."
+
+meMA.Ode3C11.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode3C11.melody=he.h.m4_en_UK_lash.OukEnSofia.incipit
+meMA.Ode3C11.incipit = "Virtue’s beauty and wonders adorning"
+meMA.Ode3C11.text="Virtue’s beauty and wonders adorning you, Apostle who saw God, you shone on the ugliness of the Indians with the divine light and made their darkness bright with faith."
+
+meMA.Ode3C12.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode3C12.melody=he.h.m4_en_UK_lash.OukEnSofia.incipit
+meMA.Ode3C12.incipit = "Set aflame by the splendour,"
+meMA.Ode3C12.text="Set aflame by the splendour, by the action of the Spirit, you were sent out, inspired Thomas, like a shaft of divine light and enlightened the world with wonders."
+
+meMA.Ode3C13.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode3C13.melody=he.h.m4_en_UK_lash.OukEnSofia.incipit
+meMA.Ode3C13.incipit = "Like the swiftness of passing"
+meMA.Ode3C13.text="Like the swiftness of passing lightning, Apostle Thomas, initiated into the doctrines of divine wisdom, you have made radiant the ends of the earth."
+
+meMA.Ode3C1T.ode=misc_en_UK_lash.Ode3
+meMA.Ode3C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode3C1T.melody=he.h.m4_en_UK_lash.OukEnSofia.incipit
+meMA.Ode3C1T.incipit = "Virgin who did not know"
+meMA.Ode3C1T.text="Virgin who did not know wedlock and who bore God incarnate, establish me, who am battered by the assaults of the passions; for there is no help but yours, O Immaculate."
+
+meMA.Ode3H.ode=misc_en_UK_lash.Ode3
+meMA.Ode3H.mode=misc_en_UK_lash.Mode4
+meMA.Ode3H.melody=misc_en_UK_lash.Heirmos
+meMA.Ode3H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
+meMA.Ode3H.text=he.h.m4_en_UK_lash.OukEnSofia.text
+
+meMA.Ode3Kathisma1.mode=misc_en_UK_lash.Mode8
+meMA.Ode3Kathisma1.melody=he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.incipit = "Catching in the net of"
+meMA.Ode3Kathisma1.text="Catching in the net of the divine words spiritual fish, you offered them as firstfruits to our God; and being granted to put on the support of Christ, you have been revealed as an imitator of his passion; therefore we have assembled and honour as is fitting, glorious Apostle, your all-festive memory, and with one voice we cry to you: Intercede with Christ God to bestow forgiveness of faults on those who celebrate with love your holy memory."
+
+meMA.Ode3KathismaT.mode=misc_en_UK_lash.Mode8
+meMA.Ode3KathismaT.melody=he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaT.incipit = "Let us hymn the heavenly"
+meMA.Ode3KathismaT.text="Let us hymn the heavenly gate and ark, the all-holy mountain, the cloud of light, the bush unburned, the spiritual Paradise, the ransom of Eve, the great foundation of the whole inhabited world; because in her salvation was wrought for the world and forgiveness of ancient offences; and so we cry to her: Intercede with your Son and God to bestow forgiveness of faults on those who devoutly worship your all-holy child-bearing."
+
+meMA.Ode4C11.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode4C11.melody=he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
+meMA.Ode4C11.incipit = "Using the greatest proof of"
+meMA.Ode4C11.text="Using the greatest proof of marvels, and radiantly displaying the glory of divine doctrines, you grasped by your preaching the whole inhabited world, which cries out: Glory, O Christ, to your power!"
+
+meMA.Ode4C12.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode4C12.melody=he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
+meMA.Ode4C12.incipit = "Thomas, blessed and all-honoured, we"
+meMA.Ode4C12.text="Thomas, blessed and all-honoured, we praise you as an eye-witness and zealous servant of the Word, a witness of his glory and majesty, as a faithful steward and Apostle."
+
+meMA.Ode4C13.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode4C13.melody=he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
+meMA.Ode4C13.incipit = "O blessed and all-revered Thomas,"
+meMA.Ode4C13.text="O blessed and all-revered Thomas, fixing a corner-stone as base, you constructed for those who believe as it were a bridal chamber and heavenly tabernacle."
+
+meMA.Ode4C1T.ode=misc_en_UK_lash.Ode4
+meMA.Ode4C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode4C1T.melody=he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
+meMA.Ode4C1T.incipit = "We name the all-holy Virgin"
+meMA.Ode4C1T.text="We name the all-holy Virgin earth unploughed, which produced the ear of life, light cloud, source of the rain which gives life, as we cry out: Glory, O Christ, to your power!"
+
+meMA.Ode5C11.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode5C11.melody=he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
+meMA.Ode5C11.incipit = "Apostle, made radiant by Christ’s"
+meMA.Ode5C11.text="Apostle, made radiant by Christ’s glory and having handled his life-giving side, you drew on an unfathomable abyss of blessing and enriched the world."
+
+meMA.Ode5C12.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode5C12.melody=he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
+meMA.Ode5C12.incipit = "At your first entrance Thomas"
+meMA.Ode5C12.text="At your first entrance Thomas was not present and did not believe the Disciples; but afterwards, brought to belief, he cried out with joy: Most merciful, I proclaim you God and Lord!"
+
+meMA.Ode5C13.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode5C13.melody=he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
+meMA.Ode5C13.incipit = "With spiritual thunder Thomas, the"
+meMA.Ode5C13.text="With spiritual thunder Thomas, the living heaven of your glory, cried out, proclaiming you, O Christ, to be both God and Lord and he preached you reverently."
+
+meMA.Ode5C1T.ode=misc_en_UK_lash.Ode5
+meMA.Ode5C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode5C1T.melody=he.h.m4_en_UK_lash.AseveisOukOpsontai.incipit
+meMA.Ode5C1T.incipit = "Make my mind a victor"
+meMA.Ode5C1T.text="Make my mind a victor over the passions, O all-blameless, and subdue their assaults by reason, Bride of God, who gave birth to the Saviour of our souls [who gave birth to eternal dispassion]."
+
+meMA.Ode6C11.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode6C11.melody=he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6C11.incipit = "Your unbelief, blessed Thomas, heals"
+meMA.Ode6C11.text="Your unbelief, blessed Thomas, heals the soul-destroying unbelief of all; for you indisputably investigated the holes of the nails and the lance."
+
+meMA.Ode6C12.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode6C12.melody=he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6C12.incipit = "Like a sharpened arrow, O"
+meMA.Ode6C12.text="Like a sharpened arrow, O Christ, as a man of power, you loosed the Apostle into the hearts of the foe, O Giver of life, and he brought you the plunder of their spoils."
+
+meMA.Ode6C13.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode6C13.melody=he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6C13.incipit = "Lord of mercy, you destroyed"
+meMA.Ode6C13.text="Lord of mercy, you destroyed idolatrous sacrifices by your being slaughtered on a tree and by the holy slaughter of your inspired Apostles, as they imitated your sufferings."
+
+meMA.Ode6C1T.ode=misc_en_UK_lash.Ode6
+meMA.Ode6C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode6C1T.melody=he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6C1T.incipit = "O marvel, newer than all"
+meMA.Ode6C1T.text="O marvel, newer than all marvels! For a Virgin conceives in her womb without knowing man him who cherishes the universe and she is not straitened."
+
+meMA.Ode6H.ode=misc_en_UK_lash.Ode6
+meMA.Ode6H.mode=misc_en_UK_lash.Mode4
+meMA.Ode6H.melody=misc_en_UK_lash.Heirmos
+meMA.Ode6H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6H.text=he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
+
+meMA.Kontakion1.mode=misc_en_UK_lash.Mode4
+meMA.Kontakion1.melody=he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
+meMA.Kontakion1.incipit = "Filled with God’s grace, Christ’s"
+meMA.Kontakion1.text="Filled with God’s grace, Christ’s Apostle and true servant cried in repentance, ‘You are my God and Lord!’"
+
+meMA.Oikos1.text="When Peter said to the inspired Thomas, Christ’s Disciple and great speaker of mysteries, ‘We have seen the Lord’, he said, ,If I do not see in his hands the mark of the nails, and handle his side, I will not believe’. But the Creator and Master of all things came as a slave, wishing to save all, and said to Thomas, ‘Handle the marks in my hands and side, and do not be unbelieving; for I am the Lord your God’. But he cried in repentance, ‘You are my God and Lord’."
+
+meMA.Ode7C11.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode7C11.melody=he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
+meMA.Ode7C11.incipit = "Dancing joyfully as an Apostle"
+meMA.Ode7C11.text="Dancing joyfully as an Apostle with the choir above in heaven, gladly you sing, blessed saint: Blessed are you, Lord, in the temple of your glory."
+
+meMA.Ode7C12.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode7C12.melody=he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
+meMA.Ode7C12.incipit = "From end to end of"
+meMA.Ode7C12.text="From end to end of the world your sound has sped, and the utterance of divine words has taught those who cry: Blessed are you, Lord, in the temple of your glory."
+
+meMA.Ode7C13.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode7C13.melody=he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
+meMA.Ode7C13.incipit = "You became a temple of"
+meMA.Ode7C13.text="You became a temple of the Trinity, all-honoured Apostle; therefore you wiped out the temples and altars of idols, while you raised temples for the praise and worship of Christ God."
+
+meMA.Ode7C1T.ode=misc_en_UK_lash.Ode7
+meMA.Ode7C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode7C1T.melody=he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
+meMA.Ode7C1T.incipit = "Through your giving birth we"
+meMA.Ode7C1T.text="Through your giving birth we have been delivered from the slavery of the law; for without knowing man, O Mother of God, you bore for us a liberator. Blessed are you among women, O all-blameless."
+
+meMA.Ode8C11.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode8C11.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C11.incipit = "Companion of God in the"
+meMA.Ode8C11.text="Companion of God in the flesh, you were seen to have abandoned the flesh; while you were enriched with deification above the world, made divine by your nearness to God and crying: Praise the Lord, and highly exalt him to all the ages."
+
+meMA.Ode8C12.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode8C12.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C12.incipit = "Close knit with God by"
+meMA.Ode8C12.text="Close knit with God by love, you longed for death with him, blessed Apostle, when you called out to your fellow Apostles: Let us go, and let us accept death with him, as we cry: Praise the Lord, and highly exalt him to all the ages."
+
+meMA.Ode8C13.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode8C13.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C13.incipit = "As clouds of heavenly rain,"
+meMA.Ode8C13.text="As clouds of heavenly rain, O Christ, you revealed your Apostles, overflowing with showers of divine knowledge, and watering the Churches, and crying: Praise the Lord, and highly exalt him to all the ages."
+
+meMA.Ode8C1T.ode=misc_en_UK_lash.Ode8
+meMA.Ode8C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode8C1T.melody=he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8C1T.incipit = "Pure of spot and blemish,"
+meMA.Ode8C1T.text="Pure of spot and blemish, and a sacred enclosure of all holiness, you bore the all-holy Word, who hallows all, with the Father without beginning; and so we praise you, O Virgin, and highly exalt you to all the ages."
+
+meMA.Ode8H.ode=misc_en_UK_lash.Ode8
+meMA.Ode8H.mode=misc_en_UK_lash.Mode4
+meMA.Ode8H.melody=misc_en_UK_lash.Heirmos
+meMA.Ode8H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
+meMA.Ode8H.text=he.h.m4_en_UK_lash.PaidasEvageis.text
+
+meMA.Ode9C11.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C11.mode=misc_en_UK_lash.Mode4
+meMA.Ode9C11.melody=he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
+meMA.Ode9C11.incipit = "You were revealed as a"
+meMA.Ode9C11.text="You were revealed as a light-bearing chariot, glorious Apostle, carrying with your obedient and god-bearing soul the Word seated upon it, as he drives towards salvation those who hymn you."
+
+meMA.Ode9C12.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C12.mode=misc_en_UK_lash.Mode4
+meMA.Ode9C12.melody=he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
+meMA.Ode9C12.incipit = "As we celebrate your all-blessed"
+meMA.Ode9C12.text="As we celebrate your all-blessed memorial, we implore that we may be delivered from every storm by the mediation of the confidence which you have as Christ’s Apostle, O all-honoured eye-witness of God."
+
+meMA.Ode9C13.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C13.mode=misc_en_UK_lash.Mode4
+meMA.Ode9C13.melody=he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
+meMA.Ode9C13.incipit = "We all celebrate your memory"
+meMA.Ode9C13.text="We all celebrate your memory to-day, Apostle Thomas; enlighten, hallow us with faith, ever rescuing us from trials and dangers and sufferings by your prayers."
+
+meMA.Ode9C1T.ode=misc_en_UK_lash.Ode9
+meMA.Ode9C1T.mode=misc_en_UK_lash.Mode4
+meMA.Ode9C1T.melody=he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
+meMA.Ode9C1T.incipit = "You appeared as a Mother,"
+meMA.Ode9C1T.text="You appeared as a Mother, bride of God, and an all-spotless Virgin; for you joined in one virginity and child-bearing, immaculate Lady, in giving birth to the Maker and Lord of all creation."
+
+meMA.Ode9H.ode=misc_en_UK_lash.Ode9
+meMA.Ode9H.mode=misc_en_UK_lash.Mode4
+meMA.Ode9H.melody=misc_en_UK_lash.Heirmos
+meMA.Ode9H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
+meMA.Ode9H.text=he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+
+meMA.Exaposteilarion1.mode=misc_en_UK_lash.Mode2
+meMA.Exaposteilarion1.melody=he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
+meMA.Exaposteilarion1.incipit = "Eyewitness and Apostle of Christ"
+meMA.Exaposteilarion1.text="Eyewitness and Apostle of Christ the all-pitying, grant peace to the whole inhabited world, victories to our Christ-loving Sovereign, ask forgiveness of faults and salvation for us who praise you, Thomas, as an inspired disciple."
+
+meMA.Exaposteilarion2.mode=misc_en_UK_lash.Mode2
+meMA.Exaposteilarion2.melody=he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
+meMA.Exaposteilarion2.incipit = "Christ, the great Sun, sent"
+meMA.Exaposteilarion2.text="Christ, the great Sun, sent you as a beam radiant with light to India, as an initiate dispelling utterly the fog of error, O wise Apostle Thomas, and enlightening the peoples to honour the divine Trinity, by which we are all guarded."
+
+meMA.ExapTheotokion.mode=misc_en_UK_lash.Mode2
+meMA.ExapTheotokion.melody=he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
+meMA.ExapTheotokion.incipit = "All-blameless Mother of God, the"
+meMA.ExapTheotokion.text="All-blameless Mother of God, the great rampart of the Apostles, Martyrs, Prophets and Saints, make your Son and Lord merciful to us your servants, Mother of God, when he takes his seat to judge each as they deserve."
+
+meMA.Lauds1.poet=poets_en_UK_lash.Anatoliou
+meMA.Lauds1.mode=misc_en_UK_lash.Mode2
+meMA.Lauds1.melody=""
+meMA.Lauds1.incipit = "You followed Christ, Apostle Thomas,"
+meMA.Lauds1.text="You followed Christ, Apostle Thomas, and you despised the world, and hiding his teachings in your store, you were revealed as an Apostle; therefore among the nations you enlightened their souls, darkened by the error and the passions, with the commandments of the Saviour, to believe in the consubstantial Trinity."
+
+meMA.Lauds2.mode=misc_en_UK_lash.Mode4
+meMA.Lauds2.melody=""
+meMA.Lauds2.incipit = "Made radiant in soul by"
+meMA.Lauds2.text="Made radiant in soul by the divine fire of knowledge, you became in all things an imitator of the Master, as an outstanding Disciple, Apostle Thomas; for with the rod of the Cross you caught souls of the devout from the deep of ignorance. Therefore too you netted with the hook of the divine Spirit the beclouded mind of the Indians. Ever beseech Christ God to deliver us also from the darkened sight of the foe and to save our souls."
+
+meMA.Lauds3.mode=misc_en_UK_lash.Mode4
+meMA.Lauds3.melody=""
+meMA.Lauds3.incipit = "Leaving behind the deep of"
+meMA.Lauds3.text="Leaving behind the deep of fishing, by faith you advanced with the rod of the Cross and caught all with it, Apostle Thomas; and so having handled the side of the Word with your hand, you were found worthy to explore with your finger the holes of the piercing nails. Intercede insistently with Christ God that our souls may be saved."
+
+meMA.LaudsGlory.mode=misc_en_UK_lash.Mode6
+meMA.LaudsGlory.melody=""
+meMA.LaudsGlory.incipit = meVE.AposGlory.incipit
+meMA.LaudsGlory.text=meVE.AposGlory.text
+
+meMA.LaudsTheotokion.mode=misc_en_UK_lash.Mode6
+meMA.LaudsTheotokion.melody=he.o_en_UK_lash.TheotokeSyEi.incipit
+meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiApostolou.incipit
+meMA.LaudsTheotokion.text=he.o_en_UK_lash.TheotokeSyEiApostolou.text
+
+meMA.MM.Lauds1123as5678.text=properties_en_UK_lash.media.key
+
+meLI.Kontakion1.mode=meMA.Kontakion1.mode
+meLI.Kontakion1.melody=meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
+meLI.Kontakion1.text=meMA.Kontakion1.text
+
+meMegalynarion.text=""
 

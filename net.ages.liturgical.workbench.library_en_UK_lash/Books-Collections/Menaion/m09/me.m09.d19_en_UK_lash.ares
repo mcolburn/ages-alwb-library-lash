@@ -1,6 +1,7 @@
-A_Resource_Whose_Name = me.m09.d19_en_UK_lash 
+A_Resource_Whose_Name=me.m09.d19_en_UK_lash
 
-meVE.SticGlory.mode = misc_en_UK_lash.Mode8
-meVE.SticGlory.melody = ""
-meVE.SticGlory.text = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.text
+meVE.SticGlory.mode=misc_en_UK_lash.Mode8
+meVE.SticGlory.melody=""
+meVE.SticGlory.incipit = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.incipit
+meVE.SticGlory.text=me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.text
 
