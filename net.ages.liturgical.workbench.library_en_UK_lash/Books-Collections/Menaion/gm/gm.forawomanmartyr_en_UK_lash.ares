@@ -1,23 +1,28 @@
-A_Resource_Whose_Name = gm.forawomanmartyr_en_UK_lash 
+A_Resource_Whose_Name = gm.forawomanmartyr_en_UK_lash
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
 meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.incipit = "As noble among Martyrs with"
 meVE.Stichera01.text = "As noble among Martyrs with the dye of your blood you made for yourself a garment of salvation, O all-praised, and radiant by the Spirit you were betrothed to the immortal King, who keeps you as a most fair and spotless virgin unblemished, uncorrupt to age on age in heavenly bridal chambers."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
 meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.incipit = "Acquainted with tortures, close neighbour"
 meVE.Stichera02.text = "Acquainted with tortures, close neighbour to fire, steadfast under the rending of the flesh, nobly enduring the boiling of cauldrons, you were not worsted by thoughts, you did not sacrifice to wooden idols; but bowing your neck to God, by the punishment of the sword, bearing the wreath of victory you mounted to the heights."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
 meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.incipit = "Resplendent with the splendours of"
 meVE.Stichera03.text = "Resplendent with the splendours of virginity, all-praised Martyr, you blazed in the struggles of martyrdom, for you were not persuaded to worship idols, but endured the unjust slaughter, made scarlet by your own blood; and now, wearing the garland of victory, you stand before God, the Master, made radiant by the brightness that floods from him."
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.SticTheotokion.incipit = "I call you blessed, O"
 meVE.SticTheotokion.text = "I call you blessed, O All-pure, who snatched mortals from the deep of evil and despair; I hymn you, Bride of God, the ever-blest, and I glorify your revered and ineffable child-bearing, for you, O Virgin, gave birth to the Saviour of the world, and freed humanity from the ancestral curse."
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.incipit = "When the Virgin, your Mother,"
 meVE.SticStavrotheotokion.text = "When the Virgin, your Mother, saw you, Lord, hanging upon the Cross, she was amazed and gazing intently at you she said: How have they repaid you, those who enjoyed your many gifts, O Master? But I beg, do not leave me alone in the world; hasten to arise, raising with you the forefathers."
 
 //meMA.C1.title = titles_en_UK_lash.KanonTisAgias
@@ -32,26 +37,31 @@ meMA.Ode1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text //not sure thi
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C11.melody = misc_en_UK_lash.NotMetered
+meMA.Ode1C11.incipit = "As you now dance with"
 meMA.Ode1C11.text = "As you now dance with the godlike ranks of the Bodiless Powers around Christ, the Cause of all things, and clearly take delight in the divine splendour, make radiant those who sing your praise."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C12.melody = misc_en_UK_lash.NotMetered
+meMA.Ode1C12.incipit = "Womanhood, by grace made manly,"
 meMA.Ode1C12.text = "Womanhood, by grace made manly, by divine power has through weakness cast down the puffed up pride, which boasted immoderately of old that it could wipe out the sea."
 
 meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C13.melody = misc_en_UK_lash.NotMetered
+meMA.Ode1C13.incipit = "Contemplating you fastened to the"
 meMA.Ode1C13.text = "Contemplating you fastened to the Cross, O Master, your far famed Martyr endured the pain of tortures, empowered by your might, who gave strength to our nature."
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C1T.melody = misc_en_UK_lash.NotMetered
+meMA.Ode1C1T.incipit = "Without seed by the will"
 meMA.Ode1C1T.text = "Without seed by the will of the Father you conceived of the divine Spirit the Son of God, and bore in the flesh the One who is of the Father without mother and for our sakes of you without father."
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -76,14 +86,17 @@ meMA.Ode3C1T.text = "You alone the source of good things for those on earth beca
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode5
 meMA.Ode3Kathisma1.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+meMA.Ode3Kathisma1.incipit = "Your Champion, O Christ, nobly"
 meMA.Ode3Kathisma1.text = "Your Champion, O Christ, nobly endured all the torments of the tyrants, trampled down the foe of many devices, was revealed as truly victor over him and received from you, judge of the contest, a garland of glory; and now she intercedes that we may be saved."
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode5
 meMA.Ode3KathismaT.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+meMA.Ode3KathismaT.incipit = "Show your speedy protection, your"
 meMA.Ode3KathismaT.text = "Show your speedy protection, your help and your mercy to your servants, O Pure Virgin, and calm the waves of vain thoughts and raise up my fallen soul; because I know, I know, that you have power to do whatever you will."
 
 meMA.Ode3KathismaSt.mode = misc_en_UK_lash.Mode5
 meMA.Ode3KathismaSt.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
+meMA.Ode3KathismaSt.incipit = "When she who gave you"
 meMA.Ode3KathismaSt.text = "When she who gave you birth, O Saviour, saw you lifted up on the Tree, she lamented with weeping and cried aloud: Alas, my sweetest Son, I am wounded in soul at seeing you on the Cross, nailed up like a malefactor between two malefactors."
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
@@ -94,21 +107,25 @@ meMA.Ode4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text //not sure this i
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C11.melody = misc_en_UK_lash.NotMetered
+meMA.Ode4C11.incipit = "Like wolves, O Martyr, the"
 meMA.Ode4C11.text = "Like wolves, O Martyr, the ill-intentioned tore you, the spotless lamb, in pieces by tortures and perfected you as an utterly unblemished, godly sacrifice and victim to God."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C12.melody = misc_en_UK_lash.NotMetered
+meMA.Ode4C12.incipit = "By her martyr's resistance she"
 meMA.Ode4C12.text = "By her martyr's resistance she routed the one who by deception tripped the first Eve by the heel and destroyed him, proving him to be powerless, as she sang to Christ: Glory to your power, O Lord!"
 
 meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C13.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C13.melody = misc_en_UK_lash.NotMetered
+meMA.Ode4C13.incipit = "Your heart aflame with love"
 meMA.Ode4C13.text = "Your heart aflame with love for the Bridegroom, you quenched the coals of error, noble-minded Martyr with the streams of your blood, and dried up the sea of the cult of many gods."
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C1T.melody = misc_en_UK_lash.NotMetered
+meMA.Ode4C1T.incipit = "Without knowing wedlock you bore"
 meMA.Ode4C1T.text = "Without knowing wedlock you bore a child, O Virgin, and after giving birth you remained still a Virgin; therefore, Sovereign Lady, with never silent voices and unshakeable faith we cry to you: Hail!"
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
@@ -119,26 +136,31 @@ meMA.Ode5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text //not sure this is cor
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C11.melody = misc_en_UK_lash.NotMetered
+meMA.Ode5C11.incipit = "Loving Christ, the Myrrh who"
 meMA.Ode5C11.text = "Loving Christ, the Myrrh who was poured out, the noble-minded maiden followed him, glorifying him in songs."
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C12.melody = misc_en_UK_lash.NotMetered
+meMA.Ode5C12.incipit = "Wounded in soul by your"
 meMA.Ode5C12.text = "Wounded in soul by your beauty, O Master, the virgin sped beyond visible beauties, made radiant by her struggle."
 
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered
+meMA.Ode5C13.incipit = "You offered yourself wholly to"
 meMA.Ode5C13.text = "You offered yourself wholly to God, as the scarlet of virginity; perfecting the former with the dye of your blood."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C1T.melody = misc_en_UK_lash.NotMetered
+meMA.Ode5C1T.incipit = "We put you forward as"
 meMA.Ode5C1T.text = "We put you forward as an unbreakable weapon against foes; we have gained you, Bride of God, as anchor and hope of our salvation."
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -169,26 +191,31 @@ meMA.Ode7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C11.melody = misc_en_UK_lash.NotMetered
+meMA.Ode7C11.incipit = "With virgins you go bearing"
 meMA.Ode7C11.text = "With virgins you go bearing your torch to heaven, having bravely endured the torches of fire, as you sang: Blessed are you in the temple of your glory!"
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C12.melody = misc_en_UK_lash.NotMetered
+meMA.Ode7C12.incipit = "Like a dowry you brought"
 meMA.Ode7C12.text = "Like a dowry you brought to the Bridegroom a company and people that believed in Christ, having beaten off with your wonder-working shafts of light the blackness of error."
 
 meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C13.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C13.melody = misc_en_UK_lash.NotMetered
+meMA.Ode7C13.incipit = "You did not flinch, but"
 meMA.Ode7C13.text = "You did not flinch, but rather with manly courage, all-revered Martyr, you approached the pyre, fully aware in soul and crying out: Blessed are you in the temple of your glory!"
 
 meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C1T.melody = misc_en_UK_lash.NotMetered
+meMA.Ode7C1T.incipit = "Hail, hallowed and divine tabernacle"
 meMA.Ode7C1T.text = "Hail, hallowed and divine tabernacle of the Most High. Hail, Mother of God, through whom joy has been given to those who cry: Blessed are you among women, all-blameless Lady."
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -214,24 +241,29 @@ meMA.Ode8C1T.text = "You alone among all generations, immaculate Virgin, were re
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C11.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C11.incipit = "As a most fair and"
 meMA.Ode9C11.text = "As a most fair and lovely and skilful Virgin, as an invincible Martyr and all-blameless Bride of the Master, with wings of gold you have reached your goal in heaven."
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C12.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C12.incipit = "As a spiritual wallow, turtle-dove"
 meMA.Ode9C12.text = "As a spiritual wallow, turtle-dove without corruption, dove with the gilded wings of martyrdom, who have flown to God and found your rest; we honour you."
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C13.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C13.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C13.incipit = "Within the incorruptible bridal chamber,"
 meMA.Ode9C13.text = "Within the incorruptible bridal chamber, inspired Martyr, made ever radiant by the beams that shine out from your Bridegroom, intercede on behalf of us who devoutly sing your praise."
 
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C1T.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C1T.incipit = "That I may glorify you,"
 meMA.Ode9C1T.text = "That I may glorify you, O Virgin truly glorified, deliver me from every disgrace and sin, and make me a partaker of heavenly glory, who take refuge in your mercy."

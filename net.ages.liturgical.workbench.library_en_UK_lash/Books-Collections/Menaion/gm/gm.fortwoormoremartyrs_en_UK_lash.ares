@@ -1,23 +1,28 @@
-A_Resource_Whose_Name = gm.fortwoormoremartyrs_en_UK_lash 
+A_Resource_Whose_Name = gm.fortwoormoremartyrs_en_UK_lash
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
 meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.incipit = "As men who soldiered well,"
 meVE.Stichera01.text = "As men who soldiered well, all-praised Martyrs, for the King of Powers, you willingly gave yourselves up to scourgings and violent death, bringing with you choirs of fellow-martyrs; with whom, O blessed ones, you found the blessed end and bound your brows with crowns of victory as you intercede on our behalf."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
 meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.incipit = "Smitten unyieldingly and consumed by"
 meVE.Stichera02.text = "Smitten unyieldingly and consumed by fire, nailed to boards from every side and driven on roads, shut up in prison and roasted on coals like a pure victim, to him who was sacrificed for us you were offered as a sweet-smelling oblation on the altar on high, glorious Martyrs."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
 meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.incipit = "Deprived of hands and feet,"
 meVE.Stichera03.text = "Deprived of hands and feet, with heads cut off, racked and subjected to all other torments, you did not deny Christ or sacrifice to wooden idols, but bidding farewell to this temporary life you passed over, all-honoured Champions, to divine and heavenly glory."
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.SticTheotokion.incipit = "I call you blessed, O"
 meVE.SticTheotokion.text = "I call you blessed, O All-pure, who snatched mortals from the deep of evil and despair; I confess you, Bride of God, the ever-blessed, and I glorify, holy Virgin, your ineffable child-bearing, because you bore the Saviour of the world and freed humanity from the ancestral curse."
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.incipit = "As the Virgin your Mother"
 meVE.SticStavrotheotokion.text = "As the Virgin your Mother saw you hanged upon a cross, O Lord, she was dismayed and gazing on you said: How have they repaid you, Master, those who enjoyed your many gifts? But, I beg, do not leave me alone in the world; but hasten, rise again, raising the forefathers with you."
 
 meMA.C1.acrostic = "whose acrostic is: Let Christ, glory of the martyrs be acclaimed."
@@ -29,6 +34,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.DefteLaoi.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -54,6 +60,7 @@ meMA.Ode1C1T.text = "You gave birth to the heavenly bread of life incarnate, O A
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.incipit
 meMA.Ode3C1H.text = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -78,19 +85,23 @@ meMA.Ode3C1T.text = "We honour you, alone virgin after childbirth, as assurance 
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
+meMA.Ode3Kathisma1.incipit = "The noble soldiers of Christ"
 meMA.Ode3Kathisma1.text = "The noble soldiers of Christ struggled bravely with Beliar; drowned him completely in the streams of their blood; for crushed by stones, cut with swords, burned by fire and flung into water they appeared manifestly wearing crowns of victory; therefore they are honoured and glorified with faith."
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaT.incipit = "Let us humble sinners now"
 meMA.Ode3KathismaT.text = "Let us humble sinners now hasten to the Mother of God, and let us fall down in repentance as we cry from the depths of the soul: Sovereign Lady, have compassion and help us; hasten, for we perish from the multitude of our offences; do not turn your servants empty away; for we have you as our only hope."
 
 meMA.Ode3KathismaSt.mode = misc_en_UK_lash.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
+meMA.Ode3KathismaSt.incipit = "The all-blameless Lamb and Virgin,"
 meMA.Ode3KathismaSt.text = "The all-blameless Lamb and Virgin, when with grief of soul she saw the Son she had borne stretched out upon a Cross, was amazed and cried out: Where, my Child, so dearly loved, is the memory of your gifts and wonders, which the ungrateful people has enjoyed? But now you suffer all this to save the race of mortals and I hymn your compassion."
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_UK_lash.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -116,6 +127,7 @@ meMA.Ode4C1T.text = "The Athletes honoured you, Sovereign Lady, as Mother of God
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_UK_lash.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -141,6 +153,7 @@ meMA.Ode5C1T.text = "Descended from David you gave birth to a sacrificing priest
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.AvyssosAmartimaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_UK_lash.AvyssosAmartimaton.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -166,6 +179,7 @@ meMA.Ode6C1T.text = "Save your servants from dangers, O Mother of God, for after
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_UK_lash.EikonosChrysis.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -191,6 +205,7 @@ meMA.Ode7C1T.text = "Like professionals your Champions, though tortured, triumph
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.TonArritoSofia.incipit
 meMA.Ode8C1H.text = he.h.m2_en_UK_lash.TonArritoSofia.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -216,16 +231,19 @@ meMA.Ode8C1T.text = "The feet of the martyrs have been made beautiful by faith a
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.incipit
 meMA.Ode9C1H.text = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode2
 meMA.Ode9C11.melody = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.text
+meMA.Ode9C11.incipit = "The error of idols whose"
 meMA.Ode9C11.text = "The error of idols whose wood had overgrown of old the hearts of mortals, you burned up, O Christ, with the fire of the faith, when you assembled choirs Martyrs of true religion, who in hymns ceaselessly magnify you."
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode2
 meMA.Ode9C12.melody = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.text
+meMA.Ode9C12.incipit = "The Martyrs abandoning transient glory"
 meMA.Ode9C12.text = "The Martyrs abandoning transient glory and unstable wealth on earth, O Christ, having found you, the radiance of the glory, the wealth that cannot be taken away, have become heirs of eternal good things in heaven."
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
@@ -237,4 +255,5 @@ As at evening human nature was of old bent down beneath yokes of error, when you
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode2
 meMA.Ode9C1T.melody = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.text
+meMA.Ode9C1T.incipit = "Virgin, Bride and Mother, accept"
 meMA.Ode9C1T.text = "Virgin, Bride and Mother, accept too the ranks of the Saints who entreat your Son, O only hope of believers; and grant peace to the world, victories to our Christ-loving Sovereign, and salvation to us who sing your praise."

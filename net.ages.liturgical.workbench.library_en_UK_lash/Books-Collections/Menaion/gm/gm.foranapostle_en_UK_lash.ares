@@ -1,23 +1,28 @@
-A_Resource_Whose_Name = gm.foranapostle_en_UK_lash 
+A_Resource_Whose_Name = gm.foranapostle_en_UK_lash
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode8
 meVE.Stichera01.melody = he.a.m8_en_UK_lash.TiYmasKalesomen.notmetered
+meVE.Stichera01.incipit = "What should I name you,"
 meVE.Stichera01.text = "What should I name you, Apostle? Heaven, for you declare the glory of God. River, for mystically you water creation. Star, which sheds its light on the Church. Mixing-bowl, which pours out a holy draught. True Friend of Christ. Companion of the Bodiless Powers. Intercede that our souls may be saved."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode8
 meVE.Stichera02.melody = he.a.m8_en_UK_lash.TiYmasKalesomen.notmetered
+meVE.Stichera02.incipit = "Apostle, truly inspired, you were"
 meVE.Stichera02.text = "Apostle, truly inspired, you were sent out from Christ like a thunderbolt formed of light, wounding enemies, plainly predicting healing for wounded souls; and so, as is fitting, we call you blessed and celebrate today your holy festival. Intercede that our souls may be saved."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode8
 meVE.Stichera03.melody = he.a.m8_en_UK_lash.TiYmasKalesomen.notmetered
+meVE.Stichera03.incipit = "Glorious Apostle, who saw God,"
 meVE.Stichera03.text = "Glorious Apostle, who saw God, your feet were made beautiful as they trod the ways of the Lord, and narrowed the ways of the ill-intentioned by the broadening of the divine knowledge of the Word, who appeared in a material body and chose you, blessed one, as a glorious Disciple. Implore him that our souls may be saved."
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode8
 meVE.SticTheotokion.melody = he.a.m8_en_UK_lash.TiYmasKalesomen.notmetered
+meVE.SticTheotokion.incipit = "Those who were granted to"
 meVE.SticTheotokion.text = "Those who were granted to see in bodily form the dignity of the Father and his Godhead, proclaimed you, Maiden, as Bride and Virgin, Mother of the Word and God, and dwelling of the Holy Spirit; for in you the Godhead dwelt entirely in bodily form, the fullness of fullest grace."
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode8
 meVE.SticStavrotheotokion.melody = he.a.m8_en_UK_lash.TiYmasKalesomen.notmetered
+meVE.SticStavrotheotokion.incipit = "When the Ewe-lamb who bore"
 meVE.SticStavrotheotokion.text = "When the Ewe-lamb who bore you saw you nailed to the Tree, Lord, she tore at her eyes and cried aloud in lamentation, 'My Son, how do you endure unjust slaughter? How can you, the Immortal, die as a mortal? Give me a word, sweetest light. Look at your Mother as she mourns for you, and glorify her, O Word, by your rising'."
 
 //meMA.C1.title = titles_en_UK_lash.KanonTouApostolou
@@ -27,6 +32,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_Apostle.text
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -52,6 +58,7 @@ meMA.Ode1C1T.text = "Immaculate Mother of God, who gave birth beyond nature to t
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -76,19 +83,23 @@ meMA.Ode3C1T.text = "By your intercessions, O All-pure, give us help, by beating
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode3
 meMA.Ode3Kathisma1.melody = he.a.m3_en_UK_lash.TheiasPisteos.notmetered
+meMA.Ode3Kathisma1.incipit = "With the outpouring of light"
 meMA.Ode3Kathisma1.text = "With the outpouring of light of the divine Spirit you abolished the darkness of the cult of many gods, and enlightened the hearts of believers as you cried aloud the doctrines of salvation, to the inhabited world, all-wise Apostle; implore Christ God to grant us his great mercy."
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode3
 meMA.Ode3KathismaT.melody = he.a.m3_en_UK_lash.TheiasPisteos.notmetered
+meMA.Ode3KathismaT.incipit = "You became a divine tabernacle"
 meMA.Ode3KathismaT.text = "You became a divine tabernacle of the Word, alone all-pure Mother of God, who in purity surpass the Angels; with the inspired streams of your intercessions, purify me, who above all others have become dust made foul by faults of the flesh, and grant me his great mercy."
 
 meMA.Ode3KathismaSt.mode = misc_en_UK_lash.Mode3
 meMA.Ode3KathismaSt.melody = he.a.m3_en_UK_lash.TheiasPisteos.notmetered
+meMA.Ode3KathismaSt.incipit = "Your pure Mother who knew"
 meMA.Ode3KathismaSt.text = "Your pure Mother who knew not wedlock seeing you hanging dead upon the Tree, O Christ, like a mother lamented and said: How has the lawless and ungrateful Hebrew people, who enjoyed your many and great gifts, repaid you? I sing the praise of your divine condescension."
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -114,6 +125,7 @@ meMA.Ode4C1T.text = "We, who have been enlightened, all proclaim you to be Mothe
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -139,6 +151,7 @@ meMA.Ode5C1T.text = "Mary, Mother of God, without bridegroom, bring to naught th
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.ChitonaMoiParaschou.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -164,6 +177,7 @@ meMA.Ode6C1T.text = "We believers proclaim you, Mother of God, as Temple of God,
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -189,6 +203,7 @@ meMA.Ode7C1T.text = "Incarnate from a virgin womb, you appeared for our salvatio
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -214,25 +229,30 @@ meMA.Ode8C1T.text = "You gave birth beyond nature, O Virgin, to the Creator and 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C11.incipit = "By the light-bearing might of"
 meMA.Ode9C11.text = "By the light-bearing might of the Trinity the far-famed Apostle of the Saviour Christ destroyed the stronghold of gloomy deception."
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C12.incipit = "Rejoicing you have been united"
 meMA.Ode9C12.text = "Rejoicing you have been united with choirs of Apostles and Martyrs and Bodiless Powers, blest Apostle; with them implore that those who honour you may be saved."
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C13.incipit = "You gathered the scattered nations,"
 meMA.Ode9C13.text = "You gathered the scattered nations, O Christ, through Apostles and godly Martyrs, and founded for yourself the Church of mortals."
 
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C1T.incipit = "Beautiful, Mother of God, is"
 meMA.Ode9C1T.text = "Beautiful, Mother of God, is the fruit of your womb; cause not of corruption for those who partake of it, but of life for those who magnify you with faith."
 

@@ -1,23 +1,28 @@
-A_Resource_Whose_Name = gm.foranascetic_en_UK_lash 
+A_Resource_Whose_Name = gm.foranascetic_en_UK_lash
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
 meVE.Stichera01.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.Stichera01.incipit = "Bridling every pleasure, you denied"
 meVE.Stichera01.text = "Bridling every pleasure, you denied the body, O wise in God. By deeds of self-mastery and harshness and endurance of trials you embittered your senses. In exchange for all these you receive unending delight, perpetual pleasure and unspeakable joy."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
 meVE.Stichera02.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.Stichera02.incipit = "Through self-mastery and brief supplication"
 meVE.Stichera02.text = "Through self-mastery and brief supplication you made the passions of the body wither, and you suffocated the crafty serpent with showers of tears, blessed and inspired Father, and you were exceedingly well-pleasing to God. Therefore Jesus, the lover of mankind and Saviour of our souls, adorned you with heavenly gifts of grace."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
 meVE.Stichera03.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.Stichera03.incipit = "You finished the course of"
 meVE.Stichera03.text = "You finished the course of your ascetic life without swerving and you kept the faith, therefore you were adorned with a crown of justice, which Christ, who apportions prizes as is right and gives awards, had prepared for you, and the reward of your toils. Beseech him to furnish us now also with these, god-bearing Father."
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.SticTheotokion.incipit = "All-blameless, who bore the Sun"
 meVE.SticTheotokion.text = "All-blameless, who bore the Sun of justice, dispel the fog of the passions that afflict me, and chase far from my miserable heart the serpent who cheats my soul, and enchants me now with sensual pleasures and vanities, and guard your servant with the calm of dispassion."
 
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+meVE.SticStavrotheotokion.incipit = "When she saw Christ, the"
 meVE.SticStavrotheotokion.text = "When she saw Christ, the lover of mankind, crucified and pierced in the side by a lance, the All-pure wept and cried out, 'What is this, my Son? Why does an ungrateful people revenge it self on you for all the good things you did for them? And why do you hasten to leave me childless? I am amazed, O Compassionate, at your voluntary crucifixion'."
 
 meMA.C1.acrostic = ""
@@ -29,6 +34,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_DevoutMan.text
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -54,6 +60,7 @@ meMA.Ode1C1T.text = "Adam's race, lifted up to the blessedness that is beyond th
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -78,19 +85,23 @@ meMA.Ode3C1T.text = "By your intercessions, O all-blameless, give us help, drivi
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+meMA.Ode3Kathisma1.incipit = "Devoutly longing for the poverty"
 meMA.Ode3Kathisma1.text = "Devoutly longing for the poverty of Jesus you abandoned perishable wealth and this transient life, wise Father, and taking your cross on your shoulders you travelled to the end the narrow path with joy, treading on the pleasures of the body, holy one, through the mastery of every wicked passion, and you reached the wide, divine plain of Paradise. our venerable Father."
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+meMA.Ode3KathismaT.incipit = "With compunction of my soul,"
 meMA.Ode3KathismaT.text = "With compunction of my soul, I bend the knee to you, good Virgin, and with supplication I cry out: Attend to me and see my misery, bowed down by sins. Having maltreated my soul and body, I expect those fearful punishments. Help me then, O Virgin, and rescue me from them, O Mother of God, for you have the power."
 
 meMA.Ode3KathismaSt.mode = misc_en_UK_lash.Mode4
 meMA.Ode3KathismaSt.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+meMA.Ode3KathismaSt.incipit = "The Virgin and Ewe-lamb, seeing"
 meMA.Ode3KathismaSt.text = "The Virgin and Ewe-lamb, seeing on a cross the Lamb who had been born from her for our sake made away with and pierced by a lance, wounded by the arrows of grief cried out with lamentation: What is this new mystery? How can you, the Lord of our life, be dying? Therefore arise, and raise with yourself our fallen forefather."
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -116,6 +127,7 @@ meMA.Ode4C1T.text = "Grant us pardon of offences, as you are sinless; make your 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -141,6 +153,7 @@ meMA.Ode5C1T.text = "Mary, Mother of God, without bridegroom, bring to naught th
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.ChitonaMoiParaschou.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -166,6 +179,7 @@ meMA.Ode6C1T.text = "The Word of God revealed you to mortals as a heavenly ladde
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -191,6 +205,7 @@ meMA.Ode7C1T.text = "You were the all-blest rod from the root of Jesse, O Virgin
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -216,29 +231,35 @@ meMA.Ode8C1T.text = "Beyond nature you gave birth, O Virgin, to the Creator and 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C11.incipit = "Your memory, Venerable Father, fittingly"
 meMA.Ode9C11.text = "Your memory, Venerable Father, fittingly gladdens all the throngs on earth today; save us who honour it year by year."
 
 meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C12.incipit = "Intercede that those who celebrate"
 meMA.Ode9C12.text = "Intercede that those who celebrate with faith your memory, worthy of praise, venerable Father, may be delivered from the stumbling blocks of the enemy."
 
 meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C13.incipit = "As his servant, blessed, venerable"
 meMA.Ode9C13.text = "As his servant, blessed, venerable Father, you ever stand before the throne of the Master; do not cease to intercede for your flock."
 
 meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C14.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C14.incipit = "As his servant, blessed, venerable"
 meMA.Ode9C14.text = "As his servant, blessed, venerable Father, you ever stand before the throne of the Master; do not cease to intercede for your flock."
 
 meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.KyriosTheotokon.text
+meMA.Ode9C1T.incipit = "We sing your praise with"
 meMA.Ode9C1T.text = "We sing your praise with psalms, O Full of grace, and never silent we cry to you: Hail! For you became a source of gladness for all."

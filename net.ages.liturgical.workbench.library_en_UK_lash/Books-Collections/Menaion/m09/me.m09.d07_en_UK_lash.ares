@@ -1,35 +1,35 @@
-A_Resource_Whose_Name=me.m09.d07_en_UK_lash
+A_Resource_Whose_Name = me.m09.d07_en_UK_lash
 
-meDate.text="September 7"
-meCommemoration.text="" //full title of day
-meShortCommemoration1.text=""
-meCom1.title=""
-meCom2.title=""
-meInsert1="" //for use in petitions and dismissal
-meInsert2="" //for use in petitions and dismissal
-meNote.text=""
-meLE.commemoration1=""
-meLE.commemoration2=""
-meHO.number=""
-meHO.rank=""
-meHO.commemorations=""
-meHO.note1=""
-meHO.note2=""
+meDate.text = "September 7"
+meCommemoration.text = "" //full title of day
+meShortCommemoration1.text = ""
+meCom1.title = ""
+meCom2.title = ""
+meInsert1 = "" //for use in petitions and dismissal
+meInsert2 = "" //for use in petitions and dismissal
+meNote.text = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
 
-meVE.Apolytikion1.mode=misc_en_UK_lash.Mode4
-meVE.Apolytikion1.melody=""
+meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
+meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "From Jesse’s root and from"
-meVE.Apolytikion1.text="From Jesse’s root and from David’s loins Mary the child of God is being born for us today, and so the universe rejoices and is renewed; heaven rejoices together with the earth. Praise her families of the nations. Joachim rejoices and Anne keeps festival as she cries, ‘The barren gives birth to the Mother of God, the nourisher of our life’."
+meVE.Apolytikion1.text = "From Jesse’s root and from David’s loins Mary the child of God is being born for us today, and so the universe rejoices and is renewed; heaven rejoices together with the earth. Praise her families of the nations. Joachim rejoices and Anne keeps festival as she cries, ‘The barren gives birth to the Mother of God, the nourisher of our life’."
 
-meMA.Kontakion1.mode=misc_en_UK_lash.Mode3
-meMA.Kontakion1.melody=misc_en_UK_lash.NotMetered
+meMA.Kontakion1.mode = misc_en_UK_lash.Mode3
+meMA.Kontakion1.melody = misc_en_UK_lash.NotMetered
 meMA.Kontakion1.incipit = "Today the Virgin and Mother"
-meMA.Kontakion1.text="Today the Virgin and Mother of God, Mary, the untouched bridal chamber of the heavenly Bridegroom is being brought to birth from barren womb by God's counsel, to be made ready as the chariot of the Word of God; for to this she was predestined, the gate of God and Mother of true life."
+meMA.Kontakion1.text = "Today the Virgin and Mother of God, Mary, the untouched bridal chamber of the heavenly Bridegroom is being brought to birth from barren womb by God's counsel, to be made ready as the chariot of the Word of God; for to this she was predestined, the gate of God and Mother of true life."
 
-meMA.Oikos1.text="To a barren mother a fruit has been given Mary the child of God, whom the godly Prophets once foresaw in spirit. As we see her her today in the bosom of Anne, leaping for joy, with faithful Joachim let us gather for the feast in spirit, and let us address them from afar, saying: Now the restoration of the world has blossomed from a fruitless womb, the gate of God and Mother of true life."
+meMA.Oikos1.text = "To a barren mother a fruit has been given Mary the child of God, whom the godly Prophets once foresaw in spirit. As we see her her today in the bosom of Anne, leaping for joy, with faithful Joachim let us gather for the feast in spirit, and let us address them from afar, saying: Now the restoration of the world has blossomed from a fruitless womb, the gate of God and Mother of true life."
 
-meLI.Kontakion1.mode=meMA.Kontakion1.mode
-meLI.Kontakion1.melody=meMA.Kontakion1.melody
+meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text=meMA.Kontakion1.text
+meLI.Kontakion1.text = meMA.Kontakion1.text
 
