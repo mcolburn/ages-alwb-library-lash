@@ -31,6 +31,7 @@ peVE.Stichera03.text = ""
 peVE.SticGlory.mode = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.mode
 peVE.SticGlory.melody = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.melody
 peVE.SticGlory.incipit = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.incipit
+peVE.SticGlory.incipit = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.incipit
 peVE.SticGlory.text = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.text
 
 peVE.Aposticha1.mode = misc_en_UK_lash.Mode2
@@ -55,6 +56,7 @@ peVE.AposGlory.text = ""
 
 peMA.Kathisma11.mode = pe.d110_en_UK_lash.peMA.Kathisma11.mode
 peMA.Kathisma11.melody = pe.d110_en_UK_lash.peMA.Kathisma11.melody
+peMA.Kathisma11.incipit = pe.d110_en_UK_lash.peMA.Kathisma11.incipit
 peMA.Kathisma11.incipit = pe.d110_en_UK_lash.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d110_en_UK_lash.peMA.Kathisma11.text
 

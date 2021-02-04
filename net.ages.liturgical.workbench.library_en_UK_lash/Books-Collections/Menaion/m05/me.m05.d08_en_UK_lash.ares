@@ -129,15 +129,18 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelApostle.incipit
+meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelApostle.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.incipit = meVE.Lity4.incipit
 meMA.PostGospelIdiomelon.incipit = meVE.Lity4.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 
@@ -498,6 +501,7 @@ meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

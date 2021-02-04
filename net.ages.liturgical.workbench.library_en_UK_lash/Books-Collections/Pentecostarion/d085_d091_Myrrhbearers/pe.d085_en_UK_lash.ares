@@ -59,6 +59,7 @@ peVE.LityGlory.text = "Joseph asked for the Body of Jesus and laid it in his new
 peVE.LityBoth.mode = misc_en_UK_lash.Mode6
 peVE.LityBoth.melody = ""
 peVE.LityBoth.incipit = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.incipit
+peVE.LityBoth.incipit = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.incipit
 peVE.LityBoth.text = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 peVE.AposGlory.mode = misc_en_UK_lash.Mode5
@@ -69,20 +70,24 @@ peVE.AposGlory.text = //tr.d070_en_UK_lash.trVE.AposGlory.text
 peVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.incipit = oc.m2.d1_en_UK_lash.ocVE.Apolytikion.incipit
+peVE.Apolytikion1.incipit = oc.m2.d1_en_UK_lash.ocVE.Apolytikion.incipit
 peVE.Apolytikion1.text = oc.m2.d1_en_UK_lash.ocVE.Apolytikion.text
 
 peVE.Apolytikion2.mode = misc_en_UK_lash.Mode2
 peVE.Apolytikion2.melody = ""
+peVE.Apolytikion2.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma11.incipit
 peVE.Apolytikion2.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma11.incipit
 peVE.Apolytikion2.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma11.text
 
 peVE.Apolytikion3.mode = misc_en_UK_lash.Mode2
 peVE.Apolytikion3.melody = ""
 peVE.Apolytikion3.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma12.incipit
+peVE.Apolytikion3.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma12.incipit
 peVE.Apolytikion3.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma12.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode2
 peMA.Kathisma11.melody = ""
+peMA.Kathisma11.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma21.incipit
 peMA.Kathisma11.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma21.incipit
 peMA.Kathisma11.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma21.text
 
@@ -93,6 +98,7 @@ peMA.Kathisma12.text = ""
 
 peMA.Kathisma13.mode = misc_en_UK_lash.Mode2
 peMA.Kathisma13.melody = ""
+peMA.Kathisma13.incipit = oc.m2.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma13.incipit = oc.m2.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma13.text = oc.m2.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
@@ -109,6 +115,7 @@ peMA.Kathisma22.text = ""
 peMA.Kathisma23.mode = misc_en_UK_lash.Mode2
 peMA.Kathisma23.melody = ""
 peMA.Kathisma23.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma13.incipit
+peMA.Kathisma23.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma13.incipit
 peMA.Kathisma23.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma13.text
 
 peMA.C1.poet = poets_en_UK_lash.AndreouKritis
@@ -122,6 +129,7 @@ peMA.C2.acrostic = ""
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.TinMoseosOdin.incipit
 peMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.TinMoseosOdin.incipit
 peMA.Ode1C1H.text = he.h.m2_en_UK_lash.TinMoseosOdin.text
 
@@ -185,6 +193,7 @@ peMA.Ode1C1T.text = "In your womb you abolished the ancient curse, holy Lady, an
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.incipit
 peMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.incipit
 peMA.Ode3C1H.text = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.text
 
@@ -262,11 +271,13 @@ peMA.Ode3Kathisma1.text = "Lovingly bringing spices to your tomb, O Saviour, the
 peMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode2
 peMA.Ode3Kathisma2.melody = ""
 peMA.Ode3Kathisma2.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma22.incipit
+peMA.Ode3Kathisma2.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma22.incipit
 peMA.Ode3Kathisma2.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma22.text
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.TinEkParthenou.incipit
 peMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.TinEkParthenou.incipit
 peMA.Ode4C1H.text = he.h.m2_en_UK_lash.TinEkParthenou.text
 
@@ -340,6 +351,7 @@ peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.incipit
+peMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.incipit
 peMA.Ode5C1H.text = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.text
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -411,6 +423,7 @@ peMA.Ode5C1T.text = "We faithful praise you, who gave birth by a conception beyo
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.VythoAmartimaton.incipit
 peMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.VythoAmartimaton.incipit
 peMA.Ode6C1H.text = he.h.m2_en_UK_lash.VythoAmartimaton.text
 
@@ -493,6 +506,7 @@ peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.incipit
+peMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.incipit
 peMA.Ode7C1H.text = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.text
 
 peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -546,6 +560,7 @@ peMA.Ode7C1T.text = "How did you contain as a child in your womb, O Immaculate, 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.TonEnTiVatoMosi.incipit
 peMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.TonEnTiVatoMosi.incipit
 peMA.Ode8C1H.text = he.h.m2_en_UK_lash.TonEnTiVatoMosi.text
 
@@ -618,6 +633,7 @@ peMA.Ode8C1T.text = "In your womb, pure Maiden, you bore without change the ever
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
 peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.TinYperfyosSarki.incipit
 peMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.TinYperfyosSarki.incipit
 peMA.Ode9C1H.text = he.h.m2_en_UK_lash.TinYperfyosSarki.text
 
@@ -696,41 +712,50 @@ peMA.Ode9C1T.text = "Let Jesse rejoice and David dance, for see, the Virgin, the
 peMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
 peMA.Exaposteilarion1.melody = misc_en_UK_lash.Automelon
 peMA.Exaposteilarion1.incipit = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
+peMA.Exaposteilarion1.incipit = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
 peMA.Exaposteilarion1.text = he.a.m2_en_UK_lash.GynaikesAkoutisthite.text
 
 peMA.Lauds1.mode = oc.m2.d1_en_UK_lash.ocMA.Lauds1.mode
 peMA.Lauds1.melody = oc.m2.d1_en_UK_lash.ocMA.Lauds1.melody
+peMA.Lauds1.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds1.incipit
 peMA.Lauds1.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds1.incipit
 peMA.Lauds1.text = oc.m2.d1_en_UK_lash.ocMA.Lauds1.text
 
 peMA.Lauds2.mode = oc.m2.d1_en_UK_lash.ocMA.Lauds2.mode
 peMA.Lauds2.melody = oc.m2.d1_en_UK_lash.ocMA.Lauds2.melody
 peMA.Lauds2.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds2.incipit
+peMA.Lauds2.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds2.incipit
 peMA.Lauds2.text = oc.m2.d1_en_UK_lash.ocMA.Lauds2.text
 
 peMA.Lauds3.mode = oc.m2.d1_en_UK_lash.ocMA.Lauds3.mode
 peMA.Lauds3.melody = oc.m2.d1_en_UK_lash.ocMA.Lauds3.melody
+peMA.Lauds3.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds3.incipit
 peMA.Lauds3.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds3.incipit
 peMA.Lauds3.text = oc.m2.d1_en_UK_lash.ocMA.Lauds3.text
 
 peMA.Lauds4.mode = oc.m2.d1_en_UK_lash.ocMA.Lauds4.mode
 peMA.Lauds4.melody = oc.m2.d1_en_UK_lash.ocMA.Lauds4.melody
 peMA.Lauds4.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds4.incipit
+peMA.Lauds4.incipit = oc.m2.d1_en_UK_lash.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m2.d1_en_UK_lash.ocMA.Lauds4.text
 
 peMA.LaudsGlory.mode = misc_en_UK_lash.Mode2
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.LaudsGlory.incipit = eo.e02_en_UK_lash.eo.Doxasticon.incipit
 peMA.LaudsGlory.incipit = eo.e02_en_UK_lash.eo.Doxasticon.incipit
 peMA.LaudsGlory.text = eo.e02_en_UK_lash.eo.Doxasticon.text
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
+peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
 peLI.TheotokosHymnVerse.incipit = pe.d00P_en_UK_lash.pePA.Ode9MKa.incipit
+peLI.TheotokosHymnVerse.incipit = pe.d00P_en_UK_lash.pePA.Ode9MKa.incipit
 peLI.TheotokosHymnVerse.text = pe.d00P_en_UK_lash.pePA.Ode9MKa.text
+peLI.TheotokosHymn.incipit = pe.d00P_en_UK_lash.pePA.Ode9H.incipit
 peLI.TheotokosHymn.incipit = pe.d00P_en_UK_lash.pePA.Ode9H.incipit
 peLI.TheotokosHymn.text = pe.d00P_en_UK_lash.pePA.Ode9H.text
 

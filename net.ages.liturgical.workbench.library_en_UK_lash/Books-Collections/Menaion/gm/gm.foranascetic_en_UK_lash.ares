@@ -35,52 +35,62 @@ meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C11.incipit = "The love of the Master"
 meMA.Ode1C11.text = "The love of the Master drew you, and abandoning the body's pleasures, blessed father, you found your rest in Christ."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C12.incipit = "You were raised to the"
 meMA.Ode1C12.text = "You were raised to the heights, blessed Father, and you passed through the middle wall of uncreated being, and your delight is pure."
 
 meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C13.incipit = "Receiving in your heart an"
 meMA.Ode1C13.text = "Receiving in your heart an immaterial ray, you were enlightened and you dispelled all the fog of the passions."
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C1T.incipit = "Adam's race, lifted up to"
 meMA.Ode1C1T.text = "Adam's race, lifted up to the blessedness that is beyond the mind through you, Mother of God, worthily glorifies you."
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C11.incipit = "The fire of the godhead"
 meMA.Ode3C11.text = "The fire of the godhead you enfolded, venerable, god-bearing Father, and purified you were declared to be a burning coal on earth."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C12.incipit = "You put on the death"
 meMA.Ode3C12.text = "You put on the death of the passions before the end, venerable father, and through death you departed to an unending life."
 
 meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C13.incipit = "By strong reasoning you subdued"
 meMA.Ode3C13.text = "By strong reasoning you subdued the flesh, venerable Father, and showed your soul to be unhumbled to the slavery of the passions."
 
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C1T.incipit = "By your intercessions, O all-blameless,"
 meMA.Ode3C1T.text = "By your intercessions, O all-blameless, give us help, driving off the assaults of dread dangers."
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
@@ -102,135 +112,161 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
+meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
+meMA.Ode4C11.incipit = "Your servant, Lord, thrust aside"
 meMA.Ode4C11.text = "Your servant, Lord, thrust aside much-divided care, making his untroubled mind your dwelling."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
+meMA.Ode4C12.incipit = "Your delight, blessed Saint, was"
 meMA.Ode4C12.text = "Your delight, blessed Saint, was in the commands of the Gospel; for taking up your cross you followed the Master rejoicing."
 
 meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
+meMA.Ode4C13.incipit = "On wings of humility you"
 meMA.Ode4C13.text = "On wings of humility you shattered the snares of the ill-intentioned; therefore, Venerable Father, you were exalted and declared a citizen of heaven."
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.EisakikoaKyrieTinAkoinSou.incipit
+meMA.Ode4C1T.incipit = "Grant us pardon of offences,"
 meMA.Ode4C1T.text = "Grant us pardon of offences, as you are sinless; make your world peaceful, O God, at the prayers of her who gave you birth."
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C11.incipit = "Alone you turned to flight"
 meMA.Ode5C11.text = "Alone you turned to flight the rage of the serpent, God-bearing Father; while you turned all your desire towards your Master."
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C12.incipit = "Prudently you governed your body's"
 meMA.Ode5C12.text = "Prudently you governed your body's senses, and were declared a monument of the virtues, All-blest Father."
 
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C13.incipit = "Revered Saint, you bore the"
 meMA.Ode5C13.text = "Revered Saint, you bore the heat of the day and were found worthy of the joy of the Lord."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C1T.incipit = "Mary, Mother of God, without"
 meMA.Ode5C1T.text = "Mary, Mother of God, without bridegroom, bring to naught the hopes of our foes, and make those who praise you glad."
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.ChitonaMoiParaschou.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C11.incipit = "The approach of the serpent"
 meMA.Ode6C11.text = "The approach of the serpent did not beguile your servant, O Christ, nor did the fire of temptations affright him."
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C12.incipit = "Your way of life on"
 meMA.Ode6C12.text = "Your way of life on earth, Venerable Father, was equal to that of angels; you were adorned by the right hand of the Almighty."
 
 meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C13.incipit = "You obtained self-mastery, uninterrupted prayer,"
 meMA.Ode6C13.text = "You obtained self-mastery, uninterrupted prayer, untroubled love, and so you appeared as an unsullied mirror of God."
 
 meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C1T.incipit = "The Word of God revealed"
 meMA.Ode6C1T.text = "The Word of God revealed you to mortals as a heavenly ladder, for through you he came down to us."
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C11.incipit = "For putting pleasures to death"
 meMA.Ode7C11.text = "For putting pleasures to death and bridling anger, O all-blest, you have received the prize of the inheritance above; and you cry with joy: God of our Fathers, blessed are you."
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C12.incipit = "You passed unswervingly through the"
 meMA.Ode7C12.text = "You passed unswervingly through the finest path of virtues, revered Father, and drove on towards the city of the undefiled Eden, as you sang with joy: God of our Fathers, blessed are you."
 
 meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C13.incipit = "Devoutly you proclaimed the glory"
 meMA.Ode7C13.text = "Devoutly you proclaimed the glory of the Trinity, O all-blessed, and find rest to take your delight in the three-sunned light, and you cry with gladness: God of our Fathers, blessed are you."
 
 meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C1T.incipit = "You were the all-blest rod"
 meMA.Ode7C1T.text = "You were the all-blest rod from the root of Jesse, O Virgin, whose blossom was a saving fruit for those who cry out with faith to your Son: God of our Fathers, blessed are you."
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C11.incipit = "The One who wonderfully strengthened"
 meMA.Ode8C11.text = "The One who wonderfully strengthened the Saint for ascetic struggles, praise and highly exalt to all the ages."
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C12.incipit = "You shared the Angels' way"
 meMA.Ode8C12.text = "You shared the Angels' way of life on earth, all-blest, and now you dwell with them in heaven to the ages."
 
 meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C13.incipit = "The band of monks rejoices,"
 meMA.Ode8C13.text = "The band of monks rejoices, and the company of saints and just dances, for you have fittingly received a garland of victory."
 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C1T.incipit = "Beyond nature you gave birth,"
 meMA.Ode8C1T.text = "Beyond nature you gave birth, O Virgin, to the Creator and Saviour, God the Word; therefore we praise you to all the ages."
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 

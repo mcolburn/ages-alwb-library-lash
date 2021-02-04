@@ -92,6 +92,7 @@ meVE.SticGlory.text = "Having preserved unblemished that which is according to G
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
+meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
 
 meVE.Lity1.poet = poets_en_UK_lash.Stouditou
@@ -125,6 +126,7 @@ meVE.LityGlory.text = "Venerable Father, when you heard the voice of the Lord’
 meVE.LityBoth.mode = misc_en_UK_lash.Mode5
 meVE.LityBoth.melody = ""
 meVE.LityBoth.incipit = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.incipit
+meVE.LityBoth.incipit = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
@@ -151,6 +153,7 @@ meVE.AposGlory.text = "We multitudes of monastics honour you as our teacher and 
 meVE.AposTheotokion.mode = misc_en_UK_lash.Mode8
 meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.incipit
+meVE.AposTheotokion.incipit = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
@@ -165,6 +168,7 @@ meMA.Kathisma11.text = ""
 
 meMA.Kathisma1T.mode = misc_en_UK_lash.Mode8
 meMA.Kathisma1T.melody = ""
+meMA.Kathisma1T.incipit = he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
 meMA.Kathisma1T.incipit = he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
 meMA.Kathisma1T.text = he.a.m8_en_UK_lash.TinSofianKaiLogon.text
 
@@ -198,10 +202,12 @@ meMA.MM.Prokeimenon.text = ""
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMonastic.incipit
+meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMonastic.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
@@ -455,12 +461,14 @@ meMA.LaudsGlory.text = ""
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode8
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.incipit = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.incipit
+meMA.LaudsTheotokion.incipit = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

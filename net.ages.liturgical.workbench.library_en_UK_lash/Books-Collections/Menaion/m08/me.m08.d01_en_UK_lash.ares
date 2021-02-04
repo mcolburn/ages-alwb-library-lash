@@ -85,6 +85,7 @@ meVE.AposGlory.text = "The souls of the righteous are in the hand of the Lord, l
 meVE.AposBoth.mode = misc_en_UK_lash.Mode8
 meVE.AposBoth.melody = ""
 meVE.AposBoth.incipit = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.incipit
+meVE.AposBoth.incipit = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.incipit
 meVE.AposBoth.text = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelonGlory.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
@@ -95,6 +96,7 @@ meVE.Apolytikion1.text = ""
 
 meVE.Apolytikion2.mode = misc_en_UK_lash.Mode1
 meVE.Apolytikion2.melody = ""
+meVE.Apolytikion2.incipit = me.m09.d14_en_UK_lash.meVE.Apolytikion1.incipit
 meVE.Apolytikion2.incipit = me.m09.d14_en_UK_lash.meVE.Apolytikion1.incipit
 meVE.Apolytikion2.text = me.m09.d14_en_UK_lash.meVE.Apolytikion1.text
 
@@ -116,6 +118,7 @@ meMA.C2.poet = poets_en_UK_lash.AndreouKritis
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.ArmatilatinFarao.text
 
@@ -207,6 +210,7 @@ meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
+meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -272,6 +276,7 @@ meMA.Ode3C2T.text = "You were prefigured by the Bush on Sinai that was unconsume
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
 meMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
 meMA.Kontakion1.incipit = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.incipit
+meMA.Kontakion1.incipit = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.incipit
 meMA.Kontakion1.text = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.text
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
@@ -282,11 +287,13 @@ meMA.Ode3Kathisma1.text = "Having lived devoutly, wise Youths, you bravely as ma
 meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode6
 meMA.Ode3Kathisma2.melody = ""
 meMA.Ode3Kathisma2.incipit = oc.m6.d4_en_UK_lash.ocMA.Kathisma22.incipit
+meMA.Ode3Kathisma2.incipit = oc.m6.d4_en_UK_lash.ocMA.Kathisma22.incipit
 meMA.Ode3Kathisma2.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma22.text
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.SyMouIschys.text
 
@@ -360,6 +367,7 @@ meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
+meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.InaTiMeAposo.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -418,6 +426,7 @@ meMA.Ode5C2T.text = "O Christ, alone compassionate, grant us peace; for your mos
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
@@ -498,6 +507,7 @@ meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
+meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.TheouSynkatavasin.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -563,6 +573,7 @@ meMA.Ode7C2T.text = "Hail, wall and joy of all, O Virgin all-praised. Hail, hope
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
@@ -635,6 +646,7 @@ meMA.Ode8C2T.text = "You were revealed, Mary, to be the treasure-house of the go
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.ExestiEpiTouto.text
 
@@ -730,6 +742,7 @@ meMA.Exaposteilarion1.text = "Let us sing the praise of the wondrous Maccabees, 
 meMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode2
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion2.incipit = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.incipit
+meMA.Exaposteilarion2.incipit = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.incipit
 meMA.Exaposteilarion2.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 meMA.Lauds1.mode = misc_en_UK_lash.Mode4
@@ -777,10 +790,12 @@ meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 meMA.AdditionalIdiomelon1.mode = misc_en_UK_lash.Mode2
 meMA.AdditionalIdiomelon1.melody = ""
 meMA.AdditionalIdiomelon1.incipit = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelon1.incipit
+meMA.AdditionalIdiomelon1.incipit = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelon1.incipit
 meMA.AdditionalIdiomelon1.text = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelon1.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

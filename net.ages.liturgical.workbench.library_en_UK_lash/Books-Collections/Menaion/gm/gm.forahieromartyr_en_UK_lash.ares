@@ -23,6 +23,7 @@ meVE.SticTheotokion.text = "Hemmed in on every side by dangers, whither shall I,
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.incipit
+meVE.SticStavrotheotokion.incipit = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.text
 
 //meMA.C1.title = titles_en_UK_lash.KanonTouAgiou
@@ -33,52 +34,62 @@ meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C11.incipit = "Bringing a double plaited garland"
 meMA.Ode1C11.text = "Bringing a double plaited garland of true religion: of priesthood and of martyrdom, by Christ you are called blessed."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C12.incipit = "Your sacred minister has been"
 meMA.Ode1C12.text = "Your sacred minister has been offered to you, the Chief Shepherd, as an innocent and honoured sacrifice through lawless hands."
 
 meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C13.incipit = "You dispelled the gatherings of"
 meMA.Ode1C13.text = "You dispelled the gatherings of the heretics with your devout boldness, O Hierarch, as you proclaimed the uncreated Trinity."
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
+meMA.Ode1C1T.incipit = "Immaculate Mother of God, who,"
 meMA.Ode1C1T.text = "Immaculate Mother of God, who, beyond nature, gave birth to the incarnate and eternal Word beyond Godhead, we sing your praise."
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C11.incipit = "Venerable Saint, you appeared first"
 meMA.Ode3C11.text = "Venerable Saint, you appeared first as sacred minister, sacrificing to the Redeemer and later offered as a sacrifice to him."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C12.incipit = "You became a most trusted"
 meMA.Ode3C12.text = "You became a most trusted shepherd and no hireling, pouring out your own blood for your God-loving flock."
 
 meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C13.incipit = "Well did you shepherd your"
 meMA.Ode3C13.text = "Well did you shepherd your Master's flock, High Priest; therefore you have made your dwelling in the place of green pasture."
 
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
+meMA.Ode3C1T.incipit = "Give us help by your"
 meMA.Ode3C1T.text = "Give us help by your intercessions, O All-pure, driving off all the assaults of dire troubles."
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode3
@@ -100,135 +111,161 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
+meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
+meMA.Ode4C11.incipit = "Perfecting your lambs by your"
 meMA.Ode4C11.text = "Perfecting your lambs by your word, blessed Saint, you put to death the packs of the wolves with your body, while you placed your spirit in the hands of God."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
+meMA.Ode4C12.incipit = "Your sacrifice was sweet-smelling, all-pure"
 meMA.Ode4C12.text = "Your sacrifice was sweet-smelling, all-pure and acceptable to the Redeemer; you both offered it with a mind inspired and were offered by lawless hands."
 
 meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
+meMA.Ode4C13.incipit = "Anointed once, blest Saint, with"
 meMA.Ode4C13.text = "Anointed once, blest Saint, with priestly anointing, you were perfected too a second time by your martyr's blood."
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
+meMA.Ode4C1T.incipit = "Mother of God, field untilled,"
 meMA.Ode4C1T.text = "Mother of God, field untilled, who blossomed with the life-giving ear, which grants life to the world, save those who sing your praise."
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C11.incipit = "You offered sacrifice without shedding"
 meMA.Ode5C11.text = "You offered sacrifice without shedding of blood to the Master, while you brought yourself as fruit through blood, glorious Martyr."
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C12.incipit = "You godlike tongue let fall"
 meMA.Ode5C12.text = "You godlike tongue let fall drops of salvation; the stream of your blood spiritual joy."
 
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C13.incipit = "The grace of your words"
 meMA.Ode5C13.text = "The grace of your words strengthened the Church, and set you, blest Saint, as a pillar of orthodoxy."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
+meMA.Ode5C1T.incipit = "The ranks of angels and"
 meMA.Ode5C1T.text = "The ranks of angels and the companies of mortals worship your Offspring, immaculate Mother of God."
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.ChitonaMoiParaschou.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C11.incipit = "Just as you had been"
 meMA.Ode6C11.text = "Just as you had been baptised, you baptised peoples in water; while you were baptised a second time with your own blood."
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C12.incipit = "Do not cease to make"
 meMA.Ode6C12.text = "Do not cease to make your entreaties to Christ, blest Saint, on behalf of your flock, and to offer your blood as supplication."
 
 meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C13.incipit = "As a chosen and precious"
 meMA.Ode6C13.text = "As a chosen and precious shoot of the vine of life, you flowered with much fruit for your Master, most sacred Martyr."
 
 meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
+meMA.Ode6C1T.incipit = "As God your Offspring was"
 meMA.Ode6C1T.text = "As God your Offspring was the destroyer of wooden idols, Mary, Bride of God, and he is worshipped with the Father and the Spirit."
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C11.incipit = "Your sacrifice appeared as fair"
 meMA.Ode7C11.text = "Your sacrifice appeared as fair and rich, revered Father, for you were offered to the Master through blood, as one who offered without blood: God of our Fathers, blessed are you."
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C12.incipit = "Shepherded and shepherding, you gathered"
 meMA.Ode7C12.text = "Shepherded and shepherding, you gathered happiness from both, Father; and you kept it safe by guarding the seal of your contest, as you sang: God of our Fathers, blessed are you."
 
 meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C13.incipit = "In the Church of believers"
 meMA.Ode7C13.text = "In the Church of believers you taught the doctrine of the nature in three persons; and arraigned before unjust tribunals for it, O God-bearer, you sang: God of our Fathers, blessed are you."
 
 meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
+meMA.Ode7C1T.incipit = "You grew as the most"
 meMA.Ode7C1T.text = "You grew as the most blest rod from the root of Jesse, O Virgin, flowering with a saving fruit for those who with faith cry out to your Son: God of our Fathers, blessed are you."
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C11.incipit = "Be glad, believers, at the"
 meMA.Ode8C11.text = "Be glad, believers, at the memory of the far-famed Priest and Martyr, as you cry aloud and highly exalt him to all the ages."
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C12.incipit = "As we see the Hierarch,"
 meMA.Ode8C12.text = "As we see the Hierarch, fittingly adorned with the crown of martyrdom, we highly exalt you, O Christ, to all the ages."
 
 meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C13.incipit = "Fittingly the Master apportioned to"
 meMA.Ode8C13.text = "Fittingly the Master apportioned to you, Priest and Martyr, the gift and grace of wonders to all the ages."
 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
+meMA.Ode8C1T.incipit = "Beyond nature, O Virgin, you"
 meMA.Ode8C1T.text = "Beyond nature, O Virgin, you gave birth to the Creator, Saviour, God and Word, whom we highly exalt to all the ages."
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.TonProdilothenta.text
 

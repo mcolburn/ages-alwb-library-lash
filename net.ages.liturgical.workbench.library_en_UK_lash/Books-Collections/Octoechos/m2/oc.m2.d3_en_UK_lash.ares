@@ -38,10 +38,12 @@ ocVE.SticTheotokion.text = "Afflictions and dread assaults, and passions of many
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha1.melody = ""
 ocVE.Aposticha1.incipit = oc.m2.d2_en_UK_lash.ocVE.Aposticha1.incipit
+ocVE.Aposticha1.incipit = oc.m2.d2_en_UK_lash.ocVE.Aposticha1.incipit
 ocVE.Aposticha1.text = oc.m2.d2_en_UK_lash.ocVE.Aposticha1.text
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha2.melody = ""
+ocVE.Aposticha2.incipit = oc.m2.d2_en_UK_lash.ocVE.Aposticha2.incipit
 ocVE.Aposticha2.incipit = oc.m2.d2_en_UK_lash.ocVE.Aposticha2.incipit
 ocVE.Aposticha2.text = oc.m2.d2_en_UK_lash.ocVE.Aposticha2.text
 
@@ -58,6 +60,7 @@ ocVE.AposTheotokion.text = "All my hope I set on you, Mother of life, guard me b
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode2
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = oc.m2.d5_en_UK_lash.ocMA.Kathisma13.incipit
+ocVE.ApolTheotokionVM.incipit = oc.m2.d5_en_UK_lash.ocMA.Kathisma13.incipit
 ocVE.ApolTheotokionVM.text = oc.m2.d5_en_UK_lash.ocMA.Kathisma13.text
 
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode2
@@ -73,15 +76,18 @@ ocMA.Kathisma12.text = "As I search my condemned conscience, I quail before your
 ocMA.Kathisma13.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma13.melody = ""
 ocMA.Kathisma13.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.incipit
+ocMA.Kathisma13.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.incipit
 ocMA.Kathisma13.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.text
 
 ocMA.Kathisma21.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma21.melody = ""
 ocMA.Kathisma21.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma21.incipit
+ocMA.Kathisma21.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma21.incipit
 ocMA.Kathisma21.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma21.text
 
 ocMA.Kathisma22.mode = misc_en_UK_lash.Mode2
 ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma22.incipit
 ocMA.Kathisma22.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma22.incipit
 ocMA.Kathisma22.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma22.text
 
@@ -112,6 +118,7 @@ ocMA.C2.acrostic = "of which the acrostic is: Baptist, accept this supplication.
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.incipit = he.h.m2_en_UK_lash.TinMoseosOdin.incipit
 ocMA.OdeW1C1H.incipit = he.h.m2_en_UK_lash.TinMoseosOdin.incipit
 ocMA.OdeW1C1H.text = he.h.m2_en_UK_lash.TinMoseosOdin.text
 
@@ -173,6 +180,7 @@ ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW3C1H.incipit = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.incipit
+ocMA.OdeW3C1H.incipit = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.incipit
 ocMA.OdeW3C1H.text = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.text
 
 ocMA.OdeW3C11.mode = misc_en_UK_lash.Mode2
@@ -232,6 +240,7 @@ ocMA.OdeW3C2T.text = "The Forerunner, carried in his mother's womb, rejoices and
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.incipit = he.h.m2_en_UK_lash.TinEkParthenou.incipit
 ocMA.OdeW4C1H.incipit = he.h.m2_en_UK_lash.TinEkParthenou.incipit
 ocMA.OdeW4C1H.text = he.h.m2_en_UK_lash.TinEkParthenou.text
 
@@ -299,6 +308,7 @@ ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW5C1H.incipit = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.incipit
+ocMA.OdeW5C1H.incipit = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.incipit
 ocMA.OdeW5C1H.text = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.text
 
 ocMA.OdeW5C11.mode = misc_en_UK_lash.Mode2
@@ -365,6 +375,7 @@ ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW6C1H.incipit = he.h.m2_en_UK_lash.VythoAmartimaton.incipit
+ocMA.OdeW6C1H.incipit = he.h.m2_en_UK_lash.VythoAmartimaton.incipit
 ocMA.OdeW6C1H.text = he.h.m2_en_UK_lash.VythoAmartimaton.text
 
 ocMA.OdeW6C11.mode = misc_en_UK_lash.Mode2
@@ -425,6 +436,7 @@ ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeW7C1H.incipit = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.incipit
+ocMA.OdeW7C1H.incipit = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.incipit
 ocMA.OdeW7C1H.text = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.text
 
 ocMA.OdeW7C11.mode = misc_en_UK_lash.Mode2
@@ -484,6 +496,7 @@ ocMA.OdeW7C2T.text = "A barren womb bears you within it, O Virgin, who bear in y
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.incipit = he.h.m2_en_UK_lash.TonEnTiVatoMosi.incipit
 ocMA.OdeW8C1H.incipit = he.h.m2_en_UK_lash.TonEnTiVatoMosi.incipit
 ocMA.OdeW8C1H.text = he.h.m2_en_UK_lash.TonEnTiVatoMosi.text
 
@@ -550,6 +563,7 @@ ocMA.OdeW8C2T.text = "You who gave birth in the flesh to God most high, raise me
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.incipit = he.h.m2_en_UK_lash.TonGigenonTisIkouse.incipit
 ocMA.OdeW9C1H.incipit = he.h.m2_en_UK_lash.TonGigenonTisIkouse.incipit
 ocMA.OdeW9C1H.text = he.h.m2_en_UK_lash.TonGigenonTisIkouse.text
 
@@ -621,6 +635,7 @@ ocMA.Aposticha1.text = "I surpass all in sin. To whom shall I be a disciple for 
 ocMA.Aposticha2.mode = misc_en_UK_lash.Mode2
 ocMA.Aposticha2.melody = ""
 ocMA.Aposticha2.incipit = oc.m2.d2_en_UK_lash.ocMA.Aposticha2.incipit
+ocMA.Aposticha2.incipit = oc.m2.d2_en_UK_lash.ocMA.Aposticha2.incipit
 ocMA.Aposticha2.text = oc.m2.d2_en_UK_lash.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_en_UK_lash.Mode2
@@ -636,10 +651,12 @@ ocMA.AposTheotokion.text = "Hail Mary, Mother of God, Temple that cannot be dest
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode2
 ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.incipit
+ocMA.ApolTheotokion.incipit = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.incipit
 ocMA.ApolTheotokion.text = oc.m2.d2_en_UK_lash.ocMA.Kathisma23.text
 
 ocLI.Beatitudes1.mode = misc_en_UK_lash.Mode2
 ocLI.Beatitudes1.melody = ""
+ocLI.Beatitudes1.incipit = oc.m2.d1_en_UK_lash.ocLI.Beatitudes1.incipit
 ocLI.Beatitudes1.incipit = oc.m2.d1_en_UK_lash.ocLI.Beatitudes1.incipit
 ocLI.Beatitudes1.text = oc.m2.d1_en_UK_lash.ocLI.Beatitudes1.text
 
@@ -674,36 +691,44 @@ ocLI.MM.Beatitudes1234TrTas78910GB.text = properties_en_UK_lash.media.key
 
 octrMA.Triadic1.mode = misc_en_UK_lash.Mode2
 octrMA.Triadic1.incipit = oc.m2.d2_en_UK_lash.octrMA.Triadic1.incipit
+octrMA.Triadic1.incipit = oc.m2.d2_en_UK_lash.octrMA.Triadic1.incipit
 octrMA.Triadic1.text = oc.m2.d2_en_UK_lash.octrMA.Triadic1.text
 
 octrMA.Triadic2.mode = misc_en_UK_lash.Mode2
 octrMA.Triadic2.incipit = oc.m2.d2_en_UK_lash.octrMA.Triadic2.incipit
+octrMA.Triadic2.incipit = oc.m2.d2_en_UK_lash.octrMA.Triadic2.incipit
 octrMA.Triadic2.text = oc.m2.d2_en_UK_lash.octrMA.Triadic2.text
 
 octrMA.Triadic3.mode = misc_en_UK_lash.Mode2
+octrMA.Triadic3.incipit = oc.m2.d2_en_UK_lash.octrMA.Triadic3.incipit
 octrMA.Triadic3.incipit = oc.m2.d2_en_UK_lash.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m2.d2_en_UK_lash.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = misc_en_UK_lash.Mode2
 octrMA.Kathisma11.melody = ""
 octrMA.Kathisma11.incipit = ocMA.Kathisma21.incipit
+octrMA.Kathisma11.incipit = ocMA.Kathisma21.incipit
 octrMA.Kathisma11.text = ocMA.Kathisma21.text
 
 octrMA.Kathisma12.mode = misc_en_UK_lash.Mode2
 octrMA.Kathisma12.melody = ""
+octrMA.Kathisma12.incipit = ocMA.Kathisma22.incipit
 octrMA.Kathisma12.incipit = ocMA.Kathisma22.incipit
 octrMA.Kathisma12.text = ocMA.Kathisma22.text
 
 octrMA.Kathisma1T.mode = misc_en_UK_lash.Mode2
 octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.incipit = ocMA.Kathisma23.incipit
+octrMA.Kathisma1T.incipit = ocMA.Kathisma23.incipit
 octrMA.Kathisma1T.text = ocMA.Kathisma23.text
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode2
 octrMA.Ode7Martyricon.melody = ""
 octrMA.Ode7Martyricon.incipit = ocMA.Kathisma32.incipit
+octrMA.Ode7Martyricon.incipit = ocMA.Kathisma32.incipit
 octrMA.Ode7Martyricon.text = ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_UK_lash.Mode2
+octrMA.Photogogic.incipit = oc.m2.d2_en_UK_lash.octrMA.Photagogic.incipit
 octrMA.Photogogic.incipit = oc.m2.d2_en_UK_lash.octrMA.Photagogic.incipit
 octrMA.Photogogic.text = oc.m2.d2_en_UK_lash.octrMA.Photagogic.text

@@ -34,6 +34,7 @@ lemcH3.Prophecy.book_string = bible_en_UK_lash.Isaiah.text
 lemcH3.Prophecy.book_abbr = bible_en_UK_lash.Isaiah.abbr
 lemcH3.Prophecy.chapverse = ""
 lemcH3.Prophecy.incipit = lemcTE.reading1.incipit
+lemcH3.Prophecy.incipit = lemcTE.reading1.incipit
 lemcH3.Prophecy.text = lemcTE.reading1.text
 
 lemcH6.Prophecy.title = ""
@@ -48,5 +49,6 @@ lemcH9.Prophecy.version = properties_en_UK_lash.version.designation
 lemcH9.Prophecy.book_string = bible_en_UK_lash.Jeremiah.text
 lemcH9.Prophecy.book_abbr = bible_en_UK_lash.Jeremiah.abbr
 lemcH9.Prophecy.chapverse = ""
+lemcH9.Prophecy.incipit = le.pr.tr.d068_en_UK_lash.lemcTE.reading1.incipit
 lemcH9.Prophecy.incipit = le.pr.tr.d068_en_UK_lash.lemcTE.reading1.incipit
 lemcH9.Prophecy.text = le.pr.tr.d068_en_UK_lash.lemcTE.reading1.text

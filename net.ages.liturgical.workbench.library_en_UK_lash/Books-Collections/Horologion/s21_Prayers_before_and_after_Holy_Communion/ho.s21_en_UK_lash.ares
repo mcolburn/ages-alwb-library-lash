@@ -13,6 +13,7 @@ hoPrayer.Key113.text = ""
 hoPrayer.Key114.text = ""
 
 hoPrayer.Key121.title = ""
+hoPrayer.Key121.incipit = tr.d069_en_UK_lash.trLI.CommunionHymn.incipit
 hoPrayer.Key121.text = tr.d069_en_UK_lash.trLI.CommunionHymn.text
 
 hoPrayer.Key131.title = ""
@@ -23,9 +24,11 @@ hoPrayer.Key133.text = "God's Body deifies and nourishes"
 hoPrayer.Key134.text = "Me strangely; both my spirit and my mind."
 
 hoPrayer.Key141.title = ""
+hoPrayer.Key141.incipit = me.m08.d06_en_UK_lash.meMA.Ode9C23.incipit
 hoPrayer.Key141.text = me.m08.d06_en_UK_lash.meMA.Ode9C23.text
 
 hoPrayer.Key151.title = ""
+hoPrayer.Key151.incipit = tr.d066_en_UK_lash.trMA.Lauds1.incipit
 hoPrayer.Key151.text = tr.d066_en_UK_lash.trMA.Lauds1.text
 
 hoPrayer.Key161.title = ""

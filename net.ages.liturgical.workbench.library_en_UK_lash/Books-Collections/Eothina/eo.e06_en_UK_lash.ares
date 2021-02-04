@@ -2,10 +2,13 @@ A_Resource_Whose_Name = eo.e06_en_UK_lash
 
 eo.Exaposteilarion.mode = misc_en_UK_lash.Mode2
 eo.Exaposteilarion.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.notmetered
+eo.Exaposteilarion.incipit = ""
 eo.Exaposteilarion.text = ""
 eo.Theotokion.mode = misc_en_UK_lash.Mode2
 eo.Theotokion.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.notmetered
+eo.Theotokion.incipit = ""
 eo.Theotokion.text = ""
 eo.title = ""
 eo.Doxasticon.mode = misc_en_UK_lash.Mode6
+eo.Doxasticon.incipit = ""
 eo.Doxasticon.text = ""

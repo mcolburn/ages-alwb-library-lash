@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = da.d7_en_UK_lash 
+A_Resource_Whose_Name = da.d7_en_UK_lash
 
 daDay.text = ""
 daCommemoration.text = ""
@@ -8,14 +8,17 @@ daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onFridayEvening
 
 daVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 daVE.Apolytikion1.melody = ""
+daVE.Apolytikion1.incipit = oc.m2.d5_en_UK_lash.ocMA.Kathisma32.incipit
 daVE.Apolytikion1.text = oc.m2.d5_en_UK_lash.ocMA.Kathisma32.text
 
 daVE.Apolytikion2.mode = misc_en_UK_lash.Mode8
 daVE.Apolytikion2.melody = ""
+daVE.Apolytikion2.incipit = oc.m2.d7_en_UK_lash.ocMA.Kathisma23.incipit
 daVE.Apolytikion2.text = oc.m2.d7_en_UK_lash.ocMA.Kathisma23.text
 
 daVE.ApolTheotokion.mode = misc_en_UK_lash.Mode2
 daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.incipit = oc.m2.d2_en_UK_lash.ocMA.ApolTheotokion.incipit
 daVE.ApolTheotokion.text = oc.m2.d2_en_UK_lash.ocMA.ApolTheotokion.text
 
 daMA.Photagogic1Ending.text = prayers_en_UK_lash.fePresveiaisTonAgionKaiSosonMe
@@ -26,18 +29,22 @@ daMA.Photagogic2Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTisTheotoko
 
 daMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
 daMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+daMA.Exaposteilarion1.incipit = ""
 daMA.Exaposteilarion1.text = ""
 
 daMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+daMA.Exaposteilarion2.incipit = "As God you have power"
 daMA.Exaposteilarion2.text = "As God you have power over the living and the dead, and through your Angels you lead the whole earth to the light, O Creator of all things save those who sing your praise."
 
 daMA.ExapTheotokion1.mode = misc_en_UK_lash.Mode3
 daMA.ExapTheotokion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+daMA.ExapTheotokion1.incipit = "O sweetness of the Angels,"
 daMA.ExapTheotokion1.text = "O sweetness of the Angels, * the joy of all those in distress, * the Virgin Mother of the Lord, * you are the protection of Christians, * come to my aid, deliver me * from the eternal torments."
 
 daMA.ExapTheotokion2.mode = misc_en_UK_lash.Mode2
 daMA.ExapTheotokion2.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
+daMA.ExapTheotokion2.incipit = "In you we boast, Mother"
 daMA.ExapTheotokion2.text = "In you we boast, Mother of God, and you we have as advocate before God: stretch out your invincible hand and trounce our foes, send forth your help to your servants from the holy place."
 
 daLI.CommunionHymn.text = "" //for media

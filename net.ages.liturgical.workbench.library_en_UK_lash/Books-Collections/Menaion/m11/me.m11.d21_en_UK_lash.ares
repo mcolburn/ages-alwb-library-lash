@@ -103,6 +103,7 @@ meVE.Lity2.poet = poets_en_UK_lash.GeorgiouNikomideias
 meVE.Lity2.mode = misc_en_UK_lash.Mode4
 meVE.Lity2.melody = ""
 meVE.Lity2.incipit = me.m11.d08_en_UK_lash.meVE.LityBoth.incipit
+meVE.Lity2.incipit = me.m11.d08_en_UK_lash.meVE.LityBoth.incipit
 meVE.Lity2.text = me.m11.d08_en_UK_lash.meVE.LityBoth.text
 
 meVE.Lity3.mode = misc_en_UK_lash.Mode4
@@ -167,10 +168,12 @@ meMA.PostGospelGlory.text = ""
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = meMA.PostGospelGlory.incipit
+meMA.PostGospelBoth.incipit = meMA.PostGospelGlory.incipit
 meMA.PostGospelBoth.text = meMA.PostGospelGlory.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode4
 meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.incipit = me.m11.d08_en_UK_lash.meVE.LityBoth.incipit
 meMA.PostGospelIdiomelon.incipit = me.m11.d08_en_UK_lash.meVE.LityBoth.incipit
 meMA.PostGospelIdiomelon.text = me.m11.d08_en_UK_lash.meVE.LityBoth.text
 
@@ -182,6 +185,7 @@ meMA.C2.poet = poets_en_UK_lash.KyriouVasileiou
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou_Eisodia.incipit
 meMA.Ode1C1H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou_Eisodia.text
 
@@ -266,6 +270,7 @@ meMA.Ode1C2T.text = ""
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.TousSousYmnologous_Eisodia.incipit
 meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.TousSousYmnologous_Eisodia.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.TousSousYmnologous_Eisodia.text
 
@@ -356,6 +361,7 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
+meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.TinAnexichniaston.incipit
 meMA.Ode4C1H.text = he.h.m4_en_UK_lash.TinAnexichniaston.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -440,6 +446,7 @@ meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.ExestiTaSympanta_Eisodia.incipit
+meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.ExestiTaSympanta_Eisodia.incipit
 meMA.Ode5C1H.text = he.h.m4_en_UK_lash.ExestiTaSympanta_Eisodia.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -517,6 +524,7 @@ meMA.Ode5C2T.text = ""
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
 
@@ -603,6 +611,7 @@ meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.OukElatrefsan.incipit
+meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 meMA.Ode7C1H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -680,6 +689,7 @@ meMA.Ode7C2T.text = ""
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.AkoueKori.incipit
 meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.AkoueKori.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.AkoueKori.text
 
@@ -782,6 +792,7 @@ meMA.Ode9C2MTh.text = ""
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.OsEmpsychoTheouKivoto.incipit
 meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.OsEmpsychoTheouKivoto.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.OsEmpsychoTheouKivoto.text
 
@@ -903,6 +914,7 @@ meMA.LaudsGlory.text = ""
 meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meLI.Antiphon2.incipit = ho.s07_en_UK_lash.hoLI.Antiphon2w.incipit
+meLI.Antiphon2.incipit = ho.s07_en_UK_lash.hoLI.Antiphon2w.incipit
 meLI.Antiphon2.text = ho.s07_en_UK_lash.hoLI.Antiphon2w.text
 
 meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
@@ -910,11 +922,14 @@ meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = meMA.Ode9C1H.mode
 meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1M01.incipit
+meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1M01.incipit
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1M01.text
+meLI.TheotokosHymn.incipit = meMA.Ode9C1H.incipit
 meLI.TheotokosHymn.incipit = meMA.Ode9C1H.incipit
 meLI.TheotokosHymn.text = meMA.Ode9C1H.text
 

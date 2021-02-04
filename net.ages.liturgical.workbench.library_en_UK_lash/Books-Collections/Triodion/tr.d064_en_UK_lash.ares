@@ -86,10 +86,12 @@ trVE.Stichera05.text = "Six days before the Passover Jesus came to Bethany and h
 trVE.SticGlory.mode = misc_en_UK_lash.Mode6
 trVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
 trVE.SticGlory.incipit = trVE.Stichera01.incipit
+trVE.SticGlory.incipit = trVE.Stichera01.incipit
 trVE.SticGlory.text = trVE.Stichera01.text
 
 trVE.SticBoth.mode = misc_en_UK_lash.Mode6
 trVE.SticBoth.melody = misc_en_UK_lash.Idiomelon
+trVE.SticBoth.incipit = trVE.Stichera01.incipit
 trVE.SticBoth.incipit = trVE.Stichera01.incipit
 trVE.SticBoth.text = trVE.Stichera01.text
 
@@ -141,15 +143,18 @@ trVE.Aposticha3.text = "You, who ride on the Cherubim and are praised by the Ser
 trVE.AposGlory.mode = misc_en_UK_lash.Mode6
 trVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
 trVE.AposGlory.incipit = trVE.Stichera01.incipit
+trVE.AposGlory.incipit = trVE.Stichera01.incipit
 trVE.AposGlory.text = trVE.Stichera01.text
 
 trVE.AposBoth.mode = misc_en_UK_lash.Mode6
 trVE.AposBoth.melody = misc_en_UK_lash.Idiomelon
 trVE.AposBoth.incipit = trVE.Stichera01.incipit
+trVE.AposBoth.incipit = trVE.Stichera01.incipit
 trVE.AposBoth.text = trVE.Stichera01.text
 
 trVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
 trVE.Apolytikion1.melody = ""
+trVE.Apolytikion1.incipit = tr.d063_en_UK_lash.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.incipit = tr.d063_en_UK_lash.trVE.Apolytikion1.incipit
 trVE.Apolytikion1.text = tr.d063_en_UK_lash.trVE.Apolytikion1.text
 
@@ -193,10 +198,12 @@ trMA.PostGospelGlory.text = "Today Christ enters the Holy City seated on a colt,
 trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.incipit = trMA.PostGospelGlory.incipit
+trMA.PostGospelBoth.incipit = trMA.PostGospelGlory.incipit
 trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 trMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
+trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
 trMA.PostGospelIdiomelon.incipit = trVE.Stichera01.incipit
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
@@ -206,6 +213,7 @@ trMA.C1.acrostic = "of which the acrostic is: Hosanna Christ, blessed God"
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.OfthisanAiPigai.incipit
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.OfthisanAiPigai.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_lash.OfthisanAiPigai.text
 
@@ -227,6 +235,7 @@ trMA.Ode1C12.text = "The Church of the holy ones offers you praise, O Christ who
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.NaousanAkrotomon.incipit
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.NaousanAkrotomon.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_lash.NaousanAkrotomon.text
 
@@ -250,6 +259,7 @@ trMA.Hypakoe.text = "At first the ungrateful Jews with branches praised Christ G
 trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.ChristosOErchomenos.incipit
 trMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.ChristosOErchomenos.incipit
 trMA.Ode4C1H.text = he.h.m4_en_UK_lash.ChristosOErchomenos.text
 
@@ -275,6 +285,7 @@ trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.TinSionEpOrous.incipit
+trMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.TinSionEpOrous.incipit
 trMA.Ode5C1H.text = he.h.m4_en_UK_lash.TinSionEpOrous.text
 
 trMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -292,6 +303,7 @@ trMA.Ode5C12.text = "Sion, holy mountain of God, and Jerusalem lift your eyes ro
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.incipit
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.text
 
@@ -338,6 +350,7 @@ trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.ODiasosasEnPyri.incipit
+trMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.ODiasosasEnPyri.incipit
 trMA.Ode7C1H.text = he.h.m4_en_UK_lash.ODiasosasEnPyri.text
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -362,6 +375,7 @@ trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.EffranthitiIerousalim.incipit
+trMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.EffranthitiIerousalim.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_lash.EffranthitiIerousalim.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -385,6 +399,7 @@ trMA.Ode8C13.text = "The lawless Sanhedrin of disobedient men is scattered from 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
 trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.text
 
@@ -433,6 +448,7 @@ trMA.Lauds4.text = "Before your voluntary Passion, Christ God, foreshadowing the
 trMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 trMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
 trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
+trMA.LaudsGlory.incipit = trVE.Stichera05.incipit
 trMA.LaudsGlory.text = trVE.Stichera05.text
 
 trLI.Antiphon2.text = "seated on the foal of an ass," //for media
@@ -442,15 +458,18 @@ trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
 trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
+trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode4
+trLI.TheotokosHymn.incipit = trMA.Ode9C1H.incipit
 trLI.TheotokosHymn.incipit = trMA.Ode9C1H.incipit
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
 
 trLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
 trLI.AfterCommunion.mode = misc_en_UK_lash.Mode1
+trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
 trLI.AfterCommunion.incipit = trVE.Apolytikion1.incipit
 trLI.AfterCommunion.text = trVE.Apolytikion1.text
 

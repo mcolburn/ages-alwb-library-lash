@@ -36,42 +36,50 @@ meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C11.melody = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C11.incipit = "We beg you, Prophet of"
 meMA.Ode1C11.text = "We beg you, Prophet of God, who stand by his judgement seat, to intercede insistently that enlightenment be given to us who hymn with faith your honoured memory."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C12.melody = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C12.incipit = "You were revealed as a"
 meMA.Ode1C12.text = "You were revealed as a godlike instrument containing the illuminations of the Spirit of God, and enjoying his gifts; and so we the faithful, rejoicing, call you blessed."
 
 meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
+meMA.Ode1C1T.incipit = "The Sun which shone from"
 meMA.Ode1C1T.text = "The Sun which shone from your womb with shining rays makes the whole earth bright, Sovereign Lady; enlightened by them we honour you as Mother of God."
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m6_en_UK_lash.OukEstinAgios.incipit
+meMA.Ode3C1H.incipit = he.h.m6_en_UK_lash.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_UK_lash.OukEstinAgios.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode3C11.melody = he.h.m6_en_UK_lash.OukEstinAgios.incipit
+meMA.Ode3C11.incipit = "He who as God sees"
 meMA.Ode3C11.text = "He who as God sees all things shows and reveals to you, wise Prophet, in a manner fitting God the knowledge of things to come, and the clear understanding of those which will come to pass, O blessed and worthy of praise."
 
 meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode3C12.melody = he.h.m6_en_UK_lash.OukEstinAgios.incipit
+meMA.Ode3C12.incipit = "Having with devout boldness slain"
 meMA.Ode3C12.text = "Having with devout boldness slain your mind, blest Prophet, you submitted yourself to the Spirit of God, and became the recipient of the divine rays that come from there."
 
 meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode3C1T.melody = he.h.m6_en_UK_lash.OukEstinAgios.incipit
+meMA.Ode3C1T.incipit = "Behold, with faith all generations"
 meMA.Ode3C1T.text = "Behold, with faith all generations call you blessed, who in time gave birth beyond nature in the body to the Word without time, and remained still a Virgin."
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode1
@@ -93,110 +101,131 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode4C1H.incipit = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
+meMA.Ode4C1H.incipit = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_UK_lash.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode4C11.melody = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
+meMA.Ode4C11.incipit = "The Lord of all things"
 meMA.Ode4C11.text = "The Lord of all things has appeared to us, blest Prophet, in accordance with your prophecy, summoning all things to knowledge of himself, and has freed them from slavery."
 
 meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode4C12.melody = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
+meMA.Ode4C12.incipit = "Made radiant by grace, you"
 meMA.Ode4C12.text = "Made radiant by grace, you prophesied saying that those who worship should come under one yoke, being brought to the faith and adoring the Lord."
 
 meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode4C1T.melody = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
+meMA.Ode4C1T.incipit = "Mary, All-pure, scatter the flood"
 meMA.Ode4C1T.text = "Mary, All-pure, scatter the flood of passions of my mind and the storm of temptations, as the one who gave birth to the source of dispassion, O Virgin Mother."
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
+meMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_UK_lash.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode5C11.melody = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
+meMA.Ode5C11.incipit = "Turn me from unrighteousness to"
 meMA.Ode5C11.text = "Turn me from unrighteousness to virtue, from the captivity of the passions, blessed, glorious Prophet, by your intercessions, and direct my works to the light of true religion."
 
 meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode5C12.melody = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
+meMA.Ode5C12.incipit = "You made your soul resplendent"
 meMA.Ode5C12.text = "You made your soul resplendent with the rays of the virtues, and showed it to be ready for the beams of the divine Spirit; from whom you were also enriched with the grace of prophecy."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode5C1T.melody = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
+meMA.Ode5C1T.incipit = "Prophetic sayings, All-holy Virgin, announce"
 meMA.Ode5C1T.text = "Prophetic sayings, All-holy Virgin, announce through symbols your child-bearing; we, who now see their fulfilment, proclaim you to be in truth Mother of God."
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
+meMA.Ode6C1H.incipit = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_UK_lash.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode6C11.melody = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
+meMA.Ode6C11.incipit = "Receiving the beams of the"
 meMA.Ode6C11.text = "Receiving the beams of the Spirit, glorious Prophet, as a clear mirror you blazed forth the rays of inspired prophecy to the world, foretelling things to come as things present."
 
 meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode6C12.melody = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
+meMA.Ode6C12.incipit = "Your King has come; Sion"
 meMA.Ode6C12.text = "Your King has come; Sion rejoice and exult at seeing him; he has enlightened the world with the beams of his Godhead and destroyed the error of demons."
 
 meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode6C1T.melody = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
+meMA.Ode6C1T.incipit = "United to the solidity of"
 meMA.Ode6C1T.text = "United to the solidity of flesh in your womb, the Only-Begotten of the Father came forth, one from two, without corruption, and kept your virginity unharmed, O All-praised."
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode7C1H.incipit = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C1H.incipit = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode7C11.melody = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C11.incipit = "Your memory, inspired Prophet, has"
 meMA.Ode7C11.text = "Your memory, inspired Prophet, has dawned for the world like a sun, making radiant with the grace of your Prophecy those who with faith harmoniously sing to Christ: Blessed are you, the God of our Fathers."
 
 meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode7C12.melody = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C12.incipit = "Revealed as more abundant than"
 meMA.Ode7C12.text = "Revealed as more abundant than a cloud, blest prophet, you sent forth for us a shower of saving knowledge of God from sources through which we are enlightened to cry out: Blessed are you, the God of our Fathers."
 
 meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode7C1T.melody = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
+meMA.Ode7C1T.incipit = "The Word, who of old"
 meMA.Ode7C1T.text = "The Word, who of old gave being to all things by his divine will, Pure Virgin, willing to call back humanity, made his dwelling in your womb, O Blessed One, who bore God in the flesh."
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
+meMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_UK_lash.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C11.mode = misc_en_UK_lash.Mode6
 meMA.Ode8C11.melody = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
+meMA.Ode8C11.incipit = "Giving yourself wholly to the"
 meMA.Ode8C11.text = "Giving yourself wholly to the Almighty, you were initiated into the ways of providence, which train the Nations in accordance with the Dispensation; therefore we sing your praise, inspired Prophet."
 
 meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C12.mode = misc_en_UK_lash.Mode6
 meMA.Ode8C12.melody = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
+meMA.Ode8C12.incipit = "Offer to God a hymn"
 meMA.Ode8C12.text = "Offer to God a hymn of supplication, Blessed of God, on behalf of us who hymn you, and free us now from the tempest of temptations, that we may sing your praise, inspired Prophet."
 
 meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode8C1T.melody = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
+meMA.Ode8C1T.incipit = "By giving birth to the"
 meMA.Ode8C1T.text = "By giving birth to the Giver of life, God and Lord, you put an end to the destruction of death, which had slain all, Pure Virgin; therefore we sing your praise to all the ages."
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.TheonAnthropois.incipit
 meMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_UK_lash.TheonAnthropois.text
 

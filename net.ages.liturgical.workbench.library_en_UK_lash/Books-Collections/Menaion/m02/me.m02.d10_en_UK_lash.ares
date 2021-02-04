@@ -39,6 +39,7 @@ meSV.SticGlory.text = ""
 meSV.SticBoth.mode = misc_en_UK_lash.Mode2
 meSV.SticBoth.melody = ""
 meSV.SticBoth.incipit = ho.s23_en_UK_lash.hoCA.Troparion7.incipit
+meSV.SticBoth.incipit = ho.s23_en_UK_lash.hoCA.Troparion7.incipit
 meSV.SticBoth.text = ho.s23_en_UK_lash.hoCA.Troparion7.text
 
 meSV.Aposticha1.mode = misc_en_UK_lash.Mode2
@@ -99,6 +100,7 @@ meVE.SticGlory.text = ""
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
 meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.incipit = oc.m4.d1_en_UK_lash.ocVE.SticTheotokion.incipit
+meVE.SticTheotokion.incipit = oc.m4.d1_en_UK_lash.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m4.d1_en_UK_lash.ocVE.SticTheotokion.text
 
 meVE.Lity1.mode = misc_en_UK_lash.Mode1
@@ -139,6 +141,7 @@ meVE.LityGlory.text = ""
 meVE.LityBoth.mode = misc_en_UK_lash.Mode5
 meVE.LityBoth.melody = ""
 meVE.LityBoth.incipit = oc.m5.d7_en_UK_lash.ocVE.AposTheotokion.incipit
+meVE.LityBoth.incipit = oc.m5.d7_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m5.d7_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
@@ -163,6 +166,7 @@ meVE.AposGlory.text = ""
 
 meVE.AposTheotokion.mode = misc_en_UK_lash.Mode4
 meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.incipit = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.AposTheotokion.incipit = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.text
 
@@ -213,10 +217,12 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMaleMartyr.incipit
+meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMaleMartyr.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
+meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
@@ -670,6 +676,7 @@ meMA.LaudsGlory.text = ""
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode5
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.incipit = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.incipit
+meMA.LaudsTheotokion.incipit = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
@@ -677,6 +684,7 @@ meMA.MM.Lauds123as456.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

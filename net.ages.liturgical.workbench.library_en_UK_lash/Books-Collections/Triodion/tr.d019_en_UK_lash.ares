@@ -20,10 +20,12 @@ trVE.AposIdiomelon1.text = "The springtime of the fast has dawned, and the flowe
 trVE.AposMartyric.mode = misc_en_UK_lash.Mode3
 trVE.AposMartyric.melody = ""
 trVE.AposMartyric.incipit = oc.m3.d7_en_UK_lash.ocVE.Aposticha3.incipit
+trVE.AposMartyric.incipit = oc.m3.d7_en_UK_lash.ocVE.Aposticha3.incipit
 trVE.AposMartyric.text = oc.m3.d7_en_UK_lash.ocVE.Aposticha3.text
 
 trVE.AposTheotokion.mode = misc_en_UK_lash.Mode3
 trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.incipit = oc.m3.d2_en_UK_lash.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.incipit = oc.m3.d2_en_UK_lash.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m3.d2_en_UK_lash.ocVE.AposTheotokion.text
 
@@ -103,6 +105,7 @@ trMA.Ode4C2H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C2H.mode = misc_en_UK_lash.Mode2
 trMA.Ode4C2H.melody = misc_en_UK_lash.Heirmos
 trMA.Ode4C2H.incipit = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
+trMA.Ode4C2H.incipit = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 trMA.Ode4C2H.text = he.h.m2_en_UK_lash.ElilythasEkParthenou.text
 
 trMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -168,6 +171,7 @@ trMA.Ode8C2T.text = ""
 trMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_lash.Mode2
 trMA.Ode8C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C2H.incipit = he.h.m2_en_UK_lash.EfrixePaidonEvagon.incipit
 trMA.Ode8C2H.incipit = he.h.m2_en_UK_lash.EfrixePaidonEvagon.incipit
 trMA.Ode8C2H.text = he.h.m2_en_UK_lash.EfrixePaidonEvagon.text
 
@@ -235,6 +239,7 @@ trMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_lash.Mode2
 trMA.Ode9C2H.melody = misc_en_UK_lash.Heirmos
 trMA.Ode9C2H.incipit = he.h.m2_en_UK_lash.ITonAchoritonTheon.incipit
+trMA.Ode9C2H.incipit = he.h.m2_en_UK_lash.ITonAchoritonTheon.incipit
 trMA.Ode9C2H.text = he.h.m2_en_UK_lash.ITonAchoritonTheon.text
 
 trMA.AposIdiomelon1.mode = misc_en_UK_lash.Mode3
@@ -245,9 +250,11 @@ trMA.AposIdiomelon1.text = ""
 trMA.AposMartyric.mode = misc_en_UK_lash.Mode3
 trMA.AposMartyric.melody = ""
 trMA.AposMartyric.incipit = oc.m3.d4_en_UK_lash.ocMA.Aposticha3.incipit
+trMA.AposMartyric.incipit = oc.m3.d4_en_UK_lash.ocMA.Aposticha3.incipit
 trMA.AposMartyric.text = oc.m3.d4_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode3
 trMA.AposTheotokion.melody = ""
+trMA.AposTheotokion.incipit = oc.m3.d7_en_UK_lash.ocVE.AposTheotokion.incipit
 trMA.AposTheotokion.incipit = oc.m3.d7_en_UK_lash.ocVE.AposTheotokion.incipit
 trMA.AposTheotokion.text = oc.m3.d7_en_UK_lash.ocVE.AposTheotokion.text

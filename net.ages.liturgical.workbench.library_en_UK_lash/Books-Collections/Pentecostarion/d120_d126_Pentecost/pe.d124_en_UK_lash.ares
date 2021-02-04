@@ -31,6 +31,7 @@ peVE.Stichera03.text = ""
 peVE.SticGlory.mode = pe.d120_en_UK_lash.peVE.Stichera07.mode
 peVE.SticGlory.melody = pe.d120_en_UK_lash.peVE.Stichera07.melody
 peVE.SticGlory.incipit = pe.d120_en_UK_lash.peVE.Stichera07.incipit
+peVE.SticGlory.incipit = pe.d120_en_UK_lash.peVE.Stichera07.incipit
 peVE.SticGlory.text = pe.d120_en_UK_lash.peVE.Stichera07.text
 
 peVE.Aposticha1.mode = misc_en_UK_lash.Mode4
@@ -50,6 +51,7 @@ peVE.Aposticha3.text = ""
 
 peVE.AposGlory.mode = pe.d120_en_UK_lash.peVE.Stichera08.mode
 peVE.AposGlory.melody = pe.d120_en_UK_lash.peVE.Stichera08.melody
+peVE.AposGlory.incipit = pe.d120_en_UK_lash.peVE.Stichera08.incipit
 peVE.AposGlory.incipit = pe.d120_en_UK_lash.peVE.Stichera08.incipit
 peVE.AposGlory.text = pe.d120_en_UK_lash.peVE.Stichera08.text
 
@@ -80,5 +82,6 @@ peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_UK_lash.Mode2
 peMA.AposGlory.melody = misc_en_UK_lash.Idiomelon
+peMA.AposGlory.incipit = pe.d120_en_UK_lash.peVE.Stichera05.incipit
 peMA.AposGlory.incipit = pe.d120_en_UK_lash.peVE.Stichera05.incipit
 peMA.AposGlory.text = pe.d120_en_UK_lash.peVE.Stichera05.text

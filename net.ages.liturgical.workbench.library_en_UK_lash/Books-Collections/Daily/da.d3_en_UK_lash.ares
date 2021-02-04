@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = da.d3_en_UK_lash 
+A_Resource_Whose_Name = da.d3_en_UK_lash
 
 daDay.text = ""
 daCommemoration.text = ""
@@ -7,10 +7,12 @@ daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onMondayEvening
 
 daVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 daVE.Apolytikion1.melody = ""
+daVE.Apolytikion1.incipit = me.m08.d29_en_UK_lash.meVE.Apolytikion1.incipit
 daVE.Apolytikion1.text = me.m08.d29_en_UK_lash.meVE.Apolytikion1.text
 
 daVE.ApolTheotokion.mode = misc_en_UK_lash.Mode2
 daVE.ApolTheotokion.melody = ""
+daVE.ApolTheotokion.incipit = oc.m2.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 daVE.ApolTheotokion.text = oc.m2.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 daMA.Triadic1Ending.text = ""
@@ -27,10 +29,12 @@ daMA.Photagogic3Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTisTheotoko
 
 daMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
 daMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
+daMA.Exaposteilarion1.incipit = "Let us all praise John"
 daMA.Exaposteilarion1.text = "Let us all praise John the Forerunner and Baptist of the Saviour, the Prophet from a Prophet, the nurseling of the desert, the offspring of Elisabeth."
 
 daMA.ExapTheotokion1.mode = misc_en_UK_lash.Mode3
 daMA.ExapTheotokion1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+daMA.ExapTheotokion1.incipit = "For you I have as"
 daMA.ExapTheotokion1.text = "For you I have as advocate * before the God who loves mankind, * do not expose what I have done * before the sight of the Angels, * and I entreat you, O Virgin, * pray, come to my aid, come swiftly." //I have you as intermediary with the God who loves humankind; do not expose my deeds before the Angels. I beg you, O Virgin, help me speedily.
 
 daLI.CommunionHymn.text = properties_en_UK_lash.media.key

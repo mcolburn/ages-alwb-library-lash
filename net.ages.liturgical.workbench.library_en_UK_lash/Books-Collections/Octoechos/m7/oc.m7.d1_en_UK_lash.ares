@@ -245,6 +245,7 @@ ocMO.Kathisma21.text = "Consubstantial Trinity, three-personned Unity, have merc
 ocMO.Kathisma22.mode = misc_en_UK_lash.Mode7
 ocMO.Kathisma22.melody = misc_en_UK_lash.Automelon
 ocMO.Kathisma22.incipit = he.a.m7_en_UK_lash.PyrosFoteinoteron.incipit
+ocMO.Kathisma22.incipit = he.a.m7_en_UK_lash.PyrosFoteinoteron.incipit
 ocMO.Kathisma22.text = he.a.m7_en_UK_lash.PyrosFoteinoteron.text
 
 ocMO.Ode71.mode = misc_en_UK_lash.Mode7
@@ -405,6 +406,7 @@ ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.incipit = he.h.m7_en_UK_lash.NefseiSouProsGeodi.incipit
+ocMA.OdeS1C1H.incipit = he.h.m7_en_UK_lash.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C1H.text = he.h.m7_en_UK_lash.NefseiSouProsGeodi.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode7
@@ -464,6 +466,7 @@ ocMA.OdeS1C33.text = "Human nature had become subject to death, corruptible and 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.incipit = he.h.m7_en_UK_lash.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C1H.incipit = he.h.m7_en_UK_lash.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C1H.text = he.h.m7_en_UK_lash.OKatArchasTousOuranous.text
 
@@ -525,6 +528,7 @@ ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.incipit = he.h.m7_en_UK_lash.OPatrikousKolpous.incipit
+ocMA.OdeS4C1H.incipit = he.h.m7_en_UK_lash.OPatrikousKolpous.incipit
 ocMA.OdeS4C1H.text = he.h.m7_en_UK_lash.OPatrikousKolpous.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode7
@@ -585,6 +589,7 @@ ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.incipit = he.h.m7_en_UK_lash.NyxAfengis.incipit
+ocMA.OdeS5C1H.incipit = he.h.m7_en_UK_lash.NyxAfengis.incipit
 ocMA.OdeS5C1H.text = he.h.m7_en_UK_lash.NyxAfengis.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode7
@@ -644,6 +649,7 @@ ocMA.OdeS5C33.text = "The Bridegroom found you, O Virgin, only lily among thorns
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.incipit = he.h.m7_en_UK_lash.NaftionToSalo.incipit
 ocMA.OdeS6C1H.incipit = he.h.m7_en_UK_lash.NaftionToSalo.incipit
 ocMA.OdeS6C1H.text = he.h.m7_en_UK_lash.NaftionToSalo.text
 
@@ -714,6 +720,7 @@ ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.incipit = he.h.m7_en_UK_lash.KaminonPaides.incipit
+ocMA.OdeS7C1H.incipit = he.h.m7_en_UK_lash.KaminonPaides.incipit
 ocMA.OdeS7C1H.text = he.h.m7_en_UK_lash.KaminonPaides.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode7
@@ -773,6 +780,7 @@ ocMA.OdeS7C33.text = "When the godly Prophets of old saw symbols of your godly c
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.incipit = he.h.m7_en_UK_lash.AflektosPyri.incipit
 ocMA.OdeS8C1H.incipit = he.h.m7_en_UK_lash.AflektosPyri.incipit
 ocMA.OdeS8C1H.text = he.h.m7_en_UK_lash.AflektosPyri.text
 
@@ -834,6 +842,7 @@ ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.incipit = he.h.m7_en_UK_lash.MiTisFthoras.incipit
+ocMA.OdeS9C1H.incipit = he.h.m7_en_UK_lash.MiTisFthoras.incipit
 ocMA.OdeS9C1H.text = he.h.m7_en_UK_lash.MiTisFthoras.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode7
@@ -891,6 +900,7 @@ ocMA.OdeS9C33.incipit = "You are truly higher than"
 ocMA.OdeS9C33.text = "You are truly higher than all creation, O Maiden; for for us you gave birth in bodily form to the Creator of all things; therefore, as Mother of the only Master, you royally carry off the victory against all."
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode7
+ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 

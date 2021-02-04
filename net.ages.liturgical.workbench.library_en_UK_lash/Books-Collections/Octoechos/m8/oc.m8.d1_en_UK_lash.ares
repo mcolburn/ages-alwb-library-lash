@@ -324,6 +324,7 @@ ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode8
 ocMA.Kathisma11.melody = misc_en_UK_lash.Automelon
 ocMA.Kathisma11.incipit = he.a.m8_en_UK_lash.AnestisEkNekron.incipit
+ocMA.Kathisma11.incipit = he.a.m8_en_UK_lash.AnestisEkNekron.incipit
 ocMA.Kathisma11.text = he.a.m8_en_UK_lash.AnestisEkNekron.text
 
 ocMA.Kathisma12.mode = misc_en_UK_lash.Mode8
@@ -424,6 +425,7 @@ ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.incipit = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
+ocMA.OdeS1C1H.incipit = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 ocMA.OdeS1C1H.text = he.h.m8_en_UK_lash.ArmatilatinFarao.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode8
@@ -483,6 +485,7 @@ ocMA.OdeS1C33.text = "Adam's race, raised to blessedness beyond all thought, Mot
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 ocMA.OdeS3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 ocMA.OdeS3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
 
@@ -544,6 +547,7 @@ ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.incipit = he.h.m8_en_UK_lash.SyMouIschys.incipit
+ocMA.OdeS4C1H.incipit = he.h.m8_en_UK_lash.SyMouIschys.incipit
 ocMA.OdeS4C1H.text = he.h.m8_en_UK_lash.SyMouIschys.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode8
@@ -604,6 +608,7 @@ ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.incipit = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
+ocMA.OdeS5C1H.incipit = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 ocMA.OdeS5C1H.text = he.h.m8_en_UK_lash.InaTiMeAposo.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode8
@@ -663,6 +668,7 @@ ocMA.OdeS5C33.text = "Mary Mother of God without bridegroom, bring to naught the
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 ocMA.OdeS6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 ocMA.OdeS6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
@@ -733,6 +739,7 @@ ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.incipit = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
+ocMA.OdeS7C1H.incipit = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 ocMA.OdeS7C1H.text = he.h.m8_en_UK_lash.TheouSynkatavasin.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode8
@@ -792,6 +799,7 @@ ocMA.OdeS7C33.text = "Empersonned Wisdom of the Most High, through the Mother of
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 ocMA.OdeS8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 ocMA.OdeS8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
@@ -853,6 +861,7 @@ ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.incipit = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
+ocMA.OdeS9C1H.incipit = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 ocMA.OdeS9C1H.text = he.h.m8_en_UK_lash.ExestiEpiTouto.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode8
@@ -911,6 +920,7 @@ ocMA.OdeS9C33.text = "Fair is your fruit, Mother of God, no cause of corruption 
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode8
 ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
+ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
 ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
@@ -920,6 +930,7 @@ ocMA.MM.LaudsStichologia.text = ""
 
 ocMA.Lauds1.mode = misc_en_UK_lash.Mode8
 ocMA.Lauds1.melody = misc_en_UK_lash.Automelon
+ocMA.Lauds1.incipit = he.a.m8_en_UK_lash.KyrieEiKaiKritirio.incipit
 ocMA.Lauds1.incipit = he.a.m8_en_UK_lash.KyrieEiKaiKritirio.incipit
 ocMA.Lauds1.text = he.a.m8_en_UK_lash.KyrieEiKaiKritirio.text
 
@@ -935,6 +946,7 @@ ocMA.Lauds3.text = "Lord, you have given us your Cross as a weapon against the d
 
 ocMA.Lauds4.mode = misc_en_UK_lash.Mode8
 ocMA.Lauds4.melody = misc_en_UK_lash.Automelon
+ocMA.Lauds4.incipit = he.a.m8_en_UK_lash.OAngelosSouKyrie.incipit
 ocMA.Lauds4.incipit = he.a.m8_en_UK_lash.OAngelosSouKyrie.incipit
 ocMA.Lauds4.text = he.a.m8_en_UK_lash.OAngelosSouKyrie.text
 

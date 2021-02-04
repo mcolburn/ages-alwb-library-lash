@@ -16,20 +16,24 @@ peDismissal = dismissals_en_UK_lash.dis00.ascension
 peVE.Stichera01.mode = pe.d110_en_UK_lash.peVE.Lity1.mode
 peVE.Stichera01.melody = pe.d110_en_UK_lash.peVE.Lity1.melody
 peVE.Stichera01.incipit = pe.d110_en_UK_lash.peVE.Lity1.incipit
+peVE.Stichera01.incipit = pe.d110_en_UK_lash.peVE.Lity1.incipit
 peVE.Stichera01.text = pe.d110_en_UK_lash.peVE.Lity1.text
 
 peVE.Stichera02.mode = pe.d110_en_UK_lash.peVE.Lity2.mode
 peVE.Stichera02.melody = pe.d110_en_UK_lash.peVE.Lity2.melody
+peVE.Stichera02.incipit = pe.d110_en_UK_lash.peVE.Lity2.incipit
 peVE.Stichera02.incipit = pe.d110_en_UK_lash.peVE.Lity2.incipit
 peVE.Stichera02.text = pe.d110_en_UK_lash.peVE.Lity2.text
 
 peVE.Stichera03.mode = pe.d110_en_UK_lash.peVE.Lity3.mode
 peVE.Stichera03.melody = pe.d110_en_UK_lash.peVE.Lity3.melody
 peVE.Stichera03.incipit = pe.d110_en_UK_lash.peVE.Lity3.incipit
+peVE.Stichera03.incipit = pe.d110_en_UK_lash.peVE.Lity3.incipit
 peVE.Stichera03.text = pe.d110_en_UK_lash.peVE.Lity3.text
 
 peVE.SticGlory.mode = pe.d110_en_UK_lash.peVE.Aposticha1.mode
 peVE.SticGlory.melody = pe.d110_en_UK_lash.peVE.Aposticha1.melody
+peVE.SticGlory.incipit = pe.d110_en_UK_lash.peVE.Aposticha1.incipit
 peVE.SticGlory.incipit = pe.d110_en_UK_lash.peVE.Aposticha1.incipit
 peVE.SticGlory.text = pe.d110_en_UK_lash.peVE.Aposticha1.text
 
@@ -51,6 +55,7 @@ peVE.Aposticha3.text = ""
 peVE.AposGlory.mode = pe.d110_en_UK_lash.peVE.Stichera03.mode
 peVE.AposGlory.melody = pe.d110_en_UK_lash.peVE.Stichera03.melody
 peVE.AposGlory.incipit = pe.d110_en_UK_lash.peVE.Stichera03.incipit
+peVE.AposGlory.incipit = pe.d110_en_UK_lash.peVE.Stichera03.incipit
 peVE.AposGlory.text = pe.d110_en_UK_lash.peVE.Stichera03.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode8
@@ -60,6 +65,7 @@ peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.mode
 peMA.Kathisma21.melody = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.melody
+peMA.Kathisma21.incipit = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.incipit
 peMA.Kathisma21.incipit = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.incipit
 peMA.Kathisma21.text = pe.d110_en_UK_lash.peMA.Ode3Kathisma1.text
 

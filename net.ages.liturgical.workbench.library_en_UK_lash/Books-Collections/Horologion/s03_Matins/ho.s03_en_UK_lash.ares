@@ -22,56 +22,56 @@ Triadic11
 Glory
 Triadic12
 Both
-Triadic13 
+Triadic13
 
 Title Mode2
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode3
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode4
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode5
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode6
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode7
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 
 Title Mode8
 Triadic1
 Glory
 Triadic2
 Both
-Triadic3 
+Triadic3
 */
 
 R12a = ""
@@ -83,18 +83,25 @@ hoMA.ResEvlog.title2 = ""
 R13 = ""
 hoMA.ResEvlogVerse.text = ""
 hoMA.ResEvlog1.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog1.incipit = ""
 hoMA.ResEvlog1.text = ""
 hoMA.ResEvlog2.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog2.incipit = ""
 hoMA.ResEvlog2.text = ""
 hoMA.ResEvlog3.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog3.incipit = ""
 hoMA.ResEvlog3.text = ""
 hoMA.ResEvlog4.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog4.incipit = ""
 hoMA.ResEvlog4.text = ""
 hoMA.ResEvlog5.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog5.incipit = ""
 hoMA.ResEvlog5.text = ""
 hoMA.ResEvlog6.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog6.incipit = ""
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_UK_lash.Mode5
+hoMA.ResEvlog7.incipit = prayers_en_UK_lash.Allilouia3Doxa.incipit
 hoMA.ResEvlog7.text = prayers_en_UK_lash.Allilouia3Doxa.text
 
 hoMA.FuneralEvlog.title1 = ""
@@ -102,22 +109,31 @@ hoMA.FuneralEvlog.title2 = ""
 R14 = ""
 hoMA.FuneralEvlogVerse.text = ""
 hoMA.FuneralEvlog1.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog1.incipit = "The choir of Saints has"
 hoMA.FuneralEvlog1.text = "The choir of Saints has found the source of life and the door of Paradise; may I too find the way through repentance; I am the lost sheep, call me back, O Saviour, and save me."
 hoMA.FuneralEvlog2.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog2.incipit = ""
 hoMA.FuneralEvlog2.text = ""
 hoMA.FuneralEvlog3.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog3.incipit = ""
 hoMA.FuneralEvlog3.text = ""
 hoMA.FuneralEvlog4.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog4.incipit = "Of old you formed me"
 hoMA.FuneralEvlog4.text = "Of old you formed me from nothing and honoured me with your divine image, but because I transgressed your commandment, you returned me to the earth from which I was taken; bring me back to your likeness, my ancient beauty."
 hoMA.FuneralEvlog5.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog5.incipit = "I am an image of"
 hoMA.FuneralEvlog5.text = "I am an image of your ineffable glory, though I bear the marks of offences; take pity on your creature, Master, and with compassion cleanse me; and give me the longed-for fatherland, making me once again a citizen of Paradise."
 hoMA.FuneralEvlog6.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog6.incipit = "Give rest, O God, to"
 hoMA.FuneralEvlog6.text = "Give rest, O God, to your servant(s), and settle him (her/them) in Paradise, where the choirs of the Saints and all the Just shine out like beacons; give rest to your servant(s) who has (have) fallen asleep, overlooking all his (her/their) offences."
 hoMA.FuneralEvlog7.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog7.incipit = "Let us devoutly hymn the"
 hoMA.FuneralEvlog7.text = "Let us devoutly hymn the threefold light of the one Godhead as we cry: Holy are you, the Father without beginning, the Son likewise without beginning and the divine Spirit; enlighten us who worship you in faith, and snatch us from the everlasting fire."
 hoMA.FuneralEvlog8.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog8.incipit = "Hail, honoured one, who bore"
 hoMA.FuneralEvlog8.text = "Hail, honoured one, who bore God in the flesh for the salvation of all; through you the human race has found salvation; through you may we find Paradise, O pure and blessed Mother of God."
 hoMA.FuneralEvlog9.mode = misc_en_UK_lash.Mode5
+hoMA.FuneralEvlog9.incipit = prayers_en_UK_lash.Allilouia3Doxa.incipit
 hoMA.FuneralEvlog9.text = prayers_en_UK_lash.Allilouia3Doxa.text
 
 //Psalm 50
@@ -171,55 +187,67 @@ hoMA.Exaposteilaria.title2 = "(When none is appointed in the Menaion)"
 hoMA.ExapMonTitle = "On Monday"
 hoMA.ExapMon1.mode = misc_en_UK_lash.Mode3
 hoMA.ExapMon1.melody = misc_en_UK_lash.Automelon
+hoMA.ExapMon1.incipit = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
 hoMA.ExapMon1.text = he.a.m3_en_UK_lash.OOuranonToisAstrois.text
 
 hoMA.ExapMonTh.mode = misc_en_UK_lash.Mode3
 hoMA.ExapMonTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+hoMA.ExapMonTh.incipit = da.d7_en_UK_lash.daMA.ExapTheotokion1.incipit
 hoMA.ExapMonTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion1.text
 
 hoMA.ExapTueTitle = "On Tuesday"
 hoMA.ExapTue1.mode = misc_en_UK_lash.Mode3
 hoMA.ExapTue1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
+hoMA.ExapTue1.incipit = da.d3_en_UK_lash.daMA.Exaposteilarion1.incipit
 hoMA.ExapTue1.text = da.d3_en_UK_lash.daMA.Exaposteilarion1.text
 
 hoMA.ExapTueTh.mode = misc_en_UK_lash.Mode3
 hoMA.ExapTueTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+hoMA.ExapTueTh.incipit = da.d7_en_UK_lash.daMA.ExapTheotokion1.incipit
 hoMA.ExapTueTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion1.text
 
 hoMA.ExapWedFriTitle = "On Wednesday and Friday"
 hoMA.ExapWedFri1.mode = misc_en_UK_lash.Mode2
 hoMA.ExapWedFri1.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.notmetered
+hoMA.ExapWedFri1.incipit = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.incipit
 hoMA.ExapWedFri1.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 hoMA.ExapWedFriTh.mode = misc_en_UK_lash.Mode3
 hoMA.ExapWedFriTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
+hoMA.ExapWedFriTh.incipit = da.d6_en_UK_lash.daMA.ExapTheotokion2.incipit
 hoMA.ExapWedFriTh.text = da.d6_en_UK_lash.daMA.ExapTheotokion2.text
 
 hoMA.ExapThuTitle = "On Thursday"
 hoMA.ExapThu1.mode = misc_en_UK_lash.Mode2
 hoMA.ExapThu1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
+hoMA.ExapThu1.incipit = "Having sped to every place"
 hoMA.ExapThu1.text = "Having sped to every place beneath the sun, you proclaimed the holy incarnation of Christ from a Virgin, truly turning the nations from error, enlightening them and teaching all to honour the holy Trinity, O Apostles of the Saviour. "
 
 hoMA.ExapThu2.mode = misc_en_UK_lash.Mode2
 hoMA.ExapThu2.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
+hoMA.ExapThu2.incipit = "Let us all praise the"
 hoMA.ExapThu2.text = "Let us all praise the chief shepherd and high priest, Nicholas the leader of the people of Myra; for many men he saved who were to die unjustly; and he appeared to the King in a dream with Avlavios, abolishing the unjust decree." //me.m12.d06_en_UK_lash.meMA.Exaposteilarion1.text
 
 hoMA.ExapThuTh.mode = misc_en_UK_lash.Mode2
 hoMA.ExapThuTh.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.incipit
+hoMA.ExapThuTh.incipit = "Mary, censer of purest gold,"
 hoMA.ExapThuTh.text = "Mary, censer of purest gold, having become the vessel of the uncontainable Trinity; in whom the Father was well-pleased, the Son dwelt, and the all-holy Spirit, having overshadowed you, showed you, O Maiden, to be Mother of God."
 
 hoMA.ExapSatTitle = "On Saturday"
 hoMA.ExapSat1.mode = misc_en_UK_lash.Mode3
 hoMA.ExapSat1.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.incipit
-hoMA.ExapSat1.text = da.d7_en_UK_lash.daMA.Exaposteilarion2.text 
+hoMA.ExapSat1.incipit = da.d7_en_UK_lash.daMA.Exaposteilarion2.incipit
+hoMA.ExapSat1.text = da.d7_en_UK_lash.daMA.Exaposteilarion2.text
 
 hoMA.ExapSatTh.mode = misc_en_UK_lash.Mode2
 hoMA.ExapSatTh.melody = he.a.m2_en_UK_lash.TonMathitonOrontonSe.incipit
-hoMA.ExapSatTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion2.text 
+hoMA.ExapSatTh.incipit = da.d7_en_UK_lash.daMA.ExapTheotokion2.incipit
+hoMA.ExapSatTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion2.text
 
 R19 = ""
 R20 = ""
 R21 = ""
+hoMA.LaudsSunTheotokion.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.incipit
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
 hoMA.DoxologyGreat.title = "THE GREAT DOXOLOGY"
@@ -252,6 +280,7 @@ hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy on us."
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = ""
+hoMA.DoxologyVerse20.incipit = hoMA.DoxologyVerse16.incipit
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ""
@@ -281,10 +310,12 @@ R34 = ""
 R35 = ""
 R36 = ""
 hoMA.SunTroparion1.mode = misc_en_UK_lash.Mode4
+hoMA.SunTroparion1.incipit = "Today salvation has come to"
 hoMA.SunTroparion1.text = "Today salvation has come to the world. * Let us sing to him who rose from the tomb, the Author of our life. * For destroying death by death, * he has given us the victory * and his great mercy."
 R37 = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = misc_en_UK_lash.Mode8
+hoMA.SunTroparion2.incipit = "By rising from the tomb"
 hoMA.SunTroparion2.text = "By rising from the tomb * and bursting through the bonds of Hades, * you abolished the sentence of death, O Lord, * delivering all from the snares of the foe. * Having shown yourself to your Apostles, * you sent them out to preach, * and through them you gave peace * to the inhabited world, * you who alone are full of mercy."
 R38 = "" // [maybe unpack]
 R39 = ""

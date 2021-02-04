@@ -19,6 +19,7 @@ hoTY.Key0217.text = ""
 //0400-0408
 
 hoTY.Key0408.mode = misc_en_UK_lash.Mode2
+hoTY.Key0408.incipit = "Protection of Christians that cannot"
 hoTY.Key0408.text = "Protection of Christians that cannot be put to shame, unfailing mediation with the Maker, do not despise the voices of us sinners as we pray; but, in your love, be quick to help us who cry to you with faith: Hasten to intercede, make speed to entreat, O Mother of God, for you ever protect those who honour you."
 
 hoTY.Key0501.text = ""
@@ -32,7 +33,9 @@ hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = "save us who sing to you: Alleluia!"
 
 hoLI.EntranceHymn.text = "Come, let us worship and fall down before Christ." // in the template add parts of Antiphon 2
+hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
+hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = "The Trisagion"
@@ -46,7 +49,7 @@ hoLI.TrisagiosHymnJames3.text = ""
 hoLI.TrisagiosHymnJames34.text = ""
 hoLI.MM.TrisagiosHymnBimatos.text = properties_en_UK_lash.media.key
 hoLI.TrisagiosHymnDynamis.text = "Dynamis. Holy God, Holy Strong, Holy Immortal, have mercy on us."
- 
+
 hoLI.OsoiEisChriston.title = ""
 hoLI.OsoiEisChriston.text = ""
 hoLI.OsoiEisChriston1.text = ""

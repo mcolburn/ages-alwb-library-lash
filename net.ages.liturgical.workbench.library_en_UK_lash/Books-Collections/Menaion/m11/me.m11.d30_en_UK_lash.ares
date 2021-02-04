@@ -74,6 +74,7 @@ meVE.LityGlory.text = "Let us all sing the praise of Andrew, the herald of the f
 meVE.LityBoth.mode = misc_en_UK_lash.Mode8
 meVE.LityBoth.melody = ""
 meVE.LityBoth.incipit = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.incipit
+meVE.LityBoth.incipit = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode5
@@ -99,6 +100,7 @@ meVE.AposGlory.text = "With hymns let us honour the brother of Peter and discipl
 
 meVE.AposBoth.mode = misc_en_UK_lash.Mode3
 meVE.AposBoth.melody = ""
+meVE.AposBoth.incipit = me.m12.d24_en_UK_lash.meH3.Idiomelon3.incipit
 meVE.AposBoth.incipit = me.m12.d24_en_UK_lash.meH3.Idiomelon3.incipit
 meVE.AposBoth.text = me.m12.d24_en_UK_lash.meH3.Idiomelon3.text
 
@@ -142,15 +144,18 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelApostle.incipit
+meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelApostle.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostle.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
+meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode1
 meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
 meMA.PostGospelIdiomelon.incipit = meVE.Lity1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity1.text
 
@@ -159,6 +164,7 @@ meMA.C2.poet = poets_en_UK_lash.IoannouMonachou
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.OdinEpinikion.incipit
 meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_UK_lash.OdinEpinikion.text
 
@@ -259,6 +265,7 @@ meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereothitoIKardiaMou.incipit
+meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereothitoIKardiaMou.incipit
 meMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereothitoIKardiaMou.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -358,11 +365,13 @@ meMA.Ode3Kathisma2.text = "You threw down the insolence of the idols; you longed
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.incipit = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.incipit = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.incipit
 meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.incipit
 meMA.Ode4C1H.text = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.text
 
@@ -454,6 +463,7 @@ meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.TinSinEirinin.incipit
+meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.TinSinEirinin.incipit
 meMA.Ode5C1H.text = he.h.m1_en_UK_lash.TinSinEirinin.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -543,6 +553,7 @@ meMA.Ode5C3T.text = "You gave birth to the Light, not knowing how, O lampstand a
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinIonan.incipit
 meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinIonan.incipit
 meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinIonan.text
 
@@ -641,6 +652,7 @@ meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.TousEnKaminoPaidas.incipit
+meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.TousEnKaminoPaidas.incipit
 meMA.Ode7C1H.text = he.h.m1_en_UK_lash.TousEnKaminoPaidas.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -730,6 +742,7 @@ meMA.Ode7C3T.text = "We glorify you, O Christ, as one of the Trinity; because in
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.OnFrittousinAngeloi.incipit
 meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.OnFrittousinAngeloi.incipit
 meMA.Ode8C1H.text = he.h.m1_en_UK_lash.OnFrittousinAngeloi.text
 
@@ -825,6 +838,7 @@ meMA.Ode8C3T.text = "You conceived one of the Trinity and gave birth to him inca
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.TinFotoforonNefelin.incipit
 meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.TinFotoforonNefelin.incipit
 meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TinFotoforonNefelin.text
 
@@ -956,6 +970,7 @@ meMA.Lauds4.text = "The city of Patras has gained you as Shepherd and divine def
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode8
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = meVE.LityGlory.incipit
+meMA.LaudsGlory.incipit = meVE.LityGlory.incipit
 meMA.LaudsGlory.text = meVE.LityGlory.text
 
 meMA.LaudsBoth.mode = misc_en_UK_lash.Mode8
@@ -967,6 +982,7 @@ meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

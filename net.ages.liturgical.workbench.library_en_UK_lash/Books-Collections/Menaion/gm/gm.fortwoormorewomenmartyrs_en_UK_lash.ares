@@ -35,6 +35,8 @@ meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
+meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
+meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 meMA.Ode1C1H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -64,6 +66,8 @@ meMA.Ode1C1T.text = "As living bridal chamber, incorrupt tabernacle, heavenly ga
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
+meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.OukEnSofia.text
 
@@ -110,6 +114,8 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
+meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
+meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 meMA.Ode4C1H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -139,6 +145,8 @@ meMA.Ode4C1T.text = "All-immaculate, who gave birth to life, make me live, who h
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
+meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
 
@@ -170,6 +178,8 @@ meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
+meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -199,6 +209,8 @@ meMA.Ode6C1T.text = "Holy is the Lord who dwelt in your womb, having found you h
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.AvramiaioiPote.incipit
+meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.AvramiaioiPote.incipit
 meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.AvramiaioiPote.incipit
 meMA.Ode7C1H.text = he.h.m4_en_UK_lash.AvramiaioiPote.text
 
@@ -230,6 +242,8 @@ meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.LytrotaTouPantos.incipit
+meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.LytrotaTouPantos.incipit
+meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.LytrotaTouPantos.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.LytrotaTouPantos.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -259,6 +273,8 @@ meMA.Ode8C1T.text = "As the unsullied enclosure of God, you received him when he
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
+meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 
