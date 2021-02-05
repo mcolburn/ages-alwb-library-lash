@@ -101,7 +101,6 @@ hoMA.ResEvlog6.mode = misc_en_UK_lash.Mode5
 hoMA.ResEvlog6.incipit = ""
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_UK_lash.Mode5
-hoMA.ResEvlog7.incipit = prayers_en_UK_lash.Allilouia3Doxa.incipit
 hoMA.ResEvlog7.text = prayers_en_UK_lash.Allilouia3Doxa.text
 
 hoMA.FuneralEvlog.title1 = ""
@@ -133,7 +132,6 @@ hoMA.FuneralEvlog8.mode = misc_en_UK_lash.Mode5
 hoMA.FuneralEvlog8.incipit = "Hail, honoured one, who bore"
 hoMA.FuneralEvlog8.text = "Hail, honoured one, who bore God in the flesh for the salvation of all; through you the human race has found salvation; through you may we find Paradise, O pure and blessed Mother of God."
 hoMA.FuneralEvlog9.mode = misc_en_UK_lash.Mode5
-hoMA.FuneralEvlog9.incipit = prayers_en_UK_lash.Allilouia3Doxa.incipit
 hoMA.FuneralEvlog9.text = prayers_en_UK_lash.Allilouia3Doxa.text
 
 //Psalm 50
@@ -280,7 +278,6 @@ hoMA.DoxologyVerse18.text = ""
 hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy on us."
 R22 = ""
 hoMA.MM.DoxologyGreatAsmatic.text = ""
-hoMA.DoxologyVerse20.incipit = hoMA.DoxologyVerse16.incipit
 hoMA.DoxologyVerse20.text = hoMA.DoxologyVerse16.text
 R23 = ""
 hoMA.DoxologySmallIntro.text = ""
@@ -325,28 +322,49 @@ hoMA.Antiphon11.title = ""
 hoMA.Antiphon11.text = "" // for media
 hoMA.PreGospelHymn.text = "" // for media
 
+hoMA.SunPostGospel.incipit = ""
 hoMA.SunPostGospel.text = "Having seen the Resurrection of Christ...,"
 
+hoMA.PostGospelTrinity.incipit = ""
 hoMA.PostGospelTrinity.text = "Father, Word and Spirit, Trinity in Unity, blot out the multitude of my transgressions."
+hoMA.PostGospelApostle.incipit = ""
 hoMA.PostGospelApostle.text = ""
+hoMA.PostGospelApostles.incipit = ""
 hoMA.PostGospelApostles.text = ""
+hoMA.PostGospelMaleMartyr.incipit = ""
 hoMA.PostGospelMaleMartyr.text = "At the prayers of the Champion O Merciful One, blot out the multitude of my transgressions."
+hoMA.PostGospelMartyrs.incipit = ""
 hoMA.PostGospelMartyrs.text = ""
+hoMA.PostGospelWomanMartyr.incipit = ""
 hoMA.PostGospelWomanMartyr.text = ""
+hoMA.PostGospelWomenMartyrs.incipit = ""
 hoMA.PostGospelWomenMartyrs.text = ""
+hoMA.PostGospelTeacher.incipit = ""
 hoMA.PostGospelTeacher.text = ""
+hoMA.PostGospelTeachers.incipit = ""
 hoMA.PostGospelTeachers.text = ""
+hoMA.PostGospelMonastic.incipit = ""
 hoMA.PostGospelMonastic.text = ""
+hoMA.PostGospelMonastics.incipit = ""
 hoMA.PostGospelMonastics.text = ""
+hoMA.PostGospelWomanMonastic.incipit = ""
 hoMA.PostGospelWomanMonastic.text = ""
+hoMA.PostGospelForerunner.incipit = ""
 hoMA.PostGospelForerunner.text = ""
+hoMA.PostGospelTheotokos.incipit = ""
 hoMA.PostGospelTheotokos.text = "At the prayers of the Mother of God O Merciful One, wipe away the multitude of my offences." //Through the prayers of the Mother of God, O Merciful One, blot out the multitude of my transgressions.
+hoMA.PostGospelAllPureLady.incipit = ""
 hoMA.PostGospelAllPureLady.text = ""
+hoMA.PostGospelProphet.incipit = ""
 hoMA.PostGospelProphet.text = ""
+hoMA.PostGospelAngels.incipit = ""
 hoMA.PostGospelAngels.text = ""
+hoMA.PostGospelHierarch.incipit = ""
 hoMA.PostGospelHierarch.text = ""
+hoMA.PostGospelMaleSaint.incipit = ""
 hoMA.PostGospelMaleSaint.text = ""
 
+hoMA.SunPostGospelIdiomelon.incipit = ""
 hoMA.SunPostGospelIdiomelon.text = ""
 
 hoMA.SunExapVerse1.text = "" // for media

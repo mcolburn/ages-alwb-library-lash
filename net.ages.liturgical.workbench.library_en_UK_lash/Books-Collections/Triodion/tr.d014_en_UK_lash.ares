@@ -35,32 +35,28 @@ trVE.SticGlory.text = ""
 trVE.AposGlory.mode = misc_en_UK_lash.Mode6
 trVE.AposGlory.melody = ""
 trVE.AposGlory.incipit = oc.m6.d7_en_UK_lash.ocVE.Aposticha2.incipit
-trVE.AposGlory.incipit = oc.m6.d7_en_UK_lash.ocVE.Aposticha2.incipit
 trVE.AposGlory.text = oc.m6.d7_en_UK_lash.ocVE.Aposticha2.text
 
 trVE.AposBoth.mode = misc_en_UK_lash.Mode6
 trVE.AposBoth.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
-trVE.AposBoth.incipit = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.incipit
 trVE.AposBoth.incipit = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.incipit
 trVE.AposBoth.text = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.text
 
 trVE.Apolytikion1.mode = misc_en_UK_lash.Mode8
 trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.incipit = oc.m8.d7_en_UK_lash.ocMA.Kathisma23.incipit
-trVE.Apolytikion1.incipit = oc.m8.d7_en_UK_lash.ocMA.Kathisma23.incipit
 trVE.Apolytikion1.text = oc.m8.d7_en_UK_lash.ocMA.Kathisma23.text
 
+trVE.Apolytikion2.incipit = ""
 trVE.Apolytikion2.text = ""
 
 trVE.ApolTheotokion.mode = misc_en_UK_lash.Mode8
 trVE.ApolTheotokion.melody = ""
 trVE.ApolTheotokion.incipit = oc.m8.d7_en_UK_lash.ocMA.Kathisma24.incipit
-trVE.ApolTheotokion.incipit = oc.m8.d7_en_UK_lash.ocMA.Kathisma24.incipit
 trVE.ApolTheotokion.text = oc.m8.d7_en_UK_lash.ocMA.Kathisma24.text
 
 trMA.Kathisma21.mode = misc_en_UK_lash.Mode5
 trMA.Kathisma21.melody = ""
-trMA.Kathisma21.incipit = oc.m5.d7_en_UK_lash.ocMA.Kathisma22.incipit
 trMA.Kathisma21.incipit = oc.m5.d7_en_UK_lash.ocMA.Kathisma22.incipit
 trMA.Kathisma21.text = oc.m5.d7_en_UK_lash.ocMA.Kathisma22.text
 
@@ -72,7 +68,6 @@ trMA.Kathisma21b.text = ""
 trMA.Kathisma22.mode = misc_en_UK_lash.Mode5
 trMA.Kathisma22.melody = ""
 trMA.Kathisma22.incipit = oc.m5.d2_en_UK_lash.ocMA.ApolTheotokion.incipit
-trMA.Kathisma22.incipit = oc.m5.d2_en_UK_lash.ocMA.ApolTheotokion.incipit
 trMA.Kathisma22.text = oc.m5.d2_en_UK_lash.ocMA.ApolTheotokion.text
 
 trMA.C1.acrostic = ""
@@ -80,7 +75,6 @@ trMA.C1.acrostic = ""
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsmaAnapempsomen.text
 
@@ -133,13 +127,11 @@ trMA.Ode1K.ode = misc_en_UK_lash.Ode1
 trMA.Ode1K.mode = misc_en_UK_lash.Mode8
 trMA.Ode1K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode1K.incipit = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
-trMA.Ode1K.incipit = he.h.m8_en_UK_lash.AsmaAnapempsomen.incipit
 trMA.Ode1K.text = he.h.m8_en_UK_lash.AsmaAnapempsomen.text
 
 trMA.Ode2C1H.ode = misc_en_UK_lash.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode2C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode2C1H.incipit = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2C1H.incipit = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2C1H.text = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.text
 
@@ -183,13 +175,11 @@ trMA.Ode2K.ode = misc_en_UK_lash.Ode2
 trMA.Ode2K.mode = misc_en_UK_lash.Mode8
 trMA.Ode2K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode2K.incipit = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.incipit
-trMA.Ode2K.incipit = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2K.text = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.text
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasEnTiCheiriSou.incipit
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasEnTiCheiriSou.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_lash.OStereosasEnTiCheiriSou.text
 
@@ -233,7 +223,6 @@ trMA.Ode3K.ode = misc_en_UK_lash.Ode3
 trMA.Ode3K.mode = misc_en_UK_lash.Mode8
 trMA.Ode3K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode3K.incipit = he.h.m8_en_UK_lash.OStereosasEnTiCheiriSou.incipit
-trMA.Ode3K.incipit = he.h.m8_en_UK_lash.OStereosasEnTiCheiriSou.incipit
 trMA.Ode3K.text = he.h.m8_en_UK_lash.OStereosasEnTiCheiriSou.text
 
 trMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode5
@@ -244,13 +233,11 @@ trMA.Ode3Kathisma1.text = ""
 trMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode5
 trMA.Ode3Kathisma2.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
 trMA.Ode3Kathisma2.incipit = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
-trMA.Ode3Kathisma2.incipit = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 trMA.Ode3Kathisma2.text = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_lash.ExOrousKataskiou.text
 
@@ -294,13 +281,11 @@ trMA.Ode4K.ode = misc_en_UK_lash.Ode4
 trMA.Ode4K.mode = misc_en_UK_lash.Mode8
 trMA.Ode4K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode4K.incipit = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
-trMA.Ode4K.incipit = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
 trMA.Ode4K.text = he.h.m8_en_UK_lash.ExOrousKataskiou.text
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizeiToPnevmaMou.incipit
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizeiToPnevmaMou.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizeiToPnevmaMou.text
 
@@ -344,13 +329,11 @@ trMA.Ode5K.ode = misc_en_UK_lash.Ode5
 trMA.Ode5K.mode = misc_en_UK_lash.Mode8
 trMA.Ode5K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode5K.incipit = he.h.m8_en_UK_lash.OrthrizeiToPnevmaMou.incipit
-trMA.Ode5K.incipit = he.h.m8_en_UK_lash.OrthrizeiToPnevmaMou.incipit
 trMA.Ode5K.text = he.h.m8_en_UK_lash.OrthrizeiToPnevmaMou.text
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.SynechomenonDexaiMe.incipit
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.SynechomenonDexaiMe.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_lash.SynechomenonDexaiMe.text
 
@@ -400,7 +383,6 @@ trMA.Ode6K.ode = misc_en_UK_lash.Ode6
 trMA.Ode6K.mode = misc_en_UK_lash.Mode8
 trMA.Ode6K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode6K.incipit = he.h.m8_en_UK_lash.SynechomenonDexaiMe.incipit
-trMA.Ode6K.incipit = he.h.m8_en_UK_lash.SynechomenonDexaiMe.incipit
 trMA.Ode6K.text = he.h.m8_en_UK_lash.SynechomenonDexaiMe.text
 
 trMA.Kontakion1.mode = misc_en_UK_lash.Mode8
@@ -433,7 +415,6 @@ trMA.Synaxarion.lastline.text = ""
 trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OEnArchiTinGin.incipit
 trMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OEnArchiTinGin.incipit
 trMA.Ode7C1H.text = he.h.m8_en_UK_lash.OEnArchiTinGin.text
 
@@ -483,13 +464,11 @@ trMA.Ode7K.ode = misc_en_UK_lash.Ode7
 trMA.Ode7K.mode = misc_en_UK_lash.Mode8
 trMA.Ode7K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode7K.incipit = he.h.m8_en_UK_lash.OEnArchiTinGin.incipit
-trMA.Ode7K.incipit = he.h.m8_en_UK_lash.OEnArchiTinGin.incipit
 trMA.Ode7K.text = he.h.m8_en_UK_lash.OEnArchiTinGin.text
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonEnOreiAgio.text
 
@@ -533,13 +512,11 @@ trMA.Ode8K.ode = misc_en_UK_lash.Ode8
 trMA.Ode8K.mode = misc_en_UK_lash.Mode8
 trMA.Ode8K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode8K.incipit = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
-trMA.Ode8K.incipit = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 trMA.Ode8K.text = he.h.m8_en_UK_lash.TonEnOreiAgio.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-trMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_lash.TonProdilothenta.text
 
@@ -589,7 +566,6 @@ trMA.Ode9K.ode = misc_en_UK_lash.Ode9
 trMA.Ode9K.mode = misc_en_UK_lash.Mode8
 trMA.Ode9K.melody = misc_en_UK_lash.Heirmos
 trMA.Ode9K.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
-trMA.Ode9K.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 trMA.Ode9K.text = he.h.m8_en_UK_lash.TonProdilothenta.text
 
 trMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
@@ -630,30 +606,25 @@ trMA.Lauds4.text = ""
 trMA.LaudsGlory.mode = misc_en_UK_lash.Mode2
 trMA.LaudsGlory.melody = ""
 trMA.LaudsGlory.incipit = oc.m2.d7_en_UK_lash.ocVE.Aposticha4.incipit
-trMA.LaudsGlory.incipit = oc.m2.d7_en_UK_lash.ocVE.Aposticha4.incipit
 trMA.LaudsGlory.text = oc.m2.d7_en_UK_lash.ocVE.Aposticha4.text
 
 trMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode2
 trMA.LaudsTheotokion.melody = ""
-trMA.LaudsTheotokion.incipit = oc.m2.d7_en_UK_lash.octrMA.LaudsTheotokion.incipit
 trMA.LaudsTheotokion.incipit = oc.m2.d7_en_UK_lash.octrMA.LaudsTheotokion.incipit
 trMA.LaudsTheotokion.text = oc.m2.d7_en_UK_lash.octrMA.LaudsTheotokion.text
 
 trMA.AposGlory.mode = misc_en_UK_lash.Mode6
 trMA.AposGlory.melody = ""
 trMA.AposGlory.incipit = oc.m6.d7_en_UK_lash.ocVE.Aposticha3.incipit
-trMA.AposGlory.incipit = oc.m6.d7_en_UK_lash.ocVE.Aposticha3.incipit
 trMA.AposGlory.text = oc.m6.d7_en_UK_lash.ocVE.Aposticha3.text
 
 trMA.AposTheotokion.mode = misc_en_UK_lash.Mode6
 trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.incipit = oc.m6.d7_en_UK_lash.ocMA.LaudsTheotokion.incipit
-trMA.AposTheotokion.incipit = oc.m6.d7_en_UK_lash.ocMA.LaudsTheotokion.incipit
 trMA.AposTheotokion.text = oc.m6.d7_en_UK_lash.ocMA.LaudsTheotokion.text
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 

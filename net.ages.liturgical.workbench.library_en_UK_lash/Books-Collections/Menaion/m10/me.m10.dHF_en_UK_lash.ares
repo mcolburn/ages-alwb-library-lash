@@ -133,7 +133,6 @@ meMA.Ode3C1T.text = "Every impious man, who does not honour the holy image of th
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.incipit
-meMA.Ode3Kathisma1.incipit = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.incipit
 meMA.Ode3Kathisma1.text = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.text
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
@@ -293,18 +292,15 @@ meMA.ExapTheotokion.text = "O Lord supremely good, at the prayers of your Mother
 meMA.Lauds1.mode = misc_en_UK_lash.Mode6
 meMA.Lauds1.melody = he.a.m6_en_UK_lash.OlinApothemenoi.notmetered
 meMA.Lauds1.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds1.incipit
-meMA.Lauds1.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds1.incipit
 meMA.Lauds1.text = me.m07.dHF_en_UK_lash.meMA.Lauds1.text
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode6
 meMA.Lauds2.melody = ""
 meMA.Lauds2.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds2.incipit
-meMA.Lauds2.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds2.incipit
 meMA.Lauds2.text = me.m07.dHF_en_UK_lash.meMA.Lauds2.text
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode6
 meMA.Lauds3.melody = ""
-meMA.Lauds3.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds3.incipit
 meMA.Lauds3.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds3.incipit
 meMA.Lauds3.text = me.m07.dHF_en_UK_lash.meMA.Lauds3.text
 
@@ -315,7 +311,6 @@ meMA.LaudsGlory.text = "The choir of holy Fathers, having hurried together from 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

@@ -104,7 +104,6 @@ meVE.AposGlory.text = "Your most godlike and blameless soul, revered Demetrios, 
 meVE.AposTheotokion.mode = misc_en_UK_lash.Mode8
 meVE.AposTheotokion.melody = ""
 meVE.AposTheotokion.incipit = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.incipit = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m8.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode3
@@ -157,12 +156,10 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMaleMartyr.incipit
-meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMaleMartyr.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelMaleMartyr.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
@@ -182,7 +179,6 @@ meMA.C3.acrostic = "of which the Acrostic is: Adorned with spiritual myrrh, you 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.text
 
@@ -277,7 +273,6 @@ meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode3C1H.incipit = he.h.m6_en_UK_lash.OukEstinAgios.incipit
-meMA.Ode3C1H.incipit = he.h.m6_en_UK_lash.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_UK_lash.OukEstinAgios.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -371,7 +366,6 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode4C1H.incipit = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
-meMA.Ode4C1H.incipit = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_UK_lash.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -449,7 +443,6 @@ meMA.Ode4C3T.text = "[English text unavailable at this time]"
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_UK_lash.ToTheioFengeiSou.text
 
@@ -529,7 +522,6 @@ meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode6C1H.incipit = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
-meMA.Ode6C1H.incipit = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_UK_lash.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -607,7 +599,6 @@ meMA.Ode6C3T.text = "[English text unavailable at this time]"
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode2
 meMA.Kontakion1.melody = misc_en_UK_lash.AutomelonNotMetered
 meMA.Kontakion1.incipit = he.a.m2_en_UK_lash.ToisTonAimatonSou.incipit
-meMA.Kontakion1.incipit = he.a.m2_en_UK_lash.ToisTonAimatonSou.incipit
 meMA.Kontakion1.text = he.a.m2_en_UK_lash.ToisTonAimatonSou.text
 
 meMA.Oikos1.text = "Let all we believers assembled honour with songs and hymns this great Saint as a soldier and Martyr of Christ, as we cry aloud to the Master and Creator of the inhabited world: Deliver us from the constraint of earthquake, Lover of mankind, at the prayers of the Mother of God and of all the Martyrs; for in you we hope to be delivered from dangers and afflictions, because you are our strength."
@@ -615,7 +606,6 @@ meMA.Oikos1.text = "Let all we believers assembled honour with songs and hymns t
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode7C1H.incipit = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.incipit = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.text
 
@@ -688,7 +678,6 @@ meMA.Ode7C3T.text = "[English text unavailable at this time]"
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_UK_lash.EkFlogosToisOsiois.text
 
@@ -779,7 +768,6 @@ meMA.Ode8C3T.text = "[English text unavailable at this time]"
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.TheonAnthropois.incipit
 meMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_UK_lash.TheonAnthropois.text
 
@@ -895,14 +883,12 @@ meMA.LaudsGlory.text = "Let us all honour Demetrios, wisest in teachings and vic
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode4
 meMA.LaudsTheotokion.melody = ""
 meMA.LaudsTheotokion.incipit = oc.m4.d5_en_UK_lash.ocVE.AposTheotokion.incipit
-meMA.LaudsTheotokion.incipit = oc.m4.d5_en_UK_lash.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m4.d5_en_UK_lash.ocVE.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

@@ -36,7 +36,6 @@ meSV.SticGlory.poet = poets_en_UK_lash.AndreouKritis
 meSV.SticGlory.mode = misc_en_UK_lash.Mode4
 meSV.SticGlory.melody = ""
 meSV.SticGlory.incipit = meVE.Lity8.incipit
-meSV.SticGlory.incipit = meVE.Lity8.incipit
 meSV.SticGlory.text = meVE.Lity8.text
 
 meSV.Aposticha1.mode = misc_en_UK_lash.Mode2
@@ -106,20 +105,17 @@ meVE.Lity4.poet = poets_en_UK_lash.Germanou
 meVE.Lity4.mode = misc_en_UK_lash.Mode2
 meVE.Lity4.melody = ""
 meVE.Lity4.incipit = me.m02.d01_en_UK_lash.meVE.SticBoth.incipit
-meVE.Lity4.incipit = me.m02.d01_en_UK_lash.meVE.SticBoth.incipit
 meVE.Lity4.text = me.m02.d01_en_UK_lash.meVE.SticBoth.text
 
 meVE.Lity5.poet = poets_en_UK_lash.GermanouOiDeIoannouMonachou
 meVE.Lity5.mode = misc_en_UK_lash.Mode2
 meVE.Lity5.melody = ""
 meVE.Lity5.incipit = me.m02.d01_en_UK_lash.meVE.AposGlory.incipit
-meVE.Lity5.incipit = me.m02.d01_en_UK_lash.meVE.AposGlory.incipit
 meVE.Lity5.text = me.m02.d01_en_UK_lash.meVE.AposGlory.text
 
 meVE.Lity6.poet = poets_en_UK_lash.GermanouOiDeIoannouMonachou
 meVE.Lity6.mode = misc_en_UK_lash.Mode2
 meVE.Lity6.melody = ""
-meVE.Lity6.incipit = me.m02.d01_en_UK_lash.meMA.AposGlory.incipit
 meVE.Lity6.incipit = me.m02.d01_en_UK_lash.meMA.AposGlory.incipit
 meVE.Lity6.text = me.m02.d01_en_UK_lash.meMA.AposGlory.text
 
@@ -177,7 +173,6 @@ meVE.Apolytikion1.text = "Hail, full of grace, Virgin Mother of God, for from yo
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
 meMA.Kathisma11.melody = misc_en_UK_lash.AutomelonNotMetered
 meMA.Kathisma11.incipit = he.a.m1_en_UK_lash.ChorosAngelikos.incipit
-meMA.Kathisma11.incipit = he.a.m1_en_UK_lash.ChorosAngelikos.incipit
 meMA.Kathisma11.text = he.a.m1_en_UK_lash.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode1
@@ -195,19 +190,16 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
-meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.IoannouMonachou
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
@@ -217,7 +209,6 @@ meMA.C1.acrostic = "of which the Acrostic is: An Elder, rejoicing, holds Christ 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C1H.incipit = he.h.m3_en_UK_lash.ChersonAvyssotokon.incipit
 meMA.Ode1C1H.incipit = he.h.m3_en_UK_lash.ChersonAvyssotokon.incipit
 meMA.Ode1C1H.text = he.h.m3_en_UK_lash.ChersonAvyssotokon.text
 
@@ -245,7 +236,6 @@ meMA.Ode1C13.text = "You heavens, stretched out with understanding, rejoice. Ear
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m3_en_UK_lash.ToStereoma.incipit
 meMA.Ode3C1H.incipit = he.h.m3_en_UK_lash.ToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m3_en_UK_lash.ToStereoma.text
 
@@ -276,7 +266,6 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode4C1H.incipit = he.h.m3_en_UK_lash.EkalypsenOuranous.incipit
-meMA.Ode4C1H.incipit = he.h.m3_en_UK_lash.EkalypsenOuranous.incipit
 meMA.Ode4C1H.text = he.h.m3_en_UK_lash.EkalypsenOuranous.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -301,7 +290,6 @@ meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m3_en_UK_lash.OsEidenIsaias.incipit
-meMA.Ode5C1H.incipit = he.h.m3_en_UK_lash.OsEidenIsaias.incipit
 meMA.Ode5C1H.text = he.h.m3_en_UK_lash.OsEidenIsaias.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -325,7 +313,6 @@ meMA.Ode5C13.text = "'Isaias was cleansed when he received the coal from the Ser
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C1H.incipit = he.h.m3_en_UK_lash.EvoiseSoi.incipit
 meMA.Ode6C1H.incipit = he.h.m3_en_UK_lash.EvoiseSoi.incipit
 meMA.Ode6C1H.text = he.h.m3_en_UK_lash.EvoiseSoi.text
 
@@ -358,7 +345,6 @@ meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode7C1H.incipit = he.h.m3_en_UK_lash.SeTonEnPyri.incipit
-meMA.Ode7C1H.incipit = he.h.m3_en_UK_lash.SeTonEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m3_en_UK_lash.SeTonEnPyri.text
 
 meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -383,7 +369,6 @@ meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
-meMA.Ode8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
 meMA.Ode8C1H.text = he.h.m3_en_UK_lash.AstektoPyri.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -404,27 +389,42 @@ meMA.Ode8C13.melody = he.h.m3_en_UK_lash.AstektoPyri.incipit
 meMA.Ode8C13.incipit = "He that is life, God"
 meMA.Ode8C13.text = "He that is life, God the Word become a babe, will be the fall of the disobedient, but resurrection for those who sing with faith, 'Bless the Lord, all you works of the Lord, and praise and exalt him to all the ages.'"
 
+meMA.Ode9C1M01.incipit = ""
 meMA.Ode9C1M01.text = "That which is fulfilled in you is beyond the understanding both of Angels and of mortals, O pure Virgin Mother."
+meMA.Ode9C1M02.incipit = ""
 meMA.Ode9C1M02.text = "Symeon the Elder embraces in his arms the Maker of the Law and Master of all."
+meMA.Ode9C1M03.incipit = ""
 meMA.Ode9C1M03.text = "The Creator, wishing to save Adam, took up his dwelling in your virgin womb."
+meMA.Ode9C1M04.incipit = ""
 meMA.Ode9C1M04.text = "The whole race of mortals calls you blessed, pure Virgin, and glorifies you with faith as Mother of God."
+meMA.Ode9C1M05.incipit = ""
 meMA.Ode9C1M05.text = "Come and see Christ, the Master of all, whom Symeon carries today in the temple."
+meMA.Ode9C1M06.incipit = ""
 meMA.Ode9C1M06.text = "You look upon the earth and make it tremble; how then can I, aged and weary, hold you in my arms?"
+meMA.Ode9C1M07.incipit = ""
 meMA.Ode9C1M07.text = "Symeon had lived for many years when he saw Christ, and cried aloud to him, 'Now I seek my release.'"
+meMA.Ode9C1M08.incipit = ""
 meMA.Ode9C1M08.text = "Mary, you are the mystic tongs who conceived in your womb Christ, the burning coal."
+meMA.Ode9C1M09.incipit = ""
 meMA.Ode9C1M09.text = "O God, who are before all things, of your own will you became man, and are carried in the temple as a child of forty days."
+meMA.Ode9C1M10.incipit = ""
 meMA.Ode9C1M10.text = "Symeon the priest received the Master of all, come down from heaven."
+meMA.Ode9C1M11.incipit = ""
 meMA.Ode9C1M11.text = "Make bright my soul and the light of my senses, that I may see you in purity, and I will proclaim that you are God."
+meMA.Ode9C1M12.incipit = ""
 meMA.Ode9C1M12.text = "Pure Virgin Mother, why do you bring into the temple a new-born babe and commit him to Symeon's hands?"
+meMA.Ode9C1M13.incipit = ""
 meMA.Ode9C1M13.text = "From you, the Creator, I now seek release, for I have seen you, O Christ, my salvation and my light."
+meMA.Ode9C1M14.incipit = ""
 meMA.Ode9C1M14.text = "Him whom the ministers at the liturgy on high entreat with trembling, here below Symeon now takes in his arms."
+meMA.Ode9C1MTr.incipit = ""
 meMA.Ode9C1MTr.text = "In nature Unity, but in Persons Trinity, watch over your servants who put their faith in you."
+meMA.Ode9C1MTh.incipit = ""
 meMA.Ode9C1MTh.text = "Mother of God, hope of all Christians, protect, watch over, guard all those who put their hope in you."
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode3
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit
 meMA.Ode9C1H.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit
 meMA.Ode9C1H.text = he.h.m3_en_UK_lash.EnNomoSkia.text
 
@@ -448,7 +448,6 @@ meMA.Ode9C13.text = "Reverently holy Anna, sober and aged, openly confessed the 
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
 meMA.Exaposteilarion1.melody = misc_en_UK_lash.Automelon
-meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.EnPnevmatiToIero.text
 
@@ -483,14 +482,11 @@ meLI.MM.EntranceHymnSunday.text = ""
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.TheotokosHymn.mode = misc_en_UK_lash.Mode3
 meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1MTh.incipit
-meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1MTh.incipit
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1MTh.text
-meLI.TheotokosHymn.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit
 meLI.TheotokosHymn.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit
 meLI.TheotokosHymn.text = he.h.m3_en_UK_lash.EnNomoSkia.text
 

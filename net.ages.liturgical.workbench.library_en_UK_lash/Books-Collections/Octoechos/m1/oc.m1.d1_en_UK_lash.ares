@@ -34,7 +34,6 @@ ocSV.Aposticha3.text = "The world has been renewed by your childbearing, most pu
 ocSV.AposDogmatic.mode = misc_en_UK_lash.Mode1
 ocSV.AposDogmatic.melody = misc_en_UK_lash.Automelon
 ocSV.AposDogmatic.incipit = he.a.m1_en_UK_lash.NefelinSeFotos.incipit
-ocSV.AposDogmatic.incipit = he.a.m1_en_UK_lash.NefelinSeFotos.incipit
 ocSV.AposDogmatic.text = he.a.m1_en_UK_lash.NefelinSeFotos.text
 
 ocVE.MM.LIHC1.text = properties_en_UK_lash.media.key
@@ -110,7 +109,6 @@ ocVE.AposTheotokion.text = "See, Isaias' prophecy has been fulfilled; for as a V
 
 ocVE.Apolytikion.mode = misc_en_UK_lash.Mode1
 ocVE.Apolytikion.melody = misc_en_UK_lash.Automelon
-ocVE.Apolytikion.incipit = he.a.m1_en_UK_lash.TouLithouSfragisthentos.incipit
 ocVE.Apolytikion.incipit = he.a.m1_en_UK_lash.TouLithouSfragisthentos.incipit
 ocVE.Apolytikion.text = he.a.m1_en_UK_lash.TouLithouSfragisthentos.text
 
@@ -315,7 +313,6 @@ ocMA.MM.GodIsTheLord.text = properties_en_UK_lash.media.key
 ocMA.Kathisma11.mode = misc_en_UK_lash.Mode1
 ocMA.Kathisma11.melody = misc_en_UK_lash.Automelon
 ocMA.Kathisma11.incipit = he.a.m1_en_UK_lash.TonTafonSouSotir.incipit
-ocMA.Kathisma11.incipit = he.a.m1_en_UK_lash.TonTafonSouSotir.incipit
 ocMA.Kathisma11.text = he.a.m1_en_UK_lash.TonTafonSouSotir.text
 
 ocMA.Kathisma12.mode = misc_en_UK_lash.Mode1
@@ -405,7 +402,6 @@ ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.incipit = he.h.m1_en_UK_lash.SouITropaiouchos.incipit
-ocMA.OdeS1C1H.incipit = he.h.m1_en_UK_lash.SouITropaiouchos.incipit
 ocMA.OdeS1C1H.text = he.h.m1_en_UK_lash.SouITropaiouchos.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode1
@@ -465,7 +461,6 @@ ocMA.OdeS1C33.text = "Infinite the abyss of your incomprehensible child-bearing,
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS3C1H.incipit = he.h.m1_en_UK_lash.OMonosEidos.incipit
 ocMA.OdeS3C1H.incipit = he.h.m1_en_UK_lash.OMonosEidos.incipit
 ocMA.OdeS3C1H.text = he.h.m1_en_UK_lash.OMonosEidos.text
 
@@ -527,7 +522,6 @@ ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.incipit = he.h.m1_en_UK_lash.OrosSeTiChariti.incipit
-ocMA.OdeS4C1H.incipit = he.h.m1_en_UK_lash.OrosSeTiChariti.incipit
 ocMA.OdeS4C1H.text = he.h.m1_en_UK_lash.OrosSeTiChariti.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode1
@@ -588,7 +582,6 @@ ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.incipit = he.h.m1_en_UK_lash.OFotisasTiEllampsei.incipit
-ocMA.OdeS5C1H.incipit = he.h.m1_en_UK_lash.OFotisasTiEllampsei.incipit
 ocMA.OdeS5C1H.text = he.h.m1_en_UK_lash.OFotisasTiEllampsei.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode1
@@ -648,7 +641,6 @@ ocMA.OdeS5C33.text = "Every song and every praise of the wise offered to the Vir
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS6C1H.incipit = he.h.m1_en_UK_lash.EkyklosenImas.incipit
 ocMA.OdeS6C1H.incipit = he.h.m1_en_UK_lash.EkyklosenImas.incipit
 ocMA.OdeS6C1H.text = he.h.m1_en_UK_lash.EkyklosenImas.text
 
@@ -719,7 +711,6 @@ ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.incipit = he.h.m1_en_UK_lash.SeNoitin.incipit
-ocMA.OdeS7C1H.incipit = he.h.m1_en_UK_lash.SeNoitin.incipit
 ocMA.OdeS7C1H.text = he.h.m1_en_UK_lash.SeNoitin.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode1
@@ -779,7 +770,6 @@ ocMA.OdeS7C33.text = "The God before the ages truly bears the name new Adam, fro
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS8C1H.incipit = he.h.m1_en_UK_lash.EnKaminoPaides.incipit
 ocMA.OdeS8C1H.incipit = he.h.m1_en_UK_lash.EnKaminoPaides.incipit
 ocMA.OdeS8C1H.text = he.h.m1_en_UK_lash.EnKaminoPaides.text
 
@@ -841,7 +831,6 @@ ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.incipit = he.h.m1_en_UK_lash.TyponTisAgnis.incipit
-ocMA.OdeS9C1H.incipit = he.h.m1_en_UK_lash.TyponTisAgnis.incipit
 ocMA.OdeS9C1H.text = he.h.m1_en_UK_lash.TyponTisAgnis.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode1
@@ -900,7 +889,6 @@ ocMA.OdeS9C33.text = "O what wonders are yours beyond the mind's conceiving! For
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode1
 ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
-ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
 ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
@@ -949,7 +937,6 @@ ocMA.Lauds8.text = "Tumultuous race of the Jews, give ear. Where are those who a
 
 ocMA.ApolTheotokion.mode = ""
 ocMA.ApolTheotokion.melody = ""
-ocMA.ApolTheotokion.incipit = ho.s03_en_UK_lash.hoMA.SunTroparion1.incipit
 ocMA.ApolTheotokion.incipit = ho.s03_en_UK_lash.hoMA.SunTroparion1.incipit
 ocMA.ApolTheotokion.text = ho.s03_en_UK_lash.hoMA.SunTroparion1.text
 

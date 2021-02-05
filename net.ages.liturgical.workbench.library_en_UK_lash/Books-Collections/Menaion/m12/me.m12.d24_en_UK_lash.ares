@@ -50,30 +50,25 @@ meVE.Stichera06.text = "Clearly illumined by the beam of the Spirit, you bring a
 meVE.SticGlory.mode = misc_en_UK_lash.Mode2
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m12.d12_en_UK_lash.meVE.AposBoth.incipit
-meVE.SticGlory.incipit = me.m12.d12_en_UK_lash.meVE.AposBoth.incipit
 meVE.SticGlory.text = me.m12.d12_en_UK_lash.meVE.AposBoth.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
 meVE.Aposticha1.melody = ""
-meVE.Aposticha1.incipit = me.m12.d20_en_UK_lash.meVE.Stichera01.incipit
 meVE.Aposticha1.incipit = me.m12.d20_en_UK_lash.meVE.Stichera01.incipit
 meVE.Aposticha1.text = me.m12.d20_en_UK_lash.meVE.Stichera01.text
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode1
 meVE.Aposticha2.melody = ""
 meVE.Aposticha2.incipit = me.m12.d20_en_UK_lash.meVE.Stichera02.incipit
-meVE.Aposticha2.incipit = me.m12.d20_en_UK_lash.meVE.Stichera02.incipit
 meVE.Aposticha2.text = me.m12.d20_en_UK_lash.meVE.Stichera02.text
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode1
 meVE.Aposticha3.melody = ""
 meVE.Aposticha3.incipit = me.m12.d20_en_UK_lash.meVE.Stichera03.incipit
-meVE.Aposticha3.incipit = me.m12.d20_en_UK_lash.meVE.Stichera03.incipit
 meVE.Aposticha3.text = me.m12.d20_en_UK_lash.meVE.Stichera03.text
 
 meVE.AposGlory.mode = misc_en_UK_lash.Mode6
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = me.m12.d06_en_UK_lash.meVE.SticBoth.incipit
 meVE.AposGlory.incipit = me.m12.d06_en_UK_lash.meVE.SticBoth.incipit
 meVE.AposGlory.text = me.m12.d06_en_UK_lash.meVE.SticBoth.text
 
@@ -193,7 +188,6 @@ meCO.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meCO.Ode6C1H.mode = misc_en_UK_lash.Mode6
 meCO.Ode6C1H.melody = misc_en_UK_lash.Heirmos
 meCO.Ode6C1H.incipit = he.h.m6_en_UK_lash.AvyssosEschati.incipit
-meCO.Ode6C1H.incipit = he.h.m6_en_UK_lash.AvyssosEschati.incipit
 meCO.Ode6C1H.text = he.h.m6_en_UK_lash.AvyssosEschati.text
 
 meCO.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -217,7 +211,6 @@ meCO.Ode6C13.text = ""
 meCO.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meCO.Ode7C1H.mode = misc_en_UK_lash.Mode6
 meCO.Ode7C1H.melody = misc_en_UK_lash.Heirmos
-meCO.Ode7C1H.incipit = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.incipit
 meCO.Ode7C1H.incipit = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.incipit
 meCO.Ode7C1H.text = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.text
 
@@ -243,7 +236,6 @@ meCO.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meCO.Ode8C1H.mode = misc_en_UK_lash.Mode6
 meCO.Ode8C1H.melody = misc_en_UK_lash.Heirmos
 meCO.Ode8C1H.incipit = he.h.m6_en_UK_lash.NomonPatroon.incipit
-meCO.Ode8C1H.incipit = he.h.m6_en_UK_lash.NomonPatroon.incipit
 meCO.Ode8C1H.text = he.h.m6_en_UK_lash.NomonPatroon.text
 
 meCO.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -267,7 +259,6 @@ meCO.Ode8C13.text = ""
 meCO.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meCO.Ode9C1H.mode = misc_en_UK_lash.Mode6
 meCO.Ode9C1H.melody = misc_en_UK_lash.Heirmos
-meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
 meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
 meCO.Ode9C1H.text = he.h.m2_en_UK_lash.AporeiPasaGlossa.text
 
@@ -296,7 +287,6 @@ meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode8
 meMA.Kathisma21.melody = misc_en_UK_lash.Automelon
-meMA.Kathisma21.incipit = he.a.m8_en_UK_lash.AvlonPoimenikon.incipit
 meMA.Kathisma21.incipit = he.a.m8_en_UK_lash.AvlonPoimenikon.incipit
 meMA.Kathisma21.text = he.a.m8_en_UK_lash.AvlonPoimenikon.text
 
@@ -458,7 +448,6 @@ meMA.Ode3C3T.text = ""
 meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode2
 meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode3H.incipit = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.incipit
 meMA.Ode3H.incipit = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.incipit
 meMA.Ode3H.text = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.text
 
@@ -691,12 +680,10 @@ meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode2
 meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode6H.incipit = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
-meMA.Ode6H.incipit = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 meMA.Ode6H.text = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode3
 meMA.Kontakion1.melody = misc_en_UK_lash.Automelon
-meMA.Kontakion1.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meMA.Kontakion1.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m12.d20_en_UK_lash.meMA.Kontakion1.text
 
@@ -855,7 +842,6 @@ meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode2
 meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode8H.incipit = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.incipit
-meMA.Ode8H.incipit = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.incipit
 meMA.Ode8H.text = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.text
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
@@ -940,7 +926,6 @@ meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode2
 meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode9H.incipit = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
-meMA.Ode9H.incipit = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 meMA.Ode9H.text = he.h.m2_en_UK_lash.AnarchouGennitoros.text
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
@@ -1006,12 +991,10 @@ meMA.Aposticha3.text = ""
 meMA.AposGlory.mode = misc_en_UK_lash.Mode8
 meMA.AposGlory.melody = ""
 meMA.AposGlory.incipit = me.m11.d30_en_UK_lash.meMA.LaudsBoth.incipit
-meMA.AposGlory.incipit = me.m11.d30_en_UK_lash.meMA.LaudsBoth.incipit
 meMA.AposGlory.text = me.m11.d30_en_UK_lash.meMA.LaudsBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
@@ -1020,7 +1003,6 @@ meMegalynarion.text = ""
 meH.title = "SERVICE OF THE GREAT HOURS"
 meH.translation = "Psalms and Idiomela translated by Archimandrite Ephrem Lash, unless otherwise noted."
 meH1.title = "FIRST HOUR"
-meH1.Troparion.incipit = meVE.Apolytikion1.incipit
 meH1.Troparion.incipit = meVE.Apolytikion1.incipit
 meH1.Troparion.text = meVE.Apolytikion1.text
 meH1.Idiomelon1.mode = misc_en_UK_lash.Mode8
@@ -1033,11 +1015,9 @@ meH1.Idiomelon3.mode = misc_en_UK_lash.Mode8
 meH1.Idiomelon3.incipit = "Joseph spoke thus to the"
 meH1.Idiomelon3.text = "Joseph spoke thus to the Virgin, ‘Mary, what is this doing that I see in you? I am at a loss and am amazed, and my mind is struck with dismay. Go quickly from me then and secretly. Mary, what is this doing that I see in you? Instead of honour, you have brought me shame; instead of gladness, sorrow; instead of praise, reproof. No longer will I bear men’s reproach; for I you took from the Priests in the Temple as one blameless before the Lord; and what is this sight?’"
 meH1.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
-meH1.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meH1.Kontakion.text = me.m12.d20_en_UK_lash.meMA.Kontakion1.text
 
 meH3.title = "THIRD HOUR"
-meH3.Troparion.incipit = meVE.Apolytikion1.incipit
 meH3.Troparion.incipit = meVE.Apolytikion1.incipit
 meH3.Troparion.text = meVE.Apolytikion1.text
 meH3.Idiomelon1.mode = misc_en_UK_lash.Mode6
@@ -1050,11 +1030,9 @@ meH3.Idiomelon3.mode = misc_en_UK_lash.Mode3
 meH3.Idiomelon3.incipit = "Joseph, tell us: How are"
 meH3.Idiomelon3.text = "Joseph, tell us: How are you bringing the Maiden you received from the Holy Place, to Bethlehem great with child? I, he said, have searched the Scriptures and have been told by an Angel, and I am assured that Mary will give birth to God in a way past explanation; to worship him Magi will come from the East, adoring him with precious gifts. O Lord, incarnate for our sake, glory to you!" //Joseph, tell us, how is it that you are bringing to Bethlehem great with child the Maiden you received from the Holy Place? 'I have searched the prophets,' he says, 'and I have been warned by a Angel, and I am persuaded that Mary will give birth to God in a way beyond explanation. To worship him Magi will come from the East, honouring him with precious gifts.' O Lord, incarnate for our sake, glory to you!
 meH3.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
-meH3.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meH3.Kontakion.text = me.m12.d20_en_UK_lash.meMA.Kontakion1.text
 
 meH6.title = "SIXTH HOUR"
-meH6.Troparion.incipit = meVE.Apolytikion1.incipit
 meH6.Troparion.incipit = meVE.Apolytikion1.incipit
 meH6.Troparion.text = meVE.Apolytikion1.text
 meH6.Idiomelon1.mode = misc_en_UK_lash.Mode1
@@ -1067,11 +1045,9 @@ meH6.Idiomelon3.mode = misc_en_UK_lash.Mode5
 meH6.Idiomelon3.incipit = "Come, peoples, bearers of Christ,"
 meH6.Idiomelon3.text = "Come, peoples, bearers of Christ, let us behold a wonder that amazes and holds fast every mind, and as we devoutly worship let us with faith sing its praise. Today a Maiden great with child is coming to Bethlehem to give birth to the Lord; choirs of Angels run before her. And seeing this Joseph, the Betrothed, cries out, ‘What is the strange mystery in you, O Virgin? And how will you bring forth a child, Calf who have never known the yoke?’"
 eH6.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
-eH6.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 eH6.Kontakion.text = me.m12.d20_en_UK_lash.meMA.Kontakion1.text
 
 meH9.title = "NINTH HOUR"
-meH9.Troparion.incipit = meVE.Apolytikion1.incipit
 meH9.Troparion.incipit = meVE.Apolytikion1.incipit
 meH9.Troparion.text = meVE.Apolytikion1.text
 meH9.Idiomelon1.mode = misc_en_UK_lash.Mode7
@@ -1099,7 +1075,6 @@ meH9.Idiomelon37.incipit = "We worship your birth, O"
 meH9.Idiomelon37.text = "We worship your birth, O Christ (x2)."
 meH9.Idiomelon38.incipit = "We worship your birth, O"
 meH9.Idiomelon38.text = "We worship your birth, O Christ. Show us also your divine Epiphany."
-meH9.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meH9.Kontakion.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meH9.Kontakion.text = me.m12.d20_en_UK_lash.meMA.Kontakion1.text
 

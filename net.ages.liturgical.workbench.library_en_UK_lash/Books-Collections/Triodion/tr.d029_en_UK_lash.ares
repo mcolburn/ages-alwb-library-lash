@@ -92,7 +92,6 @@ trVE.LityGlory.text = me.m12.dBC_en_UK_lash.meVE.AposGlory.text //"Hail, honoure
 trVE.LityBoth.mode = misc_en_UK_lash.Mode2
 trVE.LityBoth.melody = ""
 trVE.LityBoth.incipit = ho.s23_en_UK_lash.hoCA.Troparion7.incipit
-trVE.LityBoth.incipit = ho.s23_en_UK_lash.hoCA.Troparion7.incipit
 trVE.LityBoth.text = ho.s23_en_UK_lash.hoCA.Troparion7.text
 
 trVE.AposGlory.mode = misc_en_UK_lash.Mode2
@@ -103,36 +102,30 @@ trVE.AposGlory.text = ""
 trVE.AposTheotokion.mode = misc_en_UK_lash.Mode2
 trVE.AposTheotokion.melody = ""
 trVE.AposTheotokion.incipit = oc.m2.d1_en_UK_lash.ocVE.AposTheotokion.incipit
-trVE.AposTheotokion.incipit = oc.m2.d1_en_UK_lash.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m2.d1_en_UK_lash.ocVE.AposTheotokion.text
 
 trVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 trVE.Apolytikion1.melody = ""
-trVE.Apolytikion1.incipit = oc.m2.d4_en_UK_lash.ocMA.Kathisma21.incipit
 trVE.Apolytikion1.incipit = oc.m2.d4_en_UK_lash.ocMA.Kathisma21.incipit
 trVE.Apolytikion1.text = oc.m2.d4_en_UK_lash.ocMA.Kathisma21.text
 
 trVE.ApolTheotokion.mode = misc_en_UK_lash.Mode2
 trVE.ApolTheotokion.melody = ""
 trVE.ApolTheotokion.incipit = oc.m2.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
-trVE.ApolTheotokion.incipit = oc.m2.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 trVE.ApolTheotokion.text = oc.m2.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode8
 trMA.PostGospelGlory.melody = ""
-trMA.PostGospelGlory.incipit = tr.d001_en_UK_lash.trMA.PostGospelGlory.incipit
 trMA.PostGospelGlory.incipit = tr.d001_en_UK_lash.trMA.PostGospelGlory.incipit
 trMA.PostGospelGlory.text = tr.d001_en_UK_lash.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_UK_lash.Mode8
 trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.incipit = tr.d001_en_UK_lash.trMA.PostGospelBoth.incipit
-trMA.PostGospelBoth.incipit = tr.d001_en_UK_lash.trMA.PostGospelBoth.incipit
 trMA.PostGospelBoth.text = tr.d001_en_UK_lash.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
 trMA.PostGospelIdiomelon.melody = ""
-trMA.PostGospelIdiomelon.incipit = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.incipit = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_UK_lash.trMA.PostGospelIdiomelon.text
 
@@ -433,7 +426,6 @@ trMA.LaudsGlory.text = ""
 trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
 trMA.LaudsTheotokion.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.incipit
-trMA.LaudsTheotokion.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.incipit
 trMA.LaudsTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
 trLI.Antiphon2.text = ""
@@ -443,11 +435,9 @@ trLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
 trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_UK_lash.Mode8
-trLI.TheotokosHymn.incipit = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.incipit
 trLI.TheotokosHymn.incipit = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.incipit
 trLI.TheotokosHymn.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma23.text
 

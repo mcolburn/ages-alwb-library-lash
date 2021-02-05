@@ -157,8 +157,6 @@ trHW.Encomia1Tr.text = "Word, we sing your praises, * as the Lord God of all, * 
 trHW.Encomia1TVerse.text = ""
 trHW.Encomia1T.text = "Now we call you blessed, * All-Pure Mother of God, * and in faith we hold in honor and venerate * the three day entombment of your Son our God."
 
-trHW.Encomia1F.incipit = trHW.Encomia101.incipit
-trHW.Encomia1F.incipit = trHW.Encomia101.incipit
 trHW.Encomia1F.text = trHW.Encomia101.text
 
 trHW.Encomia200.title = "Second Section."
@@ -290,8 +288,6 @@ trHW.Encomia2Tr.text = "Great eternal God, * co-eternal Word and Holy Spirit, * 
 trHW.Encomia2TVerse.text = ""
 trHW.Encomia2T.text = "Wholly undefiled, * Mother, who gave birth to life, pure Virgin, * end all scandals which still beset Church, * and as you are loving, Mother, grant her peace."
 
-trHW.Encomia2F.incipit = trHW.Encomia201.incipit
-trHW.Encomia2F.incipit = trHW.Encomia201.incipit
 trHW.Encomia2F.text = trHW.Encomia201.text
 
 trHW.Encomia300.title = "Third Section."
@@ -396,8 +392,6 @@ trHW.Encomia3TVerse.text = ""
 trHW.Encomia3T.text = "Count all your servants worthy, * to see, Most Holy Virgin, * you Son's bright Resurrection."
 
 // Not in Triodion, but common
-trHW.Encomia3F.incipit = trHW.Encomia301.incipit
-trHW.Encomia3F.incipit = trHW.Encomia301.incipit
 trHW.Encomia3F.text = trHW.Encomia301.text
 trTE.Troparion.text = "Christ, who hold fast the ends of the earth, you accepted to be held fast in a tomb, that you might ransom humanity from the maw of Hell, * and as immortal God you have given us life and immortality."
 trTE.Troparion2.text = "And as immortal God you have given us life and immortality."

@@ -115,7 +115,6 @@ meVE.Aposticha4.text = "You who created all things with wisdom, Word of the Fath
 meVE.AposGlory.mode = misc_en_UK_lash.Mode5
 meVE.AposGlory.melody = misc_en_UK_lash.Automelon
 meVE.AposGlory.incipit = me.m09.d01_en_UK_lash.meVE.Stichera04.incipit
-meVE.AposGlory.incipit = me.m09.d01_en_UK_lash.meVE.Stichera04.incipit
 meVE.AposGlory.text = me.m09.d01_en_UK_lash.meVE.Stichera04.text
 
 meVE.AposBoth.poet = poets_en_UK_lash.IoannouMonachou
@@ -173,18 +172,15 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMonastic.incipit
-meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelMonastic.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelMonastic.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha4.incipit
 meMA.PostGospelIdiomelon.incipit = meVE.Aposticha4.incipit
 meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
 
@@ -198,7 +194,6 @@ meMA.C3.acrostic = ""
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 meMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
 
@@ -286,7 +281,6 @@ meMA.Ode1C3T.text = "Immaculate Mother of God, hail honoured one, who contained 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereosonMeChriste.incipit
 meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereosonMeChriste.incipit
 meMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereosonMeChriste.text
 
@@ -381,7 +375,6 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.KatenoisaPantodyname.incipit
-meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.KatenoisaPantodyname.incipit
 meMA.Ode4C1H.text = he.h.m1_en_UK_lash.KatenoisaPantodyname.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -472,7 +465,6 @@ meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
-meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
 meMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -551,7 +543,6 @@ meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
-meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
 meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -629,7 +620,6 @@ meMA.Kontakion1.text = "You created the universe in your ineffable wisdom, and f
 meMA.Kontakion2.mode = misc_en_UK_lash.Mode2
 meMA.Kontakion2.melody = misc_en_UK_lash.Automelon
 meMA.Kontakion2.incipit = he.a.m2_en_UK_lash.TaAnoZiton.incipit
-meMA.Kontakion2.incipit = he.a.m2_en_UK_lash.TaAnoZiton.incipit
 meMA.Kontakion2.text = he.a.m2_en_UK_lash.TaAnoZiton.text
 
 meMA.Oikos2.text = "What human will ever suffice to sing the praise of Symeon's blameless life? Nevertheless with God's wisdom I shall hymn the contests and struggles of the hero, of the one who appeared on earth as a beacon for all mortals, and by perseverance shone brightly for the choir of Angels; for singing with them unceasingly he does not cease imploring Christ on behalf of us all."
@@ -645,7 +635,6 @@ meMA.Oikos3.text = ""
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.OiPaidesEfseveia.incipit
 meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.OiPaidesEfseveia.incipit
 meMA.Ode7C1H.text = he.h.m1_en_UK_lash.OiPaidesEfseveia.text
 
@@ -724,7 +713,6 @@ meMA.Ode7C3T.text = "It was fitting for him who took flesh without seed to come 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.incipit
 meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.incipit
 meMA.Ode8C1H.text = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.text
 
@@ -815,7 +803,6 @@ meMA.Ode8C3T.text = "Virgin Mother of God, who received the Angel's 'Hail!', bor
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.TyponTisAgnis.incipit
 meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.TyponTisAgnis.incipit
 meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TyponTisAgnis.text
 
@@ -936,8 +923,6 @@ meMA.LaudsBoth.text = "O Word, Christ God, who brought the whole universe into b
 
 meMA.MM.Ve1123as5678.text = properties_en_UK_lash.media.key
 
-meLI.Antiphon2.incipit = ho.s07_en_UK_lash.hoLI.Antiphon2w.incipit
-meLI.Antiphon2.incipit = ho.s07_en_UK_lash.hoLI.Antiphon2w.incipit
 meLI.Antiphon2.text = ho.s07_en_UK_lash.hoLI.Antiphon2w.text
 
 meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
@@ -945,18 +930,15 @@ meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.Kontakion2.mode = meMA.Kontakion2.mode
 meLI.Kontakion2.melody = meMA.Kontakion2.melody
 meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
-meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
 meLI.Kontakion2.text = meMA.Kontakion2.text
 
 meLI.Kontakion3.mode = meMA.Kontakion3.mode
 meLI.Kontakion3.melody = meMA.Kontakion3.melody
-meLI.Kontakion3.incipit = meMA.Kontakion3.incipit
 meLI.Kontakion3.incipit = meMA.Kontakion3.incipit
 meLI.Kontakion3.text = meMA.Kontakion3.text
 

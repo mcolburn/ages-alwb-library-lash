@@ -316,7 +316,6 @@ ocMA.Kathisma12.text = "Having tasted death in the flesh, Lord, you have cut out
 ocMA.Kathisma13.mode = misc_en_UK_lash.Mode3
 ocMA.Kathisma13.melody = misc_en_UK_lash.Automelon
 ocMA.Kathisma13.incipit = he.a.m3_en_UK_lash.TinOraiotita.incipit
-ocMA.Kathisma13.incipit = he.a.m3_en_UK_lash.TinOraiotita.incipit
 ocMA.Kathisma13.text = he.a.m3_en_UK_lash.TinOraiotita.text
 
 ocMA.Kathisma21.mode = misc_en_UK_lash.Mode3
@@ -395,7 +394,6 @@ ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.incipit = he.h.m3_en_UK_lash.OTaYdata.incipit
-ocMA.OdeS1C1H.incipit = he.h.m3_en_UK_lash.OTaYdata.incipit
 ocMA.OdeS1C1H.text = he.h.m3_en_UK_lash.OTaYdata.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode3
@@ -444,7 +442,6 @@ ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS3C1H.incipit = he.h.m3_en_UK_lash.OEkMiOnton.incipit
-ocMA.OdeS3C1H.incipit = he.h.m3_en_UK_lash.OEkMiOnton.incipit
 ocMA.OdeS3C1H.text = he.h.m3_en_UK_lash.OEkMiOnton.text
 
 ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode3
@@ -492,7 +489,6 @@ ocMA.OdeS3C32.text = "That you might make those born of earth partakers in the d
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS4C1H.incipit = he.h.m3_en_UK_lash.EthouProsImas.incipit
 ocMA.OdeS4C1H.incipit = he.h.m3_en_UK_lash.EthouProsImas.incipit
 ocMA.OdeS4C1H.text = he.h.m3_en_UK_lash.EthouProsImas.text
 
@@ -548,7 +544,6 @@ ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.incipit = he.h.m3_en_UK_lash.ProsSeOrthrizo.incipit
-ocMA.OdeS5C1H.incipit = he.h.m3_en_UK_lash.ProsSeOrthrizo.incipit
 ocMA.OdeS5C1H.text = he.h.m3_en_UK_lash.ProsSeOrthrizo.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode3
@@ -596,7 +591,6 @@ ocMA.OdeS5C32.text = "Equal to the Father, the Son of the Virgin, the Word of Go
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS6C1H.incipit = he.h.m3_en_UK_lash.AvyssosEschati.incipit
 ocMA.OdeS6C1H.incipit = he.h.m3_en_UK_lash.AvyssosEschati.incipit
 ocMA.OdeS6C1H.text = he.h.m3_en_UK_lash.AvyssosEschati.text
 
@@ -654,7 +648,6 @@ ocMA.Oikos.text = "Let heaven and earth dance today, and in harmony sing the pra
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS7C1H.incipit = he.h.m3_en_UK_lash.OsPalaiTousEfseveis.incipit
 ocMA.OdeS7C1H.incipit = he.h.m3_en_UK_lash.OsPalaiTousEfseveis.incipit
 ocMA.OdeS7C1H.text = he.h.m3_en_UK_lash.OsPalaiTousEfseveis.text
 
@@ -716,7 +709,6 @@ ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
-ocMA.OdeS8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
 ocMA.OdeS8C1H.text = he.h.m3_en_UK_lash.AstektoPyri.text
 
 ocMA.OdeS8C11.mode = misc_en_UK_lash.Mode3
@@ -771,7 +763,6 @@ ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.incipit = he.h.m3_en_UK_lash.KainonToThavma.incipit
-ocMA.OdeS9C1H.incipit = he.h.m3_en_UK_lash.KainonToThavma.incipit
 ocMA.OdeS9C1H.text = he.h.m3_en_UK_lash.KainonToThavma.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode3
@@ -817,7 +808,6 @@ ocMA.OdeS9C32.incipit = "You have placed the one"
 ocMA.OdeS9C32.text = "You have placed the one who bore you, O Christ, as an intercessor for us, who can never be put to shame. At her entreaties, O Merciful, you distribute to us the Spirit who gives freely of his goodness, who proceeds through you from the Father."
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode3
-ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 

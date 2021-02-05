@@ -84,7 +84,6 @@ ocVE.SticTheotokion.text = "The Prophet David, through you the ancestor of God, 
 ocVE.Aposticha1.mode = misc_en_UK_lash.Mode4
 ocVE.Aposticha1.melody = misc_en_UK_lash.Automelon
 ocVE.Aposticha1.incipit = he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.incipit
-ocVE.Aposticha1.incipit = he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.incipit
 ocVE.Aposticha1.text = he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.text
 
 ocVE.Aposticha2.mode = misc_en_UK_lash.Mode4
@@ -329,7 +328,6 @@ ocMA.Kathisma12.text = "Of your own will, O Saviour, you endured the Cross, and 
 ocMA.Kathisma13.mode = misc_en_UK_lash.Mode4
 ocMA.Kathisma13.melody = misc_en_UK_lash.Automelon
 ocMA.Kathisma13.incipit = he.a.m4_en_UK_lash.KateplagiIosif.incipit
-ocMA.Kathisma13.incipit = he.a.m4_en_UK_lash.KateplagiIosif.incipit
 ocMA.Kathisma13.text = he.a.m4_en_UK_lash.KateplagiIosif.text
 
 ocMA.Kathisma21.mode = misc_en_UK_lash.Mode4
@@ -409,7 +407,6 @@ ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.incipit = he.h.m4_en_UK_lash.ThalassisToErythraion.incipit
-ocMA.OdeS1C1H.incipit = he.h.m4_en_UK_lash.ThalassisToErythraion.incipit
 ocMA.OdeS1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode4
@@ -470,7 +467,6 @@ ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
-ocMA.OdeS3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
 ocMA.OdeS3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
 
 ocMA.OdeS3C11.mode = misc_en_UK_lash.Mode4
@@ -530,7 +526,6 @@ ocMA.OdeS3C32.text = "Who is this who is truly God's neighbour, for she is highe
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS4C1H.incipit = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 ocMA.OdeS4C1H.incipit = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 ocMA.OdeS4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text
 
@@ -598,7 +593,6 @@ ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
-ocMA.OdeS5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 ocMA.OdeS5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode4
@@ -664,7 +658,6 @@ ocMA.OdeS5C33.text = "A virgin womb has shamed the tyrant's plot; for a babe has
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 ocMA.OdeS6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 ocMA.OdeS6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
@@ -735,7 +728,6 @@ ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.incipit = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
-ocMA.OdeS7C1H.incipit = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
 ocMA.OdeS7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode4
@@ -801,7 +793,6 @@ ocMA.OdeS7C3Tr.text = "Reverencing you as one Lordship, undivided in three sourc
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 ocMA.OdeS8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 ocMA.OdeS8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
 
@@ -869,7 +860,6 @@ ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
-ocMA.OdeS9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 ocMA.OdeS9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode4
@@ -927,7 +917,6 @@ ocMA.OdeS9C33.incipit = "Sovereign Lady of all created"
 ocMA.OdeS9C33.text = "Sovereign Lady of all created things, grant trophies of victory to your people, placing the adversary under truce to the Church, so that as Mother of God we may magnify you."
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode4
-ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 

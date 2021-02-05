@@ -128,7 +128,6 @@ peVE.AposGlory.text = "O lover of mankind, great and immeasurable is the multitu
 peVE.Apolytikion1.mode = misc_en_UK_lash.Mode7
 peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.incipit = oc.m7.d1_en_UK_lash.ocMA.Kathisma21.incipit
-peVE.Apolytikion1.incipit = oc.m7.d1_en_UK_lash.ocMA.Kathisma21.incipit
 peVE.Apolytikion1.text = oc.m7.d1_en_UK_lash.ocMA.Kathisma21.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode1
@@ -151,18 +150,15 @@ peMA.MM.Prokeimenon.text = "" //for media
 peMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelApostles.incipit
-peMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelApostles.incipit
 peMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-peMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 peMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
 peMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
-peMA.PostGospelIdiomelon.incipit = ho.s03_en_UK_lash.hoMA.SunPostGospelIdiomelon.incipit
 peMA.PostGospelIdiomelon.incipit = ho.s03_en_UK_lash.hoMA.SunPostGospelIdiomelon.incipit
 peMA.PostGospelIdiomelon.text = ho.s03_en_UK_lash.hoMA.SunPostGospelIdiomelon.text
 
@@ -171,7 +167,6 @@ peMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 peMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 peMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
 
@@ -200,7 +195,6 @@ peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereosonMeChriste.incipit
-peMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereosonMeChriste.incipit
 peMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereosonMeChriste.text
 
 peMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -224,13 +218,11 @@ peMA.Ode3C13.text = "By keeping your wounds, O Christ, which you had borne willi
 peMA.Hypakoe.mode = misc_en_UK_lash.Mode6
 peMA.Hypakoe.melody = ""
 peMA.Hypakoe.incipit = oc.m6.d5_en_UK_lash.ocMA.Kathisma11.incipit
-peMA.Hypakoe.incipit = oc.m6.d5_en_UK_lash.ocMA.Kathisma11.incipit
 peMA.Hypakoe.text = oc.m6.d5_en_UK_lash.ocMA.Kathisma11.text
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.MegaToMystirion.incipit
 peMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.MegaToMystirion.incipit
 peMA.Ode4C1H.text = he.h.m1_en_UK_lash.MegaToMystirion.text
 
@@ -262,7 +254,6 @@ peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
-peMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
 peMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -286,7 +277,6 @@ peMA.Ode5C13.text = "You showed us that Thomas' unbelief was mother of belief, f
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
 peMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
 peMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
 
@@ -339,7 +329,6 @@ peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.EikoniLatrevein.incipit
-peMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.EikoniLatrevein.incipit
 peMA.Ode7C1H.text = he.h.m1_en_UK_lash.EikoniLatrevein.text
 
 peMA.Ode7C11.ode = misc_en_UK_lash.Ode7
@@ -370,7 +359,6 @@ peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 peMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.TonEnFlogiPyros.incipit
-peMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.TonEnFlogiPyros.incipit
 peMA.Ode8C1H.text = he.h.m1_en_UK_lash.TonEnFlogiPyros.text
 
 peMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -394,7 +382,6 @@ peMA.Ode8C13.text = "Your curiosity, O Thomas, opened for us the hidden treasure
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
 peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-peMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.SeTinFaeinin.incipit
 peMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.SeTinFaeinin.incipit
 peMA.Ode9C1H.text = he.h.m1_en_UK_lash.SeTinFaeinin.text
 
@@ -449,11 +436,9 @@ peMA.LaudsGlory.text = "Eight days after your Rising, O Jesus, king and only-beg
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
-peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_UK_lash.Mode1
-peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
 peLI.TheotokosHymn.incipit = peMA.Ode9C1H.incipit
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 

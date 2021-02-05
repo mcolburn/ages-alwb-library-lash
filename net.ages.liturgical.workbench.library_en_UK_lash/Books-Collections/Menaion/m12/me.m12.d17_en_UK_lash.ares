@@ -196,7 +196,6 @@ meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode3H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
-meMA.Ode3H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode3
@@ -216,7 +215,6 @@ meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Ode3KathismaT.incipit = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.incipit = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.incipit
 meMA.Ode3KathismaT.text = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.text
 
@@ -350,7 +348,6 @@ meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode6H.incipit = he.h.m8_en_UK_lash.AvyssosAmartion.incipit
-meMA.Ode6H.incipit = he.h.m8_en_UK_lash.AvyssosAmartion.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.AvyssosAmartion.text
 
 meMA.Kontakion2.mode = misc_en_UK_lash.Mode6
@@ -454,7 +451,6 @@ meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode8H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -503,7 +499,6 @@ meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode9H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
-meMA.Ode9H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
@@ -539,12 +534,10 @@ meMA.AposGlory.text = ""
 meMA.AposBoth.mode = misc_en_UK_lash.Mode2
 meMA.AposBoth.melody = ""
 meMA.AposBoth.incipit = meVE.SticBoth.incipit
-meMA.AposBoth.incipit = meVE.SticBoth.incipit
 meMA.AposBoth.text = meVE.SticBoth.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

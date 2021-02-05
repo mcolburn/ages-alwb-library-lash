@@ -216,19 +216,16 @@ hoCA.Kontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
 //First Antiphon Mode 4
 
 //R11
-hoCA.Prokeimenon.text = ""
-
-hoCA.ProkVerse.text = ""
 
 //R12 ""
 hoCA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 hoCA.PostGospelGlory.melody  = ""
-hoCA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTrinity.incipit
+hoCA.PostGospelGlory.incipit = ""
 hoCA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 hoCA.PostGospelBoth.melody  = ""
-hoCA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
+hoCA.PostGospelBoth.incipit = ""
 hoCA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelVerse.text = ""
@@ -351,7 +348,7 @@ hoCA.Ode95.text = "Heal one laid low and wretched, * in a place of sickness, * a
 
 //R14
 
-hoCA.Meg00.incipit = ho.s03_en_UK_lash.hoMA.Ode9.Meg00.incipit
+hoCA.Meg00.incipit = ""
 hoCA.Meg00.text = ho.s03_en_UK_lash.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = misc_en_UK_lash.Heirmos
 hoCA.Meg01.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit

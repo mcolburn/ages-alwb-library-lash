@@ -261,7 +261,6 @@ euMA.Kontakion.melody = me.m09.d13_en_UK_lash.meMA.Kontakion1.melody
 euMA.Kontakion.incipit = me.m09.d13_en_UK_lash.meMA.Kontakion1.incipit
 euMA.Kontakion.text = me.m09.d13_en_UK_lash.meMA.Kontakion1.text
 
-euMA.Oikos.incipit = me.m09.d13_en_UK_lash.meMA.Oikos1.incipit
 euMA.Oikos.text = me.m09.d13_en_UK_lash.meMA.Oikos1.text
 
 euMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
@@ -442,7 +441,6 @@ euCON.Key4211b.text = ""
 euCON.Key4211c.incipit = ""
 euCON.Key4211c.text = ""
 euCON.Key4212.text = prayers_en_UK_lash.exc06
-euCON.Key4213.incipit = eu.lichrysbasil_en_UK_lash.euLI.Key0501.incipit
 euCON.Key4213.text = eu.lichrysbasil_en_UK_lash.euLI.Key0501.text
 euCON.Key4214.text = prayers_en_UK_lash.exc01
 
@@ -492,7 +490,6 @@ euCON.Key4600.title = ""
 euCON.R460 = ""
 euCON.R461 = ""
 euCON.Key4603.text = prayers_en_UK_lash.enarxis01
-euCON.Key4604.incipit = prayers_en_UK_lash.Allilouia3.incipit
 euCON.Key4604.text = prayers_en_UK_lash.Allilouia3.text
 euCON.R462 = ""
 euCON.Key4606.text = ""

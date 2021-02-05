@@ -84,7 +84,6 @@ meMA.Kathisma21.text = "Chief Captain of the bodiless ministers, you stand in Go
 meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma2T.incipit = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
-meMA.Kathisma2T.incipit = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 meMA.Kathisma2T.text = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 meMA.C1.acrostic = "of which the Acrostic is: I sing the first of the bodiless minds. Joseph."
@@ -224,7 +223,6 @@ meMA.Ode3Kathisma1.text = "Having by the Creator's command become the leader of 
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode8
 meMA.Ode3KathismaT.melody = misc_en_UK_lash.NotMetered //misc_en_UK_lash.Automelon
-meMA.Ode3KathismaT.incipit = he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.incipit = he.a.m8_en_UK_lash.TinSofianKaiLogon.incipit
 meMA.Ode3KathismaT.text = he.a.m8_en_UK_lash.TinSofianKaiLogon.text
 
@@ -633,14 +631,12 @@ meMA.LaudsGlory.text = me.m11.d08_en_UK_lash.meMA.LaudsGlory.text //Where your g
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode5
 meMA.LaudsTheotokion.melody = misc_en_UK_lash.NotMetered //""
 meMA.LaudsTheotokion.incipit = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.incipit
-meMA.LaudsTheotokion.incipit = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.incipit
 meMA.LaudsTheotokion.text = oc.m5.d3_en_UK_lash.ocVE.AposTheotokion.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = misc_en_UK_lash.NotMetered //meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

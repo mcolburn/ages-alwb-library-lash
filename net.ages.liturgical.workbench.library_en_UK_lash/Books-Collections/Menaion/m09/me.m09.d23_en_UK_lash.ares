@@ -40,7 +40,6 @@ meVE.SticGlory.text = "Today from a barren womb the fruit of prayer has sprouted
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = ""
 meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
-meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode6
@@ -61,13 +60,11 @@ meVE.Aposticha3.text = "I am a Archangel of God Almighty, my name is Gabriel, sa
 meVE.AposGlory.mode = misc_en_UK_lash.Mode6
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m01.d07_en_UK_lash.meMA.LaudsGlory.incipit
-meVE.AposGlory.incipit = me.m01.d07_en_UK_lash.meMA.LaudsGlory.incipit
 meVE.AposGlory.text = me.m01.d07_en_UK_lash.meMA.LaudsGlory.text
 
 meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.AposTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
-meVE.AposTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiProdromou.incipit
-meVE.AposTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiProdromou.incipit
+meVE.AposTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEi.incipit
 meVE.AposTheotokion.text = he.o_en_UK_lash.TheotokeSyEiProdromou.text
 
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
@@ -82,7 +79,6 @@ meMA.Kathisma11.text = "Elizabeth was freed from barrenness, while the Virgin re
 
 meMA.Kathisma1T.mode = misc_en_UK_lash.Mode5
 meMA.Kathisma1T.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
-meMA.Kathisma1T.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.text
 
@@ -156,7 +152,6 @@ meMA.Ode3Kathisma1.text = "To Zachary the priest, as he offered incense in the t
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
 meMA.Ode3KathismaT.melody = misc_en_UK_lash.Automelon
-meMA.Ode3KathismaT.incipit = he.a.m4_en_UK_lash.KateplagiIosif.incipit
 meMA.Ode3KathismaT.incipit = he.a.m4_en_UK_lash.KateplagiIosif.incipit
 meMA.Ode3KathismaT.text = he.a.m4_en_UK_lash.KateplagiIosif.text
 
@@ -343,7 +338,6 @@ meMA.LaudsGlory.text = "Elizabeth conceived the Forerunner of grace, the Virgin 
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

@@ -40,12 +40,10 @@ meVE.Stichera04.text = "Once again Herodias rages, once again she is deranged. O
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
 meVE.SticGlory.incipit = me.m08.d29_en_UK_lash.meVE.Stichera01.incipit
-meVE.SticGlory.incipit = me.m08.d29_en_UK_lash.meVE.Stichera01.incipit
 meVE.SticGlory.text = me.m08.d29_en_UK_lash.meVE.Stichera01.text
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
 
@@ -124,7 +122,6 @@ meMA.Kathisma21.text = "The one who was revealed to us as a Prophet from the wom
 meMA.Kathisma2T.mode = misc_en_UK_lash.Mode5
 meMA.Kathisma2T.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.incipit
 meMA.Kathisma2T.incipit = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
-meMA.Kathisma2T.incipit = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 meMA.Kathisma2T.text = oc.m5.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
@@ -142,18 +139,15 @@ meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelForerunner.incipit
-meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelForerunner.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelForerunner.text
 
 meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
-meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
 meMA.PostGospelIdiomelon.incipit = meVE.Aposticha1.incipit
 meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
 
@@ -604,13 +598,11 @@ meMA.Lauds3.text = "O amazement beyond understanding! The seal of the Prophets, 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = meVE.Stichera04.incipit
-meMA.LaudsGlory.incipit = meVE.Stichera04.incipit
 meMA.LaudsGlory.text = meVE.Stichera04.text
 
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiProdromou.incipit
-meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiProdromou.incipit
+meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_UK_lash.TheotokeSyEiProdromou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
@@ -633,12 +625,10 @@ meMA.AdditionalIdiomelonGlory.text = ""
 meMA.AdditionalIdiomelonBoth.mode = misc_en_UK_lash.Mode4
 meMA.AdditionalIdiomelonBoth.melody = ""
 meMA.AdditionalIdiomelonBoth.incipit = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.incipit
-meMA.AdditionalIdiomelonBoth.incipit = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.incipit
 meMA.AdditionalIdiomelonBoth.text = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

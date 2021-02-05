@@ -103,7 +103,7 @@ ocVE.Aposticha4.text = "You were crucified as you willed, O Christ, and by your 
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
 ocVE.AposTheotokion.melody = ""
-
+ocVE.AposTheotokion.incipit = "My maker and redeemer"
 ocVE.AposTheotokion.text = "My maker and redeemer, Christ the Lord, by coming from your womb, All-pure Lady, and clothing himself in me, freed Adam from the former curse. And so, All-pure, as to her who is truly the Mother of God and Virgin, we cry to you unceasingly the Angel's 'Hail': Hail, Sovereign Lady, defence, protection and salvation of our souls." //My Maker and Redeemer, Christ the Lord, came forth from your womb, O all-pure, clothed himself in me and freed Adam from the former curse. And so, All-pure, as to God's Mother and truly Virgin, we cry to you without ceasing the Angel's 'Hail'. Hail, Sovereign Lady, protection and shelter and salvation of our souls.
 
 ocVE.Apolytikion.mode = misc_en_UK_lash.Mode6
@@ -415,7 +415,6 @@ ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
 ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
-ocMA.OdeS1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
 ocMA.OdeS1C1H.text = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.text
 
 ocMA.OdeS1C11.mode = misc_en_UK_lash.Mode6
@@ -481,7 +480,6 @@ ocMA.OdeS1C34.text = "When rulers had failed from the tribe of Juda, O All-pure,
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
 ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS3C1H.incipit = he.h.m6_en_UK_lash.OukEstinAgios.incipit
 ocMA.OdeS3C1H.incipit = he.h.m6_en_UK_lash.OukEstinAgios.incipit
 ocMA.OdeS3C1H.text = he.h.m6_en_UK_lash.OukEstinAgios.text
 
@@ -549,7 +547,6 @@ ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
 ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS4C1H.incipit = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
-ocMA.OdeS4C1H.incipit = he.h.m6_en_UK_lash.ChristosMouDynamis.incipit
 ocMA.OdeS4C1H.text = he.h.m6_en_UK_lash.ChristosMouDynamis.text
 
 ocMA.OdeS4C11.mode = misc_en_UK_lash.Mode6
@@ -616,7 +613,6 @@ ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
 ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS5C1H.incipit = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
-ocMA.OdeS5C1H.incipit = he.h.m6_en_UK_lash.ToTheioFengeiSou.incipit
 ocMA.OdeS5C1H.text = he.h.m6_en_UK_lash.ToTheioFengeiSou.text
 
 ocMA.OdeS5C11.mode = misc_en_UK_lash.Mode6
@@ -676,7 +672,6 @@ ocMA.OdeS5C33.text = "Let the community of the impious who do not expressly proc
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
 ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS6C1H.incipit = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
 ocMA.OdeS6C1H.incipit = he.h.m6_en_UK_lash.TouViouTinThalassan.incipit
 ocMA.OdeS6C1H.text = he.h.m6_en_UK_lash.TouViouTinThalassan.text
 
@@ -747,7 +742,6 @@ ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
 ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS7C1H.incipit = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
-ocMA.OdeS7C1H.incipit = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.incipit
 ocMA.OdeS7C1H.text = he.h.m6_en_UK_lash.DrosovolonMenTinKaminon.text
 
 ocMA.OdeS7C11.mode = misc_en_UK_lash.Mode6
@@ -813,7 +807,6 @@ ocMA.OdeS7C34.text = "You alone are nature's mercy-seat; bearing in your arms th
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
 ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-ocMA.OdeS8C1H.incipit = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
 ocMA.OdeS8C1H.incipit = he.h.m6_en_UK_lash.EkFlogosToisOsiois.incipit
 ocMA.OdeS8C1H.text = he.h.m6_en_UK_lash.EkFlogosToisOsiois.text
 
@@ -881,7 +874,6 @@ ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode6
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
 ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 ocMA.OdeS9C1H.incipit = he.h.m6_en_UK_lash.TheonAnthropois.incipit
-ocMA.OdeS9C1H.incipit = he.h.m6_en_UK_lash.TheonAnthropois.incipit
 ocMA.OdeS9C1H.text = he.h.m6_en_UK_lash.TheonAnthropois.text
 
 ocMA.OdeS9C11.mode = misc_en_UK_lash.Mode6
@@ -946,7 +938,6 @@ ocMA.OdeS9C34.text = "Now resurrection has been granted to the dead through your
 
 ocMA.Magnificat.mode = misc_en_UK_lash.Mode6
 ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
-ocMA.Magnificat.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 ocMA.Magnificat.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
 ocMA.MM.Lauds01.text = properties_en_UK_lash.media.key
@@ -971,7 +962,6 @@ ocMA.Lauds3.text = "With the Father and the Spirit let us hymn Christ risen from
 
 ocMA.Lauds4.mode = misc_en_UK_lash.Mode6
 ocMA.Lauds4.melody = misc_en_UK_lash.Automelon
-ocMA.Lauds4.incipit = he.a.m6_en_UK_lash.TriimerosAnestis.incipit
 ocMA.Lauds4.incipit = he.a.m6_en_UK_lash.TriimerosAnestis.incipit
 ocMA.Lauds4.text = he.a.m6_en_UK_lash.TriimerosAnestis.text
 

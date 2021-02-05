@@ -38,8 +38,7 @@ meVE.SticGlory.text = "As a servant of the Word and of his ineffable incarnation
 
 meVE.SticTheotokion.mode = misc_en_UK_lash.Mode6
 meVE.SticTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
-meVE.SticTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiApostolou.incipit
-meVE.SticTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiApostolou.incipit
+meVE.SticTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_UK_lash.TheotokeSyEiApostolou.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode4
@@ -147,7 +146,6 @@ meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode4
 meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode3H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
-meMA.Ode3H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_UK_lash.OukEnSofia.text
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
@@ -236,7 +234,6 @@ meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode4
 meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode6H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
-meMA.Ode6H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = misc_en_UK_lash.Mode4
@@ -298,7 +295,6 @@ meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode4
 meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode8H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
-meMA.Ode8H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 meMA.Ode8H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
 meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
@@ -328,7 +324,6 @@ meMA.Ode9C1T.text = "You appeared as a Mother, bride of God, and an all-spotless
 meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode4
 meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode9H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 
@@ -366,20 +361,17 @@ meMA.Lauds3.text = "Leaving behind the deep of fishing, by faith you advanced wi
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = meVE.AposGlory.incipit
-meMA.LaudsGlory.incipit = meVE.AposGlory.incipit
 meMA.LaudsGlory.text = meVE.AposGlory.text
 
 meMA.LaudsTheotokion.mode = misc_en_UK_lash.Mode6
 meMA.LaudsTheotokion.melody = he.o_en_UK_lash.TheotokeSyEi.incipit
-meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiApostolou.incipit
-meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEiApostolou.incipit
+meMA.LaudsTheotokion.incipit = he.o_en_UK_lash.TheotokeSyEi.incipit
 meMA.LaudsTheotokion.text = he.o_en_UK_lash.TheotokeSyEiApostolou.text
 
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 

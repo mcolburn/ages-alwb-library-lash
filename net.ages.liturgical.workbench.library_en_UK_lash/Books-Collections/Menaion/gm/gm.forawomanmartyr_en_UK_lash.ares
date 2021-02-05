@@ -32,6 +32,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_SaintW.text
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text //not sure this is correct
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -61,7 +62,6 @@ meMA.Ode1C1T.text = "Without seed by the will of the Father you conceived of the
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
 
@@ -107,6 +107,7 @@ meMA.Ode3KathismaSt.text = "When she who gave you birth, O Saviour, saw you lift
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit //not sure this is correct
 meMA.Ode4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text //not sure this is correct
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -136,6 +137,7 @@ meMA.Ode4C1T.text = "Without knowing wedlock you bore a child, O Virgin, and aft
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit //not sure this is correct
 meMA.Ode5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text //not sure this is correct
 
 meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
@@ -165,7 +167,6 @@ meMA.Ode5C1T.text = "We put you forward as an unbreakable weapon against foes; w
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
@@ -227,7 +228,6 @@ meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
-meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -257,7 +257,6 @@ meMA.Ode8C1T.text = "You alone among all generations, immaculate Virgin, were re
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 

@@ -23,7 +23,6 @@ meVE.SticTheotokion.text = "Hemmed in on every side by dangers, whither shall I,
 meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode1
 meVE.SticStavrotheotokion.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.incipit
-meVE.SticStavrotheotokion.incipit = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m1.d4_en_UK_lash.ocVE.AposTheotokion.text
 
 //meMA.C1.title = titles_en_UK_lash.KanonTouAgiou
@@ -33,7 +32,6 @@ meMA.C1.verse = prayers_en_UK_lash.verse_SaintM.text
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
@@ -64,7 +62,6 @@ meMA.Ode1C1T.text = "Immaculate Mother of God, who, beyond nature, gave birth to
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
@@ -111,7 +108,6 @@ meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
-meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
@@ -141,7 +137,6 @@ meMA.Ode4C1T.text = "Mother of God, field untilled, who blossomed with the life-
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.text
 
@@ -173,7 +168,6 @@ meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
-meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.ChitonaMoiParaschou.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.ChitonaMoiParaschou.text
 
 meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
@@ -203,7 +197,6 @@ meMA.Ode6C1T.text = "As God your Offspring was the destroyer of wooden idols, Ma
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
-meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
@@ -235,7 +228,6 @@ meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
-meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -265,7 +257,6 @@ meMA.Ode8C1T.text = "Beyond nature, O Virgin, you gave birth to the Creator, Sav
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TonProdilothenta.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.TonProdilothenta.text
 

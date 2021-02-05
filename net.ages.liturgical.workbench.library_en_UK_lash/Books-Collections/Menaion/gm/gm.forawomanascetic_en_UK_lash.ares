@@ -65,7 +65,6 @@ meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
-meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
 
 meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
@@ -158,8 +157,8 @@ meMA.Ode5C12.text = "Having drunk from the torrent of delight, all-glorious Sain
 meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
 meMA.Ode5C13.melody = misc_en_UK_lash.NotMetered
-meMA.Ode5C13.text = "
-Dreadfully crushed by the heavy burden of my iniquities I implore your compassion, O Lord, lighten the greatest toils, entreated by the more than infinite ascetic labour of your Saint."
+meMA.Ode5C13.incipit = "Dreadfully crushed"
+meMA.Ode5C13.text = "Dreadfully crushed by the heavy burden of my iniquities I implore your compassion, O Lord, lighten the greatest toils, entreated by the more than infinite ascetic labour of your Saint."
 
 meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
@@ -170,7 +169,6 @@ meMA.Ode5C1T.text = "As you have a mother's boldness towards your Son, O All-pur
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.AvyssosAmartion.incipit
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.AvyssosAmartion.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.AvyssosAmartion.text
 
@@ -232,7 +230,6 @@ meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
 meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
@@ -262,7 +259,6 @@ meMA.Ode8C1T.text = "All-pure Mother of God, wipe away the wounds of my soul and
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.EfrixePasaAkoi.text
 

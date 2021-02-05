@@ -49,7 +49,6 @@ meVE.Stichera06.text = ""
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m09.d13_en_UK_lash.meVE.SticGlory.incipit
-meVE.SticGlory.incipit = me.m09.d13_en_UK_lash.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m09.d13_en_UK_lash.meVE.SticGlory.text
 
 meVE.SticBoth.poet = poets_en_UK_lash.Germanou
@@ -75,7 +74,6 @@ meVE.Aposticha3.text = ""
 
 meVE.AposGlory.mode = misc_en_UK_lash.Mode2
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = me.m09.d13_en_UK_lash.meVE.AposGlory.incipit
 meVE.AposGlory.incipit = me.m09.d13_en_UK_lash.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m09.d13_en_UK_lash.meVE.AposGlory.text
 
@@ -787,7 +785,6 @@ meMA.LaudsGlory.text = ""
 meMA.LaudsBoth.mode = misc_en_UK_lash.Mode2
 meMA.LaudsBoth.melody = ""
 meMA.LaudsBoth.incipit = meVE.AposBoth.incipit
-meMA.LaudsBoth.incipit = meVE.AposBoth.incipit
 meMA.LaudsBoth.text = meVE.AposBoth.text
 
 meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
@@ -795,12 +792,10 @@ meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.Kontakion2.mode = meMA.Kontakion2.mode
 meLI.Kontakion2.melody = meMA.Kontakion2.melody
-meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
 meLI.Kontakion2.incipit = meMA.Kontakion2.incipit
 meLI.Kontakion2.text = meMA.Kontakion2.text
 
