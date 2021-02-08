@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m01.d02_en_UK_lash
 
-meDate.text = "ON THE 2ND OF THE MONTH"
-meCommemoration.text = "Forefeast of the Theophany and Commemoration of our Father among the saints, Silvester, Pope of Rome."
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "ON THE 2ND OF THE MONTH"
+meDA.commemoration.full = "Forefeast of the Theophany and Commemoration of our Father among the saints, Silvester, Pope of Rome."
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

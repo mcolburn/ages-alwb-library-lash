@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d28_en_UK_lash
 
-meDate.text = ""
-meCommemoration.text = "" // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = ""
+meDA.commemoration.full = "" // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
@@ -522,14 +523,14 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
 
-alt1.meDate.text = "October 28"
-alt1.meCommemoration.text = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
-alt1.meShortCommemoration1.text = ""
-alt1.meCom1.title = ""
-alt1.meCom2.title = ""
-alt1.meInsert1 = "" // for use in petitions and dismissal
-alt1.meInsert2 = "the commemoration of whose Holy Protecting Veil we celebrate;" // for use in petitions and dismissal
-alt1.meNote.text = "The Office I have translated here is that written by the late Father Gerasimos and first published in 1952 in connection with the decision by the Church of Greece to move the day of the feast to the 28th of the month, to commemorate the famous 'No' of the Greeks to the Italians in 1941. Father Gerasimos's text is centred on the original story of the vision of the monk Andrew in the church at Vlachernae and not in the least nationalistic. It is interesting, however, to note that in the text of the October Menaion published by the Apostoliki Diakonia in Athens altered the third line of the verses of the Synaxarion reads, 'Protection of God's Mother now veils Greece,' where Fr Gerasimos had written, 'Protection of God's Mother veils God's people.'"
+alt1.meDA.date = "October 28"
+alt1.meDA.commemoration.full = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
+alt1.meDA.commemoration.first_short = ""
+alt1.meDA.commemoration.first_title = ""
+alt1.meDA.commemoration.second_title = ""
+alt1.meDA.insert1 = "" // for use in petitions and dismissal
+alt1.meDA.insert2 = "the commemoration of whose Holy Protecting Veil we celebrate;" // for use in petitions and dismissal
+alt1.meDA.note = "The Office I have translated here is that written by the late Father Gerasimos and first published in 1952 in connection with the decision by the Church of Greece to move the day of the feast to the 28th of the month, to commemorate the famous 'No' of the Greeks to the Italians in 1941. Father Gerasimos's text is centred on the original story of the vision of the monk Andrew in the church at Vlachernae and not in the least nationalistic. It is interesting, however, to note that in the text of the October Menaion published by the Apostoliki Diakonia in Athens altered the third line of the verses of the Synaxarion reads, 'Protection of God's Mother now veils Greece,' where Fr Gerasimos had written, 'Protection of God's Mother veils God's people.'"
 alt1.meLE.commemoration1 = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""

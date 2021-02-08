@@ -1,17 +1,15 @@
 A_Resource_Whose_Name = me.m08.d01_en_UK_lash
 
-meHO.Month.text = "AUGUST"
-meHO.DaysHours.text = "WHICH HAS THIRTY ONE DAYS"
-
-meDate.text = "ON THE 1ST OF THE MONTH"
-meCommemoration.text = "Commemoration of the seven holy Martyrs, the Maccabees, and of their teacher Eleazar and their mother Solomoni and the Procession of the precious and life-giving Cross." // full title of day
-meShortCommemoration1.text = ""
+meDA.date = "ON THE 1ST OF THE MONTH"
+meDA.commemoration.full = "Commemoration of the seven holy Martyrs, the Maccabees, and of their teacher Eleazar and their mother Solomoni and the Procession of the precious and life-giving Cross." // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
 meInsert0 = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

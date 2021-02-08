@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = pe.d099_en_UK_lash
 
-peCommemoration.text = "Sunday of the Samaritan Woman" //full title of day
-peShortCommemoration1.text = "Sunday of the Samaritan Woman"
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
-peNote.text = ""
+peDA.commemoration.full = "Sunday of the Samaritan Woman" //full title of day
+peDA.commemoration.short = "Sunday of the Samaritan Woman"
+peDA.insert1 = "" //for use in petitions and dismissal
+peDA.insert2 = "" //for use in petitions and dismissal
+peDA.note = ""
 peHO.daytitle = ""
 peHO.commemorations = ""
 peHO.description1 = ""
 peHO.description2 = ""
 peHO.note1 = ""
 peHO.note2 = ""
-peDismissal = dismissals_en_UK_lash.dis00.resurrection
+peDA.dismissal = dismissals_en_UK_lash.dis00.resurrection
 
 peVE.Stichera05.mode = misc_en_UK_lash.Mode4
 peVE.Stichera05.melody = he.a.m4_en_UK_lash.KyrieAnelthonEnToStavro.notmetered
@@ -331,25 +331,18 @@ peMA.Kontakion1.text = "Coming in faith to the well, the woman of Samaria saw yo
 
 peMA.Oikos1.text = "Let us listen to John teaching us of the holy mysteries which happened in Samaria; how the Lord spoke with a woman, asking her for water, He who gathers the waters to their gatherings, equal in majesty with the Father and the Spirit; for He came seeking out his image, as eternally glorious."
 
-peMA.Synaxarion.commemoration.text = ""
-peMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
-peMA.Synaxarion.couplet1.verse1 = ""
-peMA.Synaxarion.couplet1.verse2 = ""
-peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
-peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
-peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
-peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
-peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
-peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
-peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
-peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
-peMA.Synaxarion.lastline.text = ""
+peSY.commemoration.text = ""
+peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.verse1 = ""
+peSY.commemoration.couplet1.verse2 = ""
+peSY.commemoration.narration.p01 = "[paragraph 01]"
+peSY.commemoration.narration.p02 = "[paragraph 02]"
+peSY.commemoration.narration.p03 = "[paragraph 03]"
+peSY.commemoration.narration.p04 = "[paragraph 04]"
+peSY.commemoration.narration.p05 = "[paragraph 05]"
+peSY.commemoration.narration.p06 = "[paragraph 06]"
+peSY.commemoration.narration.p07 = "[paragraph 07]"
+peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode4

@@ -1,17 +1,17 @@
 A_Resource_Whose_Name = tr.d008_en_UK_lash
 
-trCommemoration.text = "SUNDAY OF THE PROFLIGATE SON" //full title of day
-trShortCommemoration1.text = ""
-trInsert1 = "" //for use in petitions and dismissal
-trInsert2 = "" //for use in petitions and dismissal
-trNote.text = ""
+trDA.commemoration.full = "SUNDAY OF THE PROFLIGATE SON" //full title of day
+trDA.commemoration.short = ""
+trDA.insert1 = "" //for use in petitions and dismissal
+trDA.insert2 = "" //for use in petitions and dismissal
+trDA.note = ""
 trHO.daytitle = ""
 trHO.commemorations = ""
 trHO.description1 = ""
 trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
-trDismissal = dismissals_en_UK_lash.dis00.resurrection
+trDA.dismissal = dismissals_en_UK_lash.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_UK_lash.Mode1
 trVE.Stichera01.melody = misc_en_UK_lash.Idiomelon
@@ -198,25 +198,18 @@ trMA.Kontakion1.text = "I have foolishly run away, O Father, from your glory; I 
 
 trMA.Oikos1.text = "Our Saviour teaches us every day through his own voice. Let us therefore listen to the Scriptures concerning the Profligate who became temperate again, and with faith let us imitate his fair repentance. With humble heart let us cry out to him who knows all secrets, 'We have sinned against you, merciful Father, and are not worthy ever to be called your children as before. But since you are by nature full of love for humankind, accept me and make me as one of your hired servants."
 
-trMA.Synaxarion.commemoration.text = "On this day we commemorate the parable of the Profligate Son from the holy Gospel, which our most godly Fathers prescribed for the second Sunday of the Triodion."
-trMA.Synaxarion.couplet1.title = titles_en_UK_lash.Stichoi
-trMA.Synaxarion.couplet1.verse1 = "If you're a Profligate, like me, take heart!"
-trMA.Synaxarion.couplet1.verse2 = "All doors to God's compassion open lie."
-trMA.Synaxarion.narration1.p01.text = ""
-trMA.Synaxarion.narration1.p02.text = ""
-trMA.Synaxarion.narration1.p03.text = ""
-trMA.Synaxarion.narration1.p04.text = ""
-trMA.Synaxarion.narration1.p05.text = ""
-trMA.Synaxarion.narration1.p06.text = ""
-trMA.Synaxarion.narration1.p07.text = ""
-trMA.Synaxarion.narration2.p01.text = ""
-trMA.Synaxarion.narration2.p02.text = ""
-trMA.Synaxarion.narration2.p03.text = ""
-trMA.Synaxarion.narration2.p04.text = ""
-trMA.Synaxarion.narration2.p05.text = ""
-trMA.Synaxarion.narration2.p06.text = ""
-trMA.Synaxarion.narration2.p07.text = ""
-trMA.Synaxarion.lastline.text = "By your ineffable love for humankind, Christ our God, have mercy on me."
+trSY.commemoration.text = "On this day we commemorate the parable of the Profligate Son from the holy Gospel, which our most godly Fathers prescribed for the second Sunday of the Triodion."
+trSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+trSY.commemoration.couplet1.verse1 = "If you're a Profligate, like me, take heart!"
+trSY.commemoration.couplet1.verse2 = "All doors to God's compassion open lie."
+trSY.commemoration.narration.p01 = ""
+trSY.commemoration.narration.p02 = ""
+trSY.commemoration.narration.p03 = ""
+trSY.commemoration.narration.p04 = ""
+trSY.commemoration.narration.p05 = ""
+trSY.commemoration.narration.p06 = ""
+trSY.commemoration.narration.p07 = ""
+trSY.lastline = "By your ineffable love for humankind, Christ our God, have mercy on me."
 
 trMA.Ode7C11.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C11.mode = misc_en_UK_lash.Mode2

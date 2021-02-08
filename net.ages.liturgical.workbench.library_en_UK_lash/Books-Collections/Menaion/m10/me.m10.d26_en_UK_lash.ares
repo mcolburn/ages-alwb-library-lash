@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m10.d26_en_UK_lash
 
-meDate.text = "October 26"
-meCommemoration.text = "Commemoration of the holy Great Martyr Demetrios, Myrovlitis; and remembrance of the earthquake that took place." // full title of day
-meShortCommemoration1.text = ""
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "October 26"
+meDA.commemoration.full = "Commemoration of the holy Great Martyr Demetrios, Myrovlitis; and remembrance of the earthquake that took place." // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

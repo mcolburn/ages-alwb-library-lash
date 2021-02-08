@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m02.d24_en_UK_lash
 
-meDate.text = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
-meCommemoration.text = "The First and Second Finding of the precious Head of the Forerunner" // full title of day
-meShortCommemoration1.text = "The First and Second Finding of the precious Head of the Forerunner"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "the finding of whose precious head we celebrate;" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "" // date, e.g. Τῌ ΙϚʹ ΤΟΥ ΑΥΤΟΥ ΜΗΝΟΣ or July 16
+meDA.commemoration.full = "The First and Second Finding of the precious Head of the Forerunner" // full title of day
+meDA.commemoration.first = "The First and Second Finding of the precious Head of the Forerunner"
+meDA.commemoration.first_short = "The First and Second Finding of the precious Head of the Forerunner"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "the finding of whose precious head we celebrate;" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""

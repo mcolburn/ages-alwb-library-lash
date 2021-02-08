@@ -1,13 +1,14 @@
 A_Resource_Whose_Name = me.m08.d25_en_UK_lash
 
-meDate.text = "August 25"
-meCommemoration.text = "Return of the relics of the holy Apostle Bartholomew, and commemoration of the holy Apostle Titus" // full title of day
-meShortCommemoration1.text = "Return of the relics of the holy Apostle Bartholomew, and commemoration of the holy Apostle Titus"
-meCom1.title = ""
-meCom2.title = ""
-meInsert1 = "" // for use in petitions and dismissal
-meInsert2 = "" // for use in petitions and dismissal
-meNote.text = ""
+meDA.date = "August 25"
+meDA.commemoration.full = "Return of the relics of the holy Apostle Bartholomew, and commemoration of the holy Apostle Titus" // full title of day
+meDA.commemoration.first = "Return of the relics of the holy Apostle Bartholomew, and commemoration of the holy Apostle Titus"
+meDA.commemoration.first_short = "Return of the relics of the holy Apostle Bartholomew, and commemoration of the holy Apostle Titus"
+meDA.commemoration.first_title = ""
+meDA.commemoration.second_title = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
 meLE.commemoration1 = ""
 meLE.commemoration2 = ""
 meHO.number = ""
