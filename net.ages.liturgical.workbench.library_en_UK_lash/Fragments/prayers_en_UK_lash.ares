@@ -239,7 +239,7 @@ pet05 = ""
 pet06.incipit = "For our Archbishop N, for"
 pet06 = "For our Archbishop N, for the honoured order of presbyters, for the diaconate in Christ, for all the clergy and the people, let us pray to the Lord."
 
-pet06a.incipit = "For" "
+pet06a.incipit = "For"
 pet06a = "For" // supplement with client specific rank and name
 
 pet06b.incipit = "for the honoured order of"
@@ -306,13 +306,13 @@ pet21 = ""
 pet21a.incipit = ""
 pet21a = ""
 
-pet21b.incipit = "" "
+pet21b.incipi= ""
 pet21b = "" // for baptism
 
-pet21c.incipit = "" "
+pet21c.incipi= ""
 pet21c = "" // for wedding
 
-pet21d.incipit = "" "
+pet21d.incipit = ""
 pet21d = "" // for unction
 
 pet21p.incipit = ""
@@ -360,7 +360,7 @@ pet31 = "Peace to all."
 pet32.incipit = "Let us bow our heads"
 pet32 = "Let us bow our heads to the Lord."
 
-pet33.incipit = "" "
+pet33.incipit= ""
 pet33 = "" // Lity
 
 pet34.incipit = ""
@@ -480,7 +480,7 @@ petCompline01 = ""
 petCompline02.incipit = ""
 petCompline02 = ""
 
-petCompline03.incipit = "" "
+petCompline03.incipit = ""
 petCompline03 = "" // hierarch
 
 petCompline04.incipit = ""
@@ -579,7 +579,7 @@ petMonastery22 = ""
 petMonastery23.incipit = ""
 petMonastery23 = ""
 
-petOrdination01a.incipit = "For our " "
+petOrdination01a.incipit = "For our "
 petOrdination01a = "For our " // supplement with client specific rank and name
 petOrdination01b.incipit = "for his Priesthood, for help,"
 petOrdination01b = "for his Priesthood, for help, continuance, peace, health, salvation and for the work of his hands, let us pray to the Lord."
@@ -1020,7 +1020,7 @@ exc28a = ""
 exc29.incipit = ""
 exc29 = ""
 
-epi01a.incipit = "" "
+epi01a.incipit = ""
 epi01a = "" // leave blank in Greek
 
 epi01b.incipit = ""
