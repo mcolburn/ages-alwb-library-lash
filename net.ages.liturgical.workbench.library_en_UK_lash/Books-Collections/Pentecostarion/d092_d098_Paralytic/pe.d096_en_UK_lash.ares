@@ -15,22 +15,22 @@ peDA.dismissal = dismissals_en_UK_lash.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_UK_lash.Mode4
 peVE.Stichera01.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmetered
-peVE.Stichera01.incipit = ""
+peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
 peVE.Stichera02.mode = misc_en_UK_lash.Mode4
 peVE.Stichera02.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmetered
-peVE.Stichera02.incipit = ""
+peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
 peVE.Stichera03.mode = misc_en_UK_lash.Mode4
 peVE.Stichera03.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmetered
-peVE.Stichera03.incipit = ""
+peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = misc_en_UK_lash.Mode2
 peVE.SticGlory.melody = misc_en_UK_lash.Idiomelon
-peVE.SticGlory.incipit = ""
+peVE.SticGlory.incipit = "…"
 peVE.SticGlory.text = ""
 
 peVE.Aposticha1.mode = misc_en_UK_lash.Mode3
@@ -51,7 +51,7 @@ peVE.Aposticha3.text = oc.m3.d5_en_UK_lash.ocVE.Aposticha3.text
 peVE.AposGlory.poet = poets_en_UK_lash.Germanou
 peVE.AposGlory.mode = misc_en_UK_lash.Mode3
 peVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
-peVE.AposGlory.incipit = ""
+peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = ""
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode3
@@ -96,27 +96,27 @@ peMA.Lauds3.text = oc.m3.d4_en_UK_lash.ocMA.Aposticha3.text
 
 peMA.LaudsGlory.mode = misc_en_UK_lash.Mode4
 peMA.LaudsGlory.melody = misc_en_UK_lash.Idiomelon
-peMA.LaudsGlory.incipit = ""
+peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peMA.Aposticha1.mode = misc_en_UK_lash.Mode2
 peMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
-peMA.Aposticha1.incipit = ""
+peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_UK_lash.Mode2
 peMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
-peMA.Aposticha2.incipit = ""
+peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_UK_lash.Mode2
 peMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
-peMA.Aposticha3.incipit = ""
+peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.poet = poets_en_UK_lash.IoannouMonachou
 peMA.AposGlory.mode = misc_en_UK_lash.Mode8
 peMA.AposGlory.melody = misc_en_UK_lash.Idiomelon
-peMA.AposGlory.incipit = ""
+peMA.AposGlory.incipit = "…"
 peMA.AposGlory.text = ""
 

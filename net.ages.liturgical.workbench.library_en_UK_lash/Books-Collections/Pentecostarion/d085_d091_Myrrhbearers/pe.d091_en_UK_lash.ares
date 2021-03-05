@@ -110,17 +110,17 @@ peMA.LaudsGlory.text = pe.d085_en_UK_lash.peVE.Lity3.text
 
 peMA.Aposticha1.mode = misc_en_UK_lash.Mode2
 peMA.Aposticha1.melody = //tr.d070_en_UK_lash.trVE.Aposticha1.melody
-peMA.Aposticha1.incipit = ""
+peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = //tr.d070_en_UK_lash.trVE.Aposticha1.text
 
 peMA.Aposticha2.mode = misc_en_UK_lash.Mode2
 peMA.Aposticha2.melody = //tr.d070_en_UK_lash.trVE.Aposticha2.melody
-peMA.Aposticha2.incipit = ""
+peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = //tr.d070_en_UK_lash.trVE.Aposticha2.text
 
 peMA.Aposticha3.mode = misc_en_UK_lash.Mode2
 peMA.Aposticha3.melody = //tr.d070_en_UK_lash.trVE.Aposticha4.melody
-peMA.Aposticha3.incipit = ""
+peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = //tr.d070_en_UK_lash.trVE.Aposticha4.text
 
 peMA.AposGlory.mode = misc_en_UK_lash.Mode6

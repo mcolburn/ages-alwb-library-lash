@@ -54,8 +54,8 @@ peVE.AposGlory.incipit = pe.d110_en_UK_lash.peVE.Lity5.incipit
 peVE.AposGlory.text = pe.d110_en_UK_lash.peVE.Lity5.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode2
-peMA.Kathisma11.melody = he.a.m2_en_UK_lash.TaAnoZiton.incipit
-peMA.Kathisma11.incipit = ""
+peMA.Kathisma11.melody = he.a.m2_en_UK_lash.TaAnoZiton.name
+peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = pe.d110_en_UK_lash.peMA.Kathisma21.mode

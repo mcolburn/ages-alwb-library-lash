@@ -6,7 +6,7 @@ daCommemoration.text = ""
 daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onSundayEvening
 
 daVE.Apolytikion1.mode = misc_en_UK_lash.Mode4
-daVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.incipit
+daVE.Apolytikion1.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.name
 daVE.Apolytikion1.incipit = me.m11.d08_en_UK_lash.meVE.Apolytikion1.incipit
 daVE.Apolytikion1.text = me.m11.d08_en_UK_lash.meVE.Apolytikion1.text
 
@@ -29,12 +29,12 @@ daMA.Photagogic3Beginning.text = prayers_en_UK_lash.fbPresveiaisKyrieTisTheotoko
 
 daMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
 daMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-daMA.Exaposteilarion1.incipit = "Archangels and Angels, Principalities and"
+daMA.Exaposteilarion1.incipit = "Archangels and Angels, Principalities and…"
 daMA.Exaposteilarion1.text = "Archangels and Angels, Principalities and Dominions, Powers and Authorities and Thrones, many-eyed Cherubim and now also six-winged Seraphim, intercede for us to be rescued from dangers and from the unquenchable fire."
 
 daMA.ExapTheotokion1.mode = misc_en_UK_lash.Mode2
 daMA.ExapTheotokion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.notmetered
-daMA.ExapTheotokion1.incipit = "You are my defender, O"
+daMA.ExapTheotokion1.incipit = "You are my defender, O…"
 daMA.ExapTheotokion1.text = "You are my defender, O All-pure, and my strong rampart, and defence of the world, and as I fall before you, I cry: O Virgin, rescue me from pains, and snatch me from the eternal fire, for I have put my trust in you."
 
 daLI.EpistleProkeimenon.title = ""

@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = he.o_en_UK_lash
 
-TheotokeSyEi.incipit = "Mother of God, you are the true vine"
+TheotokeSyEi.name = "Mother of God, you are the true vine."
+TheotokeSyEi.incipit = "Mother of God, you are the true vine…"
 TheotokeSyEi.mode = misc_en_UK_lash.Mode6
 TheotokeSyEi.text = oc.m6.d5_en_UK_lash.ocVE.AposTheotokion.text
 TheotokeSyEi.text1 = "Mother of God, you are the true vine who gave bud to the fruit of life. We implore you, 'Intercede, Sovereign Lady," // insert specific kind of saint, from ares file.

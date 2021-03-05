@@ -5,7 +5,7 @@ hoTY.title = ""
 R01 = ""
 
 hoLI.OnlyBegotten.title = ""
-hoLI.OnlyBegotten.incipit = "Only-begotten Son"
+hoLI.OnlyBegotten.incipit = "Only-begotten Son…"
 hoLI.OnlyBegotten.text = "Only-begotten Son and Word of God, * who, being immortal, * accepted for our salvation * to take flesh from the holy Mother of God * and Ever-Virgin Mary, and without change became man; * you were crucified, Christ God, * by death trampling on death, * though being one of the Holy Trinity, * glorified with the Father and the Holy Spirit: * save us!"
 
 hoTY.Key0200.text = "" //for media for beatitudes
@@ -20,24 +20,24 @@ hoTY.Key0217.text = ""
 //0400-0408
 
 hoTY.Key0408.mode = misc_en_UK_lash.Mode2
-hoTY.Key0408.incipit = "Protection of Christians that cannot"
+hoTY.Key0408.incipit = "Protection of Christians that cannot…"
 hoTY.Key0408.text = "Protection of Christians that cannot be put to shame, unfailing mediation with the Maker, do not despise the voices of us sinners as we pray; but, in your love, be quick to help us who cry to you with faith: Hasten to intercede, make speed to entreat, O Mother of God, for you ever protect those who honour you."
 
-hoTY.Key0501.incipit = ""
+hoTY.Key0501.incipit = "…"
 hoTY.Key0501.text = ""
 
 // Liturgy Antiphons
 hoLI.Antiphon1.text = "At the prayers of the Mother of God, O Saviour, save us."
 
-hoLI.Antiphon21.text = "Son of God, "
+hoLI.Antiphon21.text = "Son of God,"
 hoLI.Antiphon2s.text = "risen from the dead,"
 hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = "save us who sing to you: Alleluia!"
 
 hoLI.EntranceHymn.text = "Come, let us worship and fall down before Christ." // in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = ""
+hoLI.EntranceHymn2s.incipit = "…"
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = ""
+hoLI.EntranceHymn2w.incipit = "…"
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = "The Trisagion"

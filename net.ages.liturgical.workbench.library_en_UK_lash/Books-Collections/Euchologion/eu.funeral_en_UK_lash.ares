@@ -11,9 +11,9 @@ euFUN.Key0101.incipit = oc.m4.d7_en_UK_lash.ocVE.Aposticha4.incipit
 euFUN.Key0101.text = oc.m4.d7_en_UK_lash.ocVE.Aposticha4.text
 euFUN.Key0102.incipit = oc.m4.d7_en_UK_lash.ocMA.Lauds4.incipit
 euFUN.Key0102.text = oc.m4.d7_en_UK_lash.ocMA.Lauds4.text
-euFUN.Key0103.incipit = "You are our God who"
+euFUN.Key0103.incipit = "You are our God who…"
 euFUN.Key0103.text = "You are our God who descended into Hades and did away with the pains of those who had been bound; give rest, O Saviour, also to the soul(s) of your servant(s)."
-euFUN.Key0104.incipit = "O only pure and spotless"
+euFUN.Key0104.incipit = "O only pure and spotless…"
 euFUN.Key0104.text = "O only pure and spotless Virgin, who bore God without seed, intercede for the salvation of the soul(s) of your servant(s)." // similar to: oc.m4.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 euFUN.Key0105.text = "O God of spirits and all flesh, who trampled down death and crushed the devil, giving life to your world; do you, Lord, give rest to the soul(s) of your servant(s) N. (and N.), who has (have) fallen asleep, in a place of light, a place of green pasture, a place of refreshment, whence pain, grief and sighing have fled away. Pardon, O God, as you are good and love mankind, every sin committed by him/her (them) in word or deed or thought, because there is none who will live and not sin, for you alone are without sin; your righteousness is an everlasting righteousness, and your word is truth."
@@ -110,22 +110,22 @@ euFUN.Key0813.text = oc.m8.d7_en_UK_lash.ocVE.AposTheotokion.text
 
 euFUN.Key0900.title = ""
 euFUN.Key0900.mode = misc_en_UK_lash.Mode6
-euFUN.Key0900.melody = he.h.m6_en_UK_lash.OiOsioiSouPaides.incipit
-euFUN.Key0901.incipit = ""
+euFUN.Key0900.melody = he.h.m6_en_UK_lash.OiOsioiSouPaides.name
+euFUN.Key0901.incipit = "…"
 euFUN.Key0901.text = ""
-euFUN.Key0902.incipit = ""
+euFUN.Key0902.incipit = "…"
 euFUN.Key0902.text = ""
-euFUN.Key0903.incipit = ""
+euFUN.Key0903.incipit = "…"
 euFUN.Key0903.text = ""
-euFUN.Key0904.incipit = ""
+euFUN.Key0904.incipit = "…"
 euFUN.Key0904.text = ""
-euFUN.Key0905.incipit = ""
+euFUN.Key0905.incipit = "…"
 euFUN.Key0905.text = ""
-euFUN.Key0906.incipit = ""
+euFUN.Key0906.incipit = "…"
 euFUN.Key0906.text = ""
-euFUN.Key0907.incipit = ""
+euFUN.Key0907.incipit = "…"
 euFUN.Key0907.text = ""
-euFUN.Key0908.incipit = ""
+euFUN.Key0908.incipit = "…"
 euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = ""
@@ -140,22 +140,22 @@ euFUN.Key1003.text = ""
 
 euFUN.Key1101.mode = misc_en_UK_lash.Mode2
 euFUN.Key1101.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
-euFUN.Key1101.incipit = ""
+euFUN.Key1101.incipit = "…"
 euFUN.Key1101.text = ""
 
 euFUN.Key1102.mode = misc_en_UK_lash.Mode2
 euFUN.Key1102.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
-euFUN.Key1102.incipit = ""
+euFUN.Key1102.incipit = "…"
 euFUN.Key1102.text = ""
 
 euFUN.Key1103.mode = misc_en_UK_lash.Mode2
 euFUN.Key1103.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
-euFUN.Key1103.incipit = ""
+euFUN.Key1103.incipit = "…"
 euFUN.Key1103.text = ""
 
 euFUN.Key1104.mode = misc_en_UK_lash.Mode6
 euFUN.Key1104.melody = misc_en_UK_lash.Idiomelon
-euFUN.Key1104.incipit = ""
+euFUN.Key1104.incipit = "…"
 euFUN.Key1104.text = ""
 
 euFUN.Key1105.mode = misc_en_UK_lash.Mode6

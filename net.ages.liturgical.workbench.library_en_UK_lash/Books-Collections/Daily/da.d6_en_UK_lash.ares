@@ -35,12 +35,12 @@ daMA.Exaposteilarion1.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 daMA.Exaposteilarion2.mode = misc_en_UK_lash.Mode3
 daMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
-daMA.Exaposteilarion2.incipit = "Cross of my Christ, sceptre"
+daMA.Exaposteilarion2.incipit = "Cross of my Christ, sceptre…"
 daMA.Exaposteilarion2.text = "Cross of my Christ, sceptre and victory of Sovereigns, glory of the Orthodox, guard those who worship you, that the multitudes of the unorthodox may be defeated."
 
 daMA.ExapTheotokion2.mode = misc_en_UK_lash.Mode3
 daMA.ExapTheotokion2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.notmetered
-daMA.ExapTheotokion2.incipit = "Standing by the Cross and"
+daMA.ExapTheotokion2.incipit = "Standing by the Cross and…"
 daMA.ExapTheotokion2.text = "Standing by the Cross and grieving, she who gave you birth without seed, cried out, ‘Alas, my sweetest Child! How have you set from my sight? How have you been numbered among the dead?’"
 
 daLI.CommunionHymn.text = "" //for media

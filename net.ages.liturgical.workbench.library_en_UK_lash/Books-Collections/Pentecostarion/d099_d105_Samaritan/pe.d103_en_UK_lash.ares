@@ -15,17 +15,17 @@ peDA.dismissal = dismissals_en_UK_lash.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_UK_lash.Mode4
 peVE.Stichera01.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmetered
-peVE.Stichera01.incipit = ""
+peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
 peVE.Stichera02.mode = misc_en_UK_lash.Mode4
 peVE.Stichera02.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmetered
-peVE.Stichera02.incipit = ""
+peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
 peVE.Stichera03.mode = misc_en_UK_lash.Mode4
 peVE.Stichera03.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmetered
-peVE.Stichera03.incipit = ""
+peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = misc_en_UK_lash.Mode1
@@ -55,7 +55,7 @@ peVE.AposGlory.text = pe.d099_en_UK_lash.peVE.Stichera09.text
 
 peMA.Kathisma11.mode = misc_en_UK_lash.Mode4
 peMA.Kathisma11.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
-peMA.Kathisma11.incipit = ""
+peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma12.mode = misc_en_UK_lash.Mode4
@@ -70,12 +70,12 @@ peMA.Kathisma13.text = oc.m4.d3_en_UK_lash.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = misc_en_UK_lash.Mode4
 peMA.Kathisma1T.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-peMA.Kathisma1T.incipit = ""
+peMA.Kathisma1T.incipit = "…"
 peMA.Kathisma1T.text = ""
 
 peMA.Kathisma21.mode = misc_en_UK_lash.Mode6
 peMA.Kathisma21.melody = ""
-peMA.Kathisma21.incipit = ""
+peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Lauds1.mode = misc_en_UK_lash.Mode4
@@ -100,17 +100,17 @@ peMA.LaudsGlory.text = pe.d099_en_UK_lash.peVE.Stichera10.text
 
 peMA.Aposticha1.mode = misc_en_UK_lash.Mode4
 peMA.Aposticha1.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-peMA.Aposticha1.incipit = ""
+peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_UK_lash.Mode4
 peMA.Aposticha2.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-peMA.Aposticha2.incipit = ""
+peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_UK_lash.Mode4
 peMA.Aposticha3.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-peMA.Aposticha3.incipit = ""
+peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_UK_lash.Mode3
