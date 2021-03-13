@@ -48,9 +48,6 @@ DoxaSoiChriste2 = "Glory to you, Christ God, our hope, glory to you."
 DoxaSoiKyrie.incipit = "Glory to you, O Lord…"
 DoxaSoiKyrie = "Glory to you, O Lord, glory to you."
 
-DoxaSoiKyrieP.incipit = "…"
-DoxaSoiKyrieP = ""
-
 DoxaSoiOTheos1.incipit = "…"
 DoxaSoiOTheos1 = ""
 
@@ -59,9 +56,6 @@ DoxaSoiOTheosImon.text = "Glory to you, our God, glory to you."
 
 DoxaTiMakrothymia.incipit = "…"
 DoxaTiMakrothymia.text = ""
-
-DoxaTiMakrothymiaP.incipit = "…"
-DoxaTiMakrothymiaP.text = ""
 
 DoxaToPatri.incipit = "…"
 DoxaToPatri.text = ""
@@ -98,9 +92,6 @@ PantoteNyn.text = "Always, now and for ever, and to the ages of ages. Amen."
 
 Evlogison.incipit = "…"
 Evlogison = ""
-
-EvlogisonP.incipit = "…"
-EvlogisonP = ""
 
 EnOnomatiKyriou.incipit = "…"
 EnOnomatiKyriou.text = ""
@@ -876,36 +867,6 @@ res15 = ""
 res16.incipit = "Everlasting Memory…"
 res16 = "Everlasting Memory."
 
-res01p = "(Lord, have mercy.)"
-
-res02p = "(Grant this, O Lord.)"
-
-res03p = "(To you, O Lord.)"
-
-res04p = "(Amen.)"
-
-res05p = "(And to your spirit.)"
-
-res06p = "(Lord, have mercy. Lord, have mercy. Lord, have mercy.)"
-
-res07p = "()"
-
-res08p = "(Master, give the blessing.)"
-
-res09p = "()"
-
-res10p = "(Amen, Amen, Amen.)"
-
-res12p = "(Holy father, give the blessing.)"
-
-res13p = "(Holy Master, bless.)"
-
-res14p = "()"
-
-res15p = "()"
-
-res16p = "(Everlasting Memory.)"
-
 exc01.incipit = "For to you belong all…"
 exc01 = "For to you belong all glory, honour and worship, Father, Son and Holy Spirit, now and for ever, and to the ages of ages." //For to you belong all glory, honour and worship, to the Father, the Son and the holy Spirit, now and for ever, and to the ages of ages.
 
@@ -1059,9 +1020,6 @@ otr01b = ""
 verse_Angels.incipit = "…"
 verse_Angels.text = ""
 
-verseP_Angels.incipit = "…"
-verseP_Angels.text = ""
-
 verse_Apostle.incipit = "…"
 verse_Apostle.text = ""
 
@@ -1071,30 +1029,17 @@ verse_Apostles.text = ""
 verse_ApostlesMartyrs.incipit = "…"
 verse_ApostlesMartyrs.text = ""
 
-verseP_ApostlesMartyrs.incipit = "…"
-verseP_ApostlesMartyrs.text = ""
-
 verse_Archangel.incipit = "…"
 verse_Archangel.text = ""
-
-verseP_Archangel.text = "()"
 
 verse_Archangels.incipit = "…"
 verse_Archangels.text = ""
 
-verseP_Archangels.text = "()"
-
 verse_Baptist.incipit = "…"
 verse_Baptist.text = ""
 
-verseP_Baptist.incipit = "…"
-verseP_Baptist.text = ""
-
 verse_Cross.incipit = "…"
 verse_Cross.text = ""
-
-verseP_Cross.incipit = "…"
-verseP_Cross.text = ""
 
 verse_Crucifixion.incipit = "…"
 verse_Crucifixion.text = ""
@@ -1114,26 +1059,14 @@ verse_God.text = ""
 verse_GreatMartyrs.incipit = "…"
 verse_GreatMartyrs.text = ""
 
-verseP_GreatMartyrs.incipit = "…"
-verseP_GreatMartyrs.text = ""
-
 verse_Hierarchs.incipit = "…"
 verse_Hierarchs.text = ""
-
-verseP_Hierarchs.incipit = "…"
-verseP_Hierarchs.text = ""
 
 verse_Nicholas.incipit = "…"
 verse_Nicholas.text = ""
 
-verseP_Nicholas.incipit = "…"
-verseP_Nicholas.text = ""
-
 verse_Panteleimon.incipit = "…"
 verse_Panteleimon.text = ""
-
-verseP_Panteleimon.incipit = "…"
-verseP_Panteleimon.text = ""
 
 verse_Prophet.incipit = "…"
 verse_Prophet.text = ""
@@ -1143,9 +1076,6 @@ verse_Resurrection.text = ""
 
 verse_Righteous.incipit = "…"
 verse_Righteous.text = ""
-
-verseP_Righteous.incipit = "…"
-verseP_Righteous.text = ""
 
 verse_SaintM.incipit = "…"
 verse_SaintM.text = ""
@@ -1162,23 +1092,12 @@ verse_SaintsW.text = ""
 verse_SoulSaturday.incipit = "…"
 verse_SoulSaturday.text = ""
 
-verseP_SoulSaturday.incipit = "…"
-verseP_SoulSaturday.text = ""
-
 verse_Theotokos.incipit = "…"
 verse_Theotokos.text = ""
-
-verseP_Theotokos.incipit = "…"
-verseP_Theotokos.text = ""
 
 verse_Trinity.incipit = "…"
 verse_Trinity.text = ""
 
-verseP_Trinity.incipit = "…"
-verseP_Trinity.text = ""
-
 verse_Unmercenaries.incipit = "…"
 verse_Unmercenaries.text = ""
 
-verseP_Unmercenaries.incipit = "…"
-verseP_Unmercenaries.text = ""
