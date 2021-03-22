@@ -17,8 +17,10 @@ hiVE.R1109 = ""
 hiVE.R1110 = ""
 hiVE.R1111 = "The Priest blesses the Deacon's Sticharion and Orarion as usual."
 hiVE.R1112 = ""
-hiVE.R1113 = "While the Opening Psalm is being read the Priest, bareheaded and standing in front of the Holy Table, says quietly the following Prayers at the Lighting of the Lamps."
+hiVE.R1113 = "While the Opening Psalm is being read the Priest, bareheaded and standing in front of the Holy Table, says quietly the Prayers at the Lighting of the Lamps."
 
+hiVE.Key1100.title = "Prayers at the Lighting of the Lamps"
+hiVE.Key1100.text = properties_en_UK_lash.media.key
 hiVE.Key1101.title = "1st Prayer"
 hiVE.Key1101.text = "O Lord, compassionate and merciful, long-suffering and full of mercy, listen to our prayer and attend to the voice of our supplication. Make for us a sign for good. Guide us in your way, to walk in your truth. Make glad our hearts to fear your holy Name, because you are great and do wondrous things. You alone are God, and there is none like you, O Lord, among gods: powerful in mercy and loving in strength to help and to console and to save all who hope in your holy Name."
 hiVE.Key1101.exclamation = prayers_en_UK_lash.exc01
