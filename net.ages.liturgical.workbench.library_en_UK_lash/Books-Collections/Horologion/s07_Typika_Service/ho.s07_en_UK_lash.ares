@@ -30,17 +30,21 @@ hoTY.Key0501.text = ""
 hoLI.Antiphon1.text = "At the prayers of the Mother of God, O Saviour, save us."
 
 hoLI.Antiphon21.text = "Son of God,"
+hoLI.Antiphon2s.incipit = ""
 hoLI.Antiphon2s.text = "risen from the dead,"
+hoLI.Antiphon2w.incipit = ""
 hoLI.Antiphon2w.text = ""
 hoLI.Antiphon22.text = "save us who sing to you: Alleluia!"
 
+hoLI.EntranceHymn.incipit = ""
 hoLI.EntranceHymn.text = "Come, let us worship and fall down before Christ." // in the template add parts of Antiphon 2
-hoLI.EntranceHymn2s.incipit = "…"
+hoLI.EntranceHymn2s.incipit = hoLI.Antiphon2s.incipit
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
-hoLI.EntranceHymn2w.incipit = "…"
+hoLI.EntranceHymn2w.incipit = hoLI.Antiphon2w.incipit
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
 hoLI.TrisagiosHymn.title = "The Trisagion"
+hoLI.TrisagiosHymn.incipit = "…"
 hoLI.TrisagiosHymn.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us."
 hoLI.TrisagiosHymn1.text = "Holy God."
 hoLI.TrisagiosHymn2.text = "Holy Strong."
@@ -53,6 +57,7 @@ hoLI.MM.TrisagiosHymnBimatos.text = properties_en_UK_lash.media.key
 hoLI.TrisagiosHymnDynamis.text = "Dynamis. Holy God, Holy Strong, Holy Immortal, have mercy on us."
 
 hoLI.OsoiEisChriston.title = ""
+hoLI.OsoiEisChriston.incipit = "…"
 hoLI.OsoiEisChriston.text = ""
 hoLI.OsoiEisChriston1.text = ""
 hoLI.OsoiEisChriston2.text = ""
@@ -62,6 +67,7 @@ hoLI.MM.OsoiEisChristonBimatos.text = properties_en_UK_lash.media.key
 hoLI.OsoiEisChristonDynamis.text = ""
 
 hoLI.TonStavronSou.title = ""
+hoLI.TonStavronSou.incipit = "…"
 hoLI.TonStavronSou.text = ""
 hoLI.TonStavronSou1.text = ""
 hoLI.TonStavronSou2.text = ""
