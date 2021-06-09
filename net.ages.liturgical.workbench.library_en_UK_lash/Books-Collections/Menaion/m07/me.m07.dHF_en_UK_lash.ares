@@ -72,7 +72,7 @@ meMA.C1.verse = ""
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C11.melody = he.h.m1_en_UK_lash.SouITropaiouchos.name
-meMA.Ode1C11.incipit = "Master, as I propose to…"
+meMA.Ode1C11.incipit = "Master, as I propose to sing…"
 meMA.Ode1C11.text = "Master, as I propose to sing the praise of the skilled demolishers of error, I call on your almighty grace from on high, and on your force; for you are indeed the right hand and power of the Father."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
@@ -176,13 +176,13 @@ meMA.Ode3C2T.text = "You have been declared higher than the Cherubim and Seraphi
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-meMA.Ode3Kathisma1.incipit = "Blessed Fathers, you were truly…"
-meMA.Ode3Kathisma1.text = "Blessed Fathers, you were truly re­vealed to the world as most brilliant beacons of Christ's truth on the earth, melting like wax the heresies of the blasphemous prattlers, quenching the burning confusions of the slanderers; and so, as Hierarchs of Christ, inter­cede that we may be saved."
+meMA.Ode3Kathisma1.incipit = "Blessed Fathers…"
+meMA.Ode3Kathisma1.text = "Blessed Fathers, you were truly revealed to the world as most brilliant beacons of Christ's truth on the earth, melting like wax the heresies of the blasphemous prattlers, quenching the burning confusions of the slanderers; and so, as Hierarchs of Christ, inter­cede that we may be saved."
 
 meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
 meMA.Ode3KathismaT.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-meMA.Ode3KathismaT.incipit = "Speedily accept our supplications, all-blameless…"
-meMA.Ode3KathismaT.text = "Speedily accept our supplications, all-blameless Lady, and bring them to your Son and God; abolish the troubles of those who have recourse to you; humble the devices and overthrow the insolence of the godless, who are in arms against your ser­vants." //me.m03.d28_en_UK_lash.meMA.Ode3KathismaT.text
+meMA.Ode3KathismaT.incipit = me.m03.d28_en_UK_lash.meMA.Ode3KathismaT.incipit
+meMA.Ode3KathismaT.text = me.m03.d28_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C11.mode = misc_en_UK_lash.Mode1
