@@ -20,12 +20,12 @@ meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
 meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera01.incipit = "As general protection, as source…"
+meVE.Stichera01.incipit = "As general protection…"
 meVE.Stichera01.text = "As general protection, as source of sanctification, let us embrace the precious Cross; for it calms sufferings, brings an end to diseases and delivers sufferers from pains of every kind. More than the great deep it forms a sea with streams of wonders for those who faithfully venerate and reverence its image."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
 meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera02.incipit = "We mortals, who sail among…"
+meVE.Stichera02.incipit = "We mortals, who sail…"
 meVE.Stichera02.text = "We mortals, who sail among the waves of life and are storm-tossed by a tempest of sufferings, let us with faith take refuge in the precious Tree as a vessel of salvation, and it will silence the waves and the winds and break the passions, and we will reach in joy the haven of salvation without storms."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
@@ -35,7 +35,7 @@ meVE.Stichera03.text = "The all-holy Cross has shone more brightly than the sun,
 
 meVE.Stichera04.mode = misc_en_UK_lash.Mode1
 meVE.Stichera04.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.notmetered
-meVE.Stichera04.incipit = "Tyranny did not shake the…"
+meVE.Stichera04.incipit = "Tyranny did not shake the roof…"
 meVE.Stichera04.text = "Tyranny did not shake the roof of the Law, supported by seven pillars; for they bravely endured the irrational frenzy of the persecutor, giving up their bodies to the executioners, those noble youths, kinsmen of Moses and guardians of God's decrees."
 
 meVE.Stichera05.mode = misc_en_UK_lash.Mode1
@@ -51,7 +51,7 @@ meVE.Stichera06.text = "Stoutly arming themselves with youth of soul and whettin
 meVE.SticGlory.poet = poets_en_UK_lash.IoannouMonachou
 meVE.SticGlory.mode = misc_en_UK_lash.Mode8
 meVE.SticGlory.melody = ""
-meVE.SticGlory.incipit = "The holy Maccabees said to…"
+meVE.SticGlory.incipit = "The holy Maccabees said…"
 meVE.SticGlory.text = "The holy Maccabees said to the tyrant, 'For us, Antiochos, there is one King: God, from whom we came to be and to whom we return. Another world awaits us, higher and more lasting than the one we see. Our native land is Jerusalem, the mighty and indestructible. Our festival is life with the Angels.' O Lord, at their prayers have mercy and save us."
 
 meVE.SticBoth.mode = misc_en_UK_lash.Mode8
@@ -66,7 +66,7 @@ meVE.Aposticha1.text = "As the precious Cross comes forth, come, lovers of festi
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode1
 meVE.Aposticha2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meVE.Aposticha2.incipit = "The precious Cross prepares the…"
+meVE.Aposticha2.incipit = "The precious Cross prepares…"
 meVE.Aposticha2.text = "The precious Cross prepares the paths to heaven for all who worship it with fear and love, and the One who was nailed upon it numbers with the choirs of the immaterial Powers those who with longing sing its praise."
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode1
@@ -98,12 +98,12 @@ meVE.Apolytikion2.text = me.m09.d14_en_UK_lash.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
-meMA.Kathisma11.incipit = "All mortal nature together keeps…"
+meMA.Kathisma11.incipit = "All mortal nature together…"
 meMA.Kathisma11.text = "All mortal nature together keeps a feast, and in spirit leaps for joy; for the Tree of the Cross is set forth today as an inexhaustible source of healing for those who have recourse to it with devotion and love, and who glorify the One who nailed on it, Christ, the Lover of mankind."
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
-meMA.Kathisma21.incipit = "For this present day the…"
+meMA.Kathisma21.incipit = "For this present day…"
 meMA.Kathisma21.text = "For this present day the progress of the Cross is cause of joy; for it sanctifies both our souls and bodies, who worship it with faith."
 
 meMA.C1.poet = poets_en_UK_lash.Iosif
@@ -123,7 +123,7 @@ meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
-meMA.Ode1C11.incipit = "Let us today with pure…"
+meMA.Ode1C11.incipit = "Let us today with pure mind…"
 meMA.Ode1C11.text = "Let us today with pure mind and devout intent worship the life-bearing Cross of the Lord; for it is set forth granting to those who approach it sanctification and salvation, illumination, glory and mercy."
 
 meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
@@ -156,7 +156,7 @@ meMA.C2.verse = prayers_en_UK_lash.verse_SaintsM.text
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C21.melody = he.h.m1_en_UK_lash.OdinEpinikion.name
-meMA.Ode1C21.incipit = "O all-wise Youths, who like…"
+meMA.Ode1C21.incipit = "O all-wise Youths…"
 meMA.Ode1C21.text = "O all-wise Youths, who like professionals guarded the doctrines of Moses and devoutly imitated the death of Christ, intercede always that we may all be saved."
 
 meMA.Ode1C22.ode = misc_en_UK_lash.Ode1
@@ -274,7 +274,7 @@ meMA.Kontakion1.text = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.text
 
 meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode8
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Ode3Kathisma1.incipit = "Having lived devoutly, wise Youths…"
+meMA.Ode3Kathisma1.incipit = "Having lived devoutly…"
 meMA.Ode3Kathisma1.text = "Having lived devoutly, wise Youths, you bravely as martyrs shamed the tyrant's threats, as champions of the Law; and as followers of the father you became Saints and with your mother, wise in God, you struggled eagerly. Therefore by death you truly purchased the life of heaven and you rejoice eternally, brave-hearted Maccabees. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = misc_en_UK_lash.Mode6
@@ -738,12 +738,12 @@ meMA.Lauds1.text = "With voices let us shout for joy, with songs let us make mel
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode4
 meMA.Lauds2.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meMA.Lauds2.incipit = "Approach and draw waters that…"
+meMA.Lauds2.incipit = "Approach and draw waters…"
 meMA.Lauds2.text = "Approach and draw waters that do not fail that issue from the grace of the Cross. See, we contemplate the holy Tree which is set forth, the source of gifts of grace watered by the Blood and Water of the Master of all things who was willingly raised upon it and who raises mortals."
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode4
 meMA.Lauds3.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meMA.Lauds3.incipit = "O all-revered Cross, you are…"
+meMA.Lauds3.incipit = "O all-revered Cross…"
 meMA.Lauds3.text = "O all-revered Cross, you are the foundation of the Church, the ornament of Monks and the boast and salvation of Priests; therefore we worship you and are enlightened in heart and soul today by the divine grace of the One who was nailed to you and who destroyed the might of the deceiver and abolished the curse."
 
 meMA.Lauds4.mode = misc_en_UK_lash.Mode1
@@ -753,7 +753,7 @@ meMA.Lauds4.text = "The mother of many toils, inviting her own children to the c
 
 meMA.Lauds5.mode = misc_en_UK_lash.Mode4
 meMA.Lauds5.melody = misc_en_UK_lash.Idiomelon
-meMA.Lauds5.incipit = "Seven chosen pillar, hewn from…"
+meMA.Lauds5.incipit = "Seven chosen pillar…"
 meMA.Lauds5.text = "Seven chosen pillar, hewn from one spiritual rock, revealed the tower of the Law to be unshaken. Through them, O Saviour, be well-pleased for our lives to be preserved in peace."
 
 meMA.Lauds6.mode = misc_en_UK_lash.Mode5
