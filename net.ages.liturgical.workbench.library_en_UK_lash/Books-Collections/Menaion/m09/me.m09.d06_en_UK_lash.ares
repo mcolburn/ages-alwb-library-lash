@@ -18,19 +18,25 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = misc_en_UK_lash.Mode4
-meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera01.incipit = "Revealed as a brightly shining…"
-meVE.Stichera01.text = "Revealed as a brightly shining attendant of the three-sunned Godhead, Michael, Chief Captain of the Powers on high, you cry aloud with joy, 'Holy are you, O Father, Holy, O Son like him without beginning, Holy also, O Holy Spirit; one glory, one kingship, one nature, one Godhead and power'."
+meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meVE.Stichera01.incipit = me.m11.d08_en_UK_lash.meVE.Stichera01.incipit
+meVE.Stichera01.text = me.m11.d08_en_UK_lash.meVE.Stichera01.text //"Revealed as a brightly shining attendant of the three-sunned Godhead, Michael, Chief Captain of the Powers on high, you cry aloud with joy, 'Holy are you, O Father, Holy, O Son like him without beginning, Holy also, O Holy Spirit; one glory, one kingship, one nature, one Godhead and power'."
 
 meVE.Stichera02.mode = misc_en_UK_lash.Mode4
-meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera02.incipit = "Your form is of fire…"
-meVE.Stichera02.text = "Your form is of fire and your beauty wondrous, Michael, first of the Angels, for with your immaterial nature you pass through the ends of the earth fulfilling the commands of the Maker of all things, acknowledged as powerful in your strength and making your church, honoured with your name, a source of healings."
+meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meVE.Stichera02.incipit = me.m11.d08_en_UK_lash.meVE.Stichera02.incipit
+meVE.Stichera02.text = me.m11.d08_en_UK_lash.meVE.Stichera02.text //"Your form is of fire and your beauty wondrous, Michael, first of the Angels, for with your immaterial nature you pass through the ends of the earth fulfilling the commands of the Maker of all things, acknowledged as powerful in your strength and making your church, honoured with your name, a source of healings."
 
 meVE.Stichera03.mode = misc_en_UK_lash.Mode4
-meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
-meVE.Stichera03.incipit = "As it is written, Lord…"
-meVE.Stichera03.text = "As it is written, Lord, you make your Angels spirits and those who minister to you a fiery flame. You have revealed Michael the Chief Captain to be the leader among the ranks of Archangels, as he obeys your wishes, O Word, and with fear raises the Thrice-holy Hymn of praise to your glory."
+meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.name
+meVE.Stichera03.incipit = me.m11.d08_en_UK_lash.meVE.Stichera03.incipit
+meVE.Stichera03.text = me.m11.d08_en_UK_lash.meVE.Stichera03.text //"As it is written, Lord, you make your Angels spirits and those who minister to you a fiery flame. You have revealed Michael the Chief Captain to be the leader among the ranks of Archangels, as he obeys your wishes, O Word, and with fear raises the Thrice-holy Hymn of praise to your glory."
+
+meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
+meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.melody = ""
+meVE.SticGlory.incipit = me.m11.d08_en_UK_lash.meVE.SticGlory.incipit
+meVE.SticGlory.text = me.m11.d08_en_UK_lash.meVE.SticGlory.text
 
 meVE.SticGlory.poet = poets_en_UK_lash.Vyzantiou
 meVE.SticGlory.mode = misc_en_UK_lash.Mode6
@@ -43,19 +49,19 @@ meVE.SticTheotokion.incipit = "Rejoice with us, all you…"
 meVE.SticTheotokion.text = "Rejoice with us, all you choirs of Virgins, for our defence and intercessor, protection and great refuge by her revered and godlike concern brings comfort on this present day to the afflicted. Therefore as is fitting we sing her praises as we cry out, 'Shelter us by your godlike protection, all-pure Lady, Mother of God'."
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode1
-meVE.Aposticha1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meVE.Aposticha1.incipit = "As leader of the heavenly…"
-meVE.Aposticha1.text = "As leader of the heavenly hosts and strong defender, guard and deliverer of those on earth we sing your praise with faith, Michael Chief Captain, as we implore you to deliver us from every pain that brings destruction."
+meVE.Aposticha1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Aposticha1.incipit = me.m11.d08_en_UK_lash.meMA.Lauds1.incipit
+meVE.Aposticha1.text = me.m11.d08_en_UK_lash.meMA.Lauds1.text //"As leader of the heavenly hosts and strong defender, guard and deliverer of those on earth we sing your praise with faith, Michael Chief Captain, as we implore you to deliver us from every pain that brings destruction."
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode1
-meVE.Aposticha2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meVE.Aposticha2.incipit = "The leader of the godlike…"
-meVE.Aposticha2.text = "The leader of the godlike Powers on high today invites the choirs of mortals to celebrate with Angels one radiant feast of their assembly and together sing to God the Thrice-holy Hymn."
+meVE.Aposticha2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Aposticha2.incipit = me.m11.d08_en_UK_lash.meMA.Lauds2.incipit
+meVE.Aposticha2.text = me.m11.d08_en_UK_lash.meMA.Lauds2.text //"The leader of the godlike Powers on high today invites the choirs of mortals to celebrate with Angels one radiant feast of their assembly and together sing to God the Thrice-holy Hymn."
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode1
-meVE.Aposticha3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meVE.Aposticha3.incipit = "Michael, godlike mind, guard under…"
-meVE.Aposticha3.text = "Michael, godlike mind, guard under the shelter of your godlike wings us who have recourse to you in faith, and protect us throughout our life, and at the hour of death, Archangel, be present for us all as a most kindly helper."
+meVE.Aposticha3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meVE.Aposticha3.incipit = me.m11.d08_en_UK_lash.meMA.Lauds3.incipit
+meVE.Aposticha3.text = me.m11.d08_en_UK_lash.meMA.Lauds3.text //"Michael, godlike mind, guard under the shelter of your godlike wings us who have recourse to you in faith, and protect us throughout our life, and at the hour of death, Archangel, be present for us all as a most kindly helper."
 
 meVE.AposGlory.poet = poets_en_UK_lash.IoannouMonachou
 meVE.AposGlory.mode = misc_en_UK_lash.Mode8
@@ -79,8 +85,8 @@ meMA.Kathisma1T.text = "May we, the unworthy, never cease to speak of your acts 
 
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
-meMA.Kathisma21.incipit = "Chief Captain of the bodiless…"
-meMA.Kathisma21.text = "Chief Captain of the bodiless ministers, you stand in God's presence and shine with the radiance that comes from there; make bright and sanctify those who faithfully sing your praise, deliver them from every tyranny of the foe and ask for a peaceful life for the Rulers and for all the ends of the earth."
+meMA.Kathisma21.incipit = me.m11.d08_en_UK_lash.meMA.Kathisma11.incipit
+meMA.Kathisma21.text = me.m11.d08_en_UK_lash.meMA.Kathisma11.text //"Chief Captain of the bodiless ministers, you stand in God's presence and shine with the radiance that comes from there; make bright and sanctify those who faithfully sing your praise, deliver them from every tyranny of the foe and ask for a peaceful life for the Rulers and for all the ends of the earth."
 
 meMA.Kathisma2T.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
@@ -611,19 +617,19 @@ meMA.ExapTheotokion.incipit = "Alas, wretch that I am…"
 meMA.ExapTheotokion.text = "Alas, wretch that I am, through my incontinence of old I was thrust from the greater image in which I shared by God's action. But you, O Christ, in your compassion, ineffably became my fellow and shared that which worse, renewing me, O Saviour, from virgin blood."
 
 meMA.Lauds1.mode = misc_en_UK_lash.Mode1
-meMA.Lauds1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meMA.Lauds1.incipit = "As we in the world…"
-meMA.Lauds1.text = "As we in the world keep festival like the Angels, let us cry aloud to God, who is borne on a throne of glory, the hymn: Holy are you, Father in heaven; co-eternal Word, holy are you; and the All-holy Spirit."
+meMA.Lauds1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds1.incipit = me.m11.d08_en_UK_lash.meVE.Aposticha1.incipit
+meMA.Lauds1.text = me.m11.d08_en_UK_lash.meVE.Aposticha1.text //"As we in the world keep festival like the Angels, let us cry aloud to God, who is borne on a throne of glory, the hymn: Holy are you, Father in heaven; co-eternal Word, holy are you; and the All-holy Spirit."
 
 meMA.Lauds2.mode = misc_en_UK_lash.Mode1
-meMA.Lauds2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meMA.Lauds2.incipit = "With great boldness you lead…"
-meMA.Lauds2.text = "With great boldness you lead the heavenly powers and stand before the throne unendurable in glory, eye-witness of things ineffable; by your intercessions, Michael Chief Captain, save us who are constrained by dangers and temptations, we implore."
+meMA.Lauds2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds2.incipit = me.m11.d08_en_UK_lash.meVE.Aposticha2.incipit
+meMA.Lauds2.text = me.m11.d08_en_UK_lash.meVE.Aposticha2.text //"With great boldness you lead the heavenly powers and stand before the throne unendurable in glory, eye-witness of things ineffable; by your intercessions, Michael Chief Captain, save us who are constrained by dangers and temptations, we implore."
 
 meMA.Lauds3.mode = misc_en_UK_lash.Mode1
-meMA.Lauds3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
-meMA.Lauds3.incipit = "Manifestly you are first of…"
-meMA.Lauds3.text = "Manifestly you are first of the bodiless Angels and minister of that divine radiance, eye-witness and initiate; save us, Michael Chief Captain, who yearly honour you devoutly and faithfully sing the praise of the Trinity."
+meMA.Lauds3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.name
+meMA.Lauds3.incipit = me.m11.d08_en_UK_lash.meVE.Aposticha3.incipit
+meMA.Lauds3.text = me.m11.d08_en_UK_lash.meVE.Aposticha3.text //"Manifestly you are first of the bodiless Angels and minister of that divine radiance, eye-witness and initiate; save us, Michael Chief Captain, who yearly honour you devoutly and faithfully sing the praise of the Trinity."
 
 meMA.LaudsGlory.mode = misc_en_UK_lash.Mode5
 meMA.LaudsGlory.melody = ""
