@@ -83,11 +83,6 @@ meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = me.m05.d08_en_UK_lash.meVE.SticGlory.incipit
 meVE.SticGlory.text = me.m05.d08_en_UK_lash.meVE.SticGlory.text
 
-meVE.SticTheotokion.mode = misc_en_UK_lash.Mode2
-meVE.SticTheotokion.melody = ""
-meVE.SticTheotokion.incipit = oc.m2.d1_en_UK_lash.ocVE.SticTheotokion.incipit
-meVE.SticTheotokion.text = oc.m2.d1_en_UK_lash.ocVE.SticTheotokion.text
-
 meVE.Lity1.poet = poets_en_UK_lash.Germanou
 meVE.Lity1.mode = misc_en_UK_lash.Mode1
 meVE.Lity1.melody = ""
@@ -148,11 +143,6 @@ meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = me.m05.d08_en_UK_lash.meVE.AposGlory.incipit
 meVE.AposGlory.text = me.m05.d08_en_UK_lash.meVE.AposGlory.text
 
-meVE.AposTheotokion.mode = misc_en_UK_lash.Mode6
-meVE.AposTheotokion.melody = ""
-meVE.AposTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.incipit
-meVE.AposTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.AposTheotokion.text
-
 meVE.Apolytikion1.mode = misc_en_UK_lash.Mode2
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = me.m05.d08_en_UK_lash.meVE.Apolytikion1.incipit
@@ -180,8 +170,8 @@ meMA.Kathisma2T.text = "I consider the judgement and I quail, for, wretch that I
 
 meMA.Kathisma31.mode = misc_en_UK_lash.Mode8
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
-meMA.Kathisma31.incipit = "Leaning on Jesus' breast, gaining…"
-meMA.Kathisma31.text = "Leaning on Jesus' breast, gaining boldness as a disciple, you asked, 'Who is your betrayer, Lord?' And as to one beloved, glorious Apostle, he was clearly shown to you through the bread. Therefore too, as an initiate of ineffable things, you teach the ends of the earth the incarnation of the Word. Theologian, Apostle, intercede with Christ God to bestow forgiveness of faults on those who feast with love your holy memory."
+meMA.Kathisma31.incipit = me.m05.d08_en_UK_lash.meMA.Kathisma21.incipit
+meMA.Kathisma31.text = me.m05.d08_en_UK_lash.meMA.Kathisma21.text
 
 meMA.Kathisma3T.mode = misc_en_UK_lash.Mode8
 meMA.Kathisma3T.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
