@@ -78,8 +78,8 @@ meVE.LityGlory.text = "Christ God has taken your blameless spirit, wise Martyr D
 
 meVE.LityBoth.mode = misc_en_UK_lash.Mode2
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "O greatest mystery! Seeing the…"
-meVE.LityBoth.text = "O greatest mystery! Seeing the wonders I proclaim the divinity, I do not deny the humanity; for Emmanuel opened the gates of nature as man, yet as God did not break the seals of virginity; but he came from the womb as he had entered through the hearing; as he had been conceived, so he became incarnate. Impassibly he entered, ineffably he came forth, as the Prophet had said: This gate shall be shut, none shall go through it, except the Lord, the God of Israel, who has great mercy."
+meVE.LityBoth.incipit = oc.m2.d1_en_UK_lash.ocSV.Dogmatic.incipit
+meVE.LityBoth.text = oc.m2.d1_en_UK_lash.ocSV.Dogmatic.text //O greatest mystery! Seeing the wonders I proclaim the divinity, I do not deny the humanity; for Emmanuel opened the gates of nature as man, yet as God did not break the seals of virginity; but he came from the womb as he had entered through the hearing; as he had been conceived, so he became incarnate. Impassibly he entered, ineffably he came forth, as the Prophet had said: This gate shall be shut, none shall go through it, except the Lord, the God of Israel, who has great mercy.
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode2
 meVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
