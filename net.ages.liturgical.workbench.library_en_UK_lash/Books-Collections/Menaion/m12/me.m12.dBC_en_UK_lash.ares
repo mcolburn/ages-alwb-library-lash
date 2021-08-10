@@ -63,8 +63,8 @@ meVE.LityGlory.text = "The famous Prophets, dazzling thunderbolts of inspiration
 
 meVE.LityBoth.mode = misc_en_UK_lash.Mode1
 meVE.LityBoth.melody = ""
-meVE.LityBoth.incipit = "Hear, O heaven, and give…"
-meVE.LityBoth.text = "Hear, O heaven, and give ear, O earth; for see, the Son and Word of God the Father comes forth to be born of a maiden who has not known man, by the good pleasure of him who begat him impassibly and by the co-operation of the Holy Spirit. Bethlehem, prepare; Eden, open your gate, for he who is becomes what he was not, and the Fashioner of all creation is fashioned, he who grants the world his great mercy."
+meVE.LityBoth.incipit = me.m12.d20_en_UK_lash.meVE.Stichera03.incipit
+meVE.LityBoth.text = me.m12.d20_en_UK_lash.meVE.Stichera03.text //Hear, O heaven, and give ear, O earth; for see, the Son and Word of God the Father comes forth to be born of a maiden who has not known man, by the good pleasure of him who begat him impassibly and by the co-operation of the Holy Spirit. Bethlehem, prepare; Eden, open your gate, for he who is becomes what he was not, and the Fashioner of all creation is fashioned, he who grants the world his great mercy.
 
 meVE.AposGlory.poet = ""
 meVE.AposGlory.mode = misc_en_UK_lash.Mode2
