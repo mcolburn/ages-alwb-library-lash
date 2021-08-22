@@ -544,7 +544,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Kontakion2.mode = misc_en_UK_lash.Mode3
 meMA.Kontakion2.melody = he.a.m3_en_UK_lash.IParthenosSimeron.notmetered
-meMA.Kontakion2.incipit = "The light-bearing day of your…"
+meMA.Kontakion2.incipit = "The light-bearing day…"
 meMA.Kontakion2.text = "The light-bearing day of your radiant struggles proclaims beforehand to all him who was born of a Virgin; for thirsting from love to delight in him, you hastened to be ground by wild beasts; for this you were named Godbearer, glorious Ignatios."
 
 meMA.Oikos2.text = "Abraham once was sacrificing his son, foreshadowing the slaughter of him who possesses all things and who is now hastening to be born in a Cave; while you, inspired Father, offered your whole self as victim; and becoming fodder for the wild beasts, you appeared as pure wheat for your Creator, and you truly dwell eternally in heavenly barns, and delight in your love, for whom you left all the world behind, all-blessed, and were named Godbearer, glorious Ignatios."
@@ -822,14 +822,14 @@ meMA.Aposticha3.text = me.m11.d30_en_UK_lash.meVE.SticBoth.text
 meMA.AposGlory.poet = poets_en_UK_lash.Stouditou
 meMA.AposGlory.mode = misc_en_UK_lash.Mode1
 meMA.AposGlory.melody = ""
-meMA.AposGlory.incipit = "Living monument and breathing image…"
-meMA.AposGlory.text = "Living monument and breathing image, your yearly festival is here, Godbearer Ignatios, and proclaims your priestly service and your deeds of valour; your resistance to shedding of blood on behalf of the Faith; that blest and revered voice which said: I am God’s wheat, and am being ground by the teeth of wild beasts; and so, as you became an imitator of Christ, intercede that our souls may be saved."
+meMA.AposGlory.incipit = //me.m01.d29_en_UK_lash.meMA.AposGlory.incipit
+meMA.AposGlory.text = //me.m01.d29_en_UK_lash.meMA.AposGlory.text //"Living monument and breathing image, your yearly festival is here, Godbearer Ignatios, and proclaims your priestly service and your deeds of valour; your resistance to shedding of blood on behalf of the Faith; that blest and revered voice which said: I am God’s wheat, and am being ground by the teeth of wild beasts; and so, as you became an imitator of Christ, intercede that our souls may be saved."
 
 meMA.AposBoth.poet = poets_en_UK_lash.Vyzantos
 meMA.AposBoth.mode = misc_en_UK_lash.Mode6
 meMA.AposBoth.melody = ""
-meMA.AposBoth.incipit = "Cave, make ready; for the…"
-meMA.AposBoth.text = "Cave, make ready; for the Ewe-lamb has come, bearing Christ in her womb. Manger, receive the One who by a word frees us who are born of earth from irrational action. Shepherds abiding in the fields, bear witness to the fearful wonder; and Magi from Persia, offer gold and incense and myrrh to the King; because the Lord has appeared from a Virgin Mother. Bowing low like a slave his Mother worshipped him, and cried out to the One in her arms: How were you sown in me, or how did you come to be in me, my Redeemer and my God?" //me.m12.d06_en_UK_lash.meVE.SticBoth.text
+meMA.AposBoth.incipit = me.m12.d06_en_UK_lash.meVE.SticBoth.incipit
+meMA.AposBoth.text = me.m12.d06_en_UK_lash.meVE.SticBoth.text //"Cave, make ready; for the Ewe-lamb has come, bearing Christ in her womb. Manger, receive the One who by a word frees us who are born of earth from irrational action. Shepherds abiding in the fields, bear witness to the fearful wonder; and Magi from Persia, offer gold and incense and myrrh to the King; because the Lord has appeared from a Virgin Mother. Bowing low like a slave his Mother worshipped him, and cried out to the One in her arms: How were you sown in me, or how did you come to be in me, my Redeemer and my God?"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
