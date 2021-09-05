@@ -405,7 +405,7 @@ ocMA.C3.acrostic = "of which the Acrostic is the Alphabet."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS1C1H.melody = he.h.m7_en_UK_lash.NefseiSouProsGeodi.melody
 ocMA.OdeS1C1H.incipit = he.h.m7_en_UK_lash.NefseiSouProsGeodi.incipit
 ocMA.OdeS1C1H.text = he.h.m7_en_UK_lash.NefseiSouProsGeodi.text
 
@@ -465,7 +465,7 @@ ocMA.OdeS1C33.text = "Human nature had become subject to death, corruptible and 
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.melody = he.h.m7_en_UK_lash.OKatArchasTousOuranous.melody
 ocMA.OdeS3C1H.incipit = he.h.m7_en_UK_lash.OKatArchasTousOuranous.incipit
 ocMA.OdeS3C1H.text = he.h.m7_en_UK_lash.OKatArchasTousOuranous.text
 
@@ -525,7 +525,7 @@ ocMA.OdeS3C33.text = "Virgin Mother of God, you gave birth for us to eternal lif
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS4C1H.melody = he.h.m7_en_UK_lash.OPatrikousKolpous.melody
 ocMA.OdeS4C1H.incipit = he.h.m7_en_UK_lash.OPatrikousKolpous.incipit
 ocMA.OdeS4C1H.text = he.h.m7_en_UK_lash.OPatrikousKolpous.text
 
@@ -585,7 +585,7 @@ ocMA.OdeS4C33.text = "Rational nature, now initiated into the ineffable mystery 
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS5C1H.melody = he.h.m7_en_UK_lash.NyxAfengis.melody
 ocMA.OdeS5C1H.incipit = he.h.m7_en_UK_lash.NyxAfengis.incipit
 ocMA.OdeS5C1H.text = he.h.m7_en_UK_lash.NyxAfengis.text
 
@@ -645,7 +645,7 @@ ocMA.OdeS5C33.text = "The Bridegroom found you, O Virgin, only lily among thorns
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.melody = he.h.m7_en_UK_lash.NaftionToSalo.melody
 ocMA.OdeS6C1H.incipit = he.h.m7_en_UK_lash.NaftionToSalo.incipit
 ocMA.OdeS6C1H.text = he.h.m7_en_UK_lash.NaftionToSalo.text
 
@@ -714,7 +714,7 @@ ocMA.Oikos.text = "All that is beneath the earth, Hades and death, trembled toda
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS7C1H.melody = he.h.m7_en_UK_lash.KaminonPaides.melody
 ocMA.OdeS7C1H.incipit = he.h.m7_en_UK_lash.KaminonPaides.incipit
 ocMA.OdeS7C1H.text = he.h.m7_en_UK_lash.KaminonPaides.text
 
@@ -774,7 +774,7 @@ ocMA.OdeS7C33.text = "When the godly Prophets of old saw symbols of your godly c
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.melody = he.h.m7_en_UK_lash.AflektosPyri.melody
 ocMA.OdeS8C1H.incipit = he.h.m7_en_UK_lash.AflektosPyri.incipit
 ocMA.OdeS8C1H.text = he.h.m7_en_UK_lash.AflektosPyri.text
 
@@ -834,7 +834,7 @@ ocMA.OdeS8C33.text = "With the bright rays of your light you make light those wh
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS9C1H.melody = he.h.m7_en_UK_lash.MiTisFthoras.melody
 ocMA.OdeS9C1H.incipit = he.h.m7_en_UK_lash.MiTisFthoras.incipit
 ocMA.OdeS9C1H.text = he.h.m7_en_UK_lash.MiTisFthoras.text
 

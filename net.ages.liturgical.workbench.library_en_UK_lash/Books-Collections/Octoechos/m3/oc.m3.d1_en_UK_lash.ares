@@ -394,7 +394,7 @@ ocMA.C3.acrostic = "whose acrostic, with the Irmi is: I sing you a third song, M
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS1C1H.melody = he.h.m3_en_UK_lash.OTaYdata.melody
 ocMA.OdeS1C1H.incipit = he.h.m3_en_UK_lash.OTaYdata.incipit
 ocMA.OdeS1C1H.text = he.h.m3_en_UK_lash.OTaYdata.text
 
@@ -442,7 +442,7 @@ ocMA.OdeS1C32.text = "O the transactions which took place in you! For as God who
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.melody = he.h.m3_en_UK_lash.OEkMiOnton.melody
 ocMA.OdeS3C1H.incipit = he.h.m3_en_UK_lash.OEkMiOnton.incipit
 ocMA.OdeS3C1H.text = he.h.m3_en_UK_lash.OEkMiOnton.text
 
@@ -490,7 +490,7 @@ ocMA.OdeS3C32.text = "That you might make those born of earth partakers in the d
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS4C1H.melody = he.h.m3_en_UK_lash.EthouProsImas.melody
 ocMA.OdeS4C1H.incipit = he.h.m3_en_UK_lash.EthouProsImas.incipit
 ocMA.OdeS4C1H.text = he.h.m3_en_UK_lash.EthouProsImas.text
 
@@ -544,7 +544,7 @@ ocMA.OdeS4C33.text = "O Lord, you are my portion and my lot so long-desired; fro
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS5C1H.melody = he.h.m3_en_UK_lash.ProsSeOrthrizo.melody
 ocMA.OdeS5C1H.incipit = he.h.m3_en_UK_lash.ProsSeOrthrizo.incipit
 ocMA.OdeS5C1H.text = he.h.m3_en_UK_lash.ProsSeOrthrizo.text
 
@@ -592,7 +592,7 @@ ocMA.OdeS5C32.text = "Equal to the Father, the Son of the Virgin, the Word of Go
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.melody = he.h.m3_en_UK_lash.AvyssosEschati.melody
 ocMA.OdeS6C1H.incipit = he.h.m3_en_UK_lash.AvyssosEschati.incipit
 ocMA.OdeS6C1H.text = he.h.m3_en_UK_lash.AvyssosEschati.text
 
@@ -649,7 +649,7 @@ ocMA.Oikos.text = "Let heaven and earth dance today, and in harmony sing the pra
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS7C1H.melody = he.h.m3_en_UK_lash.OsPalaiTousEfseveis.melody
 ocMA.OdeS7C1H.incipit = he.h.m3_en_UK_lash.OsPalaiTousEfseveis.incipit
 ocMA.OdeS7C1H.text = he.h.m3_en_UK_lash.OsPalaiTousEfseveis.text
 
@@ -709,7 +709,7 @@ ocMA.OdeS7C33.text = "We all acknowledge you as Mother of God who bore God in yo
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.melody = he.h.m3_en_UK_lash.AstektoPyri.melody
 ocMA.OdeS8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
 ocMA.OdeS8C1H.text = he.h.m3_en_UK_lash.AstektoPyri.text
 
@@ -763,7 +763,7 @@ ocMA.OdeS8C32.text = "You revealed your natural beauty to be most fair when you 
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS9C1H.melody = he.h.m3_en_UK_lash.KainonToThavma.melody
 ocMA.OdeS9C1H.incipit = he.h.m3_en_UK_lash.KainonToThavma.incipit
 ocMA.OdeS9C1H.text = he.h.m3_en_UK_lash.KainonToThavma.text
 

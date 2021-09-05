@@ -134,7 +134,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode1C1H.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou.text
 
@@ -179,7 +179,7 @@ trMA.Ode1K.text = he.h.m4_en_UK_lash.AnoixoToStomaMou.text
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode3C1H.melody = he.h.m4_en_UK_lash.TousSousYmnologous.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
 
@@ -261,7 +261,7 @@ trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode4C1H.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 trMA.Ode4C1H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
@@ -303,7 +303,7 @@ trMA.Ode4K.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode5C1H.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 trMA.Ode5C1H.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
 
@@ -345,7 +345,7 @@ trMA.Ode5K.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode6C1H.melody = he.h.m4_en_UK_lash.TinTheianTaftin.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
 
@@ -444,7 +444,7 @@ trMA.Ode6C3A2.text = ""
 
 trMA.Ode6C3H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C3H.mode = misc_en_UK_lash.Mode5
-trMA.Ode6C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode6C3H.melody = he.h.m5_en_UK_lash.TouKitousTonProfitin.melody
 trMA.Ode6C3H.incipit = he.h.m5_en_UK_lash.TouKitousTonProfitin.incipit
 trMA.Ode6C3H.text = he.h.m5_en_UK_lash.TouKitousTonProfitin.text
 
@@ -516,7 +516,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode7C1H.melody = he.h.m4_en_UK_lash.OukElatrefsan.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 trMA.Ode7C1H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
 
@@ -612,13 +612,13 @@ trMA.Ode7C3A2.text = ""
 
 trMA.Ode7C3H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C3H.mode = misc_en_UK_lash.Mode5
-trMA.Ode7C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode7C3H.melody = he.h.m5_en_UK_lash.EvlogitosEiOTheos.melody
 trMA.Ode7C3H.incipit = he.h.m5_en_UK_lash.EvlogitosEiOTheos.incipit
 trMA.Ode7C3H.text = he.h.m5_en_UK_lash.EvlogitosEiOTheos.text
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C1H.melody = he.h.m4_en_UK_lash.PaidasEvageis.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
@@ -714,13 +714,13 @@ trMA.Ode8C3A2.text = ""
 
 trMA.Ode8C3H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C3H.mode = misc_en_UK_lash.Mode5
-trMA.Ode8C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C3H.melody = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.melody
 trMA.Ode8C3H.incipit = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C3H.text = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C1H.melody = he.h.m4_en_UK_lash.ApasGigenis_Akathist.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.ApasGigenis_Akathist.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_lash.ApasGigenis_Akathist.text
 
@@ -816,7 +816,7 @@ trMA.Ode9C3A2.text = ""
 
 trMA.Ode9C3H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C3H.mode = misc_en_UK_lash.Mode5
-trMA.Ode9C3H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C3H.melody = he.h.m5_en_UK_lash.IsaiaChoreve.melody
 trMA.Ode9C3H.incipit = he.h.m5_en_UK_lash.IsaiaChoreve.incipit
 trMA.Ode9C3H.text = he.h.m5_en_UK_lash.IsaiaChoreve.text
 

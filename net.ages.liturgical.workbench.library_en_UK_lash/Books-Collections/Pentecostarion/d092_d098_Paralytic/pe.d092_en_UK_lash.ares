@@ -94,7 +94,7 @@ peMA.C1.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.melody = he.h.m3_en_UK_lash.ThavmastosEndoxos.melody
 peMA.Ode1C1H.incipit = he.h.m3_en_UK_lash.ThavmastosEndoxos.incipit
 peMA.Ode1C1H.text = he.h.m3_en_UK_lash.ThavmastosEndoxos.text
 
@@ -145,7 +145,7 @@ peMA.Ode1C1T.text = "O holy one, ever save this your city, which honours you, fr
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.melody = he.h.m3_en_UK_lash.SteiraPsychi.melody
 peMA.Ode3C1H.incipit = he.h.m3_en_UK_lash.SteiraPsychi.incipit
 peMA.Ode3C1H.text = he.h.m3_en_UK_lash.SteiraPsychi.text
 
@@ -197,7 +197,7 @@ peMA.Ode3Kathisma2.text = he.a.m3_en_UK_lash.TinOraiotita.text
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.melody = he.h.m3_en_UK_lash.ToKataskionOros.melody
 peMA.Ode4C1H.incipit = he.h.m3_en_UK_lash.ToKataskionOros.incipit
 peMA.Ode4C1H.text = he.h.m3_en_UK_lash.ToKataskionOros.text
 
@@ -245,7 +245,7 @@ peMA.Ode4C1T.text = "How did you give suck, O pure one? How give birth to an inf
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C1H.melody = he.h.m3_en_UK_lash.FotiToAnespero.melody
 peMA.Ode5C1H.incipit = he.h.m3_en_UK_lash.FotiToAnespero.incipit
 peMA.Ode5C1H.text = he.h.m3_en_UK_lash.FotiToAnespero.text
 
@@ -293,7 +293,7 @@ peMA.Ode5C1T.text = "We hymn your child-bearing without seed and your birth-givi
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.melody = he.h.m3_en_UK_lash.VythosMoiTonPathon.melody
 peMA.Ode6C1H.incipit = he.h.m3_en_UK_lash.VythosMoiTonPathon.incipit
 peMA.Ode6C1H.text = he.h.m3_en_UK_lash.VythosMoiTonPathon.text
 
@@ -361,7 +361,7 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C1H.melody = he.h.m3_en_UK_lash.OTinFloga.melody
 peMA.Ode7C1H.incipit = he.h.m3_en_UK_lash.OTinFloga.incipit
 peMA.Ode7C1H.text = he.h.m3_en_UK_lash.OTinFloga.text
 
@@ -409,7 +409,7 @@ peMA.Ode7C1T.text = "You remained Virgin when above reason you bore without chan
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.melody = he.h.m3_en_UK_lash.TonYpAngelon.melody
 peMA.Ode8C1H.incipit = he.h.m3_en_UK_lash.TonYpAngelon.incipit
 peMA.Ode8C1H.text = he.h.m3_en_UK_lash.TonYpAngelon.text
 
@@ -457,7 +457,7 @@ peMA.Ode8C1T.text = "Of old Isaias saw you as a book, Ever-virgin, in which the 
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode3
-peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.melody = he.h.m3_en_UK_lash.EnSinaioToOrei.melody
 peMA.Ode9C1H.incipit = he.h.m3_en_UK_lash.EnSinaioToOrei.incipit
 peMA.Ode9C1H.text = he.h.m3_en_UK_lash.EnSinaioToOrei.text
 

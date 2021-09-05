@@ -157,7 +157,7 @@ meMA.Ode3C1T.text = "As you prophesied, O Immaculate, all the generations of man
 
 meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode8
-meMA.Ode3H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3H.melody = he.h.m8_en_UK_lash.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
@@ -251,7 +251,7 @@ meMA.Ode6C1T.text = "The Lord, as he is mighty, renewing my nature, regarded you
 
 meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode8
-meMA.Ode6H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6H.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_UK_lash.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.TinDeisinEkcheo.text
 
@@ -318,7 +318,7 @@ meMA.Ode8C1T.text = "Revealed as a Prophetess, Elizabeth, bearing the Baptist an
 
 meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode8
-meMA.Ode8H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8H.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.melody
 meMA.Ode8H.incipit = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 meMA.Ode8H.text = he.h.m8_en_UK_lash.TonEnOreiAgio.text
 
@@ -354,7 +354,7 @@ meMA.Ode9C1T.text = "You received the Word who is without flesh as he wished to 
 
 meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode8
-meMA.Ode9H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9H.melody = he.h.m8_en_UK_lash.OrousParilthes.melody
 meMA.Ode9H.incipit = he.h.m8_en_UK_lash.OrousParilthes.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.OrousParilthes.text
 

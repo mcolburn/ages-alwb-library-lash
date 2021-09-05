@@ -112,7 +112,7 @@ ocMA.C2.acrostic = "of which the acrostic is: I weave a prayerful song for you w
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m4_en_UK_lash.OPataxasAigypton.melody
 ocMA.OdeW1C1H.incipit = he.h.m4_en_UK_lash.OPataxasAigypton.incipit
 ocMA.OdeW1C1H.text = he.h.m4_en_UK_lash.OPataxasAigypton.text
 
@@ -172,7 +172,7 @@ ocMA.OdeW1C2T.text = "O Cloud of light, by your radiant mediations scatter the m
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m4_en_UK_lash.OStereonVrontin.melody
 ocMA.OdeW3C1H.incipit = he.h.m4_en_UK_lash.OStereonVrontin.incipit
 ocMA.OdeW3C1H.text = he.h.m4_en_UK_lash.OStereonVrontin.text
 
@@ -232,7 +232,7 @@ ocMA.OdeW3C2T.text = "Through you, Virgin Mother, the world, grown unprofitable 
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m4_en_UK_lash.EisakikoaOTheos.melody
 ocMA.OdeW4C1H.incipit = he.h.m4_en_UK_lash.EisakikoaOTheos.incipit
 ocMA.OdeW4C1H.text = he.h.m4_en_UK_lash.EisakikoaOTheos.text
 
@@ -292,7 +292,7 @@ ocMA.OdeW4C2T.text = "Your Son has been acknowledged as our pardon and redemptio
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m4_en_UK_lash.AnateilonMoiKyrie.melody
 ocMA.OdeW5C1H.incipit = he.h.m4_en_UK_lash.AnateilonMoiKyrie.incipit
 ocMA.OdeW5C1H.text = he.h.m4_en_UK_lash.AnateilonMoiKyrie.text
 
@@ -352,7 +352,7 @@ ocMA.OdeW5C2T.text = "God loved you, Virgin Maiden, the beauty of Jacob; God who
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m4_en_UK_lash.EnPelageiTouViou.melody
 ocMA.OdeW6C1H.incipit = he.h.m4_en_UK_lash.EnPelageiTouViou.incipit
 ocMA.OdeW6C1H.text = he.h.m4_en_UK_lash.EnPelageiTouViou.text
 
@@ -412,7 +412,7 @@ ocMA.OdeW6C2T.text = "The images of the Law made clear your dread child-bearing,
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m4_en_UK_lash.TiEikoniTiChrysi.melody
 ocMA.OdeW7C1H.incipit = he.h.m4_en_UK_lash.TiEikoniTiChrysi.incipit
 ocMA.OdeW7C1H.text = he.h.m4_en_UK_lash.TiEikoniTiChrysi.text
 
@@ -472,7 +472,7 @@ ocMA.OdeW7C2T.text = "Guard from evil seizure, foraging and slavery of the boast
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m4_en_UK_lash.EnFlogiPyros.melody
 ocMA.OdeW8C1H.incipit = he.h.m4_en_UK_lash.EnFlogiPyros.incipit
 ocMA.OdeW8C1H.text = he.h.m4_en_UK_lash.EnFlogiPyros.text
 
@@ -538,7 +538,7 @@ ocMA.OdeW8C2T.text = "As source of our refashioning, refashion me, wholly crushe
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m4_en_UK_lash.EpoiiseKratos.melody
 ocMA.OdeW9C1H.incipit = he.h.m4_en_UK_lash.EpoiiseKratos.incipit
 ocMA.OdeW9C1H.text = he.h.m4_en_UK_lash.EpoiiseKratos.text
 

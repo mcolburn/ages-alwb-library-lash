@@ -228,7 +228,7 @@ meMA.C2.acrostic = "of which the acrostic is: I sing you, golden mouth of the Sp
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m8_en_UK_lash.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.YgranDiodefsas.text
 
@@ -294,7 +294,7 @@ meMA.Ode1C2T.text = "Adorned with the adornment of grace, O blessed one, graced 
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m8_en_UK_lash.OuraniasApsidos.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OuraniasApsidos.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.OuraniasApsidos.text
 
@@ -358,7 +358,7 @@ meMA.Ode3KathismaT.text = "Tremble, my soul, and groan as you think on the flame
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
 
@@ -424,7 +424,7 @@ meMA.Ode4C2T.text = "After God we have gained you as protection, for you were de
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m8_en_UK_lash.FotisonImas.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.FotisonImas.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.FotisonImas.text
 
@@ -478,7 +478,7 @@ meMA.Ode5C2T.text = "As you conceived God, the creator and maker and Lord, all g
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.TinDeisinEkcheo.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.TinDeisinEkcheo.text
 
@@ -539,7 +539,7 @@ meMA.Oikos1.text = "I bow the knee to the Maker of all things, I stretch out my 
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
@@ -593,7 +593,7 @@ meMA.Ode7C2T.text = "Immaculate Virgin, you conceived the God and Lord over all 
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
@@ -647,7 +647,7 @@ meMA.Ode8C2T.text = "The Prophets foretold in bodily forms, manifold riddles and
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m8_en_UK_lash.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.KyriosTheotokon.text
 

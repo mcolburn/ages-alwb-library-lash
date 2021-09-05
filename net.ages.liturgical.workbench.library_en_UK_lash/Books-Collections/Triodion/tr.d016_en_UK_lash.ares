@@ -97,7 +97,7 @@ trMA.Ode1C2T.text = ""
 
 trMA.Ode1C2H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C2H.mode = misc_en_UK_lash.Mode1
-trMA.Ode1C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode1C2H.melody = he.h.m1_en_UK_lash.OdinEpinikion.melody
 trMA.Ode1C2H.incipit = he.h.m1_en_UK_lash.OdinEpinikion.incipit
 trMA.Ode1C2H.text = he.h.m1_en_UK_lash.OdinEpinikion.text
 
@@ -151,7 +151,7 @@ trMA.Ode8C2T.text = ""
 
 trMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_lash.Mode1
-trMA.Ode8C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C2H.melody = he.h.m1_en_UK_lash.YmnonSoiProsferomen.melody
 trMA.Ode8C2H.incipit = he.h.m1_en_UK_lash.YmnonSoiProsferomen.incipit
 trMA.Ode8C2H.text = he.h.m1_en_UK_lash.YmnonSoiProsferomen.text
 
@@ -205,7 +205,7 @@ trMA.Ode9C2T.text = ""
 
 trMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_lash.Mode1
-trMA.Ode9C2H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C2H.melody = he.h.m1_en_UK_lash.SeTinOratheisan.melody
 trMA.Ode9C2H.incipit = he.h.m1_en_UK_lash.SeTinOratheisan.incipit
 trMA.Ode9C2H.text = he.h.m1_en_UK_lash.SeTinOratheisan.text
 

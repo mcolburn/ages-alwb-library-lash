@@ -115,7 +115,7 @@ ocMA.C2.acrostic = "of which the acrostic is: First hymn of Theophanes for the A
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m1_en_UK_lash.SouITropaiouchos.melody
 ocMA.OdeW1C1H.incipit = he.h.m1_en_UK_lash.SouITropaiouchos.incipit
 ocMA.OdeW1C1H.text = he.h.m1_en_UK_lash.SouITropaiouchos.text
 
@@ -169,7 +169,7 @@ ocMA.OdeW1C2T.text = "He, who as God set in fair order the regiments of the Powe
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m1_en_UK_lash.OMonosEidos.melody
 ocMA.OdeW3C1H.incipit = he.h.m1_en_UK_lash.OMonosEidos.incipit
 ocMA.OdeW3C1H.text = he.h.m1_en_UK_lash.OMonosEidos.text
 
@@ -223,7 +223,7 @@ ocMA.OdeW3C2T.text = "Found worthy as is right to see the Mind beyond all being,
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m1_en_UK_lash.OrosSeTiChariti.melody
 ocMA.OdeW4C1H.incipit = he.h.m1_en_UK_lash.OrosSeTiChariti.incipit
 ocMA.OdeW4C1H.text = he.h.m1_en_UK_lash.OrosSeTiChariti.text
 
@@ -283,7 +283,7 @@ ocMA.OdeW4C2T.text = "The One who is perceived to be beyond all creation, truly 
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m1_en_UK_lash.OFotisasTiEllampsei.melody
 ocMA.OdeW5C1H.incipit = he.h.m1_en_UK_lash.OFotisasTiEllampsei.incipit
 ocMA.OdeW5C1H.text = he.h.m1_en_UK_lash.OFotisasTiEllampsei.text
 
@@ -337,7 +337,7 @@ ocMA.OdeW5C2T.text = "You were made lovelier than all the glory of Angels, for y
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m1_en_UK_lash.EkyklosenImas.melody
 ocMA.OdeW6C1H.incipit = he.h.m1_en_UK_lash.EkyklosenImas.incipit
 ocMA.OdeW6C1H.text = he.h.m1_en_UK_lash.EkyklosenImas.text
 
@@ -391,7 +391,7 @@ ocMA.OdeW6C2T.text = "The Word, who as all powerful made the universe by his wil
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m1_en_UK_lash.SeNoitin.melody
 ocMA.OdeW7C1H.incipit = he.h.m1_en_UK_lash.SeNoitin.incipit
 ocMA.OdeW7C1H.text = he.h.m1_en_UK_lash.SeNoitin.text
 
@@ -451,7 +451,7 @@ ocMA.OdeW7C2T.text = "The Son, who before was without mother from the Father and
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m1_en_UK_lash.EnKaminoPaides.melody
 ocMA.OdeW8C1H.incipit = he.h.m1_en_UK_lash.EnKaminoPaides.incipit
 ocMA.OdeW8C1H.text = he.h.m1_en_UK_lash.EnKaminoPaides.text
 
@@ -511,7 +511,7 @@ ocMA.OdeW8C2T.text = "All-blameless Virgin, for us you brought to birth, ineffab
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m1_en_UK_lash.TyponTisAgnis.melody
 ocMA.OdeW9C1H.incipit = he.h.m1_en_UK_lash.TyponTisAgnis.incipit
 ocMA.OdeW9C1H.text = he.h.m1_en_UK_lash.TyponTisAgnis.text
 

@@ -154,7 +154,7 @@ meMA.Ode3C1T.text = "By your intercessions, O All-pure, give us help, driving of
 
 meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode8
-meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode3H.melody = he.h.m8_en_UK_lash.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
@@ -253,7 +253,7 @@ meMA.Ode6C1T.text = "All-holy Virgin Mother of God, do not cease to intercede fo
 
 meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode8
-meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode6H.melody = he.h.m8_en_UK_lash.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_UK_lash.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.TinDeisinEkcheo.text
 
@@ -326,7 +326,7 @@ meMA.Ode8C1T.text = "The One who came down from heaven and dwelt in a virgin wom
 
 meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode8
-meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8H.melody = he.h.m8_en_UK_lash.TonVasileaTonOuranon.melody
 meMA.Ode8H.incipit = he.h.m8_en_UK_lash.TonVasileaTonOuranon.incipit
 meMA.Ode8H.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
@@ -356,7 +356,7 @@ meMA.Ode9C1T.text = "Sovereign Lady, slay my sin that still lives, give life to 
 
 meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode8
-meMA.Ode9H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9H.melody = he.h.m8_en_UK_lash.SeTinApeirogamon.melody
 meMA.Ode9H.incipit = he.h.m8_en_UK_lash.SeTinApeirogamon.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.SeTinApeirogamon.text
 

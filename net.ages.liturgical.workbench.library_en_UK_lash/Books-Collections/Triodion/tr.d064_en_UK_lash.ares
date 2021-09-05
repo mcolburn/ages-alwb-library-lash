@@ -205,7 +205,7 @@ trMA.C1.acrostic = "of which the acrostic is: Hosanna Christ, blessed God"
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode1C1H.melody = he.h.m4_en_UK_lash.OfthisanAiPigai.melody
 trMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.OfthisanAiPigai.incipit
 trMA.Ode1C1H.text = he.h.m4_en_UK_lash.OfthisanAiPigai.text
 
@@ -226,7 +226,7 @@ trMA.Ode1C12.text = "The Church of the holy ones offers you praise, O Christ who
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m4_en_UK_lash.NaousanAkrotomon.melody
 trMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.NaousanAkrotomon.incipit
 trMA.Ode3C1H.text = he.h.m4_en_UK_lash.NaousanAkrotomon.text
 
@@ -249,7 +249,7 @@ trMA.Hypakoe.text = "At first the ungrateful Jews with branches praised Christ G
 
 trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode4C1H.melody = he.h.m4_en_UK_lash.ChristosOErchomenos.melody
 trMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.ChristosOErchomenos.incipit
 trMA.Ode4C1H.text = he.h.m4_en_UK_lash.ChristosOErchomenos.text
 
@@ -273,7 +273,7 @@ trMA.Ode4C13.text = "The Lord who measures Heaven in a span and earth in the hol
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode5C1H.melody = he.h.m4_en_UK_lash.TinSionEpOrous.melody
 trMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.TinSionEpOrous.incipit
 trMA.Ode5C1H.text = he.h.m4_en_UK_lash.TinSionEpOrous.text
 
@@ -291,7 +291,7 @@ trMA.Ode5C12.text = "Sion, holy mountain of God, and Jerusalem lift your eyes ro
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode6C1H.melody = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.melody
 trMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.incipit
 trMA.Ode6C1H.text = he.h.m4_en_UK_lash.EvoisanEnEffrosyni.text
 
@@ -329,7 +329,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode7C1H.melody = he.h.m4_en_UK_lash.ODiasosasEnPyri.melody
 trMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.ODiasosasEnPyri.incipit
 trMA.Ode7C1H.text = he.h.m4_en_UK_lash.ODiasosasEnPyri.text
 
@@ -353,7 +353,7 @@ trMA.Ode7C13.text = "With branches of palms the multitudes greeted you, O Christ
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m4_en_UK_lash.EffranthitiIerousalim.melody
 trMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.EffranthitiIerousalim.incipit
 trMA.Ode8C1H.text = he.h.m4_en_UK_lash.EffranthitiIerousalim.text
 
@@ -377,7 +377,7 @@ trMA.Ode8C13.text = "The lawless Sanhedrin of disobedient men is scattered from 
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
-trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.melody
 trMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.incipit
 trMA.Ode9C1H.text = he.h.m4_en_UK_lash.TheosKyriosKaiEpefanenImin.text
 

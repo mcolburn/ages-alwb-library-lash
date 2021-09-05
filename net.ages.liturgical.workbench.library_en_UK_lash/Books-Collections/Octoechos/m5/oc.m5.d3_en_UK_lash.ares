@@ -112,7 +112,7 @@ ocMA.C2.acrostic = "of which the Acrostic is: Baptist, receive this supplication
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m5_en_UK_lash.GinEfInOukElampsen.melody
 ocMA.OdeW1C1H.incipit = he.h.m5_en_UK_lash.GinEfInOukElampsen.incipit
 ocMA.OdeW1C1H.text = he.h.m5_en_UK_lash.GinEfInOukElampsen.text
 
@@ -172,7 +172,7 @@ ocMA.OdeW1C2T.text = "Without pangs you gave birth ineffably to the One whom the
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m5_en_UK_lash.SalevomeninTinKardian.melody
 ocMA.OdeW3C1H.incipit = he.h.m5_en_UK_lash.SalevomeninTinKardian.incipit
 ocMA.OdeW3C1H.text = he.h.m5_en_UK_lash.SalevomeninTinKardian.text
 
@@ -232,7 +232,7 @@ ocMA.OdeW3C2T.text = "Holy Virgin Mother, alone all-praised, deliver us from the
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.melody
 ocMA.OdeW4C1H.incipit = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C1H.text = he.h.m5_en_UK_lash.AkikoaKyrieTinAkoin.text
 
@@ -298,7 +298,7 @@ ocMA.OdeW4C2T.text = "Have mercy on me, only All-praised, who gave birth beyond 
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m5_en_UK_lash.TinTalainanPsychinMou.melody
 ocMA.OdeW5C1H.incipit = he.h.m5_en_UK_lash.TinTalainanPsychinMou.incipit
 ocMA.OdeW5C1H.text = he.h.m5_en_UK_lash.TinTalainanPsychinMou.text
 
@@ -358,7 +358,7 @@ ocMA.OdeW5C2T.text = "Gate of glory through which none may pass, open to me, O I
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.melody
 ocMA.OdeW6C1H.incipit = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.incipit
 ocMA.OdeW6C1H.text = he.h.m5_en_UK_lash.OsTonProfitinTouThiros.text
 
@@ -418,7 +418,7 @@ ocMA.OdeW6C2T.text = "A tempest of sin tosses me about, O pure and Immaculate; h
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m5_en_UK_lash.PyrosSvestirion.melody
 ocMA.OdeW7C1H.incipit = he.h.m5_en_UK_lash.PyrosSvestirion.incipit
 ocMA.OdeW7C1H.text = he.h.m5_en_UK_lash.PyrosSvestirion.text
 
@@ -484,7 +484,7 @@ ocMA.OdeW7C2T.text = "You bore a new born child, O All-blameless, Christ, who ef
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m5_en_UK_lash.AngelonSystima.melody
 ocMA.OdeW8C1H.incipit = he.h.m5_en_UK_lash.AngelonSystima.incipit
 ocMA.OdeW8C1H.text = he.h.m5_en_UK_lash.AngelonSystima.text
 
@@ -550,7 +550,7 @@ ocMA.OdeW8C2T.text = "By your lofty child-bearing you have raised us from our fa
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.melody
 ocMA.OdeW9C1H.incipit = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.incipit
 ocMA.OdeW9C1H.text = he.h.m5_en_UK_lash.OtiEpoiiseSoiMegaleia.text
 

@@ -187,7 +187,7 @@ peMA.C2.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.melody = he.h.m5_en_UK_lash.ToSotiriTheo.melody
 peMA.Ode1C1H.incipit = he.h.m5_en_UK_lash.ToSotiriTheo.incipit
 peMA.Ode1C1H.text = he.h.m5_en_UK_lash.ToSotiriTheo.text
 
@@ -220,7 +220,7 @@ peMA.Ode1C1T.text = "Immaculate Mother of God, without ceasing implore the God w
 
 peMA.Ode1C2H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C2H.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_UK_lash.AnoixoToStomaMou.incipit
 peMA.Ode1C2H.text = he.h.m4_en_UK_lash.AnoixoToStomaMou.text
 
@@ -253,7 +253,7 @@ peMA.Ode1C2T.text = "All-spotless Lady, you bore the Master of all, who accepted
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.melody = he.h.m5_en_UK_lash.DynameiTouStavrouSou.melody
 peMA.Ode3C1H.incipit = he.h.m5_en_UK_lash.DynameiTouStavrouSou.incipit
 peMA.Ode3C1H.text = he.h.m5_en_UK_lash.DynameiTouStavrouSou.text
 
@@ -289,7 +289,7 @@ peMA.Ode3C1T.text = "Intercede unceasingly, pure Lady, with him who came forth f
 
 peMA.Ode3C2H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C2H.melody = he.h.m4_en_UK_lash.TousSousYmnologous.melody
 peMA.Ode3C2H.incipit = he.h.m4_en_UK_lash.TousSousYmnologous.incipit
 peMA.Ode3C2H.text = he.h.m4_en_UK_lash.TousSousYmnologous.text
 
@@ -324,7 +324,7 @@ peMA.Ode3Kathisma1.text = "Mounted on the clouds of heaven, leaving behind your 
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.melody = he.h.m5_en_UK_lash.EisakikoaTinAkoin.melody
 peMA.Ode4C1H.incipit = he.h.m5_en_UK_lash.EisakikoaTinAkoin.incipit
 peMA.Ode4C1H.text = he.h.m5_en_UK_lash.EisakikoaTinAkoin.text
 
@@ -354,7 +354,7 @@ peMA.Ode4C1T.text = "The Virgin gave birth, and did not know a mother's pangs; b
 
 peMA.Ode4C2H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C2H.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.melody
 peMA.Ode4C2H.incipit = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 peMA.Ode4C2H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
@@ -384,7 +384,7 @@ peMA.Ode4C2T.text = "Blessed has your womb become, All-blameless Lady, for you w
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C1H.melody = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.melody
 peMA.Ode5C1H.incipit = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C1H.text = he.h.m5_en_UK_lash.OrthrizontesVoomenSoi.text
 
@@ -414,7 +414,7 @@ peMA.Ode5C1T.text = "Mother of God, we praise you as Virgin after childbirth; fo
 
 peMA.Ode5C2H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C2H.melody = he.h.m4_en_UK_lash.ExestiTaSympanta.melody
 peMA.Ode5C2H.incipit = he.h.m4_en_UK_lash.ExestiTaSympanta.incipit
 peMA.Ode5C2H.text = he.h.m4_en_UK_lash.ExestiTaSympanta.text
 
@@ -444,7 +444,7 @@ peMA.Ode5C2T.text = "O Mother of God, Christ, who kept you a virgin after His bi
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.melody = he.h.m5_en_UK_lash.EkykloseMeAvyssos.melody
 peMA.Ode6C1H.incipit = he.h.m5_en_UK_lash.EkykloseMeAvyssos.incipit
 peMA.Ode6C1H.text = he.h.m5_en_UK_lash.EkykloseMeAvyssos.text
 
@@ -474,7 +474,7 @@ peMA.Ode6C1T.text = "As Bush unburned, mountain, living ladder and heavenly gate
 
 peMA.Ode6C2H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C2H.melody = he.h.m4_en_UK_lash.TinTheianTaftin.melody
 peMA.Ode6C2H.incipit = he.h.m4_en_UK_lash.TinTheianTaftin.incipit
 peMA.Ode6C2H.text = he.h.m4_en_UK_lash.TinTheianTaftin.text
 
@@ -524,7 +524,7 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C1H.melody = he.h.m5_en_UK_lash.OEnKaminoPyros.melody
 peMA.Ode7C1H.incipit = he.h.m5_en_UK_lash.OEnKaminoPyros.incipit
 peMA.Ode7C1H.text = he.h.m5_en_UK_lash.OEnKaminoPyros.text
 
@@ -560,7 +560,7 @@ peMA.Ode7C1T.text = "You were born from a Virgin, whom you made Mother of God; b
 
 peMA.Ode7C2H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C2H.melody = he.h.m4_en_UK_lash.OukElatrefsan.melody
 peMA.Ode7C2H.incipit = he.h.m4_en_UK_lash.OukElatrefsan.incipit
 peMA.Ode7C2H.text = he.h.m4_en_UK_lash.OukElatrefsan.text
 
@@ -590,7 +590,7 @@ peMA.Ode7C2T.text = "O marvellous wonders! How did you, O full of God's grace, c
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.melody = he.h.m5_en_UK_lash.TonEkPatrosProAionon.melody
 peMA.Ode8C1H.incipit = he.h.m5_en_UK_lash.TonEkPatrosProAionon.incipit
 peMA.Ode8C1H.text = he.h.m5_en_UK_lash.TonEkPatrosProAionon.text
 
@@ -620,7 +620,7 @@ peMA.Ode8C1T.text = "You were revealed, pure Mother of God, as higher than the C
 
 peMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C2H.melody = he.h.m4_en_UK_lash.PaidasEvageis.melody
 peMA.Ode8C2H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 peMA.Ode8C2H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
@@ -650,7 +650,7 @@ peMA.Ode8C2T.text = "See, Mother of God, your Son, having despoiled death by his
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode5
-peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.melody = he.h.m5_en_UK_lash.SeTinYperNoun.melody
 peMA.Ode9C1H.incipit = he.h.m5_en_UK_lash.SeTinYperNoun.incipit
 peMA.Ode9C1H.text = he.h.m5_en_UK_lash.SeTinYperNoun.text
 
@@ -689,7 +689,7 @@ peMA.Ode9C2M01.text = "Angels, seeing the ascent of the Master, were amazed at h
 
 peMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C2H.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C2H.melody = he.h.m4_en_UK_lash.ApasGigenis.melody
 peMA.Ode9C2H.incipit = he.h.m4_en_UK_lash.ApasGigenis.incipit
 peMA.Ode9C2H.text = he.h.m4_en_UK_lash.ApasGigenis.text
 

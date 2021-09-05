@@ -114,7 +114,7 @@ ocMA.C2.acrostic = "of which the acrostic is: I sing the praise of the choir of 
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m2_en_UK_lash.DefteLaoi.melody
 ocMA.OdeW1C1H.incipit = he.h.m2_en_UK_lash.DefteLaoi.incipit
 ocMA.OdeW1C1H.text = he.h.m2_en_UK_lash.DefteLaoi.text
 
@@ -174,7 +174,7 @@ ocMA.OdeW1C2T.text = "The ranks of Angels, honoured Virgin, serve with rejoicing
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.melody
 ocMA.OdeW3C1H.incipit = he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.incipit
 ocMA.OdeW3C1H.text = he.h.m2_en_UK_lash.StereosonImasEnSoiKyrie.text
 
@@ -228,7 +228,7 @@ ocMA.OdeW3C2T.text = "The creator of all times, Ever-Virgin Mother, took from yo
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m2_en_UK_lash.YmnoSeAkoi.melody
 ocMA.OdeW4C1H.incipit = he.h.m2_en_UK_lash.YmnoSeAkoi.incipit
 ocMA.OdeW4C1H.text = he.h.m2_en_UK_lash.YmnoSeAkoi.text
 
@@ -294,7 +294,7 @@ ocMA.OdeW4C2T.text = "Contemplating you, O Virgin, from afar carrying in your ar
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m2_en_UK_lash.OTouFotosChorigos.melody
 ocMA.OdeW5C1H.incipit = he.h.m2_en_UK_lash.OTouFotosChorigos.incipit
 ocMA.OdeW5C1H.text = he.h.m2_en_UK_lash.OTouFotosChorigos.text
 
@@ -348,7 +348,7 @@ ocMA.OdeW5C2T.text = "The holy Archangel Gabriel came down from heaven, revered 
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.melody
 ocMA.OdeW6C1H.incipit = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 ocMA.OdeW6C1H.text = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.text
 
@@ -402,7 +402,7 @@ ocMA.OdeW6C2T.text = "As of old the Lord swore in truth to David, he has fulfill
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m2_en_UK_lash.EikonosChrysis.melody
 ocMA.OdeW7C1H.incipit = he.h.m2_en_UK_lash.EikonosChrysis.incipit
 ocMA.OdeW7C1H.text = he.h.m2_en_UK_lash.EikonosChrysis.text
 
@@ -456,7 +456,7 @@ ocMA.OdeW7C2T.text = "Gabriel revealing you, O Maiden, to be the summit of the L
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.melody
 ocMA.OdeW8C1H.incipit = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.incipit
 ocMA.OdeW8C1H.text = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.text
 
@@ -516,7 +516,7 @@ ocMA.OdeW8C2T.text = "Uprightness itself, which wisely directs the universe, fit
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.melody
 ocMA.OdeW9C1H.incipit = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.incipit
 ocMA.OdeW9C1H.text = he.h.m2_en_UK_lash.TonEkTheouTheonLogon.text
 

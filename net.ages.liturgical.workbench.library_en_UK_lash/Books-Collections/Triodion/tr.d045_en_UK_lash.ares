@@ -68,7 +68,7 @@ trMA.C2.poet = poets_en_UK_lash.Theodorou
 
 trMA.Ode2C1H.ode = misc_en_UK_lash.Ode2
 trMA.Ode2C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode2C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode2C1H.melody = he.h.m8_en_UK_lash.IdeteIdeteOPalaiTonIsrail.melody
 trMA.Ode2C1H.incipit = he.h.m8_en_UK_lash.IdeteIdeteOPalaiTonIsrail.incipit
 trMA.Ode2C1H.text = he.h.m8_en_UK_lash.IdeteIdeteOPalaiTonIsrail.text
 
@@ -128,7 +128,7 @@ trMA.Ode2C2A1.text = ""
 
 trMA.Ode2C2H.ode = misc_en_UK_lash.Ode2
 trMA.Ode2C2H.mode = misc_en_UK_lash.Mode8
-trMA.Ode2C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode2C2H.melody = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.melody
 trMA.Ode2C2H.incipit = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.incipit
 trMA.Ode2C2H.text = he.h.m8_en_UK_lash.IdeteIdeteOProTonAionon.text
 
@@ -188,7 +188,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_lash.Mode8
-trMA.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m8_en_UK_lash.AngeloiKaiOuranoi.melody
 trMA.Ode8C2H.incipit = he.h.m8_en_UK_lash.AngeloiKaiOuranoi.incipit
 trMA.Ode8C2H.text = he.h.m8_en_UK_lash.AngeloiKaiOuranoi.text
 
@@ -248,7 +248,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_lash.Mode8
-trMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m8_en_UK_lash.EvlogitosOKyrios.melody
 trMA.Ode9C2H.incipit = he.h.m8_en_UK_lash.EvlogitosOKyrios.incipit
 trMA.Ode9C2H.text = he.h.m8_en_UK_lash.EvlogitosOKyrios.text
 

@@ -124,7 +124,7 @@ trMA.Ode5C2A1.text = ""
 
 trMA.Ode5C2H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C2H.mode = misc_en_UK_lash.Mode5
-trMA.Ode5C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode5C2H.melody = he.h.m5_en_UK_lash.TousEkNyktos.melody
 trMA.Ode5C2H.incipit = he.h.m5_en_UK_lash.TousEkNyktos.incipit
 trMA.Ode5C2H.text = he.h.m5_en_UK_lash.TousEkNyktos.text
 
@@ -184,7 +184,7 @@ trMA.Ode8C2A1.text = ""
 
 trMA.Ode8C2H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C2H.mode = misc_en_UK_lash.Mode5
-trMA.Ode8C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode8C2H.melody = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.melody
 trMA.Ode8C2H.incipit = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.incipit
 trMA.Ode8C2H.text = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.text
 
@@ -244,7 +244,7 @@ trMA.Ode9C2A1.text = ""
 
 trMA.Ode9C2H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C2H.mode = misc_en_UK_lash.Mode5
-trMA.Ode9C2H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode9C2H.melody = he.h.m5_en_UK_lash.IsaiaChoreve.melody
 trMA.Ode9C2H.incipit = he.h.m5_en_UK_lash.IsaiaChoreve.incipit
 trMA.Ode9C2H.text = he.h.m5_en_UK_lash.IsaiaChoreve.text
 
