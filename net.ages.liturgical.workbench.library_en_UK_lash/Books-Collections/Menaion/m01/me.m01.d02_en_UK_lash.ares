@@ -225,8 +225,8 @@ meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.ToTinAvaton.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.ToTinAvaton.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.ToTinAvaton.text
 
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.title = titles_en_UK_lash.KanonProeortios
+meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
@@ -252,8 +252,8 @@ meMA.Ode1C14.melody = he.h.m2_en_UK_lash.ToTinAvaton.name
 meMA.Ode1C14.incipit = "…"
 meMA.Ode1C14.text = ""
 
-meMA.C2.title = ""
-meMA.C2.verse = ""
+meMA.C2.title = titles_en_UK_lash.KanonTouAgiou
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode8
