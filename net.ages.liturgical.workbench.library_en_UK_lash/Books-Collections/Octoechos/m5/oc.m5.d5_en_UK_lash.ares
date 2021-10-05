@@ -111,7 +111,7 @@ ocMA.C2.acrostic = "of which the acrostic is: I offer you a fifth song, Nicolas.
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m5_en_UK_lash.IpponKaiAnavatin.melody
 ocMA.OdeW1C1H.incipit = he.h.m5_en_UK_lash.IpponKaiAnavatin.incipit
 ocMA.OdeW1C1H.text = he.h.m5_en_UK_lash.IpponKaiAnavatin.text
 
@@ -165,7 +165,7 @@ ocMA.OdeW1C2T.text = "Of old the choir of Prophets called you God's mountain and
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m5_en_UK_lash.OPixasEpOudenos.melody
 ocMA.OdeW3C1H.incipit = he.h.m5_en_UK_lash.OPixasEpOudenos.incipit
 ocMA.OdeW3C1H.text = he.h.m5_en_UK_lash.OPixasEpOudenos.text
 
@@ -219,7 +219,7 @@ ocMA.OdeW3C2T.text = "You stand at Christ's right hand as a Queen truly 'arrayed
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m5_en_UK_lash.TinTheianEnnoisas.melody
 ocMA.OdeW4C1H.incipit = he.h.m5_en_UK_lash.TinTheianEnnoisas.incipit
 ocMA.OdeW4C1H.text = he.h.m5_en_UK_lash.TinTheianEnnoisas.text
 
@@ -273,7 +273,7 @@ ocMA.OdeW4C2T.text = "Holy Mother of God, help me, who am continually overwhelme
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m5_en_UK_lash.OAnavallomenos.melody
 ocMA.OdeW5C1H.incipit = he.h.m5_en_UK_lash.OAnavallomenos.incipit
 ocMA.OdeW5C1H.text = he.h.m5_en_UK_lash.OAnavallomenos.text
 
@@ -327,7 +327,7 @@ ocMA.OdeW5C2T.text = "The Incomprehensible, O graced by God, when he took a body
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m5_en_UK_lash.MainomeninKlydoni.melody
 ocMA.OdeW6C1H.incipit = he.h.m5_en_UK_lash.MainomeninKlydoni.incipit
 ocMA.OdeW6C1H.text = he.h.m5_en_UK_lash.MainomeninKlydoni.text
 
@@ -381,7 +381,7 @@ ocMA.OdeW6C2T.text = "Without husband, pure Mother of God, you bore a child; and
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m5_en_UK_lash.OYperypsoumenos.melody
 ocMA.OdeW7C1H.incipit = he.h.m5_en_UK_lash.OYperypsoumenos.incipit
 ocMA.OdeW7C1H.text = he.h.m5_en_UK_lash.OYperypsoumenos.text
 
@@ -435,7 +435,7 @@ ocMA.OdeW7C2T.text = "From you, Mother of God, cloud all made of light, there sh
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m5_en_UK_lash.SoiToPantourgo.melody
 ocMA.OdeW8C1H.incipit = he.h.m5_en_UK_lash.SoiToPantourgo.incipit
 ocMA.OdeW8C1H.text = he.h.m5_en_UK_lash.SoiToPantourgo.text
 
@@ -495,7 +495,7 @@ ocMA.OdeW8C2T.text = "God, who for our sake put on flesh from you, shows you, O 
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m5_en_UK_lash.IsaiaChoreve.melody
 ocMA.OdeW9C1H.incipit = he.h.m5_en_UK_lash.IsaiaChoreve.incipit
 ocMA.OdeW9C1H.text = he.h.m5_en_UK_lash.IsaiaChoreve.text
 

@@ -203,7 +203,7 @@ meMA.C3.acrostic = "of which the acrostic is: I bring to God's Initiate a sixth 
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.EnVythoKatestrose.text
 
@@ -284,7 +284,7 @@ meMA.Ode1C3T.text = "On the day of judgement, Pure Virgin, who conceived the God
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.ExinthisenIErimos.incipit
 meMA.Ode3C1H.text = he.h.m2_en_UK_lash.ExinthisenIErimos.text
 
@@ -366,7 +366,7 @@ meMA.Ode3KathismaT.text = "As you bore the merciful and compassionate Word, Sove
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 meMA.Ode4C1H.text = he.h.m2_en_UK_lash.ElilythasEkParthenou.text
 
@@ -438,7 +438,7 @@ meMA.Ode4C3T.text = "Now let us openly hymn the divine enclosure of God, the Hol
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m2_en_UK_lash.MesitisTheou.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.MesitisTheou.incipit
 meMA.Ode5C1H.text = he.h.m2_en_UK_lash.MesitisTheou.text
 
@@ -510,7 +510,7 @@ meMA.Ode5C3T.text = "As you stood with the beloved Disciple by the Cross of your
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.text
 
@@ -589,7 +589,7 @@ meMA.Oikos1.text = "To learn wholly the high secrets of heaven, to investigate t
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m2_en_UK_lash.AntitheonProstagma.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.AntitheonProstagma.incipit
 meMA.Ode7C1H.text = he.h.m2_en_UK_lash.AntitheonProstagma.text
 
@@ -661,7 +661,7 @@ meMA.Ode7C3T.text = "We bless you, O all-blameless, who bore the blessed Lord, w
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m2_en_UK_lash.KaminosPote.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.KaminosPote.incipit
 meMA.Ode8C1H.text = he.h.m2_en_UK_lash.KaminosPote.text
 
@@ -733,7 +733,7 @@ meMA.Ode8C3T.text = "O full of God's grace, ask Jesus the Saviour, who took his 
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 meMA.Ode9C1H.text = he.h.m2_en_UK_lash.AnarchouGennitoros.text
 

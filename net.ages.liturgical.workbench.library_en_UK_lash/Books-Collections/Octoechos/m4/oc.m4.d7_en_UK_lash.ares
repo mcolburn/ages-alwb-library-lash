@@ -115,7 +115,7 @@ ocMA.C2.acrostic = "of which the acrostic is: A fourth Canon remembering the end
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m4_en_UK_lash.TristatasKrataious.melody
 ocMA.OdeW1C1H.incipit = he.h.m4_en_UK_lash.TristatasKrataious.incipit
 ocMA.OdeW1C1H.text = he.h.m4_en_UK_lash.TristatasKrataious.text
 
@@ -175,7 +175,7 @@ ocMA.OdeW1C2T.text = "As God your Son was lovely with surpassing beauty; but inc
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m4_en_UK_lash.ToxonDynatonIsthenise.melody
 ocMA.OdeW3C1H.incipit = he.h.m4_en_UK_lash.ToxonDynatonIsthenise.incipit
 ocMA.OdeW3C1H.text = he.h.m4_en_UK_lash.ToxonDynatonIsthenise.text
 
@@ -235,7 +235,7 @@ ocMA.OdeW3C2T.text = "You joined virginity to your divine giving birth, O All-pu
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m4_en_UK_lash.OKathimenosEnDoxi.melody
 ocMA.OdeW4C1H.incipit = he.h.m4_en_UK_lash.OKathimenosEnDoxi.incipit
 ocMA.OdeW4C1H.text = he.h.m4_en_UK_lash.OKathimenosEnDoxi.text
 
@@ -295,7 +295,7 @@ ocMA.OdeW4C2T.text = "The Immortal, who has authority over the dead and the livi
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.melody
 ocMA.OdeW5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 ocMA.OdeW5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
 
@@ -355,7 +355,7 @@ ocMA.OdeW5C2T.text = "Mother of God, through whom the ineffable and unapproachab
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m4_en_UK_lash.IlthonEisTaVathi.melody
 ocMA.OdeW6C1H.incipit = he.h.m4_en_UK_lash.IlthonEisTaVathi.incipit
 ocMA.OdeW6C1H.text = he.h.m4_en_UK_lash.IlthonEisTaVathi.text
 
@@ -415,7 +415,7 @@ ocMA.OdeW6C2T.text = "The Word, invisible as God, having taken a body from an un
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m4_en_UK_lash.AvramiaioiPote.melody
 ocMA.OdeW7C1H.incipit = he.h.m4_en_UK_lash.AvramiaioiPote.incipit
 ocMA.OdeW7C1H.text = he.h.m4_en_UK_lash.AvramiaioiPote.text
 
@@ -475,7 +475,7 @@ ocMA.OdeW7C2T.text = "Blessed Mother of God, Mother and Virgin, hail! For throug
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m4_en_UK_lash.LytrotaTouPantos.melody
 ocMA.OdeW8C1H.incipit = he.h.m4_en_UK_lash.LytrotaTouPantos.incipit
 ocMA.OdeW8C1H.text = he.h.m4_en_UK_lash.LytrotaTouPantos.text
 
@@ -535,7 +535,7 @@ ocMA.OdeW8C2T.text = "You alone appeared on earth as Virgin without spot and Mot
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m4_en_UK_lash.EvaMenToTisParakois.melody
 ocMA.OdeW9C1H.incipit = he.h.m4_en_UK_lash.EvaMenToTisParakois.incipit
 ocMA.OdeW9C1H.text = he.h.m4_en_UK_lash.EvaMenToTisParakois.text
 

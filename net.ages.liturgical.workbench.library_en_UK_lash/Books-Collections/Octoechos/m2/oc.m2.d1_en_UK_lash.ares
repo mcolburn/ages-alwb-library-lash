@@ -407,7 +407,7 @@ ocMA.C3.acrostic = "of which the Acrostic is: I sing my praise to the life-givin
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS1C1H.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.melody
 ocMA.OdeS1C1H.incipit = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 ocMA.OdeS1C1H.text = he.h.m2_en_UK_lash.EnVythoKatestrose.text
 
@@ -461,7 +461,7 @@ ocMA.OdeS1C33.text = "The Sun of righteousness came through the closed untrodden
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.melody
 ocMA.OdeS3C1H.incipit = he.h.m2_en_UK_lash.ExinthisenIErimos.incipit
 ocMA.OdeS3C1H.text = he.h.m2_en_UK_lash.ExinthisenIErimos.text
 
@@ -509,7 +509,7 @@ ocMA.OdeS3C32.text = "Let us, the faithful, praise the womb that is wider than t
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS4C1H.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.melody
 ocMA.OdeS4C1H.incipit = he.h.m2_en_UK_lash.ElilythasEkParthenou.incipit
 ocMA.OdeS4C1H.text = he.h.m2_en_UK_lash.ElilythasEkParthenou.text
 
@@ -557,7 +557,7 @@ ocMA.OdeS4C32.text = "O Virgin, who alone bore the Master of creation beyond the
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS5C1H.melody = he.h.m2_en_UK_lash.MesitisTheou.melody
 ocMA.OdeS5C1H.incipit = he.h.m2_en_UK_lash.MesitisTheou.incipit
 ocMA.OdeS5C1H.text = he.h.m2_en_UK_lash.MesitisTheou.text
 
@@ -605,7 +605,7 @@ ocMA.OdeS5C32.text = "When the Most High became incarnate from the Virgin withou
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.melody
 ocMA.OdeS6C1H.incipit = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
 ocMA.OdeS6C1H.text = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.text
 
@@ -662,7 +662,7 @@ ocMA.Oikos.text = "You are the light of those in darkness, you are the resurrect
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS7C1H.melody = he.h.m2_en_UK_lash.AntitheonProstagma.melody
 ocMA.OdeS7C1H.incipit = he.h.m2_en_UK_lash.AntitheonProstagma.incipit
 ocMA.OdeS7C1H.text = he.h.m2_en_UK_lash.AntitheonProstagma.text
 
@@ -722,7 +722,7 @@ ocMA.OdeS7C33.text = "Profane the one who does not proclaim you, the Virgin's So
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.melody = he.h.m2_en_UK_lash.KaminosPote.melody
 ocMA.OdeS8C1H.incipit = he.h.m2_en_UK_lash.KaminosPote.incipit
 ocMA.OdeS8C1H.text = he.h.m2_en_UK_lash.KaminosPote.text
 
@@ -770,7 +770,7 @@ ocMA.OdeS8C32.text = "Rightly proclaiming you pure we glorify you, Mother of God
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS9C1H.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.melody
 ocMA.OdeS9C1H.incipit = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
 ocMA.OdeS9C1H.text = he.h.m2_en_UK_lash.AnarchouGennitoros.text
 

@@ -11,6 +11,7 @@ trHO.description1 = ""
 trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
+trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trDA.dismissal = dismissals_en_UK_lash.dis00.resurrection
 
@@ -602,7 +603,7 @@ trMA.C2.poet = poets_en_UK_lash.KosmaMonachou
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode1C1H.melody = he.h.m8_en_UK_lash.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
@@ -668,7 +669,7 @@ trMA.Ode1K.text = he.h.m8_en_UK_lash.YgranDiodefsas.text
 
 trMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 trMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode3C1H.melody = he.h.m8_en_UK_lash.SyEiToStereoma.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 trMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
@@ -738,7 +739,7 @@ trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 trMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode4C1H.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
 
@@ -798,7 +799,7 @@ trMA.Ode4K.text = he.h.m8_en_UK_lash.SyMouIschys.text
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode5C1H.melody = he.h.m8_en_UK_lash.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_UK_lash.InaTiMeAposo.text
 
@@ -856,7 +857,7 @@ trMA.C4.poet = poets_en_UK_lash.IoannouMonachou
 
 trMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 trMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode6C1H.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.TonIonanEnToKitei.incipit
 trMA.Ode6C1H.text = he.h.m8_en_UK_lash.TonIonanEnToKitei.text
 
@@ -912,7 +913,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 trMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode7C1H.melody = he.h.m8_en_UK_lash.PaidesEvraion.melody
 trMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.PaidesEvraion.incipit
 trMA.Ode7C1H.text = he.h.m8_en_UK_lash.PaidesEvraion.text
 
@@ -954,7 +955,7 @@ trMA.Ode7K.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode8C1H.melody = he.h.m8_en_UK_lash.MousikonOrganon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.MousikonOrganon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_UK_lash.MousikonOrganon.text
 
@@ -996,7 +997,7 @@ trMA.Ode8K.text = he.h.m8_en_UK_lash.TonVasileaTonOuranon.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
-trMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+trMA.Ode9C1H.melody = he.h.m8_en_UK_lash.TinAgninEndoxos.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.TinAgninEndoxos.incipit
 trMA.Ode9C1H.text = he.h.m8_en_UK_lash.TinAgninEndoxos.text
 

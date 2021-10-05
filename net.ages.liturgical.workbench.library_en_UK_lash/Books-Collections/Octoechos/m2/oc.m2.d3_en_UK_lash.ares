@@ -113,7 +113,7 @@ ocMA.C2.acrostic = "of which the acrostic is: Baptist, accept this supplication.
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m2_en_UK_lash.TinMoseosOdin.melody
 ocMA.OdeW1C1H.incipit = he.h.m2_en_UK_lash.TinMoseosOdin.incipit
 ocMA.OdeW1C1H.text = he.h.m2_en_UK_lash.TinMoseosOdin.text
 
@@ -173,7 +173,7 @@ ocMA.OdeW1C2T.text = "Blessed Forerunner, you were the kinsman of the pure Virgi
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.melody
 ocMA.OdeW3C1H.incipit = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.incipit
 ocMA.OdeW3C1H.text = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.text
 
@@ -233,7 +233,7 @@ ocMA.OdeW3C2T.text = "The Forerunner, carried in his mother's womb, rejoices and
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m2_en_UK_lash.TinEkParthenou.melody
 ocMA.OdeW4C1H.incipit = he.h.m2_en_UK_lash.TinEkParthenou.incipit
 ocMA.OdeW4C1H.text = he.h.m2_en_UK_lash.TinEkParthenou.text
 
@@ -299,7 +299,7 @@ ocMA.OdeW4C2T.text = "Look upon me, O All-unblemished, in my sickness and abolis
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.melody
 ocMA.OdeW5C1H.incipit = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.incipit
 ocMA.OdeW5C1H.text = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.text
 
@@ -365,7 +365,7 @@ ocMA.OdeW5C2T.text = "I have been put to death, all-blameless Lady, by the assau
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m2_en_UK_lash.VythoAmartimaton.melody
 ocMA.OdeW6C1H.incipit = he.h.m2_en_UK_lash.VythoAmartimaton.incipit
 ocMA.OdeW6C1H.text = he.h.m2_en_UK_lash.VythoAmartimaton.text
 
@@ -425,7 +425,7 @@ ocMA.OdeW6C2T.text = "I am held fast by the slumber of indifference; a sleep of 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.melody
 ocMA.OdeW7C1H.incipit = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.incipit
 ocMA.OdeW7C1H.text = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.text
 
@@ -485,7 +485,7 @@ ocMA.OdeW7C2T.text = "A barren womb bears you within it, O Virgin, who bear in y
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m2_en_UK_lash.TonEnTiVatoMosi.melody
 ocMA.OdeW8C1H.incipit = he.h.m2_en_UK_lash.TonEnTiVatoMosi.incipit
 ocMA.OdeW8C1H.text = he.h.m2_en_UK_lash.TonEnTiVatoMosi.text
 
@@ -551,7 +551,7 @@ ocMA.OdeW8C2T.text = "You who gave birth in the flesh to God most high, raise me
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode2
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m2_en_UK_lash.TonGigenonTisIkouse.melody
 ocMA.OdeW9C1H.incipit = he.h.m2_en_UK_lash.TonGigenonTisIkouse.incipit
 ocMA.OdeW9C1H.text = he.h.m2_en_UK_lash.TonGigenonTisIkouse.text
 

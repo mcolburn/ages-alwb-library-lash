@@ -121,7 +121,7 @@ peMA.C2.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.melody = he.h.m2_en_UK_lash.TinMoseosOdin.melody
 peMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.TinMoseosOdin.incipit
 peMA.Ode1C1H.text = he.h.m2_en_UK_lash.TinMoseosOdin.text
 
@@ -184,7 +184,7 @@ peMA.Ode1C1T.text = "In your womb you abolished the ancient curse, holy Lady, an
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.melody = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.melody
 peMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.incipit
 peMA.Ode3C1H.text = he.h.m2_en_UK_lash.SteirothentaMouTonNoun.text
 
@@ -266,7 +266,7 @@ peMA.Ode3Kathisma2.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma22.text
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.melody = he.h.m2_en_UK_lash.TinEkParthenou.melody
 peMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.TinEkParthenou.incipit
 peMA.Ode4C1H.text = he.h.m2_en_UK_lash.TinEkParthenou.text
 
@@ -338,7 +338,7 @@ peMA.Ode4C1T.text = "Holy Virgin-mother, unceasingly implore the One who dwelt i
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C1H.melody = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.melody
 peMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.incipit
 peMA.Ode5C1H.text = he.h.m2_en_UK_lash.TinAchlynTisPsychisMou.text
 
@@ -410,7 +410,7 @@ peMA.Ode5C1T.text = "We faithful praise you, who gave birth by a conception beyo
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.melody = he.h.m2_en_UK_lash.VythoAmartimaton.melody
 peMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.VythoAmartimaton.incipit
 peMA.Ode6C1H.text = he.h.m2_en_UK_lash.VythoAmartimaton.text
 
@@ -484,7 +484,7 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C1H.melody = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.melody
 peMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.incipit
 peMA.Ode7C1H.text = he.h.m2_en_UK_lash.TaCherouvimMimoumenoi.text
 
@@ -538,7 +538,7 @@ peMA.Ode7C1T.text = "How did you contain as a child in your womb, O Immaculate, 
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.melody = he.h.m2_en_UK_lash.TonEnTiVatoMosi.melody
 peMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.TonEnTiVatoMosi.incipit
 peMA.Ode8C1H.text = he.h.m2_en_UK_lash.TonEnTiVatoMosi.text
 
@@ -610,7 +610,7 @@ peMA.Ode8C1T.text = "In your womb, pure Maiden, you bore without change the ever
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode2
-peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.melody = he.h.m2_en_UK_lash.TinYperfyosSarki.melody
 peMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.TinYperfyosSarki.incipit
 peMA.Ode9C1H.text = he.h.m2_en_UK_lash.TinYperfyosSarki.text
 

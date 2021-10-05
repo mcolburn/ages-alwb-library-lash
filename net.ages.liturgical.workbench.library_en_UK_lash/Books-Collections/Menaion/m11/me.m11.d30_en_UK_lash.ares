@@ -159,7 +159,7 @@ meMA.C2.poet = poets_en_UK_lash.IoannouMonachou
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m1_en_UK_lash.OdinEpinikion.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.OdinEpinikion.incipit
 meMA.Ode1C1H.text = he.h.m1_en_UK_lash.OdinEpinikion.text
 
@@ -258,7 +258,7 @@ meMA.Ode1C3T.text = "God becomes a babe from a Virgin, makes new the corrupted d
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m1_en_UK_lash.StereothitoIKardiaMou.melody
 meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereothitoIKardiaMou.incipit
 meMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereothitoIKardiaMou.text
 
@@ -363,7 +363,7 @@ meMA.Ode3KathismaT.text = me.m08.d25_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.melody
 meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.incipit
 meMA.Ode4C1H.text = he.h.m1_en_UK_lash.EnPnevmatiProvlepon.text
 
@@ -453,7 +453,7 @@ meMA.Ode4C3T.text = "You conceived ineffably one of the Trinity in your womb and
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m1_en_UK_lash.TinSinEirinin.melody
 meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.TinSinEirinin.incipit
 meMA.Ode5C1H.text = he.h.m1_en_UK_lash.TinSinEirinin.text
 
@@ -543,7 +543,7 @@ meMA.Ode5C3T.text = "You gave birth to the Light, not knowing how, O lampstand a
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m1_en_UK_lash.TonProfitinIonan.melody
 meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinIonan.incipit
 meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinIonan.text
 
@@ -640,7 +640,7 @@ meMA.Oikos1.text = "From on high David rouses a sinner like me to recount with b
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m1_en_UK_lash.TousEnKaminoPaidas.melody
 meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.TousEnKaminoPaidas.incipit
 meMA.Ode7C1H.text = he.h.m1_en_UK_lash.TousEnKaminoPaidas.text
 
@@ -730,7 +730,7 @@ meMA.Ode7C3T.text = "We glorify you, O Christ, as one of the Trinity; because in
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m1_en_UK_lash.OnFrittousinAngeloi.melody
 meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.OnFrittousinAngeloi.incipit
 meMA.Ode8C1H.text = he.h.m1_en_UK_lash.OnFrittousinAngeloi.text
 
@@ -826,7 +826,7 @@ meMA.Ode8C3T.text = "You conceived one of the Trinity and gave birth to him inca
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m1_en_UK_lash.TinFotoforonNefelin.melody
 meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.TinFotoforonNefelin.incipit
 meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TinFotoforonNefelin.text
 

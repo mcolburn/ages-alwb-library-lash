@@ -11,6 +11,7 @@ trHO.description1 = ""
 trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
+trCO.header = ""
 trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
 trEM.header = "" //for pdf evening Matins
 
@@ -433,7 +434,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 trMA.Ode5C1H.mode = misc_en_UK_lash.Mode6
-trMA.Ode5C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode5C1H.melody = he.h.m6_en_UK_lash.ProsSeOrthrizo.melody
 trMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.ProsSeOrthrizo.incipit
 trMA.Ode5C1H.text = he.h.m6_en_UK_lash.ProsSeOrthrizo.text
 
@@ -480,7 +481,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 trMA.Ode8C1H.mode = misc_en_UK_lash.Mode6
-trMA.Ode8C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode8C1H.melody = he.h.m6_en_UK_lash.StilinKakiasAntitheou.melody
 trMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.StilinKakiasAntitheou.incipit
 trMA.Ode8C1H.text = he.h.m6_en_UK_lash.StilinKakiasAntitheou.text
 
@@ -516,7 +517,7 @@ trMA.Ode8K.text = he.h.m6_en_UK_lash.StilinKakiasAntitheou.text
 
 trMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 trMA.Ode9C1H.mode = misc_en_UK_lash.Mode6
-trMA.Ode9C1H.melody = misc_en_UK_lash.Heirmos
+trMA.Ode9C1H.melody = he.h.m6_en_UK_lash.TinTimioteran.melody
 trMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.TinTimioteran.incipit
 trMA.Ode9C1H.text = he.h.m6_en_UK_lash.TinTimioteran.text
 

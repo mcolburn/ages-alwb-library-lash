@@ -209,7 +209,7 @@ meMA.C1.acrostic = "of which the Acrostic is: An Elder, rejoicing, holds Christ 
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m3_en_UK_lash.ChersonAvyssotokon.melody
 meMA.Ode1C1H.incipit = he.h.m3_en_UK_lash.ChersonAvyssotokon.incipit
 meMA.Ode1C1H.text = he.h.m3_en_UK_lash.ChersonAvyssotokon.text
 
@@ -236,7 +236,7 @@ meMA.Ode1C13.text = "You heavens, stretched out with understanding, rejoice. Ear
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m3_en_UK_lash.ToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m3_en_UK_lash.ToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m3_en_UK_lash.ToStereoma.text
 
@@ -265,7 +265,7 @@ meMA.Ode3Kathisma1.text = "On Mount Sinai of old, Moses saw the back parts of Go
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m3_en_UK_lash.EkalypsenOuranous.melody
 meMA.Ode4C1H.incipit = he.h.m3_en_UK_lash.EkalypsenOuranous.incipit
 meMA.Ode4C1H.text = he.h.m3_en_UK_lash.EkalypsenOuranous.text
 
@@ -289,7 +289,7 @@ meMA.Ode4C13.text = "As Symeon watched the Word incarnate, who is without beginn
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m3_en_UK_lash.OsEidenIsaias.melody
 meMA.Ode5C1H.incipit = he.h.m3_en_UK_lash.OsEidenIsaias.incipit
 meMA.Ode5C1H.text = he.h.m3_en_UK_lash.OsEidenIsaias.text
 
@@ -313,7 +313,7 @@ meMA.Ode5C13.text = "'Isaias was cleansed when he received the coal from the Ser
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m3_en_UK_lash.EvoiseSoi.melody
 meMA.Ode6C1H.incipit = he.h.m3_en_UK_lash.EvoiseSoi.incipit
 meMA.Ode6C1H.text = he.h.m3_en_UK_lash.EvoiseSoi.text
 
@@ -344,7 +344,7 @@ meMA.Oikos1.text = "Let us run to the Mother of God if we wish to see her Son be
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m3_en_UK_lash.SeTonEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m3_en_UK_lash.SeTonEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m3_en_UK_lash.SeTonEnPyri.text
 
@@ -368,7 +368,7 @@ meMA.Ode7C13.text = "'And a sword will pass through your heart, O Undefiled,' Sy
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m3_en_UK_lash.AstektoPyri.melody
 meMA.Ode8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
 meMA.Ode8C1H.text = he.h.m3_en_UK_lash.AstektoPyri.text
 
@@ -425,7 +425,7 @@ meMA.Ode9C1MTh.text = "Mother of God, hope of all Christians, protect, watch ove
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode3
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m3_en_UK_lash.EnNomoSkia.melody
 meMA.Ode9C1H.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit
 meMA.Ode9C1H.text = he.h.m3_en_UK_lash.EnNomoSkia.text
 

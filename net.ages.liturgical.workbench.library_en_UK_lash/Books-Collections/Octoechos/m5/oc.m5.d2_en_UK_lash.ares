@@ -115,7 +115,7 @@ ocMA.C2.acrostic = "of which the Acrostic is: The fifth song for Angels."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m5_en_UK_lash.AsomenToKyrio.melody
 ocMA.OdeW1C1H.incipit = he.h.m5_en_UK_lash.AsomenToKyrio.incipit
 ocMA.OdeW1C1H.text = he.h.m5_en_UK_lash.AsomenToKyrio.text
 
@@ -169,7 +169,7 @@ ocMA.OdeW1C2T.text = oc.m5.d1_en_UK_lash.ocMA.OdeS1C1T.text
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m5_en_UK_lash.EpiTaEthni.melody
 ocMA.OdeW3C1H.incipit = he.h.m5_en_UK_lash.EpiTaEthni.incipit
 ocMA.OdeW3C1H.text = he.h.m5_en_UK_lash.EpiTaEthni.text
 
@@ -217,7 +217,7 @@ ocMA.OdeW3C2T.text = "With wedlock, immaculate, all-praised Virgin, you became M
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m5_en_UK_lash.TaErgaTisOikonomias.melody
 ocMA.OdeW4C1H.incipit = he.h.m5_en_UK_lash.TaErgaTisOikonomias.incipit
 ocMA.OdeW4C1H.text = he.h.m5_en_UK_lash.TaErgaTisOikonomias.text
 
@@ -271,7 +271,7 @@ ocMA.OdeW4C2T.text = "Be for me a protection, O All-blameless, a refuge and a ha
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m5_en_UK_lash.ToFosToAlithinon.melody
 ocMA.OdeW5C1H.incipit = he.h.m5_en_UK_lash.ToFosToAlithinon.incipit
 ocMA.OdeW5C1H.text = he.h.m5_en_UK_lash.ToFosToAlithinon.text
 
@@ -325,7 +325,7 @@ ocMA.OdeW5C2T.text = "Turn all my longing towards you, who bring the sweetness o
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m5_en_UK_lash.TouKitousTonProfitin.melody
 ocMA.OdeW6C1H.incipit = he.h.m5_en_UK_lash.TouKitousTonProfitin.incipit
 ocMA.OdeW6C1H.text = he.h.m5_en_UK_lash.TouKitousTonProfitin.text
 
@@ -373,7 +373,7 @@ ocMA.OdeW6C2T.text = "You conceived, O Immaculate, the Creator and God of all th
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m5_en_UK_lash.EvlogitosEiOTheos.melody
 ocMA.OdeW7C1H.incipit = he.h.m5_en_UK_lash.EvlogitosEiOTheos.incipit
 ocMA.OdeW7C1H.text = he.h.m5_en_UK_lash.EvlogitosEiOTheos.text
 
@@ -427,7 +427,7 @@ ocMA.OdeW7C2T.text = "Now establish me, who am storm-tossed by passions, for you
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.melody
 ocMA.OdeW8C1H.incipit = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.incipit
 ocMA.OdeW8C1H.text = he.h.m5_en_UK_lash.TonPoiitinTisKtiseos.text
 
@@ -481,7 +481,7 @@ ocMA.OdeW8C2T.text = "Gate of the Light, Maiden virgin-mother, make those who ha
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode5
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m5_en_UK_lash.SeTinMakarianEnGynaixi.melody
 ocMA.OdeW9C1H.incipit = he.h.m5_en_UK_lash.SeTinMakarianEnGynaixi.incipit
 ocMA.OdeW9C1H.text = he.h.m5_en_UK_lash.SeTinMakarianEnGynaixi.text
 

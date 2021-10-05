@@ -145,7 +145,7 @@ meMA.Ode3C1T.text = "Virgin who did not know wedlock and who bore God incarnate,
 
 meMA.Ode3H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3H.mode = misc_en_UK_lash.Mode4
-meMA.Ode3H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode3H.melody = he.h.m4_en_UK_lash.OukEnSofia.melody
 meMA.Ode3H.incipit = he.h.m4_en_UK_lash.OukEnSofia.incipit
 meMA.Ode3H.text = he.h.m4_en_UK_lash.OukEnSofia.text
 
@@ -233,7 +233,7 @@ meMA.Ode6C1T.text = "O marvel, newer than all marvels! For a Virgin conceives in
 
 meMA.Ode6H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6H.mode = misc_en_UK_lash.Mode4
-meMA.Ode6H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode6H.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
@@ -294,7 +294,7 @@ meMA.Ode8C1T.text = "Pure of spot and blemish, and a sacred enclosure of all hol
 
 meMA.Ode8H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8H.mode = misc_en_UK_lash.Mode4
-meMA.Ode8H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode8H.melody = he.h.m4_en_UK_lash.PaidasEvageis.melody
 meMA.Ode8H.incipit = he.h.m4_en_UK_lash.PaidasEvageis.incipit
 meMA.Ode8H.text = he.h.m4_en_UK_lash.PaidasEvageis.text
 
@@ -324,7 +324,7 @@ meMA.Ode9C1T.text = "You appeared as a Mother, bride of God, and an all-spotless
 
 meMA.Ode9H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9H.mode = misc_en_UK_lash.Mode4
-meMA.Ode9H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode9H.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 

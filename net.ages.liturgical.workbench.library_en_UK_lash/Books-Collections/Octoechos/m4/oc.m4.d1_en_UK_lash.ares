@@ -407,7 +407,7 @@ ocMA.C3.acrostic = "of which the acrostic, with the Irmi, is: A fourth hymn for 
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeS1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS1C1H.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.melody
 ocMA.OdeS1C1H.incipit = he.h.m4_en_UK_lash.ThalassisToErythraion.incipit
 ocMA.OdeS1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text
 
@@ -467,7 +467,7 @@ ocMA.OdeS1C32.text = "Christ, whose home is in the highest, condescending to mor
 
 ocMA.OdeS3C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeS3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS3C1H.melody = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.melody
 ocMA.OdeS3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
 ocMA.OdeS3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
 
@@ -527,7 +527,7 @@ ocMA.OdeS3C32.text = "Who is this who is truly God's neighbour, for she is highe
 
 ocMA.OdeS4C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeS4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS4C1H.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.melody
 ocMA.OdeS4C1H.incipit = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
 ocMA.OdeS4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text
 
@@ -593,7 +593,7 @@ ocMA.OdeS4C33.text = "The Word and God, who dwelt in you, a Virgin, and was born
 
 ocMA.OdeS5C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeS5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS5C1H.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.melody
 ocMA.OdeS5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
 ocMA.OdeS5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
 
@@ -659,7 +659,7 @@ ocMA.OdeS5C33.text = "A virgin womb has shamed the tyrant's plot; for a babe has
 
 ocMA.OdeS6C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeS6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS6C1H.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.melody
 ocMA.OdeS6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
 ocMA.OdeS6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
 
@@ -728,7 +728,7 @@ ocMA.Oikos.text = "Let all of us who are born of earth sing the praise of Christ
 
 ocMA.OdeS7C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeS7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS7C1H.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.melody
 ocMA.OdeS7C1H.incipit = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
 ocMA.OdeS7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
 
@@ -794,7 +794,7 @@ ocMA.OdeS7C3Tr.text = "Reverencing you as one Lordship, undivided in three sourc
 
 ocMA.OdeS8C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeS8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS8C1H.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.melody
 ocMA.OdeS8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
 ocMA.OdeS8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
 
@@ -860,7 +860,7 @@ ocMA.OdeS8C33.text = "The pattern of your virginity saved those equal in number 
 
 ocMA.OdeS9C1H.mode = misc_en_UK_lash.Mode4
 ocMA.OdeS9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeS9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeS9C1H.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.melody
 ocMA.OdeS9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
 ocMA.OdeS9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
 

@@ -113,7 +113,7 @@ meMA.C2.poet = poets_en_UK_lash.AndreouKritis
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.ArmatilatinFarao.text
 
@@ -203,7 +203,7 @@ meMA.Ode1C2T.text = "Giving bud ineffably in your womb to the ripe grape cluster
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m8_en_UK_lash.OStereosasKatArchas.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
 
@@ -284,7 +284,7 @@ meMA.Ode3Kathisma2.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma22.text
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m8_en_UK_lash.SyMouIschys.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.SyMouIschys.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.SyMouIschys.text
 
@@ -356,7 +356,7 @@ meMA.Ode4C2T.text = "Holy Virgin, Bride of God, we sing your praise as the one w
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m8_en_UK_lash.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.InaTiMeAposo.text
 
@@ -416,7 +416,7 @@ meMA.Ode5C2T.text = "O Christ, alone compassionate, grant us peace; for your mos
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
@@ -495,7 +495,7 @@ meMA.Oikos2.text = "Sion, praise your God with fervour, for he has truly strengt
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m8_en_UK_lash.TheouSynkatavasin.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.TheouSynkatavasin.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.TheouSynkatavasin.text
 
@@ -561,7 +561,7 @@ meMA.Ode7C2T.text = "Hail, wall and joy of all, O Virgin all-praised. Hail, hope
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m8_en_UK_lash.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
 
@@ -633,7 +633,7 @@ meMA.Ode8C2T.text = "You were revealed, Mary, to be the treasure-house of the go
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m8_en_UK_lash.ExestiEpiTouto.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.ExestiEpiTouto.text
 

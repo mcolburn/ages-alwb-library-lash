@@ -191,7 +191,7 @@ meMA.C3.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 meMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
 
@@ -278,7 +278,7 @@ meMA.Ode1C3T.text = "Immaculate Mother of God, hail honoured one, who contained 
 
 meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m1_en_UK_lash.StereosonMeChriste.melody
 meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereosonMeChriste.incipit
 meMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereosonMeChriste.text
 
@@ -371,7 +371,7 @@ meMA.Ode3Kathisma3.text = "As to the Master of the universe and Giver of good th
 
 meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 meMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m1_en_UK_lash.KatenoisaPantodyname.melody
 meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.KatenoisaPantodyname.incipit
 meMA.Ode4C1H.text = he.h.m1_en_UK_lash.KatenoisaPantodyname.text
 
@@ -461,7 +461,7 @@ meMA.Ode4C3T.text = "Immaculate Mary, implore the God whom you bore to grant you
 
 meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 meMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.melody
 meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
 meMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
 
@@ -539,7 +539,7 @@ meMA.Ode5C3T.text = "Ever implore your Son and our God, pure Mary who knew not w
 
 meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 meMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.melody
 meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
 meMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
 
@@ -632,7 +632,7 @@ meMA.Oikos3.text = ""
 
 meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 meMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m1_en_UK_lash.OiPaidesEfseveia.melody
 meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.OiPaidesEfseveia.incipit
 meMA.Ode7C1H.text = he.h.m1_en_UK_lash.OiPaidesEfseveia.text
 
@@ -710,7 +710,7 @@ meMA.Ode7C3T.text = "It was fitting for him who took flesh without seed to come 
 
 meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 meMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.melody
 meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.incipit
 meMA.Ode8C1H.text = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.text
 
@@ -800,7 +800,7 @@ meMA.Ode8C3T.text = "Virgin Mother of God, who received the Angel's 'Hail!', bor
 
 meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 meMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m1_en_UK_lash.TyponTisAgnis.melody
 meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.TyponTisAgnis.incipit
 meMA.Ode9C1H.text = he.h.m1_en_UK_lash.TyponTisAgnis.text
 

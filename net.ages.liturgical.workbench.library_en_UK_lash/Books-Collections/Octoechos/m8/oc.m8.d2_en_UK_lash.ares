@@ -113,7 +113,7 @@ ocMA.C2.acrostic = "whose acrostic is the Alphabet."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m8_en_UK_lash.YgranDiodefsas.melody
 ocMA.OdeW1C1H.incipit = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
 ocMA.OdeW1C1H.text = he.h.m8_en_UK_lash.YgranDiodefsas.text
 
@@ -167,7 +167,7 @@ ocMA.OdeW1C2T.text = "Be for me a refuge, a haven, a wall and a protector, Virgi
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m8_en_UK_lash.OuraniasApsidos.melody
 ocMA.OdeW3C1H.incipit = he.h.m8_en_UK_lash.OuraniasApsidos.incipit
 ocMA.OdeW3C1H.text = he.h.m8_en_UK_lash.OuraniasApsidos.text
 
@@ -221,7 +221,7 @@ ocMA.OdeW3C2T.text = "You became the godlike tabernacle of undefiled life, who a
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m8_en_UK_lash.ExOrousKataskiou.melody
 ocMA.OdeW4C1H.incipit = he.h.m8_en_UK_lash.ExOrousKataskiou.incipit
 ocMA.OdeW4C1H.text = he.h.m8_en_UK_lash.ExOrousKataskiou.text
 
@@ -275,7 +275,7 @@ ocMA.OdeW4C2T.text = "The godlike armies of the Bodiless Powers reverently glori
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m8_en_UK_lash.FotisonImas.melody
 ocMA.OdeW5C1H.incipit = he.h.m8_en_UK_lash.FotisonImas.incipit
 ocMA.OdeW5C1H.text = he.h.m8_en_UK_lash.FotisonImas.text
 
@@ -329,7 +329,7 @@ ocMA.OdeW5C2T.text = "Mystically, All-pure Lady, we name you 'Myrrh', for you bo
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m8_en_UK_lash.TonIonanEnToKitei.melody
 ocMA.OdeW6C1H.incipit = he.h.m8_en_UK_lash.TonIonanEnToKitei.incipit
 ocMA.OdeW6C1H.text = he.h.m8_en_UK_lash.TonIonanEnToKitei.text
 
@@ -383,7 +383,7 @@ ocMA.OdeW6C2T.text = "The living chamber of the Master, who shines out with the 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.melody
 ocMA.OdeW7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 ocMA.OdeW7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
@@ -437,7 +437,7 @@ ocMA.OdeW7C2T.text = "Now that we have you, Virgin Mother of God, as a haven of 
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m8_en_UK_lash.TonEnOreiAgio.melody
 ocMA.OdeW8C1H.incipit = he.h.m8_en_UK_lash.TonEnOreiAgio.incipit
 ocMA.OdeW8C1H.text = he.h.m8_en_UK_lash.TonEnOreiAgio.text
 
@@ -491,7 +491,7 @@ ocMA.OdeW8C2T.text = "With your dazzling rays, Mother of God, you make bright th
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.melody
 ocMA.OdeW9C1H.incipit = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
 ocMA.OdeW9C1H.text = he.h.m8_en_UK_lash.EfrixePasaAkoi.text
 

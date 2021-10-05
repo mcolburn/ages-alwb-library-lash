@@ -103,7 +103,7 @@ peMA.C1.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.melody = he.h.m4_en_UK_lash.OPataxasAigypton.melody
 peMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.OPataxasAigypton.incipit
 peMA.Ode1C1H.text = he.h.m4_en_UK_lash.OPataxasAigypton.text
 
@@ -148,7 +148,7 @@ peMA.Ode1C1T.text = "Hail throne of fire, hail lampstand all of gold, hail cloud
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.melody = he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.melody
 peMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.incipit
 peMA.Ode3C1H.text = he.h.m4_en_UK_lash.EstereothiIKardiaMouEnKyrio.text
 
@@ -200,7 +200,7 @@ peMA.Ode3Kathisma2.text = "O Giver of wisdom and Master, when the feast accordin
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.melody = he.h.m4_en_UK_lash.EisakikoaKyrie.melody
 peMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.EisakikoaKyrie.incipit
 peMA.Ode4C1H.text = he.h.m4_en_UK_lash.EisakikoaKyrie.text
 
@@ -242,7 +242,7 @@ peMA.Ode4C1T.text = "The lawgiver saw you as a bush unburned: Daniel recognised 
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C1H.melody = he.h.m4_en_UK_lash.AnateilonMoiKyrie.melody
 peMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.AnateilonMoiKyrie.incipit
 peMA.Ode5C1H.text = he.h.m4_en_UK_lash.AnateilonMoiKyrie.text
 
@@ -284,7 +284,7 @@ peMA.Ode5C1T.text = "O Pure one, we name you gate without passage, field untille
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.melody = he.h.m4_en_UK_lash.MiKatapontisato.melody
 peMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.MiKatapontisato.incipit
 peMA.Ode6C1H.text = he.h.m4_en_UK_lash.MiKatapontisato.text
 
@@ -346,7 +346,7 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C1H.melody = he.h.m4_en_UK_lash.MiParadoisImas.melody
 peMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.MiParadoisImas.incipit
 peMA.Ode7C1H.text = he.h.m4_en_UK_lash.MiParadoisImas.text
 
@@ -388,7 +388,7 @@ peMA.Ode7C1T.text = "After your dread child-birth, holy Mother of God, you were 
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.melody = he.h.m4_en_UK_lash.TaSympantaDespota.melody
 peMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.TaSympantaDespota.incipit
 peMA.Ode8C1H.text = he.h.m4_en_UK_lash.TaSympantaDespota.text
 
@@ -430,7 +430,7 @@ peMA.Ode8C1T.text = "Isaias was cleansed by a coal, proclaiming in advance the s
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode4
-peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.melody = he.h.m4_en_UK_lash.EpoiiseKratos.melody
 peMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.EpoiiseKratos.incipit
 peMA.Ode9C1H.text = he.h.m4_en_UK_lash.EpoiiseKratos.text
 

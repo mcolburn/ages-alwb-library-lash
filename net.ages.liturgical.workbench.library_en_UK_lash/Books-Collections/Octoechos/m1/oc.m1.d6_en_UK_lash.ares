@@ -114,7 +114,7 @@ ocMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m1_en_UK_lash.ToVoithisantiTheo.melody
 ocMA.OdeW1C1H.incipit = he.h.m1_en_UK_lash.ToVoithisantiTheo.incipit
 ocMA.OdeW1C1H.text = he.h.m1_en_UK_lash.ToVoithisantiTheo.text
 
@@ -174,7 +174,7 @@ ocMA.OdeW1C24.text = "You are a safe refuge, wall, protection, harbour and might
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m1_en_UK_lash.StereothitoIKardiaMou.melody
 ocMA.OdeW3C1H.incipit = he.h.m1_en_UK_lash.StereothitoIKardiaMou.incipit
 ocMA.OdeW3C1H.text = he.h.m1_en_UK_lash.StereothitoIKardiaMou.text
 
@@ -234,7 +234,7 @@ ocMA.OdeW3C24.text = "We have gained you, Mother of the Word, as fulfilment of h
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m1_en_UK_lash.EisakikoaKyrieTinAkoin.melody
 ocMA.OdeW4C1H.incipit = he.h.m1_en_UK_lash.EisakikoaKyrieTinAkoin.incipit
 ocMA.OdeW4C1H.text = he.h.m1_en_UK_lash.EisakikoaKyrieTinAkoin.text
 
@@ -294,7 +294,7 @@ ocMA.OdeW4C24.text = ""
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m1_en_UK_lash.ToFaeinonIminExanateilon.melody
 ocMA.OdeW5C1H.incipit = he.h.m1_en_UK_lash.ToFaeinonIminExanateilon.incipit
 ocMA.OdeW5C1H.text = he.h.m1_en_UK_lash.ToFaeinonIminExanateilon.text
 
@@ -354,7 +354,7 @@ ocMA.OdeW5C24.text = "Conceiving in your womb, pure Mother of God, the expiation
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.melody
 ocMA.OdeW6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
 ocMA.OdeW6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
 
@@ -414,7 +414,7 @@ ocMA.OdeW6C24.text = "As you were revealed as the chariot of the spiritual Sun, 
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m1_en_UK_lash.IKaminosSotirEdrosizeto.melody
 ocMA.OdeW7C1H.incipit = he.h.m1_en_UK_lash.IKaminosSotirEdrosizeto.incipit
 ocMA.OdeW7C1H.text = he.h.m1_en_UK_lash.IKaminosSotirEdrosizeto.text
 
@@ -474,7 +474,7 @@ ocMA.OdeW7C24.text = "Hail, joy of believers, and release from grief. Hail, merc
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.melody
 ocMA.OdeW8C1H.incipit = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.incipit
 ocMA.OdeW8C1H.text = he.h.m1_en_UK_lash.TonTousYmnologousEnKamino.text
 
@@ -534,7 +534,7 @@ ocMA.OdeW8C24.text = "A mist of fearful waves troubles me, and so I hasten to th
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m1_en_UK_lash.SeInPerEideMoysis.melody
 ocMA.OdeW9C1H.incipit = he.h.m1_en_UK_lash.SeInPerEideMoysis.incipit
 ocMA.OdeW9C1H.text = he.h.m1_en_UK_lash.SeInPerEideMoysis.text
 

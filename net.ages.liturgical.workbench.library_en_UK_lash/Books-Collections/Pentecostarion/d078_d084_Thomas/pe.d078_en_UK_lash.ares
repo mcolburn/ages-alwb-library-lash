@@ -166,7 +166,7 @@ peMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode1C1H.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.melody
 peMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 peMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
 
@@ -193,7 +193,7 @@ peMA.Ode1C13.text = "Neither death's gates, O Christ, nor the seals of the tomb,
 
 peMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
 peMA.Ode3C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode3C1H.melody = he.h.m1_en_UK_lash.StereosonMeChriste.melody
 peMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.StereosonMeChriste.incipit
 peMA.Ode3C1H.text = he.h.m1_en_UK_lash.StereosonMeChriste.text
 
@@ -222,7 +222,7 @@ peMA.Hypakoe.text = oc.m6.d5_en_UK_lash.ocMA.Kathisma11.text
 
 peMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
 peMA.Ode4C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode4C1H.melody = he.h.m1_en_UK_lash.MegaToMystirion.melody
 peMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.MegaToMystirion.incipit
 peMA.Ode4C1H.text = he.h.m1_en_UK_lash.MegaToMystirion.text
 
@@ -252,7 +252,7 @@ peMA.Ode4C14.text = "Your all-blest tongue is hymned, O Twin, for, being filled 
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode5C1H.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.melody
 peMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
 peMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
 
@@ -276,7 +276,7 @@ peMA.Ode5C13.text = "You showed us that Thomas' unbelief was mother of belief, f
 
 peMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
 peMA.Ode6C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode6C1H.melody = he.h.m1_en_UK_lash.TonProfitinDiesosas.melody
 peMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.TonProfitinDiesosas.incipit
 peMA.Ode6C1H.text = he.h.m1_en_UK_lash.TonProfitinDiesosas.text
 
@@ -320,7 +320,7 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
 peMA.Ode7C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode7C1H.melody = he.h.m1_en_UK_lash.EikoniLatrevein.melody
 peMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.EikoniLatrevein.incipit
 peMA.Ode7C1H.text = he.h.m1_en_UK_lash.EikoniLatrevein.text
 
@@ -350,7 +350,7 @@ peMA.Ode7C14.text = "Fearfully placing his hand, O Christ, in your life-bearing 
 
 peMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
 peMA.Ode8C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode8C1H.melody = he.h.m1_en_UK_lash.TonEnFlogiPyros.melody
 peMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.TonEnFlogiPyros.incipit
 peMA.Ode8C1H.text = he.h.m1_en_UK_lash.TonEnFlogiPyros.text
 
@@ -374,7 +374,7 @@ peMA.Ode8C13.text = "Your curiosity, O Thomas, opened for us the hidden treasure
 
 peMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
 peMA.Ode9C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+peMA.Ode9C1H.melody = he.h.m1_en_UK_lash.SeTinFaeinin.melody
 peMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.SeTinFaeinin.incipit
 peMA.Ode9C1H.text = he.h.m1_en_UK_lash.SeTinFaeinin.text
 

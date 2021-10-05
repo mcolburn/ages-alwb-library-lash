@@ -114,7 +114,7 @@ ocMA.C2.poet = poets_en_UK_lash.IoannouMonachou
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m3_en_UK_lash.OTaYdata.melody
 ocMA.OdeW1C1H.incipit = he.h.m3_en_UK_lash.OTaYdata.incipit
 ocMA.OdeW1C1H.text = he.h.m3_en_UK_lash.OTaYdata.text
 
@@ -168,7 +168,7 @@ ocMA.OdeW1C23.text = "You bore the Word, equal in power to his Begetter and who 
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m3_en_UK_lash.OEkMiOnton.melody
 ocMA.OdeW3C1H.incipit = he.h.m3_en_UK_lash.OEkMiOnton.incipit
 ocMA.OdeW3C1H.text = he.h.m3_en_UK_lash.OEkMiOnton.text
 
@@ -222,7 +222,7 @@ ocMA.OdeW3C23.text = "Mother of God, as you bear in your embrace him who bears a
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m3_en_UK_lash.EthouProsImas.melody
 ocMA.OdeW4C1H.incipit = he.h.m3_en_UK_lash.EthouProsImas.incipit
 ocMA.OdeW4C1H.text = he.h.m3_en_UK_lash.EthouProsImas.text
 
@@ -282,7 +282,7 @@ ocMA.OdeW4C24.text = "At every moment you pour healing from your hand, who are w
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m3_en_UK_lash.EpiTisGis.melody
 ocMA.OdeW5C1H.incipit = he.h.m3_en_UK_lash.EpiTisGis.incipit
 ocMA.OdeW5C1H.text = he.h.m3_en_UK_lash.EpiTisGis.text
 
@@ -336,7 +336,7 @@ ocMA.OdeW5C23.text = "Sanctify my mind and lead my soul to light, O Virgin, and 
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m3_en_UK_lash.AvyssosEschati.melody
 ocMA.OdeW6C1H.incipit = he.h.m3_en_UK_lash.AvyssosEschati.incipit
 ocMA.OdeW6C1H.text = he.h.m3_en_UK_lash.AvyssosEschati.text
 
@@ -390,7 +390,7 @@ ocMA.OdeW6C23.text = "I lament and weep and mourn whenever I consider that dread
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m3_en_UK_lash.ToPrinEikoni.melody
 ocMA.OdeW7C1H.incipit = he.h.m3_en_UK_lash.ToPrinEikoni.incipit
 ocMA.OdeW7C1H.text = he.h.m3_en_UK_lash.ToPrinEikoni.text
 
@@ -444,7 +444,7 @@ ocMA.OdeW7C23.text = "I devoured the fruits of sin and I have met my death; and 
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m3_en_UK_lash.VavyloniaKaminos.melody
 ocMA.OdeW8C1H.incipit = he.h.m3_en_UK_lash.VavyloniaKaminos.incipit
 ocMA.OdeW8C1H.text = he.h.m3_en_UK_lash.VavyloniaKaminos.text
 
@@ -498,7 +498,7 @@ ocMA.OdeW8C23.text = "The workers of wickedness, finding that I had been clothed
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode3
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m3_en_UK_lash.TinEnVatoKaiPyri.melody
 ocMA.OdeW9C1H.incipit = he.h.m3_en_UK_lash.TinEnVatoKaiPyri.incipit
 ocMA.OdeW9C1H.text = he.h.m3_en_UK_lash.TinEnVatoKaiPyri.text
 

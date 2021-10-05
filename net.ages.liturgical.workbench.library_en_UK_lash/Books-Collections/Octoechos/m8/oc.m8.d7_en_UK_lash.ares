@@ -111,7 +111,7 @@ ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
-ocMA.OdeW1C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW1C1H.melody = he.h.m8_en_UK_lash.AsomenToKyrio.melody
 ocMA.OdeW1C1H.incipit = he.h.m8_en_UK_lash.AsomenToKyrio.incipit
 ocMA.OdeW1C1H.text = he.h.m8_en_UK_lash.AsomenToKyrio.text
 
@@ -171,7 +171,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW3C1H.ode = misc_en_UK_lash.Ode3
-ocMA.OdeW3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW3C1H.melody = he.h.m8_en_UK_lash.OStereosasLogo.melody
 ocMA.OdeW3C1H.incipit = he.h.m8_en_UK_lash.OStereosasLogo.incipit
 ocMA.OdeW3C1H.text = he.h.m8_en_UK_lash.OStereosasLogo.text
 
@@ -231,7 +231,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW4C1H.ode = misc_en_UK_lash.Ode4
-ocMA.OdeW4C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW4C1H.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.melody
 ocMA.OdeW4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
 ocMA.OdeW4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
 
@@ -291,7 +291,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW5C1H.ode = misc_en_UK_lash.Ode5
-ocMA.OdeW5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW5C1H.melody = he.h.m8_en_UK_lash.FotisonImas.melody
 ocMA.OdeW5C1H.incipit = he.h.m8_en_UK_lash.FotisonImas.incipit
 ocMA.OdeW5C1H.text = he.h.m8_en_UK_lash.FotisonImas.text
 
@@ -351,7 +351,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW6C1H.ode = misc_en_UK_lash.Ode6
-ocMA.OdeW6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW6C1H.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.melody
 ocMA.OdeW6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 ocMA.OdeW6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
@@ -411,7 +411,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW7C1H.ode = misc_en_UK_lash.Ode7
-ocMA.OdeW7C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW7C1H.melody = he.h.m8_en_UK_lash.PaidesTheoseveis.melody
 ocMA.OdeW7C1H.incipit = he.h.m8_en_UK_lash.PaidesTheoseveis.incipit
 ocMA.OdeW7C1H.text = he.h.m8_en_UK_lash.PaidesTheoseveis.text
 
@@ -471,7 +471,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW8C1H.ode = misc_en_UK_lash.Ode8
-ocMA.OdeW8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW8C1H.melody = he.h.m8_en_UK_lash.OiTheorrimonesPaides.melody
 ocMA.OdeW8C1H.incipit = he.h.m8_en_UK_lash.OiTheorrimonesPaides.incipit
 ocMA.OdeW8C1H.text = he.h.m8_en_UK_lash.OiTheorrimonesPaides.text
 
@@ -531,7 +531,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = misc_en_UK_lash.Mode8
 ocMA.OdeW9C1H.ode = misc_en_UK_lash.Ode9
-ocMA.OdeW9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+ocMA.OdeW9C1H.melody = he.h.m8_en_UK_lash.SeTinApeirogamon.melody
 ocMA.OdeW9C1H.incipit = he.h.m8_en_UK_lash.SeTinApeirogamon.incipit
 ocMA.OdeW9C1H.text = he.h.m8_en_UK_lash.SeTinApeirogamon.text
 
