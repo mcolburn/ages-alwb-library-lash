@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = he.h.m4_en_UK_lash
 
 AfYpsousKatilthes.name = "You came down from above. (NM)"
-AfYpsousKatilthes.incipit = "You came down from above. (NM)…"
+AfYpsousKatilthes.incipit = "You came down from above. …"
 AfYpsousKatilthes.melody = misc_en_UK_lash.Heirmos
 AfYpsousKatilthes.mode = misc_en_UK_lash.Mode4
 AfYpsousKatilthes.ode = misc_en_UK_lash.Ode3
@@ -22,7 +22,7 @@ AkoueKori.ode = misc_en_UK_lash.Ode8
 AkoueKori.text = ""
 
 AnateilonMoiKyrie.name = "Make the light of your commands dawn for me, O Lord. (NM)"
-AnateilonMoiKyrie.incipit = "Make the light of your commands dawn for me, O Lord. (NM)…"
+AnateilonMoiKyrie.incipit = "Make the light of your commands dawn for me, O Lord. …"
 AnateilonMoiKyrie.melody = misc_en_UK_lash.Heirmos
 AnateilonMoiKyrie.mode = misc_en_UK_lash.Mode4
 AnateilonMoiKyrie.ode = misc_en_UK_lash.Ode5
@@ -41,7 +41,7 @@ AnaxAnakton4.text = "Your Spirit, equal in strength, to the Apostles,"
 AnaxAnakton5.text = "As they sing: Glory to your might, O Lord."
 
 AnoixoToStomaMou.name = "I will open my mouth. (NM)"
-AnoixoToStomaMou.incipit = "I will open my mouth. (NM)…"
+AnoixoToStomaMou.incipit = "I will open my mouth. …"
 AnoixoToStomaMou.melody = misc_en_UK_lash.Heirmos
 AnoixoToStomaMou.mode = misc_en_UK_lash.Mode4
 AnoixoToStomaMou.ode = misc_en_UK_lash.Ode1
@@ -69,14 +69,14 @@ AnoixoToStomaMou_Syllipsis.ode = misc_en_UK_lash.Ode1
 AnoixoToStomaMou_Syllipsis.text = ""
 
 ApasGigenis.name = "Let all born of earth. (NM)"
-ApasGigenis.incipit = "Let all born of earth. (NM)…"
+ApasGigenis.incipit = "Let all born of earth. …"
 ApasGigenis.melody = misc_en_UK_lash.Heirmos
 ApasGigenis.mode = misc_en_UK_lash.Mode4
 ApasGigenis.ode = misc_en_UK_lash.Ode9
 ApasGigenis.text = "Let all born of earth bearing torches, in spirit leap for joy; let the nature of the immaterial spirits honour and celebrate the wondrous sacred festival of the Mother of God, and let them cry: Hail, all-blessed Mother of God, pure and Ever-Virgin!"
 
 ApasGigenis_Akathist.name = "Let all born of earth. (NM)"
-ApasGigenis_Akathist.incipit = "Let all born of earth. (NM)…"
+ApasGigenis_Akathist.incipit = "Let all born of earth. …"
 ApasGigenis_Akathist.melody = misc_en_UK_lash.Heirmos
 ApasGigenis_Akathist.mode = misc_en_UK_lash.Mode4
 ApasGigenis_Akathist.ode = misc_en_UK_lash.Ode9
@@ -104,7 +104,7 @@ ArmataFarao.ode = misc_en_UK_lash.Ode1
 ArmataFarao.text = ""
 
 AseveisOukOpsontai.name = "The impious will not see your glory. (NM)"
-AseveisOukOpsontai.incipit = "The impious will not see your glory. (NM)…"
+AseveisOukOpsontai.incipit = "The impious will not see your glory. …"
 AseveisOukOpsontai.melody = misc_en_UK_lash.Heirmos
 AseveisOukOpsontai.mode = misc_en_UK_lash.Mode4
 AseveisOukOpsontai.ode = misc_en_UK_lash.Ode5
@@ -118,7 +118,7 @@ AsomaiSoiKyrie.ode = misc_en_UK_lash.Ode1
 AsomaiSoiKyrie.text = ""
 
 AvramiaioiPote.name = "Abraham's Children once. (NM)"
-AvramiaioiPote.incipit = "Abraham's Children once. (NM)…"
+AvramiaioiPote.incipit = "Abraham's Children once. …"
 AvramiaioiPote.melody = misc_en_UK_lash.Heirmos
 AvramiaioiPote.mode = misc_en_UK_lash.Mode4
 AvramiaioiPote.ode = misc_en_UK_lash.Ode7
@@ -137,7 +137,7 @@ ChairoisAnassa4.text = "But every mind is dizzy when it seeks to understand"
 ChairoisAnassa5.text = "Your giving birth; therefore with one accord we glorify you."
 
 CheirasEkpetasasDaniil.name = "Stretching out his hands. (NM)"
-CheirasEkpetasasDaniil.incipit = "Stretching out his hands. (NM)…"
+CheirasEkpetasasDaniil.incipit = "Stretching out his hands. …"
 CheirasEkpetasasDaniil.notmetered = "N/M (Daniel shut.)"
 CheirasEkpetasasDaniil.melody = misc_en_UK_lash.Heirmos
 CheirasEkpetasasDaniil.mode = misc_en_UK_lash.Mode4
@@ -152,21 +152,21 @@ ChoroiIsrail.ode = misc_en_UK_lash.Ode1
 ChoroiIsrail.text = ""
 
 ChristosOErchomenos.name = "Christ who comes manifestly. (NM)"
-ChristosOErchomenos.incipit = "Christ who comes manifestly. (NM)…"
+ChristosOErchomenos.incipit = "Christ who comes manifestly. …"
 ChristosOErchomenos.melody = misc_en_UK_lash.Heirmos
 ChristosOErchomenos.mode = misc_en_UK_lash.Mode4
 ChristosOErchomenos.ode = misc_en_UK_lash.Ode4
 ChristosOErchomenos.text = "Christ who comes manifestly as our God will comes and will not delay from a mountain overshadowed by forest, a Maiden who gives birth without knowledge of man, said the Prophet of old. Therefore let us all cry out, 'Glory to your power, O Lord!'"
 
 DiAgapisinOiktirmon.name = "Through love of your image. (NM)"
-DiAgapisinOiktirmon.incipit = "Through love of your image. (NM)…"
+DiAgapisinOiktirmon.incipit = "Through love of your image. …"
 DiAgapisinOiktirmon.melody = misc_en_UK_lash.Heirmos
 DiAgapisinOiktirmon.mode = misc_en_UK_lash.Mode4
 DiAgapisinOiktirmon.ode = misc_en_UK_lash.Ode4
 DiAgapisinOiktirmon.text = "Through love of your image, O Merciful, you were nailed to a Cross, and the nations melted away in fear; for you, O Lover of mankind, are my strength and my song."
 
 EffrainetaiEpiSoi.name = "Your Church… rejoices. (NM)"
-EffrainetaiEpiSoi.incipit = "Your Church… rejoices. (NM)…"
+EffrainetaiEpiSoi.incipit = "Your Church… rejoices. …"
 EffrainetaiEpiSoi.notmetered = "N/M (Your Church rejoices.)"
 EffrainetaiEpiSoi.melody = misc_en_UK_lash.Heirmos
 EffrainetaiEpiSoi.mode = misc_en_UK_lash.Mode4
@@ -174,21 +174,21 @@ EffrainetaiEpiSoi.ode = misc_en_UK_lash.Ode3
 EffrainetaiEpiSoi.text = "Your Church, O Christ, rejoices in you and cries: You, Lord, are my strength, my refuge and my firmament."
 
 EffranthitiIerousalim.name = "Rejoice, Jerusalem. (NM)"
-EffranthitiIerousalim.incipit = "Rejoice, Jerusalem. (NM)…"
+EffranthitiIerousalim.incipit = "Rejoice, Jerusalem. …"
 EffranthitiIerousalim.melody = misc_en_UK_lash.Heirmos
 EffranthitiIerousalim.mode = misc_en_UK_lash.Mode4
 EffranthitiIerousalim.ode = misc_en_UK_lash.Ode8
 EffranthitiIerousalim.text = "Rejoice, Jerusalem, and keep festival all who love Sion. For the Lord of Powers who reigns over the ages has come. Let the whole earth stand in reverence before his face, and let it cry aloud, 'All you his works, praise the Lord'."
 
 EisakikoaKyrie.name = "I heard of your coming. (NM)"
-EisakikoaKyrie.incipit = "I heard of your coming. (NM)…"
+EisakikoaKyrie.incipit = "I heard of your coming. …"
 EisakikoaKyrie.melody = misc_en_UK_lash.Heirmos
 EisakikoaKyrie.mode = misc_en_UK_lash.Mode4
 EisakikoaKyrie.ode = misc_en_UK_lash.Ode4
 EisakikoaKyrie.text = "I heard your report, Lord, and was afraid: I knew your works and I was astounded, for the earth is full of your praise." //"I heard of your coming, Lord, and was afraid; I knew your works, Lord, and was amazed, for the earth is full of your praise."
 
 EisakikoaOTheos.name = "I heard your report, O God. (NM)"
-EisakikoaOTheos.incipit = "I heard your report, O God. (NM)…"
+EisakikoaOTheos.incipit = "I heard your report, O God. …"
 EisakikoaOTheos.melody = misc_en_UK_lash.Heirmos
 EisakikoaOTheos.mode = misc_en_UK_lash.Mode4
 EisakikoaOTheos.ode = misc_en_UK_lash.Ode4
@@ -223,7 +223,7 @@ EklinasChriste.ode = misc_en_UK_lash.Ode4
 EklinasChriste.text = ""
 
 EnFlogiPyros.name = "Cherubim and Seraphim stand round you, Lord, in a fire of flame. (NM)"
-EnFlogiPyros.incipit = "Cherubim and Seraphim stand round you, Lord, in a fire of flame. (NM)…"
+EnFlogiPyros.incipit = "Cherubim and Seraphim stand round you, Lord, in a fire of flame. …"
 EnFlogiPyros.melody = misc_en_UK_lash.Heirmos
 EnFlogiPyros.mode = misc_en_UK_lash.Mode4
 EnFlogiPyros.ode = misc_en_UK_lash.Ode8
@@ -244,14 +244,14 @@ EnKyrioTheoMou.ode = misc_en_UK_lash.Ode3
 EnKyrioTheoMou.text = ""
 
 EnPelageiTouViou.name = "On the sea of life. (NM)"
-EnPelageiTouViou.incipit = "On the sea of life. (NM)…"
+EnPelageiTouViou.incipit = "On the sea of life. …"
 EnPelageiTouViou.melody = misc_en_UK_lash.Heirmos
 EnPelageiTouViou.mode = misc_en_UK_lash.Mode4
 EnPelageiTouViou.ode = misc_en_UK_lash.Ode6
 EnPelageiTouViou.text = "On the sea of life I have descended to the deep by my actions; but like Jonas from the whale so I cry out to you: Lead me up I beg from the deep of evils, O Son and Word of God."
 
 EnTiKaminoAvramiaioi.name = "The Children of Abraham. (NM)"
-EnTiKaminoAvramiaioi.incipit = "The Children of Abraham. (NM)…"
+EnTiKaminoAvramiaioi.incipit = "The Children of Abraham. …"
 EnTiKaminoAvramiaioi.notmetered = "N/M (Inside the furnace.)"
 EnTiKaminoAvramiaioi.melody = misc_en_UK_lash.Heirmos
 EnTiKaminoAvramiaioi.mode = misc_en_UK_lash.Mode4
@@ -266,7 +266,7 @@ EnToThlivesthaiMe.ode = misc_en_UK_lash.Ode6
 EnToThlivesthaiMe.text = ""
 
 EparthentaSeIdousa.name = "Seeing you, the Sun of righteousness. (NM)"
-EparthentaSeIdousa.incipit = "Seeing you, the Sun of righteousness. (NM)…"
+EparthentaSeIdousa.incipit = "Seeing you, the Sun of righteousness. …"
 EparthentaSeIdousa.notmetered = "N/M (When the Church.)"
 EparthentaSeIdousa.melody = misc_en_UK_lash.Heirmos
 EparthentaSeIdousa.mode = misc_en_UK_lash.Mode4
@@ -274,7 +274,7 @@ EparthentaSeIdousa.ode = misc_en_UK_lash.Ode4
 EparthentaSeIdousa.text = "Seeing you, the Sun of righteousness, raised upon the Cross, the Church stands in order and fittingly cries out: Glory to your power, O Lord!"
 
 EpoiiseKratos.name = "He has shown strength with his arm. (NM)"
-EpoiiseKratos.incipit = "He has shown strength with his arm. (NM)…"
+EpoiiseKratos.incipit = "He has shown strength with his arm. …"
 EpoiiseKratos.melody = misc_en_UK_lash.Heirmos
 EpoiiseKratos.mode = misc_en_UK_lash.Mode4
 EpoiiseKratos.ode = misc_en_UK_lash.Ode9
@@ -300,14 +300,14 @@ EstereothiIKardiaMou.ode = misc_en_UK_lash.Ode3
 EstereothiIKardiaMou.text = ""
 
 EstereothiIKardiaMouEnKyrio.name = "My heart is established. (NM)"
-EstereothiIKardiaMouEnKyrio.incipit = "My heart is established. (NM)…"
+EstereothiIKardiaMouEnKyrio.incipit = "My heart is established. …"
 EstereothiIKardiaMouEnKyrio.melody = misc_en_UK_lash.Heirmos
 EstereothiIKardiaMouEnKyrio.mode = misc_en_UK_lash.Mode4
 EstereothiIKardiaMouEnKyrio.ode = misc_en_UK_lash.Ode3
 EstereothiIKardiaMouEnKyrio.text = "My heart is established in the Lord, who grants the prayer of him who prays; for He has weakened the mighty bow, and the weak are girded with power."
 
 EvaMenToTisParakois.name = "Eve by the sickness of disobedience. (NM)"
-EvaMenToTisParakois.incipit = "Eve by the sickness of disobedience. (NM)…"
+EvaMenToTisParakois.incipit = "Eve by the sickness of disobedience. …"
 EvaMenToTisParakois.melody = misc_en_UK_lash.Heirmos
 EvaMenToTisParakois.mode = misc_en_UK_lash.Mode4
 EvaMenToTisParakois.ode = misc_en_UK_lash.Ode9
@@ -328,21 +328,21 @@ EvlogitosEiOTheos.ode = misc_en_UK_lash.Ode7
 EvlogitosEiOTheos.text = ""
 
 EvoisanEnEffrosyni.name = "The spirits of the Just. (NM)"
-EvoisanEnEffrosyni.incipit = "The spirits of the Just. (NM)…"
+EvoisanEnEffrosyni.incipit = "The spirits of the Just. …"
 EvoisanEnEffrosyni.melody = misc_en_UK_lash.Heirmos
 EvoisanEnEffrosyni.mode = misc_en_UK_lash.Mode4
 EvoisanEnEffrosyni.ode = misc_en_UK_lash.Ode6
 EvoisanEnEffrosyni.text = "The spirits of the Just cried out in joy, 'Now the new covenant is being granted to the world. And let a people be made new through sprinkling with divine Blood."
 
 EvoiseProtypon.name = "Prefiguring your burial. (NM)"
-EvoiseProtypon.incipit = "Prefiguring your burial. (NM)…"
+EvoiseProtypon.incipit = "Prefiguring your burial. …"
 EvoiseProtypon.melody = misc_en_UK_lash.Heirmos
 EvoiseProtypon.mode = misc_en_UK_lash.Mode4
 EvoiseProtypon.ode = misc_en_UK_lash.Ode6
 EvoiseProtypon.text = "Prefiguring your burial for three days, the Prophet Jonas, as he prayed within the whale, cried out, Deliver me from corruption, Jesus, Kings of Powers!"
 
 ExestiTaSympanta.name = "The universe was amazed. (NM)"
-ExestiTaSympanta.incipit = "The universe was amazed. (NM)…"
+ExestiTaSympanta.incipit = "The universe was amazed. …"
 ExestiTaSympanta.melody = misc_en_UK_lash.Heirmos
 ExestiTaSympanta.mode = misc_en_UK_lash.Mode4
 ExestiTaSympanta.ode = misc_en_UK_lash.Ode5
@@ -382,21 +382,21 @@ IlasmosIminChriste4.text = "Of the sea beast, you might snatch from corruption"
 IlasmosIminChriste5.text = "The whole fallen race of Adam."
 
 IlthonEisTaVathi.name = "I entered the depths. (NM)"
-IlthonEisTaVathi.incipit = "I entered the depths. (NM)…"
+IlthonEisTaVathi.incipit = "I entered the depths. …"
 IlthonEisTaVathi.melody = misc_en_UK_lash.Heirmos
 IlthonEisTaVathi.mode = misc_en_UK_lash.Mode4
 IlthonEisTaVathi.ode = misc_en_UK_lash.Ode6
 IlthonEisTaVathi.text = "I entered the depths of the sea, and a storm of many sins drowned me; but as God lead my life back from corruption, as you love mankind." //I have come to the depths of the sea, and a storm of many sins has drowned me; but as God lead my life back from corruption, as you love mankind.
 
 KryptonTheionAchranton.name = "Hidden, divine. (NM)"
-KryptonTheionAchranton.incipit = "Hidden, divine. (NM)…"
+KryptonTheionAchranton.incipit = "Hidden, divine. …"
 KryptonTheionAchranton.melody = misc_en_UK_lash.Heirmos
 KryptonTheionAchranton.mode = misc_en_UK_lash.Mode4
 KryptonTheionAchranton.ode = misc_en_UK_lash.Ode9
 KryptonTheionAchranton.text = ""
 
 LithosAcheirotmitos.name = "A Stone not cut. (NM)"
-LithosAcheirotmitos.incipit = "A Stone not cut. (NM)…"
+LithosAcheirotmitos.incipit = "A Stone not cut. …"
 LithosAcheirotmitos.notmetered = "N/M (A cornerstone.)"
 LithosAcheirotmitos.melody = misc_en_UK_lash.Heirmos
 LithosAcheirotmitos.mode = misc_en_UK_lash.Mode4
@@ -435,7 +435,7 @@ LytirionKatharsin4.text = "For now a law has gone out from Sion,"
 LytirionKatharsin5.text = "The torch-tongue-formed grace of the Spirit."
 
 LytrotaTouPantos.name = "All-powerful Redeemer of all. (NM)"
-LytrotaTouPantos.incipit = "All-powerful Redeemer of all. (NM)…"
+LytrotaTouPantos.incipit = "All-powerful Redeemer of all. …"
 LytrotaTouPantos.melody = misc_en_UK_lash.Heirmos
 LytrotaTouPantos.mode = misc_en_UK_lash.Mode4
 LytrotaTouPantos.ode = misc_en_UK_lash.Ode8
@@ -456,14 +456,14 @@ MetaTokonSeAgni.ode = misc_en_UK_lash.Ode9
 MetaTokonSeAgni.text = ""
 
 MiKatapontisato.name = "Let not the stormy waters. (NM)"
-MiKatapontisato.incipit = "Let not the stormy waters. (NM)…"
+MiKatapontisato.incipit = "Let not the stormy waters. …"
 MiKatapontisato.melody = misc_en_UK_lash.Heirmos
 MiKatapontisato.mode = misc_en_UK_lash.Mode4
 MiKatapontisato.ode = misc_en_UK_lash.Ode6
 MiKatapontisato.text = "Let not the stormy waters drown me, let not the deep swallow me up: for I have been cast into the depths of the heart of the sea of my evils; therefore I cry to you as Jonas: May my life ascend from corruption to you, our God."
 
 MiParadoisImas.name = "Do not hand us over. (NM)"
-MiParadoisImas.incipit = "Do not hand us over. (NM)…"
+MiParadoisImas.incipit = "Do not hand us over. …"
 MiParadoisImas.melody = misc_en_UK_lash.Heirmos
 MiParadoisImas.mode = misc_en_UK_lash.Mode4
 MiParadoisImas.ode = misc_en_UK_lash.Ode7
@@ -477,21 +477,21 @@ MoysisEnToOrei.ode = misc_en_UK_lash.Ode9
 MoysisEnToOrei.text = ""
 
 NaousanAkrotomon.name = "The Israelite people drew water. (NM)"
-NaousanAkrotomon.incipit = "The Israelite people drew water. (NM)…"
+NaousanAkrotomon.incipit = "The Israelite people drew water. …"
 NaousanAkrotomon.melody = misc_en_UK_lash.Heirmos
 NaousanAkrotomon.mode = misc_en_UK_lash.Mode4
 NaousanAkrotomon.ode = misc_en_UK_lash.Ode3
 NaousanAkrotomon.text = "The Israelite people drew water from solid rock, at your command become a flowing stream. You are the rock and life, O Christ, on which the Church has been established as she cries, 'Hosanna! Blessed are you who come'."
 
 NeoiTreisEnVavyloni.name = "Three Youths in Babylon. (NM)"
-NeoiTreisEnVavyloni.incipit = "Three Youths in Babylon. (NM)…"
+NeoiTreisEnVavyloni.incipit = "Three Youths in Babylon. …"
 NeoiTreisEnVavyloni.melody = misc_en_UK_lash.Heirmos
 NeoiTreisEnVavyloni.mode = misc_en_UK_lash.Mode4
 NeoiTreisEnVavyloni.ode = misc_en_UK_lash.Ode7
 NeoiTreisEnVavyloni.text = "Three Youths in Babylon held the tyrant's command as idle chatter, and in the midst of the fire they cried aloud: Blessed are you, the God of our fathers."
 
 NynAnastisomai.name = "Now I will arise. (NM)"
-NynAnastisomai.incipit = "Now I will arise. (NM)…"
+NynAnastisomai.incipit = "Now I will arise. …"
 NynAnastisomai.melody = misc_en_UK_lash.Heirmos
 NynAnastisomai.mode = misc_en_UK_lash.Mode4
 NynAnastisomai.ode = misc_en_UK_lash.Ode5
@@ -505,7 +505,7 @@ OAnateilasToFos.ode = misc_en_UK_lash.Ode5
 OAnateilasToFos.text = ""
 
 ODiasosasEnPyri.name = "You who saved the Children of Abraham. (NM)"
-ODiasosasEnPyri.incipit = "You who saved the Children of Abraham. (NM)…"
+ODiasosasEnPyri.incipit = "You who saved the Children of Abraham. …"
 ODiasosasEnPyri.melody = misc_en_UK_lash.Heirmos
 ODiasosasEnPyri.mode = misc_en_UK_lash.Mode4
 ODiasosasEnPyri.ode = misc_en_UK_lash.Ode7
@@ -526,7 +526,7 @@ OEnToOreiToMosei.ode = misc_en_UK_lash.Ode7
 OEnToOreiToMosei.text = ""
 
 OKathimenosEnDoxi.name = "The One enthroned in glory. (NM)"
-OKathimenosEnDoxi.incipit = "The One enthroned in glory. (NM)…"
+OKathimenosEnDoxi.incipit = "The One enthroned in glory. …"
 OKathimenosEnDoxi.melody = misc_en_UK_lash.Heirmos
 OKathimenosEnDoxi.mode = misc_en_UK_lash.Mode4
 OKathimenosEnDoxi.ode = misc_en_UK_lash.Ode4
@@ -540,14 +540,14 @@ OKtisamenosImas.ode = misc_en_UK_lash.Ode5
 OKtisamenosImas.text = ""
 
 OPataxasAigypton.name = "By smiting Egypt. (NM)"
-OPataxasAigypton.incipit = "By smiting Egypt. (NM)…"
+OPataxasAigypton.incipit = "By smiting Egypt. …"
 OPataxasAigypton.melody = misc_en_UK_lash.Heirmos
 OPataxasAigypton.mode = misc_en_UK_lash.Mode4
 OPataxasAigypton.ode = misc_en_UK_lash.Ode1
 OPataxasAigypton.text = "By smiting Egypt and drowning the tyrant Pharaoh in the sea you saved a people from slavery who sang like Moses a song of victory, for he has been glorified."
 
 OStereonVrontin.name = "Lord, who establish the thunder. (NM)"
-OStereonVrontin.incipit = "Lord, who establish the thunder. (NM)…"
+OStereonVrontin.incipit = "Lord, who establish the thunder. …"
 OStereonVrontin.melody = misc_en_UK_lash.Heirmos
 OStereonVrontin.mode = misc_en_UK_lash.Mode4
 OStereonVrontin.ode = misc_en_UK_lash.Ode3
@@ -561,7 +561,7 @@ OTaSympantaFeron.ode = misc_en_UK_lash.Ode8
 OTaSympantaFeron.text = ""
 
 OTokosSouAfthoros.name = "Your child-bearing was declared. (NM)"
-OTokosSouAfthoros.incipit = "Your child-bearing was declared. (NM)…"
+OTokosSouAfthoros.incipit = "Your child-bearing was declared. …"
 OTokosSouAfthoros.melody = misc_en_UK_lash.Heirmos
 OTokosSouAfthoros.mode = misc_en_UK_lash.Mode4
 OTokosSouAfthoros.ode = misc_en_UK_lash.Ode9
@@ -582,7 +582,7 @@ OTouFotosDiatmixas.ode = misc_en_UK_lash.Ode5
 OTouFotosDiatmixas.text = ""
 
 OfthisanAiPigai.name = "The springs of the abyss. (NM)"
-OfthisanAiPigai.incipit = "The springs of the abyss. (NM)…"
+OfthisanAiPigai.incipit = "The springs of the abyss. …"
 OfthisanAiPigai.melody = misc_en_UK_lash.Heirmos
 OfthisanAiPigai.mode = misc_en_UK_lash.Mode4
 OfthisanAiPigai.ode = misc_en_UK_lash.Ode1
@@ -631,21 +631,21 @@ OtiEpoiiseMoiMegaleia.ode = misc_en_UK_lash.Ode9
 OtiEpoiiseMoiMegaleia.text = ""
 
 OtiSteiraEteken.name = "Because the barren (NM)."
-OtiSteiraEteken.incipit = "Because the barren (NM)…"
+OtiSteiraEteken.incipit = "Because the barren …"
 OtiSteiraEteken.melody = misc_en_UK_lash.Heirmos
 OtiSteiraEteken.mode = misc_en_UK_lash.Mode4
 OtiSteiraEteken.ode = misc_en_UK_lash.Ode3
 OtiSteiraEteken.text = "‘Because the barren, the Church from the Nations, has given birth, and she who had many children, the synagogue, has grown weak; to our wondrous God let us cry: Holy are you, O Lord’."
 
 OukElatrefsan.name = "The godlike Youths. (NM)"
-OukElatrefsan.incipit = "The godlike Youths. (NM)…"
+OukElatrefsan.incipit = "The godlike Youths. …"
 OukElatrefsan.melody = misc_en_UK_lash.Heirmos
 OukElatrefsan.mode = misc_en_UK_lash.Mode4
 OukElatrefsan.ode = misc_en_UK_lash.Ode7
 OukElatrefsan.text = "The godlike Children did not worship creation instead of the Creator, but bravely trampling on the threat of fire, rejoicing they sang: O highly exalted Lord and God of our fathers, blessed are you!"
 
 OukEnSofia.name = "Let us not boast. (NM)"
-OukEnSofia.incipit = "Let us not boast. (NM)…"
+OukEnSofia.incipit = "Let us not boast. …"
 OukEnSofia.melody = misc_en_UK_lash.Heirmos
 OukEnSofia.mode = misc_en_UK_lash.Mode4
 OukEnSofia.ode = misc_en_UK_lash.Ode3
@@ -666,7 +666,7 @@ OutosOTheosImon.ode = misc_en_UK_lash.Ode4
 OutosOTheosImon.text = ""
 
 PaidasEvageis.name = "The Offspring of the Mother of God. (NM)"
-PaidasEvageis.incipit = "The Offspring of the Mother of God. (NM)…"
+PaidasEvageis.incipit = "The Offspring of the Mother of God. …"
 PaidasEvageis.melody = misc_en_UK_lash.Heirmos
 PaidasEvageis.mode = misc_en_UK_lash.Mode4
 PaidasEvageis.ode = misc_en_UK_lash.Ode8
@@ -708,7 +708,7 @@ SeTinYperendoxonNymfin.ode = misc_en_UK_lash.Ode9
 SeTinYperendoxonNymfin.text = ""
 
 SyKyrieMouFos.name = "You, Lord, my light. (NM)"
-SyKyrieMouFos.incipit = "You, Lord, my light. (NM)…"
+SyKyrieMouFos.incipit = "You, Lord, my light. …"
 SyKyrieMouFos.notmetered = "N/M (My Lord, You are the light.)"
 SyKyrieMouFos.melody = misc_en_UK_lash.Heirmos
 SyKyrieMouFos.mode = misc_en_UK_lash.Mode4
@@ -728,7 +728,7 @@ SymfononEthroisen4.text = "Inspires with reverence to cry: Only Trinity,"
 SymfononEthroisen5.text = "Equal in strength, without beginning, blessed are you."
 
 TaSympantaDespota.name = "You established the universe. (NM)"
-TaSympantaDespota.incipit = "You established the universe. (NM)…"
+TaSympantaDespota.incipit = "You established the universe. …"
 TaSympantaDespota.melody = misc_en_UK_lash.Heirmos
 TaSympantaDespota.mode = misc_en_UK_lash.Mode4
 TaSympantaDespota.ode = misc_en_UK_lash.Ode8
@@ -755,14 +755,14 @@ TheioKalyftheis4.text = "He sees the One Who Is, and is initiated"
 TheioKalyftheis5.text = "Into knowledge of the Spirit, as he gives praise with songs inspired."
 
 TheosKyriosKaiEpefanenImin.name = "The Lord is God. (NM)"
-TheosKyriosKaiEpefanenImin.incipit = "The Lord is God. (NM)…"
+TheosKyriosKaiEpefanenImin.incipit = "The Lord is God. …"
 TheosKyriosKaiEpefanenImin.melody = misc_en_UK_lash.Heirmos
 TheosKyriosKaiEpefanenImin.mode = misc_en_UK_lash.Mode4
 TheosKyriosKaiEpefanenImin.ode = misc_en_UK_lash.Ode9
 TheosKyriosKaiEpefanenImin.text = "The Lord is God and has appeared to us. Together celebrate a feast, and rejoicing, come, let us magnify Christ with palms and branches as we cry out in hymns, 'Blessed is he who comes in the name of the Lord, our Saviour'."
 
 ThysoSoiMetaFonis.name = "I will sacrifice to you. (NM)"
-ThysoSoiMetaFonis.incipit = "I will sacrifice to you. (NM)…"
+ThysoSoiMetaFonis.incipit = "I will sacrifice to you. …"
 ThysoSoiMetaFonis.notmetered = "N/M (I will sacrifice to You.)"
 ThysoSoiMetaFonis.melody = misc_en_UK_lash.Heirmos
 ThysoSoiMetaFonis.mode = misc_en_UK_lash.Mode4
@@ -770,28 +770,28 @@ ThysoSoiMetaFonis.ode = misc_en_UK_lash.Ode6
 ThysoSoiMetaFonis.text = "I will sacrifice to you with a voice of praise, O Lord, the Church cries to you, cleansed from the gore of demons by the Blood which flowed through pity from your side."
 
 TiEikoniTiChrysi.name = "The Children of Abraham who did not worship the golden image. (NM)"
-TiEikoniTiChrysi.incipit = "The Children of Abraham who did not worship the golden image. (NM)…"
+TiEikoniTiChrysi.incipit = "The Children of Abraham who did not worship the golden image. …"
 TiEikoniTiChrysi.melody = misc_en_UK_lash.Heirmos
 TiEikoniTiChrysi.mode = misc_en_UK_lash.Mode4
 TiEikoniTiChrysi.ode = misc_en_UK_lash.Ode7
 TiEikoniTiChrysi.text = "The Children of Abraham who did not worship the golden image were tried as gold in a smelting-furnace; for in the furnace of fire as in a bridal chamber filled with light they danced and cried: Blessed is the God of our fathers!"
 
 TinAnexichniaston.name = "Realising the unsearchable. (NM)"
-TinAnexichniaston.incipit = "Realising the unsearchable. (NM)…"
+TinAnexichniaston.incipit = "Realising the unsearchable. …"
 TinAnexichniaston.melody = misc_en_UK_lash.Heirmos
 TinAnexichniaston.mode = misc_en_UK_lash.Mode4
 TinAnexichniaston.ode = misc_en_UK_lash.Ode4
 TinAnexichniaston.text = "The Prophet Avvakoum, understanding the unsearchable divine counsel of your incarnation from the Virgin, O Most High, cried out: Glory to your power, O Lord."
 
 TinSionEpOrous.name = "You that bring good tidings to Sion. (NM)"
-TinSionEpOrous.incipit = "You that bring good tidings to Sion. (NM)…"
+TinSionEpOrous.incipit = "You that bring good tidings to Sion. …"
 TinSionEpOrous.melody = misc_en_UK_lash.Heirmos
 TinSionEpOrous.mode = misc_en_UK_lash.Mode4
 TinSionEpOrous.ode = misc_en_UK_lash.Ode5
 TinSionEpOrous.text = "You that bring good tidings to Sion, go up onto a mountain, and you that preach to Jerusalem, lift up your voice with strength. Glorious things have been said of you, City of God. Peace upon Israel and salvation to the nations."
 
 TinTheianTaftin.name = "Come godly-minded people. (NM)"
-TinTheianTaftin.incipit = "Come godly-minded people. (NM)…"
+TinTheianTaftin.incipit = "Come godly-minded people. …"
 TinTheianTaftin.melody = misc_en_UK_lash.Heirmos
 TinTheianTaftin.mode = misc_en_UK_lash.Mode4
 TinTheianTaftin.ode = misc_en_UK_lash.Ode6
@@ -861,7 +861,7 @@ TonEnToStavroSarki.ode = misc_en_UK_lash.Ode8
 TonEnToStavroSarki.text = ""
 
 TonFotismonSouKyrie.name = "Send down your illumination. (NM)"
-TonFotismonSouKyrie.incipit = "Send down your illumination. (NM)…"
+TonFotismonSouKyrie.incipit = "Send down your illumination. …"
 TonFotismonSouKyrie.melody = misc_en_UK_lash.Heirmos
 TonFotismonSouKyrie.mode = misc_en_UK_lash.Mode4
 TonFotismonSouKyrie.ode = misc_en_UK_lash.Ode5
@@ -889,7 +889,7 @@ TousOuranousIAretiSou.ode = misc_en_UK_lash.Ode4
 TousOuranousIAretiSou.text = ""
 
 TousSousYmnologous.name = "O Mother of God. (NM)"
-TousSousYmnologous.incipit = "O Mother of God. (NM)…"
+TousSousYmnologous.incipit = "O Mother of God. …"
 TousSousYmnologous.melody = misc_en_UK_lash.Heirmos
 TousSousYmnologous.mode = misc_en_UK_lash.Mode4
 TousSousYmnologous.ode = misc_en_UK_lash.Ode3
@@ -917,14 +917,14 @@ TousSousYmnologous_Syllipsis.ode = misc_en_UK_lash.Ode3
 TousSousYmnologous_Syllipsis.text = ""
 
 ToxonDynatonIsthenise.name = "He weakened the bow. (NM)"
-ToxonDynatonIsthenise.incipit = "He weakened the bow. (NM)…"
+ToxonDynatonIsthenise.incipit = "He weakened the bow. …"
 ToxonDynatonIsthenise.melody = misc_en_UK_lash.Heirmos
 ToxonDynatonIsthenise.mode = misc_en_UK_lash.Mode4
 ToxonDynatonIsthenise.ode = misc_en_UK_lash.Ode3
 ToxonDynatonIsthenise.text = "He weakened the bow of the powerful, and the weak girded themselves with power; therefore my heart is established in the Lord."
 
 TristatasKrataious.name = "Mighty captains. (NM)"
-TristatasKrataious.incipit = "Mighty captains. (NM)…"
+TristatasKrataious.incipit = "Mighty captains. …"
 TristatasKrataious.melody = misc_en_UK_lash.Heirmos
 TristatasKrataious.mode = misc_en_UK_lash.Mode4
 TristatasKrataious.ode = misc_en_UK_lash.Ode1
