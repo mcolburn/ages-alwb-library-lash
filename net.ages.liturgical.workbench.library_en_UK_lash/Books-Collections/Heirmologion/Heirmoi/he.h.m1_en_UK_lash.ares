@@ -103,12 +103,19 @@ EkNyktosErgon3.text = ""
 EkNyktosErgon4.text = ""
 EkNyktosErgon5.text = ""
 
-EkNyktosOrthrizontes.name = "Rising in the night. (NM)"
-EkNyktosOrthrizontes.incipit = "Rising in the night. …"
+EkNyktosOrthrizontes.name = "(NM)"
+EkNyktosOrthrizontes.incipit = "…"
 EkNyktosOrthrizontes.melody = misc_en_UK_lash.Heirmos
 EkNyktosOrthrizontes.mode = misc_en_UK_lash.Mode1
 EkNyktosOrthrizontes.ode = misc_en_UK_lash.Ode5
-EkNyktosOrthrizontes.text = "Rising in the night we hymn you, O Christ, without beginning with the Father, and the Saviour of our souls. Grant the world peace, O Lover of mankind."
+EkNyktosOrthrizontes.text = ""
+
+EkNyktosOrthrizontesYmnoumenSe.name = "Rising in the night. (NM)"
+EkNyktosOrthrizontesYmnoumenSe.incipit = "Rising in the night. …"
+EkNyktosOrthrizontesYmnoumenSe.melody = misc_en_UK_lash.Heirmos
+EkNyktosOrthrizontesYmnoumenSe.mode = misc_en_UK_lash.Mode1
+EkNyktosOrthrizontesYmnoumenSe.ode = misc_en_UK_lash.Ode5
+EkNyktosOrthrizontesYmnoumenSe.text = "Rising in the night we hymn you, O Christ, without beginning with the Father, and the Saviour of our souls. Grant the world peace, O Lover of mankind."
 
 EkyklosenImas.name = "The deepest abyss. (NM)"
 EkyklosenImas.incipit = "The deepest abyss. …"

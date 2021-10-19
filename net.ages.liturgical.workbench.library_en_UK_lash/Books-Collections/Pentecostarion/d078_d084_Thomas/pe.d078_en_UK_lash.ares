@@ -252,25 +252,25 @@ peMA.Ode4C14.text = "Your all-blest tongue is hymned, O Twin, for, being filled 
 
 peMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C1H.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C1H.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.melody
-peMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.incipit
-peMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.text
+peMA.Ode5C1H.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontesYmnoumenSe.melody
+peMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.EkNyktosOrthrizontesYmnoumenSe.incipit
+peMA.Ode5C1H.text = he.h.m1_en_UK_lash.EkNyktosOrthrizontesYmnoumenSe.text
 
 peMA.Ode5C11.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C11.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C11.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C11.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontesYmnoumenSe.name
 peMA.Ode5C11.incipit = "Coming to his disheartened friends…"
 peMA.Ode5C11.text = "Coming to his disheartened friends the Saviour by his presence drives away all dejection and rouses them to leap for joy at his Resurrection."
 
 peMA.Ode5C12.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C12.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C12.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C12.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontesYmnoumenSe.name
 peMA.Ode5C12.incipit = "O truly laudable, dread enterprise…"
 peMA.Ode5C12.text = "O truly laudable, dread enterprise of Thomas! For boldly he handled the side which blazed with the divine fire."
 
 peMA.Ode5C13.ode = misc_en_UK_lash.Ode5
 peMA.Ode5C13.mode = misc_en_UK_lash.Mode1
-peMA.Ode5C13.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontes.name
+peMA.Ode5C13.melody = he.h.m1_en_UK_lash.EkNyktosOrthrizontesYmnoumenSe.name
 peMA.Ode5C13.incipit = "You showed us that Thomas'…"
 peMA.Ode5C13.text = "You showed us that Thomas' unbelief was mother of belief, for in your wisdom you arrange all things for good, O Christ, as Lover of mankind."
 
