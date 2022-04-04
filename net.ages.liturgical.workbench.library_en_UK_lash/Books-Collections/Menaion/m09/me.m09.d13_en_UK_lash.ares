@@ -170,8 +170,8 @@ meMA.Ode1C23.text = "Not by law is your Church beautified, O Lord, nor by the st
 meMA.Ode1C2T.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.name
-meMA.Ode1C2T.incipit = "At the Father's will, from…"
-meMA.Ode1C2T.text = "At the Father's will, from the divine Spirit, you conceived without seed the Son of God, and you bore in the flesh him who came from the Father without mother and for our sakes from you without father."
+meMA.Ode1C2T.incipit = oc.m4.d1_en_UK_lash.ocMA.OdeS1C1T.incipit
+meMA.Ode1C2T.text = oc.m4.d1_en_UK_lash.ocMA.OdeS1C1T.text //At the Father's will, from the divine Spirit, you conceived without seed the Son of God, and you bore in the flesh him who came from the Father without mother and for our sakes from you without father.
 
 meMA.C3.title = titles_en_UK_lash.KanonTouAgiou
 meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
