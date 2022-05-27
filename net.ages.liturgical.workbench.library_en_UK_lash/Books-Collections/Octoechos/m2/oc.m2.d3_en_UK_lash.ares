@@ -107,8 +107,16 @@ ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.incipit = "Who has known, who has…"
 ocMA.Kathisma33.text = "Who has known, who has heard of Mother giving birth to her own Creator? Without knowing man giving suck to the one who gives food to all flesh? O the wonder! Your womb, Mother of God full of grace, was revealed as the Cherubim throne. Intercede on behalf of our souls."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "whose acrostic is: Grant space to my lamentations, O Saviour. Joseph."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the acrostic is: Baptist, accept this supplication. Joseph."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2

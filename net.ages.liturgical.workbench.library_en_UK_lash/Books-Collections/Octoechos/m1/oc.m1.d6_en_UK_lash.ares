@@ -108,6 +108,10 @@ ocMA.Kathisma33.incipit = oc.m1.d4_en_UK_lash.ocMA.Kathisma33.incipit
 ocMA.Kathisma33.text = oc.m1.d4_en_UK_lash.ocMA.Kathisma33.text
 
 ocMA.C1.poet = poets_en_UK_lash.KyriouIosif
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "of which the acrostic is: The Master's holy sufferings now will I praise. Joseph."
 
 ocMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou

@@ -107,8 +107,16 @@ ocMA.Kathisma33.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 ocMA.Kathisma33.incipit = "John, leaping in his mother's…"
 ocMA.Kathisma33.text = "John, leaping in his mother's womb, by grace recognised God being carried in your womb, pure Virgin, and faithfully worshipped. But I implore you, O Virgin, with the Forerunner, entreat the Word, to whom you gave a body, that your servant may be saved."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "of which the Acrostic, without the Theotokia, is: O Word, receive these words of mine. Joseph."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the Acrostic is: Listen to the voice of those who cry to you, blest Saint. Joseph."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1

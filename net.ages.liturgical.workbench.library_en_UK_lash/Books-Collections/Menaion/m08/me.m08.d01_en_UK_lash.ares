@@ -107,6 +107,10 @@ meMA.Kathisma21.incipit = "For this present day…"
 meMA.Kathisma21.text = "For this present day the progress of the Cross is cause of joy; for it sanctifies both our souls and bodies, who worship it with faith."
 
 meMA.C1.poet = poets_en_UK_lash.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "of which the Acrostic is: We all praise the Tree that should be worshipped."
 
 meMA.C2.poet = poets_en_UK_lash.AndreouKritis

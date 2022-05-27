@@ -107,7 +107,15 @@ ocMA.Kathisma33.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
 ocMA.Kathisma33.incipit = "O All-Immaculate, who alone bore…"
 ocMA.Kathisma33.text = "O All-Immaculate, who alone bore the Maker of all, who alone adorned humanity by your child-bearing, deliver me from the snares of cunning Beliar, stand me on the rock of Christ's wishes, as you earnestly entreat him, to whom you gave a body."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "whose acrostic, without the Theotokia, is: Wash me with cleansing tears, O Word. Joseph."
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the acrostic is: I weave a prayerful song for you with love, O blessed one. Joseph."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4

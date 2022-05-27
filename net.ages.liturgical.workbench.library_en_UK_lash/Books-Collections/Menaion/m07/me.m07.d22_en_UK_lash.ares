@@ -84,6 +84,10 @@ meVE.Apolytikion1.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 meVE.Apolytikion1.incipit = "Holy Mary Magdalen, you followed…"
 meVE.Apolytikion1.text = "Holy Mary Magdalen, you followed Christ who was born for us from a Virgin, and you kept all his statutes and laws. Therefore today, as we celebrate your all-holy memory, we praise you with faith and honour you with love."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "With love I sing Mary Magdalen."
 
 meMA.C1.title = ""

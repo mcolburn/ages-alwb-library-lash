@@ -107,9 +107,17 @@ ocMA.Kathisma33.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 ocMA.Kathisma33.incipit = "The spotless Ewe-lamb, seeing the…"
 ocMA.Kathisma33.text = "The spotless Ewe-lamb, seeing the Lamb and Shepherd hanging dead upon the tree, cried out with tears, and lamenting as a mother aid, 'How shall I hymn your condescension, my Son,  which is beyond understanding, and your voluntary sufferings, my God supremely good?'"
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "whose acrostic is: I shall be saved by the Cross of the Master who suffered. Joseph."
 
 ocMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "Its Acrostic is the Alphabet."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1

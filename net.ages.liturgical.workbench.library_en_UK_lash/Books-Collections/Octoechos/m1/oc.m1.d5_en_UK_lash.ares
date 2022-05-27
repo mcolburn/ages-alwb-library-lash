@@ -107,6 +107,10 @@ ocMA.Kathisma33.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 ocMA.Kathisma33.incipit = "The godly Disciples and Apostles…"
 ocMA.Kathisma33.text = "The godly Disciples and Apostles by their inspired teachings proclaimed your ineffable birth-giving, O Maiden, immaculate Mother of God, teaching that you should be fittingly worshipped; but we beg you: with them ask that those who honour you in faith may be saved."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1

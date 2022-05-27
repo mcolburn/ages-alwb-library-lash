@@ -107,9 +107,17 @@ ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.incipit = "To the one who was…"
 ocMA.Kathisma33.text = "To the one who was brought up in the Temple, in the Holy of Holies, to the one who was clothed in faith and wisdom and measureless virginity, Gabriel the Chief Captain offered the greeting from heaven and his Hail: Hail, blessed one! Hail, glorified one! The Lord is with you."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "whose acrostic, without the Theotokia, is: Saviour, save me as you once saved the Prodigal. Joseph."
 
 ocMA.C2.poet = poets_en_UK_lash.Theofanous
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "whose acrostic is: A fourth song of the Bodiless Minds."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4

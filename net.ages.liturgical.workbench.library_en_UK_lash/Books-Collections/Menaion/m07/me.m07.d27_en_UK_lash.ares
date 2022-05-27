@@ -17,6 +17,10 @@ meHO.commemorations = ""
 meHO.note1 = ""
 meHO.note2 = ""
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "of which the acrostic is the Alphabet in reverse order."
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

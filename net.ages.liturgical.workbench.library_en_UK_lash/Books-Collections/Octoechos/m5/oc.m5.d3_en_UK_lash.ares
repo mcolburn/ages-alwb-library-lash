@@ -107,7 +107,15 @@ ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.incipit = "All-holy Mother of God, the…"
 ocMA.Kathisma33.text = "All-holy Mother of God, the wall of Christians, hasten to deliver your people, who as always cry to you insistently: Be arrayed in battle against base and boastful thoughts, that we may cry to you: Hail Ever-Virgin!"
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "of which the Acrostic, without the Theotokia, is: Give me pardon of offences, O Christ. Joseph."
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the Acrostic is: Baptist, receive this supplication. Joseph."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode5

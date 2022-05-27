@@ -84,7 +84,11 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.incipit = he.ga_en_UK_lash.ApostoloiAgioi.incipit
 meVE.Apolytikion2.text = he.ga_en_UK_lash.ApostoloiAgioi.text
 
-meCO.C1Poet = ""
+meCO.C1.poet = ""
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = "of which the acrostic is: On the long Thursday, I sing a long hymn."
 meCO.C1.title = titles_en_UK_lash.OKanon
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
@@ -279,8 +283,16 @@ meMA.Kathisma21.incipit = "Great Baptist of the Lord…"
 meMA.Kathisma21.text = "Great Baptist of the Lord, rejoice; for Christ has come to be baptized by you; you tremble as a servant, for the Master bows his head to you; touch the divine head of God who touches the universe with his hand, and in his good pleasure saves the human race."
 
 meMA.C1.poet = poets_en_UK_lash.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "of which the acrostic is the [Greek] Alphabet."
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.C3.poet = poets_en_UK_lash.Theofanous

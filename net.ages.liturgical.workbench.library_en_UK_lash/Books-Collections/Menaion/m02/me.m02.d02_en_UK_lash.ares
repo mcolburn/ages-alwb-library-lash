@@ -205,6 +205,10 @@ meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 
 meMA.C1.poet = poets_en_UK_lash.KosmaMonachou
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "of which the Acrostic is: An Elder, rejoicing, holds Christ in his arms."
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

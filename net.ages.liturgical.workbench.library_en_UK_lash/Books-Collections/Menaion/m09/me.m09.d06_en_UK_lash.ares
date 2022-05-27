@@ -93,6 +93,10 @@ meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma2T.incipit = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 meMA.Kathisma2T.text = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "of which the Acrostic is: I sing the first of the bodiless minds. Joseph."
 
 meMA.C2.poet = poets_en_UK_lash.Iosif

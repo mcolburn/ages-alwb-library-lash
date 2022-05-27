@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
 ocVE.ApolTheotokionVM.incipit = "Hail gate of the Lord…"
 ocVE.ApolTheotokionVM.text = "Hail gate of the Lord, though which none may pass; hail wall and protection of those who flee to you; hail haven without storms, and who did not know wedlock, who bore in the flesh your Maker and God, do not cease to intercede for those who praise and worship your Offspring."
 
+ocMO.title = "Canon to the Trinity,"
 ocMO.poet = ""
-ocMO.acrostic = "of which the acrostic is: A fifth canon to the triple Light."
+ocMO.acrostic.notice = "of which the acrostic is:"
+ocMO.acrostic.text = "A fifth canon to the triple Light."
 
 ocMO.Ode11.mode = misc_en_UK_lash.Mode5
 ocMO.Ode11.ode = misc_en_UK_lash.Ode1
@@ -387,6 +389,10 @@ ocMA.Antiphon33.text = "To the Holy Spirit belongs the lordship of life, for fro
 
 ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
+ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.notice1 = ""
+ocMA.C3.acrostic.text = ""
+//ocMA.C3.acrostic.notice2 = ""
 ocMA.C3.acrostic = "of which the acrostic is: Virgin who bore the Light, enlighten me."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode5

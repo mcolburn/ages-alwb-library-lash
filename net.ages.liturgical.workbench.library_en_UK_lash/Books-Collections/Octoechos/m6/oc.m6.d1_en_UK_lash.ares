@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = "You who called your Mother…"
 ocVE.ApolTheotokionVM.text = "You who called your Mother blessed, came to the Passion by your own will; shining by the Cross, wishing to seek out Adam, saying to the Angels: Rejoice with me, for the drachma that was lost is found. You who disposed all things wisely: Glory to you!"
 
+ocMO.title = "Canon to the Trinity,"
 ocMO.poet = ""
-ocMO.acrostic = "of which the Acrostic is: I offer the sixth hymn to you, O Godhead."
+ocMO.acrostic.notice = "of which the Acrostic is:"
+ocMO.acrostic.text = "I offer the sixth hymn to you, O Godhead."
 
 ocMO.Ode11.mode = misc_en_UK_lash.Mode6
 ocMO.Ode11.ode = misc_en_UK_lash.Ode1
@@ -411,6 +413,10 @@ ocMA.Antiphon33.text = "In the Holy Spirit is might over all things; him the arm
 
 ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
+ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.notice1 = ""
+ocMA.C3.acrostic.text = ""
+//ocMA.C3.acrostic.notice2 = ""
 ocMA.C3.acrostic = "of which the acrostic is: Mother of God, grant me unstinted grace."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode6

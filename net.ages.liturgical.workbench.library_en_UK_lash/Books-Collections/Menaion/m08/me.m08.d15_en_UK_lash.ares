@@ -210,6 +210,10 @@ meMA.PostGospelIdiomelon.incipit = "When the Translation of your…"
 meMA.PostGospelIdiomelon.text = "When the Translation of your immaculate Body was being prepared, the Apostles surrounded your deathbed and looked on you with dread. And as they gazed at your body they were seized with awe, while Peter cried out to you with tears: ‘Immaculate Virgin, I see you, who are the life of all, lying here outstretched, and I am struck with wonder; for in you the Delight of the life to come made his dwelling. But fervently implore your Son and God that your City may be kept safe from harm’."
 
 meMA.C1.poet = poets_en_UK_lash.Kosma
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou

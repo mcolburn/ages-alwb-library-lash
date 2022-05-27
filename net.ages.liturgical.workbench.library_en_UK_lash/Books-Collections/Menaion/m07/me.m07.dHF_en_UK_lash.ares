@@ -64,6 +64,10 @@ meVE.Apolytikion2.melody = he.a.m1_en_UK_lash.TisErimouPolitis.notmetered
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "The two canons of the Fathers, the acrostic of the first is: I hymn the skilful purgers of error. In the Theotokia: Philotheos."
 
 meMA.C1.title = ""

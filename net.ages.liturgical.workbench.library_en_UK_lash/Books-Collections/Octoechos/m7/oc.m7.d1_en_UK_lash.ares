@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = "As the treasure-house of our…"
 ocVE.ApolTheotokionVM.text = "As the treasure-house of our Resurrection, All-praised Lady, bring up from the pit and from the deep of offences those who have put their trust in you; for you saved those who were subject to sin by giving birth to Salvation. You were Virgin before bearing child, Virgin in bearing child and after bearing child you are still Virgin."
 
+ocMO.title = "Canon to the Trinity,"
 ocMO.poet = poets_en_UK_lash.MitrofanousSmirnis
-ocMO.acrostic = "of which the Acrostic is: I praise you, O Trinity, nature that rules as one."
+ocMO.acrostic.notice = "of which the Acrostic is:"
+ocMO.acrostic.text = "I praise you, O Trinity, nature that rules as one."
 
 ocMO.Ode11.mode = misc_en_UK_lash.Mode7
 ocMO.Ode11.ode = misc_en_UK_lash.Ode1
@@ -401,6 +403,10 @@ ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
 ocMA.C2.poet = poets_en_UK_lash.Kosma
 
+ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.notice1 = ""
+ocMA.C3.acrostic.text = ""
+//ocMA.C3.acrostic.notice2 = ""
 ocMA.C3.acrostic = "of which the Acrostic is the Alphabet."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode7

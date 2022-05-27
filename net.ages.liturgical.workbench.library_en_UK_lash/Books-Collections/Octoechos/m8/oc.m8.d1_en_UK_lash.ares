@@ -118,8 +118,10 @@ ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.incipit = "You were born for us…"
 ocVE.ApolTheotokionVM.text = "You were born for us from a Virgin, and endured crucifixion, loving Lord; by your death you despoiled Death, and revealed resurrection as God; do not despise those whom you fashioned with your own hand; show us your compassion, O Merciful; accept the Mother of God who bore you as she intercedes for us, and save, our Saviour, a people in despair."
 
+ocMO.title = "Canon to the Trinity,"
 ocMO.poet = poets_en_UK_lash.MitrofanousSmirnis
-ocMO.acrostic = ""
+ocMO.acrostic.notice = ""
+ocMO.acrostic.text = ""
 
 ocMO.Ode11.mode = misc_en_UK_lash.Mode8
 ocMO.Ode11.ode = misc_en_UK_lash.Ode1
@@ -420,6 +422,10 @@ ocMA.Antiphon43.text = "By the Holy Spirit, by one single cause all things gain 
 
 ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
+ocMA.C3.acrostic.title = ""
+ocMA.C3.acrostic.notice1 = ""
+ocMA.C3.acrostic.text = ""
+//ocMA.C3.acrostic.notice2 = ""
 ocMA.C3.acrostic = "In alphabetical order."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode8

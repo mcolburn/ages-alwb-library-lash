@@ -185,6 +185,10 @@ meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 
 meMA.C2.poet = poets_en_UK_lash.IoannouMonachou
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = "To the Leaders of the Bodiless Minds. In the Theotokia: By Clement."
 
 meMA.C1.title = titles_en_UK_lash.KanonATonAsomaton

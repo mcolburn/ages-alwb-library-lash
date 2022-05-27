@@ -107,6 +107,10 @@ ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.incipit = "Immaculate Virgin, who alone bore…"
 ocMA.Kathisma33.text = "Immaculate Virgin, who alone bore God without seed and remained pure after your awesome child-bearing, I fall down before you crying with fear and faith: Save me from passions and diseases and from every constraint."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the Acrostic is: I sing you, Nicolas, a godly song."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2

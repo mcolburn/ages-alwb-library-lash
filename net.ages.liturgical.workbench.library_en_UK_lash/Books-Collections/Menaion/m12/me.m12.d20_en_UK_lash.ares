@@ -108,6 +108,10 @@ meVE.Apolytikion2.text = ""
 meCO.C1.title = "Triode, sung at Compline"
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = "whose Acrostic is: For Monday."
 
 meCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -174,6 +178,10 @@ meMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "Sion, be glad, Bethlehem, make…"
 meMA.Kathisma21.text = "Sion, be glad, Bethlehem, make ready; the maintainer of all things, sending the Star ahead, reveals his measureless condescension; for he before whom the Powers of heaven tremble is truly being brought to birth from the Virgin without change, the only Lover of mankind."
 
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
 meMA.C2.poet = poets_en_UK_lash.AndreouKritis

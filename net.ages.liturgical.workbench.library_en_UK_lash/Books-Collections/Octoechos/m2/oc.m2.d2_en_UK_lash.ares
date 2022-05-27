@@ -108,8 +108,16 @@ ocMA.Kathisma33.incipit = "What mother was ever heard…"
 ocMA.Kathisma33.text = "What mother was ever heard to be a virgin? What virgin was ever known to be a mother? All that concerns you, Mother of God, is wondrous. And so with faith we magnify you."
 
 ocMA.C1.poet = poets_en_UK_lash.KyriouIosif
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "of which the acrostic, excluding the Theotokia of Odes 1-7, is: Give me showers of tears, O Word of God. Joseph."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the acrostic is: I sing the praise of the choir of Angels."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode2

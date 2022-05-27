@@ -107,10 +107,18 @@ meMA.Kathisma21.incipit = "O faithful people, the festive…"
 meMA.Kathisma21.text = "O faithful people, the festive day of the Dedication has come to Christ's chosen flock, and urges us all to be made new and with shining face faithfully to sing from the depths of the heart songs to the Master as deliverer and him who makes us new."
 
 meMA.C1.poet = poets_en_UK_lash.Germanou
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = "whose Acrostic is the Alphabet, excluding the Theotokia."
 
 meMA.C2.poet = poets_en_UK_lash.IoannouMonachou
 
+meMA.C3.acrostic.title = ""
+meMA.C3.acrostic.notice1 = ""
+meMA.C3.acrostic.text = ""
+//meMA.C3.acrostic.notice2 = ""
 meMA.C3.acrostic = "whose Acrostic is: I sing the fame of your wonders, blessed Martyr. Joseph."
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

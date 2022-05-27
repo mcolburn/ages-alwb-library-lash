@@ -82,12 +82,20 @@ meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
 meVE.Apolytikion1.incipit = "Zavoulon prepare, and make ready…"
 meVE.Apolytikion1.text = "Zavoulon prepare, and make ready Nephthalim; river Jordan stand, leap for joy as you receive the Master who comes to be baptised. Adam with our Foremother be glad, do not hide yourselves as in Paradise of old; for seeing you naked, he has appeared that he may put on the first robe. Christ has appeared, as he wishes to renew the whole creation."
 
-meCO.C1Poet = poets_en_UK_lash.SymeonTouLogothetou
+meCO.C1.poet = poets_en_UK_lash.SymeonTouLogothetou
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = "of which the Acrostic is. On Monday."
 meCO.C1.title = "Triode."
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
-meCO.C2Poet = ""
+meCO.C2.poet = ""
+meCO.C2.acrostic.title = ""
+meCO.C2.acrostic.notice1 = ""
+meCO.C2.acrostic.text = ""
+//meCO.C2.acrostic.notice2 = ""
 meCO.C2.acrostic = "Its acrostic is: And on Tuesday."
 meCO.C2.title = "Another Diode."
 meCO.C2.verse = prayers_en_UK_lash.verse_God.text
@@ -215,8 +223,16 @@ meMA.Kathisma22.incipit = "Today the voice of Isaias…"
 meMA.Kathisma22.text = "Today the voice of Isaias has been fulfilled, who cried, `Prepare the way of the Lord, and make his paths; for, as he said, the desert-loving trumpet, famous John, summons us all. And so let us hurry together and see marvels."
 
 meMA.C1.poet = poets_en_UK_lash.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

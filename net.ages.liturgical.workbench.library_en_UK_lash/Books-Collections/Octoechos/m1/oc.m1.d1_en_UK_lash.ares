@@ -119,8 +119,10 @@ ocVE.ApolTheotokionVM.melody = he.a.m1_en_UK_lash.TouLithouSfragisthentos.notmet
 ocVE.ApolTheotokionVM.incipit = "When Gabriel addressed you, O…"
 ocVE.ApolTheotokionVM.text = "When Gabriel addressed you, O Virgin, with his 'Hail', as he spoke the Master of all things became incarnate in you the holy Ark, as righteous David sang. You were proclaimed wider than the heavens, for you carried your Creator. Glory to him who dwelt in you, glory to him who came forth from you, glory to him who has set us free through your bearing child."
 
+ocMO.title = "Canon to the Trinity,"
 ocMO.poet = poets_en_UK_lash.MitrofanousSmirnis
-ocMO.acrostic = "of which the acrostic is: I sing the one Nature, triple-sunned."
+ocMO.acrostic.notice = "of which the acrostic is:"
+ocMO.acrostic.text = "I sing the one Nature, triple-sunned."
 
 ocMO.Ode11.mode = misc_en_UK_lash.Mode1
 ocMO.Ode11.ode = misc_en_UK_lash.Ode1

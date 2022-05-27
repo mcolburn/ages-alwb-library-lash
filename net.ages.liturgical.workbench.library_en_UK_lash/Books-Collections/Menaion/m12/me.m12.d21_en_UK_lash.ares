@@ -86,6 +86,10 @@ meVE.Apolytikion2.text = ""
 meCO.C1.title = "At Compline we sing the following Diode"
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
+meCO.C1.acrostic.title = ""
+meCO.C1.acrostic.notice1 = ""
+meCO.C1.acrostic.text = ""
+//meCO.C1.acrostic.notice2 = ""
 meCO.C1.acrostic = "of which the Acrostic is: And on Tuesday."
 
 meCO.Ode8C1H.ode = misc_en_UK_lash.Ode8
@@ -147,8 +151,16 @@ meMA.Kathisma21.incipit = "A marvellous wonder appears today!…"
 meMA.Kathisma21.text = "A marvellous wonder appears today! For our Saviour is now hastening to be brought to birth for us in the Cave in flesh from the Virgin. Magi will worship him with gifts as a king. Shepherds and Angels with glorify him, with them let us also cry: Glory to him who for us became man."
 
 meMA.C1.poet = poets_en_UK_lash.Iosif
+meMA.C1.acrostic.title = ""
+meMA.C1.acrostic.notice1 = ""
+meMA.C1.acrostic.text = ""
+//meMA.C1.acrostic.notice2 = ""
 meMA.C1.acrostic = ""
 
+meMA.C2.acrostic.title = ""
+meMA.C2.acrostic.notice1 = ""
+meMA.C2.acrostic.text = ""
+//meMA.C2.acrostic.notice2 = ""
 meMA.C2.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

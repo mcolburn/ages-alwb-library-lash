@@ -107,8 +107,16 @@ ocMA.Kathisma33.melody = he.a.m3_en_UK_lash.TinOraiotita.notmetered
 ocMA.Kathisma33.incipit = "As your Mother, the pure…"
 ocMA.Kathisma33.text = "As your Mother, the pure and all blameless Virgin who knew not wedlock, saw you nailed to the Tree, O Master, she cried aloud to you, 'Alas, my sweetest Son, how has a lawless people condemned you, the Maker and Master of all, to the tree? I hymn your supreme goodness."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "whose acrostic is: By toils you ended mortals toils, O Word. Joseph."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the acrostic is: I bring a third song to the Mother of God."
 ocMA.C2.poet = poets_en_UK_lash.IoannouMonachou
 

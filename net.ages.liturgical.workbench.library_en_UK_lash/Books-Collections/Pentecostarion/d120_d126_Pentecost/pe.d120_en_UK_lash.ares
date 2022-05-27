@@ -138,11 +138,22 @@ peMA.PostGospelIdiomelon.melody = misc_en_UK_lash.Idiomelon
 peMA.PostGospelIdiomelon.incipit = peVE.Aposticha3.incipit
 peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
+peMA.C1.acrostic.title = "The Canon in Grave Mode."
+peMA.C1.acrostic.notice1 = "whose acrostic is:"
+peMA.C1.acrostic.text = "We celebrate Pentecost"
+peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_UK_lash.KosmaMonachou
-peMA.C1.acrostic = "whose acrostic is: We celebrate Pentecost"
+peMA.C1.title = titles_en_UK_lash.KanonATisEortis
+peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
+peMA.C2.acrostic.title = "Another Canon,"
+peMA.C2.acrostic.notice1 = "whose acrostic is contained in the following elegiac couplets: "
+peMA.C2.acrostic.text = "Only-begotten of God, from the heart of the Father you sent to * Those upon earth once again other Advocate, Spirit divine, * Bringing, in tongues made of fire, of the pure, immaterial Godhead, * Sign of your nature and grace for those who are minstrels of praise."
+peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_UK_lash.KyriouIoannouArkla
-peMA.C2.acrostic = "whose acrostic is contained in the following elegiac couplets: Only-begotten of God, from the heart of the Father you sent to * Those upon earth once again other Advocate, Spirit divine, * Bringing, in tongues made of fire, of the pure, immaterial Godhead, * Sign of your nature and grace for those who are minstrels of praise."
+peMA.C2.title = titles_en_UK_lash.KanonBTisEortis
+peMA.C2.verse = prayers_en_UK_lash.verse_God.text
+
 peMA.C2.Acrostic1.acrostic = "whose acrostic is contained in the following elegiac couplets:"
 peMA.C2.Acrostic2.acrostic = "Only-begotten of God, from the heart of the Father you sent to"
 peMA.C2.Acrostic3.acrostic = "Those upon earth once again other Advocate, Spirit divine,"
@@ -154,9 +165,6 @@ peMA.Ode1C1H.mode = misc_en_UK_lash.Mode7
 peMA.Ode1C1H.melody = he.h.m7_en_UK_lash.PontoEkalypse.melody
 peMA.Ode1C1H.incipit = he.h.m7_en_UK_lash.PontoEkalypse.incipit
 peMA.Ode1C1H.text = he.h.m7_en_UK_lash.PontoEkalypse.text
-
-peMA.C1.title = ""
-peMA.C1.verse = ""
 
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C11.mode = misc_en_UK_lash.Mode7
@@ -180,9 +188,6 @@ peMA.Ode1C2H2.text = he.h.m4_en_UK_lash.TheioKalyftheis2.text
 peMA.Ode1C2H3.text = he.h.m4_en_UK_lash.TheioKalyftheis3.text
 peMA.Ode1C2H4.text = he.h.m4_en_UK_lash.TheioKalyftheis4.text
 peMA.Ode1C2H5.text = he.h.m4_en_UK_lash.TheioKalyftheis5.text
-
-peMA.C2.title = ""
-peMA.C2.verse = ""
 
 peMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C21.mode = misc_en_UK_lash.Mode4

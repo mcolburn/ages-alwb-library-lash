@@ -107,8 +107,16 @@ ocMA.Kathisma33.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
 ocMA.Kathisma33.incipit = "When the Ewe-Lamb and Virgin…"
 ocMA.Kathisma33.text = "When the Ewe-Lamb and Virgin watched you hanging on the Cross, O Mighty One, with grief and tears she said: What is your ineffable condescension, O Word? How has the condemned people now condemned you, the God who is going to judge all? I hymn your ineffable mercy."
 
+ocMA.C1.acrostic.title = ""
+ocMA.C1.acrostic.notice1 = ""
+ocMA.C1.acrostic.text = ""
+//ocMA.C1.acrostic.notice2 = ""
 ocMA.C1.acrostic = "of which the acrostic is: The Cross is a weapon for salvation. Joseph."
 
+ocMA.C2.acrostic.title = ""
+ocMA.C2.acrostic.notice1 = ""
+ocMA.C2.acrostic.text = ""
+//ocMA.C2.acrostic.notice2 = ""
 ocMA.C2.acrostic = "of which the acrostic is: A fourth for the Maiden, Mother of God."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode4
