@@ -89,13 +89,10 @@ meMA.Kathisma2T.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
 meMA.Kathisma2T.incipit = "Implore the God and Lord…"
 meMA.Kathisma2T.text = "Implore the God and Lord who was incarnate of you, Holy Lady, for the sake of us who were corrupted by sins, to take pity on us and to turn away his anger and rage from those who cry out with faith and unceasingly praise the mighty deeds of his grace."
 
+meMA.C1.acrostic.title = "Canon of the Apostle,"
+meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
+meMA.C1.acrostic.text = "I marvel at Thomas, filled with marvels."
 meMA.C1.poet = poets_en_UK_lash.Theofanous
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "of which the Acrostic is. I marvel at Thomas, filled with marvels."
-
 meMA.C1.title = titles_en_UK_lash.KanonTouApostolou
 meMA.C1.verse = prayers_en_UK_lash.verse_Apostle.text
 

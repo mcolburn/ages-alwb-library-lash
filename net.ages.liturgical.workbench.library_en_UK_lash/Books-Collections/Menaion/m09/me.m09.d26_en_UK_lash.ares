@@ -195,32 +195,31 @@ meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meSV.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meSV.SticGlory.text
 
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = me.m07.d27_en_UK_lash.meMA.C1.acrostic
+meMA.C1.acrostic.title = "Canon of the Mother of God,"
+meMA.C1.acrostic.notice1 = "of which the acrostic is "
+meMA.C1.acrostic.notice2 = "is the Alphabet in reverse order."
+meMA.C1.poet = poets_en_UK_lash.Theofanous
+meMA.C1.title = titles_en_UK_lash.KanonTisTheotokou
+meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
-meMA.C2.acrostic.title = ""
-meMA.C2.acrostic.notice1 = ""
-meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = "of which the acrostic is: I shall praise the son of thunder in a way pleasing to Christ."
+meMA.C2.acrostic.title = "Canon of the Saint,"
+meMA.C2.acrostic.notice1 = "of which the acrostic is:"
+meMA.C2.acrostic.text = "I shall praise the son of thunder in a way pleasing to Christ."
+meMA.C2.poet = poets_en_UK_lash.Theofanous
+meMA.C2.title = titles_en_UK_lash.KanonATouAgiou
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
-meMA.C3.acrostic.title = ""
-meMA.C3.acrostic.notice1 = ""
-meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = "of which the acrostic is: I bring to God's Initiate a sixth plea. Joseph."
+meMA.C3.acrostic.title = "A second Canon of the Saint,"
+meMA.C3.acrostic.notice1 = "of which the acrostic is:"
+meMA.C3.acrostic.text = "I bring to God's Initiate a sixth plea. Joseph."
+meMA.C3.title = titles_en_UK_lash.KanonBTouAgiou
+meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.EnVythoKatestrose.text
-
-meMA.C1.title = titles_en_UK_lash.KanonTisTheotokou
-meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
@@ -239,9 +238,6 @@ meMA.Ode1C13.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C13.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
 meMA.Ode1C13.incipit = me.m07.d27_en_UK_lash.meMA.Ode1C13.incipit
 meMA.Ode1C13.text = me.m07.d27_en_UK_lash.meMA.Ode1C13.text
-
-meMA.C2.title = titles_en_UK_lash.KanonATouAgiou
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
@@ -266,9 +262,6 @@ meMA.Ode1C2T.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C2T.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
 meMA.Ode1C2T.incipit = "The choir of godly maidens…"
 meMA.Ode1C2T.text = "The choir of godly maidens, greatly inspired, sing of you as beautiful among women, O Lady Mother of God, made lovely with the beauties of the Godhead; for beyond reason you bore the Word who creates beauty."
-
-meMA.C3.title = titles_en_UK_lash.KanonBTouAgiou
-meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C31.mode = misc_en_UK_lash.Mode6

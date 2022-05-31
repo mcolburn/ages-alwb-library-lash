@@ -183,28 +183,27 @@ meMA.PostGospelIdiomelon.incipit = meVE.Aposticha4.incipit
 meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
 
 meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
+meMA.C1.title = "Canon for the Indiction."
+meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = "Canon for the holy Women."
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintsW.text
 
-meMA.C3.poet = poets_en_UK_lash.IoannouMonachou
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
-//meMA.C3.acrostic.notice2 = ""
-meMA.C3.acrostic = ""
+meMA.C3.poet = poets_en_UK_lash.IoannouMonachou
+meMA.C3.title = titles_en_UK_lash.KanonTouOsiou
+meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1
 meMA.Ode1C1H.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 meMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
-
-meMA.C1.title = "Canon for the Indiction."
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode1
@@ -230,9 +229,6 @@ meMA.Ode1C1T.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.name
 meMA.Ode1C1T.incipit = "Let us, all Believers, ever…"
 meMA.Ode1C1T.text = "Let us, all Believers, ever praise in song the Maiden beyond marvels, who made Christ dawn on the world and who filled all things with the joy of everlasting life; for she has been glorified."
 
-meMA.C2.title = "Canon for the holy Women."
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintsW.text
-
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C21.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
@@ -256,9 +252,6 @@ meMA.Ode1C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
 meMA.Ode1C2T.incipit = "All spotless one, strengthened by…"
 meMA.Ode1C2T.text = "All spotless one, strengthened by the grace of him who dawned from your womb, the young maidens escaped the swell of tortures and were brought in your train rejoicing."
-
-meMA.C3.title = titles_en_UK_lash.KanonTouOsiou
-meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C31.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C31.mode = misc_en_UK_lash.Mode8
