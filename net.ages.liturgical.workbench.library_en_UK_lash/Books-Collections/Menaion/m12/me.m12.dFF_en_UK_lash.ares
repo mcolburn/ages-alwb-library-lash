@@ -62,17 +62,15 @@ meVE.Apolytikion1.text = "You justified the Forefathers by faith, through them b
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = ""
+meMA.C1.poet = poets_en_UK_lash.Theofanous
+meMA.C1.title = titles_en_UK_lash.KanonTonAgion
+meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
-
-meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C2.title = titles_en_UK_lash.KanonTonPropatoron
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
@@ -97,9 +95,6 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1T.melody = ""
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode1
