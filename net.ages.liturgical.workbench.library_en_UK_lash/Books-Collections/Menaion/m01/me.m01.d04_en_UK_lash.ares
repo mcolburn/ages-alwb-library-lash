@@ -84,12 +84,9 @@ meVE.Apolytikion2.melody = ""
 meVE.Apolytikion2.incipit = he.ga_en_UK_lash.ApostoloiAgioi.incipit
 meVE.Apolytikion2.text = he.ga_en_UK_lash.ApostoloiAgioi.text
 
-meCO.C1.poet = ""
-meCO.C1.acrostic.title = ""
-meCO.C1.acrostic.notice1 = ""
-meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = "of which the acrostic is: On the long Thursday, I sing a long hymn."
+meCO.C1.acrostic.title = "The Canon,"
+meCO.C1.acrostic.notice1 = "of which the acrostic is:"
+meCO.C1.acrostic.text = "On the long Thursday, I sing a long hymn."
 meCO.C1.title = titles_en_UK_lash.OKanon
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
@@ -282,29 +279,27 @@ meMA.Kathisma21.melody = he.a.m8_en_UK_lash.AnestisEkNekron.name
 meMA.Kathisma21.incipit = "Great Baptist of the Lord…"
 meMA.Kathisma21.text = "Great Baptist of the Lord, rejoice; for Christ has come to be baptized by you; you tremble as a servant, for the Master bows his head to you; touch the divine head of God who touches the universe with his hand, and in his good pleasure saves the human race."
 
+meMA.C1.acrostic.title = "Canon of the Forefeast,"
+meMA.C1.acrostic.notice1 = "of which the acrostic is the [Greek] Alphabet."
 meMA.C1.poet = poets_en_UK_lash.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "of which the acrostic is the [Greek] Alphabet."
+meMA.C1.title = titles_en_UK_lash.KanonProeortios
+meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-//meMA.C2.acrostic.notice2 = ""
-meMA.C2.acrostic = ""
+meMA.C2.title = titles_en_UK_lash.KanonTonApostolon
+meMA.C2.verse = prayers_en_UK_lash.verse_Apostles.text
 
 meMA.C3.poet = poets_en_UK_lash.Theofanous
+meMA.C3.title = titles_en_UK_lash.KanonTouOsiou
+meMA.C3.verse = prayers_en_UK_lash.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C1H.melody = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.text
-
-meMA.C1.title = titles_en_UK_lash.KanonProeortios
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
@@ -323,9 +318,6 @@ meMA.Ode1C13.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C13.melody = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
 meMA.Ode1C13.incipit = "Offspring though you are of…"
 meMA.Ode1C13.text = "Offspring though you are of the Father without beginning, O Compassionate, you are approaching simply the offspring of Zachary requesting baptism, that you make us children of God by grace."
-
-meMA.C2.title = titles_en_UK_lash.KanonTonApostolon
-meMA.C2.verse = prayers_en_UK_lash.verse_Apostles.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode4
@@ -356,9 +348,6 @@ meMA.Ode1C2T.mode = misc_en_UK_lash.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_UK_lash.AnoixoToStomaMou.name
 meMA.Ode1C2T.incipit = "…"
 meMA.Ode1C2T.text = ""
-
-meMA.C3.title = titles_en_UK_lash.KanonTouOsiou
-meMA.C3.verse = prayers_en_UK_lash.verse_DevoutMan.text
 
 meMA.Ode1C31.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C31.mode = misc_en_UK_lash.Mode2

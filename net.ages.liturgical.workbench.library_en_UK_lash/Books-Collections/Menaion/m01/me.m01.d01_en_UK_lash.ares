@@ -186,17 +186,18 @@ meMA.PostGospelIdiomelon.incipit = meVE.LityGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.LityGlory.text
 
 meMA.C1.poet = poets_en_UK_lash.Stefanou
+meMA.C1.title = titles_en_UK_lash.KanonTisEortis
+meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.poet = poets_en_UK_lash.IoannouTouDamaskinou
+meMA.C2.title = titles_en_UK_lash.KanonTouAgiou
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.DefteLaoi.text
-
-meMA.C1.title = titles_en_UK_lash.KanonTisEortis
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2
@@ -209,9 +210,6 @@ meMA.Ode1C12.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C12.melody = he.h.m2_en_UK_lash.DefteLaoi.name
 meMA.Ode1C12.incipit = "Christ receives circumcision on the…"
 meMA.Ode1C12.text = "Christ receives circumcision on the eighth day from his birth; and today he reduces its shadow by making the light of the new grace dawn."
-
-meMA.C2.title = titles_en_UK_lash.KanonTouAgiou
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode2

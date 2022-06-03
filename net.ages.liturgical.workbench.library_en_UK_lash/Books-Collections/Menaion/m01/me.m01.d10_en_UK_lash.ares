@@ -107,9 +107,11 @@ meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
-
 meMA.C1.title = ""
-meMA.C1.verse = ""
+meMA.C1.verse = prayers_en_UK_lash.verse_SaintM.text
+
+meMA.C2.title = ""
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode5
@@ -134,9 +136,6 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode5
 meMA.Ode1C1T.melody = he.h.m5_en_UK_lash.IpponKaiAnavatin.name
 meMA.Ode1C1T.incipit = "…"
 meMA.Ode1C1T.text = ""
-
-meMA.C2.title = ""
-meMA.C2.verse = ""
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode1
