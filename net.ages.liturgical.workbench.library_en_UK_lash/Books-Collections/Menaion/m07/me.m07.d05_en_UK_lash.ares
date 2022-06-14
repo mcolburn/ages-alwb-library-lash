@@ -134,12 +134,12 @@ meMA.Kathisma2T.text = "Invincible protection of those in need and ready interce
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "As I hymn Athanasios, I shall praise his virtue. Amen."
-
+meMA.C1.acrostic.text = "As I hymn Athanasios, I shall praise his virtue. Amen."
 meMA.C1.title = ""
 meMA.C1.verse = prayers_en_UK_lash.verse_DevoutMen.text
+
+meMA.C2.title = ""
+meMA.C2.verse = prayers_en_UK_lash.verse_DevoutMen.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
@@ -164,9 +164,6 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C1T.incipit = "You gave birth beyond reason…"
 meMA.Ode1C1T.text = "You gave birth beyond reason to a little child, the Ancient of Days, who showed new paths of virtue upon earth; wounded with love for him, O Maiden, your renowned servant Athanasios framed this house for you."
-
-meMA.C2.title = ""
-meMA.C2.verse = prayers_en_UK_lash.verse_DevoutMen.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode2
