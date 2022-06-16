@@ -25,8 +25,9 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmet
 meVE.SticStavrotheotokion.incipit = "As the Virgin your Mother…"
 meVE.SticStavrotheotokion.text = "As the Virgin your Mother saw you hanged upon a cross, O Lord, she was dismayed and gazing on you said: How have they repaid you, Master, those who enjoyed your many gifts? But, I beg, do not leave me alone in the world; but hasten, rise again, raising the forefathers with you."
 
-meMA.C1.acrostic = "whose acrostic is: Let Christ, glory of the martyrs be acclaimed."
-
+meMA.C1.acrostic.title = "The Canon,"
+meMA.C1.acrostic.notice1 = "whose Acrostic is:"
+meMA.C1.acrostic.text = "Let Christ, glory of the martyrs be acclaimed."
 //meMA.C1.title = titles_en_UK_lash.KanonTonAgion
 meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text

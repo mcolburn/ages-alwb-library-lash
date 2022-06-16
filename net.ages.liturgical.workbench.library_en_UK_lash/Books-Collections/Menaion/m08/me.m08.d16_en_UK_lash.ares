@@ -87,15 +87,15 @@ meMA.Kathisma21.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
 meMA.Kathisma21.incipit = "As your Fashioner and God…"
 meMA.Kathisma21.text = "As your Fashioner and God he translated to perfect joy your soul that had been placed in the hands of the One who had become man from you for our sake; therefore we reverently call you blessed, the only pure and undefiled, and as we all acknowledge you to be in deed Mother of God we cry: Implore Christ, to whom you have passed over, to save our souls."
 
+meMA.C1.acrostic.title = "Canon for the Holy Mandylion."
+meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
+meMA.C1.acrostic.text = "I honour the imprint of your face, O Saviour."
 meMA.C1.poet = poets_en_UK_lash.GermanouPatriarchou
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "of which the Acrostic is: I honour the imprint of your face, O Saviour."
-
 meMA.C1.title = "Canon for the Mandylion."
 meMA.C1.verse = prayers_en_UK_lash.verse_God.text
+
+meMA.C2.title = titles_en_UK_lash.KanonTouAgiou
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode6
@@ -120,9 +120,6 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode6
 meMA.Ode1C1T.melody = he.h.m6_en_UK_lash.OsEnIpeiroPezefsas.name
 meMA.Ode1C1T.incipit = "Taking flesh from your pure…"
 meMA.Ode1C1T.text = "Taking flesh from your pure loins in a manner above nature, O all-blameless, the One who gives being to all mortals became visible, yet not abandoning what he was before."
-
-meMA.C2.title = titles_en_UK_lash.KanonTouAgiou
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode4

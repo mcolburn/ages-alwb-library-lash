@@ -106,23 +106,22 @@ meMA.Kathisma21.melody = he.a.m4_en_UK_lash.EpefanisSimeron.notmetered
 meMA.Kathisma21.incipit = "For this present day…"
 meMA.Kathisma21.text = "For this present day the progress of the Cross is cause of joy; for it sanctifies both our souls and bodies, who worship it with faith."
 
+meMA.C1.acrostic.title = "Canon for the Cross,"
+meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
+meMA.C1.acrostic.text = "We all praise the Tree that should be worshipped."
 meMA.C1.poet = poets_en_UK_lash.Iosif
-meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "of which the Acrostic is: We all praise the Tree that should be worshipped."
+meMA.C1.title = titles_en_UK_lash.KanonTouStavrou
+meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.poet = poets_en_UK_lash.AndreouKritis
+meMA.C2.title = titles_en_UK_lash.KanonTonAgion
+meMA.C2.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1H.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.ArmatilatinFarao.text
-
-meMA.C1.title = titles_en_UK_lash.KanonTouStavrou
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
@@ -153,9 +152,6 @@ meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.ArmatilatinFarao.name
 meMA.Ode1C1T.incipit = "When I gave birth to…"
 meMA.Ode1C1T.text = "When I gave birth to you ineffably, my Child, I escaped the pangs of labour; how then am I now all filled with griefs? For I see you, who hung the earth without restraint, hanged like a malefactor on a Tree."
-
-meMA.C2.title = titles_en_UK_lash.KanonTonAgion
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C21.mode = misc_en_UK_lash.Mode1

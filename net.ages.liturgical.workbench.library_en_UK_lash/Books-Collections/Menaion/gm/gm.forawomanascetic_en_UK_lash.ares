@@ -25,8 +25,9 @@ meVE.SticStavrotheotokion.melody = misc_en_UK_lash.NotMetered
 meVE.SticStavrotheotokion.incipit = "When the Ewe-lamb, your Mother…"
 meVE.SticStavrotheotokion.text = "When the Ewe-lamb, your Mother, saw you nailed to the Cross, Lord, she was struck with amazement, and cried out: What is this sight, my Son so greatly loved? Is this how the disobedient, lawless people repays your many wonders? But glory, Master, to your ineffable condescension!"
 
-meMA.C1.acrostic = "in the 9th Ode: J[o]seph"
-
+meMA.C1.acrostic.title = "The Canon."
+meMA.C1.acrostic.notice1 = "Acrostic in the 9th Ode is:"
+meMA.C1.acrostic.text = "J[o]seph"
 //meMA.C1.title = titles_en_UK_lash.KanonTisAgias
 meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsW.text

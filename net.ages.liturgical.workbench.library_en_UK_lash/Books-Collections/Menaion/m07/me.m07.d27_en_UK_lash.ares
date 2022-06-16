@@ -18,19 +18,19 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meMA.C1.acrostic.title = ""
-meMA.C1.acrostic.notice1 = ""
-meMA.C1.acrostic.text = ""
-//meMA.C1.acrostic.notice2 = ""
-meMA.C1.acrostic = "of which the acrostic is the Alphabet in reverse order."
+meMA.C1.acrostic.notice1 = "of which the acrostic is the Alphabet in reverse order."
+meMA.C1.poet = poets_en_UK_lash.Theofanous
+meMA.C1.title = titles_en_UK_lash.KanonTisTheotokou
+meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
+meMA.C1.title = titles_en_UK_lash.KanonTisTheotokou
+meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
+// Canon 1 is similar to oc.m2.d4 canon 2, attributed to John of Euchaita
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
 meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.EnVythoKatestrose.text
-
-meMA.C1.title = titles_en_UK_lash.KanonTisTheotokou
-meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2

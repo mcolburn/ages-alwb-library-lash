@@ -79,12 +79,9 @@ meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.KateplagiIosif.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
 
-meCO.C1.poet = ""
 meCO.C1.acrostic.title = ""
 meCO.C1.acrostic.notice1 = ""
 meCO.C1.acrostic.text = ""
-//meCO.C1.acrostic.notice2 = ""
-meCO.C1.acrostic = ""
 meCO.C1.title = titles_en_UK_lash.OKanon
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 

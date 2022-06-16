@@ -25,9 +25,10 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OExYpsistouKlitheis.notmet
 meVE.SticStavrotheotokion.incipit = "When the Ewe-lamb, your Mother…"
 meVE.SticStavrotheotokion.text = "When the Ewe-lamb, your Mother, saw you nailed to the Cross, Lord, she was struck with amazement, and cried out: What is this sight, my Son so greatly loved? Is this how the disobedient, lawless people repays your many wonders? But glory, Master, to your ineffable condescension!"
 
+meMA.C1.acrostic.title = "The Canon,"
+meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
+meMA.C1.acrostic.text = "Let the fame of Sophonias give me splendour."
 meMA.C1.poet = poets_en_UK_lash.Theofanous
-meMA.C1.acrostic = "of which the Acrostic is: Let the fame of Sophonias give me splendour."
-
 //meMA.C1.title = titles_en_UK_lash.KanonTouProfitou
 meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
 meMA.C1.verse = prayers_en_UK_lash.verse_Prophet.text
