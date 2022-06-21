@@ -405,9 +405,6 @@ ocMA.C2.poet = poets_en_UK_lash.Kosma
 
 ocMA.C3.acrostic.title = ""
 ocMA.C3.acrostic.notice1 = ""
-ocMA.C3.acrostic.text = ""
-//ocMA.C3.acrostic.notice2 = ""
-ocMA.C3.acrostic = "of which the Acrostic is the Alphabet."
 
 ocMA.OdeS1C1H.mode = misc_en_UK_lash.Mode7
 ocMA.OdeS1C1H.ode = misc_en_UK_lash.Ode1

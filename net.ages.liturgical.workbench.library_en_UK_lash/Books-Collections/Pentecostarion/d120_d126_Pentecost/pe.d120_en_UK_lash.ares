@@ -154,11 +154,10 @@ peMA.C2.poet = poets_en_UK_lash.KyriouIoannouArkla
 peMA.C2.title = titles_en_UK_lash.KanonBTisEortis
 peMA.C2.verse = prayers_en_UK_lash.verse_God.text
 
-peMA.C2.Acrostic1.acrostic = "whose acrostic is contained in the following elegiac couplets:"
-peMA.C2.Acrostic2.acrostic = "Only-begotten of God, from the heart of the Father you sent to"
-peMA.C2.Acrostic3.acrostic = "Those upon earth once again other Advocate, Spirit divine,"
-peMA.C2.Acrostic4.acrostic = "Bringing, in tongues made of fire, of the pure, immaterial Godhead,"
-peMA.C2.Acrostic5.acrostic = "Sign of your nature and grace for those who are minstrels of praise."
+peMA.C2.acrostic.line1.text = "Only-begotten of God, from the heart of the Father you sent to"
+peMA.C2.acrostic.line2.text = "Those upon earth once again other Advocate, Spirit divine,"
+peMA.C2.acrostic.line3.text = "Bringing, in tongues made of fire, of the pure, immaterial Godhead,"
+peMA.C2.acrostic.line4.text = "Sign of your nature and grace for those who are minstrels of praise."
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C1H.mode = misc_en_UK_lash.Mode7

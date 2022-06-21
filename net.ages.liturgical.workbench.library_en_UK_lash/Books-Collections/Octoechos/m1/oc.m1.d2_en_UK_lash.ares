@@ -112,14 +112,14 @@ ocMA.C1.acrostic.title = ""
 ocMA.C1.acrostic.notice1 = ""
 ocMA.C1.acrostic.text = ""
 //ocMA.C1.acrostic.notice2 = ""
-ocMA.C1.acrostic = "of which the acrostic is: O Word, wash away the filth of my faults. Joseph."
+//ocMA.C1.acrostic = "of which the acrostic is: O Word, wash away the filth of my faults. Joseph."
 
 ocMA.C2.poet = poets_en_UK_lash.Theofanous
 ocMA.C2.acrostic.title = ""
 ocMA.C2.acrostic.notice1 = ""
 ocMA.C2.acrostic.text = ""
 //ocMA.C2.acrostic.notice2 = ""
-ocMA.C2.acrostic = "of which the acrostic is: First hymn of Theophanes for the Angels."
+//ocMA.C2.acrostic = "of which the acrostic is: First hymn of Theophanes for the Angels."
 
 ocMA.OdeW1C1H.mode = misc_en_UK_lash.Mode1
 ocMA.OdeW1C1H.ode = misc_en_UK_lash.Ode1
