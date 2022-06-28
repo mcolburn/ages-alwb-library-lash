@@ -37,7 +37,7 @@ AseveiasOrgana.mode = misc_en_UK_lash.Mode8
 AseveiasOrgana.ode = misc_en_UK_lash.Ode8
 AseveiasOrgana.text = ""
 
-AsmaAnapempsomen.name = ""
+AsmaAnapempsomen.name = "All you people."
 AsmaAnapempsomen.incipit = "…"
 AsmaAnapempsomen.melody = misc_en_UK_lash.Heirmos
 AsmaAnapempsomen.mode = misc_en_UK_lash.Mode8
@@ -643,7 +643,7 @@ TonEnOreiAgio.mode = misc_en_UK_lash.Mode8
 TonEnOreiAgio.ode = misc_en_UK_lash.Ode8
 TonEnOreiAgio.text = "The Lord who was glorified on the holy mountain and who made known to Moses in the bush by fire the mystery of the Ever-virgin, praise and exalt to all the ages." //The Lord, glorified on the holy mountain and who made known to Moses in the bush by fire the mystery of the Virgin, praise and highly exalt to all the ages.
 
-TonFovonSouKyrie.name = ""
+TonFovonSouKyrie.name = "O Lord, we Your servants."
 TonFovonSouKyrie.incipit = "…"
 TonFovonSouKyrie.melody = misc_en_UK_lash.Heirmos
 TonFovonSouKyrie.mode = misc_en_UK_lash.Mode8
