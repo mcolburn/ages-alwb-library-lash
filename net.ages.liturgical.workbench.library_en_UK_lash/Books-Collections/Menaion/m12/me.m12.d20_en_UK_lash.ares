@@ -6,7 +6,9 @@ meDA.commemoration.first = "Forefeast of the Nativity of our Saviour"
 meDA.commemoration.first_short = "Forefeast of the Nativity of our Saviour"
 meDA.commemoration.second_short = "Commemoration of the Holy Bishop and Martyr Ignatios the God-bearer"
 meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
 meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
 meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "" // for use in petitions and dismissal
 meDA.note = ""
@@ -838,4 +840,4 @@ meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meMegalynarion.text = ""
-
+meMegalynarion2.text = ""
