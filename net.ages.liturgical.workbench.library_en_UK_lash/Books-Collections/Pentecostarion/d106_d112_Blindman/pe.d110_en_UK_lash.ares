@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d110_en_UK_lash
 
 peDA.commemoration.full = "The Assumption of our Lord and God and Saviour Jesus Christ" //full title of day
 peDA.commemoration.short = "Thursday  of the Assumption of Christ"
+peDA.commemoration.name = ""
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
