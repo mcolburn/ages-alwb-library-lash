@@ -184,8 +184,6 @@ trMA.Kathisma31.melody = he.a.m8_en_UK_lash.ToProstachthen.notmetered
 trMA.Kathisma31.incipit = "He who sits on the…"
 trMA.Kathisma31.text = "He who sits on the throne of the Cherubim and on the colt for our sake, and has come to his voluntary Passion, hears today the Children crying out, 'Hosanna!' and the crowds replying, 'Son of David, hasten to save those whom you fashioned, blessed Jesus. For for this you have come, that we may know your glory'."
 
-trMA.MM.Prokeimenon.text = "" //for media
-
 trMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.incipit = "Today Christ enters the Holy…"
