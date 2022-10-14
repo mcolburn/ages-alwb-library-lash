@@ -124,9 +124,6 @@ peMA.Ode1C2H.melody = he.h.m8_en_UK_lash.ThalassanEpixas.melody
 peMA.Ode1C2H.incipit = he.h.m8_en_UK_lash.ThalassanEpixas.incipit
 peMA.Ode1C2H.text = he.h.m8_en_UK_lash.ThalassanEpixas.text
 
-peMA.C2.title = titles_en_UK_lash.KanonBTisMesopentikostis
-peMA.C2.verse = prayers_en_UK_lash.verse_God.text
-
 peMA.Ode1C21.ode = misc_en_UK_lash.Ode1
 peMA.Ode1C21.mode = misc_en_UK_lash.Mode8
 peMA.Ode1C21.melody = he.h.m8_en_UK_lash.ThalassanEpixas.notmetered
