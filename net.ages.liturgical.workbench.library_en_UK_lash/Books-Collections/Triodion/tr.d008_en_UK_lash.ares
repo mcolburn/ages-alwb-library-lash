@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d008_en_UK_lash
 
 trDA.commemoration.full = "SUNDAY OF THE PROFLIGATE SON" //full title of day
 trDA.commemoration.short = ""
+trDA.title = ""
 trDA.insert1 = "" //for use in petitions and dismissal
 trDA.insert2 = "" //for use in petitions and dismissal
 trDA.note = ""
