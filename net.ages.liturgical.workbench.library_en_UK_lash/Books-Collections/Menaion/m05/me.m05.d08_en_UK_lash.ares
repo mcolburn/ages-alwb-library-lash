@@ -116,6 +116,11 @@ meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "Beloved Apostle of Christ our…"
 meVE.Apolytikion1.text = "Beloved Apostle of Christ our God, hasten, deliver a people without defence. As he accepted that you lean upon his breast, he accepts you as you fall before him. Implore him, O Theologian, and scatter the persistent cloud of nations, asking for us peace and his great mercy."
 
+meMA.Kathisma11.mode = misc_en_UK_lash.Mode8
+meMA.Kathisma11.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Kathisma11.incipit = me.m09.d26_en_UK_lash.meMA.Kathisma11.incipit
+meMA.Kathisma11.text = me.m09.d26_en_UK_lash.meMA.Kathisma11.text
+
 meMA.Kathisma21.mode = misc_en_UK_lash.Mode8
 meMA.Kathisma21.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.incipit = "Leaning on Jesus' breast…"
@@ -125,9 +130,6 @@ meMA.Kathisma31.mode = misc_en_UK_lash.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
-
-meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
-//Eothinon 11: http://goarch.org/chapel/lectionary_view?type= MGandcode= 49andevent= 1907andlanguage= elanddate= 11/24/2013
 
 meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
 meMA.PostGospelGlory.melody = ""
