@@ -147,10 +147,10 @@ meMA.PostGospelIdiomelon.incipit = meVE.Lity4.incipit
 meMA.PostGospelIdiomelon.text = meVE.Lity4.text
 
 meMA.C1.poet = poets_en_UK_lash.Theofanous
-meMA.C1.title = titles_en_UK_lash.KanonTouApostolou
+meMA.C1.title = titles_en_UK_lash.ti.CanonApostle
 meMA.C1.verse = prayers_en_UK_lash.verse_Apostle.text
 
-meMA.C2.title = titles_en_UK_lash.KanonTouOsiou
+meMA.C2.title = titles_en_UK_lash.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1

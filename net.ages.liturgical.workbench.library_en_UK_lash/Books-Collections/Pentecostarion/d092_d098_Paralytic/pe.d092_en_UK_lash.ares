@@ -94,7 +94,7 @@ peMA.C1.acrostic.notice1 = ""
 peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_UK_lash.IosifThessalonikis
-peMA.C1.title = titles_en_UK_lash.KanonTouParalytou
+peMA.C1.title = titles_en_UK_lash.ti.CanonParalytic
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -349,7 +349,7 @@ peMA.Kontakion1.text = "By your divine presence, O Lord, raise my soul, grievous
 peMA.Oikos1.text = "You grasp the ends of the earth in the hollow of your hand, Jesus, God without beginning with the Father, Master of all things with the Holy Spirit; you appeared in flesh, healing diseases and banishing sufferings, giving light to the blind, and with a divine word you raised up the Paralysed Man, ordering him to walk quickly and to take up on his shoulders the bed which had borne him; therefore with him we all sing praises and cry out: O merciful Christ, glory to your might."
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"

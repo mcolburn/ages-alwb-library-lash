@@ -62,7 +62,7 @@ trMA.C1.acrostic.title = "Canon of the Triodion."
 trMA.C1.acrostic.notice1 = "Acrostic in Ode 9:"
 trMA.C1.acrostic.text = "JOSEPH."
 trMA.C1.poet = poets_en_UK_lash.KyriouIosif
-trMA.C1.title = titles_en_UK_lash.KanonTouTriodiou
+trMA.C1.title = titles_en_UK_lash.ti.CanonTriodion
 trMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -203,7 +203,7 @@ trMA.Kontakion1.text = "I have foolishly run away, O Father, from your glory; I 
 trMA.Oikos1.text = "Our Saviour teaches us every day through his own voice. Let us therefore listen to the Scriptures concerning the Profligate who became temperate again, and with faith let us imitate his fair repentance. With humble heart let us cry out to him who knows all secrets, 'We have sinned against you, merciful Father, and are not worthy ever to be called your children as before. But since you are by nature full of love for humankind, accept me and make me as one of your hired servants."
 
 trSY.commemoration.text = "On this day we commemorate the parable of the Profligate Son from the holy Gospel, which our most godly Fathers prescribed for the second Sunday of the Triodion."
-trSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+trSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 trSY.commemoration.couplet1.verse1 = "If you're a Profligate, like me, take heart!"
 trSY.commemoration.couplet1.verse2 = "All doors to God's compassion open lie."
 trSY.commemoration.narration.p01 = ""

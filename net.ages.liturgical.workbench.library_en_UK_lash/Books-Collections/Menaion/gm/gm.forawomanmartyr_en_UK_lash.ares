@@ -25,8 +25,8 @@ meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmet
 meVE.SticStavrotheotokion.incipit = "When the Virgin, your Mother…"
 meVE.SticStavrotheotokion.text = "When the Virgin, your Mother, saw you, Lord, hanging upon the Cross, she was amazed and gazing intently at you she said: How have they repaid you, those who enjoyed your many gifts, O Master? But I beg, do not leave me alone in the world; hasten to arise, raising with you the forefathers."
 
-//meMA.C1.title = titles_en_UK_lash.KanonTisAgias
-meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
+//meMA.C1.title = titles_en_UK_lash.ti.CanonSaintW
+meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

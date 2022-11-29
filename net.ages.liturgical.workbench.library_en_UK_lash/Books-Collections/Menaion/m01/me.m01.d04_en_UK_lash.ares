@@ -89,7 +89,7 @@ meVE.Apolytikion2.text = he.ga_en_UK_lash.ApostoloiAgioi.text
 meCO.C1.acrostic.title = "The Canon,"
 meCO.C1.acrostic.notice1 = "of which the acrostic is:"
 meCO.C1.acrostic.text = "On the long Thursday, I sing a long hymn."
-meCO.C1.title = titles_en_UK_lash.OKanon
+meCO.C1.title = titles_en_UK_lash.ti.TheCanon
 meCO.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -284,17 +284,17 @@ meMA.Kathisma21.text = "Great Baptist of the Lord, rejoice; for Christ has come 
 meMA.C1.acrostic.title = "Canon of the Forefeast,"
 meMA.C1.acrostic.notice1 = "of which the acrostic is the [Greek] Alphabet."
 meMA.C1.poet = poets_en_UK_lash.Iosif
-meMA.C1.title = titles_en_UK_lash.KanonProeortios
+meMA.C1.title = titles_en_UK_lash.ti.CanonForefeast
 meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_UK_lash.KanonTonApostolon
+meMA.C2.title = titles_en_UK_lash.ti.CanonApostles
 meMA.C2.verse = prayers_en_UK_lash.verse_Apostles.text
 
 meMA.C3.poet = poets_en_UK_lash.Theofanous
-meMA.C3.title = titles_en_UK_lash.KanonTouOsiou
+meMA.C3.title = titles_en_UK_lash.ti.CanonDevoutM
 meMA.C3.verse = prayers_en_UK_lash.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

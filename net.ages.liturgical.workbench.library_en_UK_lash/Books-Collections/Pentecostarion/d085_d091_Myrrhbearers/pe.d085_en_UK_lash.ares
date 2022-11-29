@@ -114,7 +114,7 @@ peMA.Kathisma23.melody = ""
 peMA.Kathisma23.incipit = oc.m2.d1_en_UK_lash.ocMA.Kathisma13.incipit
 peMA.Kathisma23.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma13.text
 
-peMA.C1.title = titles_en_UK_lash.KanonTonMyroforon
+peMA.C1.title = titles_en_UK_lash.ti.CanonMyrrhbearers
 peMA.C1.poet = poets_en_UK_lash.AndreouKritis
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
@@ -466,7 +466,7 @@ peMA.Kontakion1.text = "When you cried to the Myrrhbearers, 'Rejoice!', Christ o
 peMA.Oikos1.text = "As they went to your tomb, O Saviour, the Myrrhbearers were troubled among themselves in mind and they said, 'Who will roll away the stone from the grave for us?' And looking up they see that the stone has been rolled away. They were amazed by the appearance of the Angel and his raiment; they were seized with fright and thought to flee; but the young man cried out to them, 'Do not be afraid. The one you seek has risen. Come, see the place where the body of Jesus was laid and going quickly tell his disciples: The Saviour has risen from the grave'."
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"

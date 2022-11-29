@@ -28,8 +28,8 @@ meVE.SticStavrotheotokion.text = "O all-immaculate Ewe-lamb, you bore the unblem
 meMA.C1.acrostic.title = "The Canon,"
 meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
 meMA.C1.acrostic.text = "I honour the wise Apostles of Christ."
-//meMA.C1.title = titles_en_UK_lash.KanonTonApostolon
-meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
+//meMA.C1.title = titles_en_UK_lash.ti.CanonApostles
+meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
 meMA.C1.verse = prayers_en_UK_lash.verse_Apostles.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

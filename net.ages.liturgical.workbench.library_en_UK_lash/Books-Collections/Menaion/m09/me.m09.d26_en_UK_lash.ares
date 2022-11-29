@@ -201,20 +201,20 @@ meMA.C1.acrostic.title = "Canon of the Mother of God,"
 meMA.C1.acrostic.notice1 = "of which the acrostic is "
 meMA.C1.acrostic.notice2 = "is the Alphabet in reverse order."
 meMA.C1.poet = poets_en_UK_lash.Theofanous
-meMA.C1.title = titles_en_UK_lash.KanonTisTheotokou
+meMA.C1.title = titles_en_UK_lash.ti.CanonTheotokos
 meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 meMA.C2.acrostic.title = "Canon of the Saint,"
 meMA.C2.acrostic.notice1 = "of which the acrostic is:"
 meMA.C2.acrostic.text = "I shall praise the son of thunder in a way pleasing to Christ."
 meMA.C2.poet = poets_en_UK_lash.Theofanous
-meMA.C2.title = titles_en_UK_lash.KanonATouAgiou
+meMA.C2.title = titles_en_UK_lash.ti.Canon1SaintM
 meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.C3.acrostic.title = "A second Canon of the Saint,"
 meMA.C3.acrostic.notice1 = "of which the acrostic is:"
 meMA.C3.acrostic.text = "I bring to God's Initiate a sixth plea. Joseph."
-meMA.C3.title = titles_en_UK_lash.KanonBTouAgiou
+meMA.C3.title = titles_en_UK_lash.ti.Canon2SaintM
 meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

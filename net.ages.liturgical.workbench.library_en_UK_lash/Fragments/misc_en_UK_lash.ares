@@ -2,6 +2,7 @@ A_Resource_Whose_Name = misc_en_UK_lash
 
 NA = ""
 NotAvailable = "(not available)"
+FutureInstance = "(The template is incomplete. This instance is far in the future.)"
 NotMetered = "(not metered)"
 Automelon = "Model Melody."
 AutomelonNotMetered = "Model Melody <i>(not metered).</i>"

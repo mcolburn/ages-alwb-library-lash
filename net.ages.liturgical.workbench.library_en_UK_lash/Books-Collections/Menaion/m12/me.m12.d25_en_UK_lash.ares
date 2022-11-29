@@ -174,7 +174,7 @@ meMA.C1.acrostic.title = "The first Canon, by St Kosmas,"
 meMA.C1.acrostic.notice1 = "has the following Acrostic:"
 meMA.C1.acrostic.text = "Christ becomes mortal. God, that he was, remains."
 meMA.C1.poet = poets_en_UK_lash.KyriouKosma
-meMA.C1.title = titles_en_UK_lash.KanonATisEortis
+meMA.C1.title = titles_en_UK_lash.ti.Canon1Feast
 meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.acrostic.title = "Another Canon, in Iambics, by Monk John,"
@@ -185,7 +185,7 @@ meMA.C2.acrostic.line2.text = "God’s Son for mortals’ sake on earth now born
 meMA.C2.acrostic.line3.text = "Abolishing the world’s grim miseries."
 meMA.C2.acrostic.line4.text = "But, King, deliver preachers from these pains."
 meMA.C2.poet = poets_en_UK_lash.IoannouMonachou
-meMA.C2.title = titles_en_UK_lash.KanonIamvikos
+meMA.C2.title = titles_en_UK_lash.ti.IambicCanon
 meMA.C2.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

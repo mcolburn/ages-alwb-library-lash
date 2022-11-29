@@ -144,7 +144,7 @@ peMA.C1.acrostic.notice1 = "whose acrostic is:"
 peMA.C1.acrostic.text = "We celebrate Pentecost"
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_UK_lash.KosmaMonachou
-peMA.C1.title = titles_en_UK_lash.KanonATisEortis
+peMA.C1.title = titles_en_UK_lash.ti.Canon1Feast
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.C2.acrostic.title = "Another Canon,"
@@ -152,7 +152,7 @@ peMA.C2.acrostic.notice1 = "whose acrostic is contained in the following elegiac
 peMA.C2.acrostic.text = "Only-begotten of God, from the heart of the Father you sent to * Those upon earth once again other Advocate, Spirit divine, * Bringing, in tongues made of fire, of the pure, immaterial Godhead, * Sign of your nature and grace for those who are minstrels of praise."
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_UK_lash.KyriouIoannouArkla
-peMA.C2.title = titles_en_UK_lash.KanonBTisEortis
+peMA.C2.title = titles_en_UK_lash.ti.Canon2Feast
 peMA.C2.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.C2.acrostic.line1.text = "Only-begotten of God, from the heart of the Father you sent to"
@@ -422,7 +422,7 @@ peMA.Oikos1.incipit = "…"
 peMA.Oikos1.text = "Give swift and stable comfort to your servants, Jesu, in the despondency of our spirits; do not part from our souls in troubles, do not be far from our minds in perils, but ever anticipate us. Be near us, be near you, who are everywhere; as you are also always with your Apostles, so unite yourself, O compassionate, with those who long for you, that united to you we may hymn and glorify your All-holy Spirit."
 
 peSY.commemoration.text = "On the same day, the eighth Sunday from Pascha, we celebrate the holy Pentecost."
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = "With mighty wind, in form like tongues of fire"
 peSY.commemoration.couplet1.verse2 = "Christ gives God's Spirit now to the Apostles."
 peSY.commemoration.single1 = "Spirit on this great day on fishers poured."

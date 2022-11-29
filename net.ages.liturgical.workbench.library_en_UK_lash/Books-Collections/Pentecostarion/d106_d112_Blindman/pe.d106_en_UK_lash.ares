@@ -93,7 +93,7 @@ peMA.C1.acrostic.notice1 = ""
 peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_UK_lash.IosifThessalonikis
-peMA.C1.title = titles_en_UK_lash.KanonTouTyflou
+peMA.C1.title = titles_en_UK_lash.ti.CanonBlindman
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -319,7 +319,7 @@ peMA.Kontakion1.text = "With the eyes of my soul mutilated I come to you, O Chri
 peMA.Oikos1.text = "Grant me a stream of inexpressible wisdom, and knowledge from above, O Christ, light of those in darkness and guide of those who stray; that I may recount what the divine book of the Gospel of peace teaches: the miracle of the blind man; for being blind from birth he receives both physical eyes and eyes of the soul, as he cries: You are the radiant light of those in darkness."
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"

@@ -152,13 +152,13 @@ meMA.Kathisma21.text = "A marvellous wonder appears today! For our Saviour is no
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_UK_lash.Iosif
-meMA.C1.title = titles_en_UK_lash.KanonProeortios
+meMA.C1.title = titles_en_UK_lash.ti.CanonForefeast
 meMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
-meMA.C2.title = titles_en_UK_lash.KanonTisAgias
+meMA.C2.title = titles_en_UK_lash.ti.CanonSaintW
 meMA.C2.verse = prayers_en_UK_lash.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

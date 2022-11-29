@@ -28,8 +28,8 @@ meVE.SticStavrotheotokion.text = "The Virgin as she watched your unjust slaughte
 meMA.C1.acrostic.title = "The Canon,"
 meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
 meMA.C1.acrostic.text = "I honour the contests of three true sisters. Joseph."
-//meMA.C1.title = titles_en_UK_lash.KanonTonMartyron
-meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
+//meMA.C1.title = titles_en_UK_lash.ti.CanonMartyrs
+meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsW.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

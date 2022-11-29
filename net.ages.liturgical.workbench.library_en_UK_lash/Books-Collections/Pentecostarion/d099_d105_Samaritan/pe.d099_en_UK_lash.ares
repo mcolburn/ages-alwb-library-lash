@@ -103,7 +103,7 @@ peMA.C1.acrostic.notice1 = ""
 peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_UK_lash.IosifThessalonikis
-peMA.C1.title = titles_en_UK_lash.KanonTisEortis
+peMA.C1.title = titles_en_UK_lash.ti.CanonFeast
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -335,7 +335,7 @@ peMA.Kontakion1.text = "Coming in faith to the well, the woman of Samaria saw yo
 peMA.Oikos1.text = "Let us listen to John teaching us of the holy mysteries which happened in Samaria; how the Lord spoke with a woman, asking her for water, He who gathers the waters to their gatherings, equal in majesty with the Father and the Spirit; for He came seeking out his image, as eternally glorious."
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"

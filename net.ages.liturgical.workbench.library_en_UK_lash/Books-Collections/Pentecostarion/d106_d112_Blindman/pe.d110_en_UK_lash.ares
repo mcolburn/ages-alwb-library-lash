@@ -183,7 +183,7 @@ peMA.PostGospelIdiomelon.text = ""
 
 peMA.C1.acrostic.title = ""
 peMA.C1.poet = poets_en_UK_lash.IoannouMonachou
-peMA.C1.title = titles_en_UK_lash.KanonATisEortis
+peMA.C1.title = titles_en_UK_lash.ti.Canon1Feast
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.C2.acrostic.title = ""
@@ -191,7 +191,7 @@ peMA.C2.acrostic.notice1 = ""
 peMA.C2.acrostic.text = ""
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_UK_lash.IosifThessalonikis
-peMA.C2.title = titles_en_UK_lash.KanonBTisEortis
+peMA.C2.title = titles_en_UK_lash.ti.Canon2Feast
 peMA.C2.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
@@ -513,7 +513,7 @@ peMA.Kontakion1.text = he.a.m6_en_UK_lash.TinYperImon.text
 peMA.Oikos1.text = "Abandoning on earth the things of earth, leaving to the dust the things of ash, now, let us come to our senses and raise on high our eyes and minds. Mortals, let us make our sight together with our senses fly heaven's gates. Let us imagine we are standing on the Mount of Olives and that we bend our gaze on the Redeemer, as he rides up on a cloud. For, from where the Lord has hastened back to heaven, there too the One who loves to give has distributed his gifts to his Apostles, cherishing them as a father and confirming them, guiding them as sons and saying to them, 'I am not parting from you. I am with you, and there is no one against you.'"
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"

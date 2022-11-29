@@ -172,7 +172,7 @@ peMA.Ode1C1H.melody = he.h.m1_en_UK_lash.AsomenPantesLaoi.melody
 peMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.AsomenPantesLaoi.incipit
 peMA.Ode1C1H.text = he.h.m1_en_UK_lash.AsomenPantesLaoi.text
 
-peMA.C1.title = titles_en_UK_lash.KanonTisEortis
+peMA.C1.title = titles_en_UK_lash.ti.CanonFeast
 peMA.C1.verse = prayers_en_UK_lash.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -308,7 +308,7 @@ peMA.Kontakion1.text = "With his meddling right hand, Thomas explored your life-
 peMA.Oikos1.text = "Who then preserved the Disciple's palm unmelted when it approached the fiery side of the Lord? Who gave it daring, and gave it strength to handle bone of flame? Only that side which was handled; for had not the side given the power, how could a hand of clay have handled wounds which had shaken things above and things below? This grace was given Thomas, to handle it and to cry out to Christ, 'You are my Lord and my God'."
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_UK_lash.Stichoi
+peSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"

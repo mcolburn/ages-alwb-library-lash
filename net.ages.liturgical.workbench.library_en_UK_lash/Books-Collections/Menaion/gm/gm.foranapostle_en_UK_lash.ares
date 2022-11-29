@@ -25,8 +25,8 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_UK_lash.TiYmasKalesomen.notmetered
 meVE.SticStavrotheotokion.incipit = "When the Ewe-lamb who bore…"
 meVE.SticStavrotheotokion.text = "When the Ewe-lamb who bore you saw you nailed to the Tree, Lord, she tore at her eyes and cried aloud in lamentation, 'My Son, how do you endure unjust slaughter? How can you, the Immortal, die as a mortal? Give me a word, sweetest light. Look at your Mother as she mourns for you, and glorify her, O Word, by your rising'."
 
-//meMA.C1.title = titles_en_UK_lash.KanonTouApostolou
-meMA.C1.title = titles_en_UK_lash.OKanonTouMinaiou2
+//meMA.C1.title = titles_en_UK_lash.ti.CanonApostle
+meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
 meMA.C1.verse = prayers_en_UK_lash.verse_Apostle.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1

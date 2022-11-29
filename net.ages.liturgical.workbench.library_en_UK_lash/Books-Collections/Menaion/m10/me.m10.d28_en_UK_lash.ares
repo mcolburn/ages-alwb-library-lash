@@ -59,14 +59,14 @@ meVE.SticStavrotheotokion.melody = he.a.m8_en_UK_lash.OTouParadoxou.notmetered
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = //me.m03.d12_en_UK_lash.meVE.SticStavrotheotokion.text
 
-meMA.C1.title = titles_en_UK_lash.KanonTonMartyron
+meMA.C1.title = titles_en_UK_lash.ti.CanonMartyrs
 meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.poet = poets_en_UK_lash.Theofanous
-meMA.C2.title = titles_en_UK_lash.KanonTouOsiou
+meMA.C2.title = titles_en_UK_lash.ti.CanonDevoutM
 meMA.C2.verse = prayers_en_UK_lash.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
@@ -717,13 +717,13 @@ alt1.meMA.PostGospelIdiomelon.text = "Today the all-praised Virgin, unfolding he
 alt1.meMA.C1.acrostic.title = "First Canon,"
 alt1.meMA.C1.acrostic.notice1 = "of which the acrostic is:"
 alt1.meMA.C1.acrostic.text = "You are the Protection of believers, O Virgin. By Gerasimos."
-alt1.meMA.C1.title = titles_en_UK_lash.KanonATisTheotokou
+alt1.meMA.C1.title = titles_en_UK_lash.ti.Canon1Theotokos
 alt1.meMA.C1.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 alt1.meMA.C2.acrostic.title = "Second Canon,"
 alt1.meMA.C2.acrostic.notice1 = "of which the acrostic is:"
 alt1.meMA.C2.acrostic.text = "I hymn the Protection of the Mother of God. By Gerasimos."
-alt1.meMA.C2.title = titles_en_UK_lash.KanonBTisTheotokou
+alt1.meMA.C2.title = titles_en_UK_lash.ti.Canon2Theotokos
 alt1.meMA.C2.verse = prayers_en_UK_lash.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
