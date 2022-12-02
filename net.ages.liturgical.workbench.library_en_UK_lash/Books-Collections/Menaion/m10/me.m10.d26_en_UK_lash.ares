@@ -175,14 +175,14 @@ meMA.C1.acrostic.title = "The Canon of the Earthquake,"
 meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
 meMA.C1.acrostic.text = "O Christ, earth’s tremors end with speed Joseph."
 meMA.C1.title = "The Canon of the Earthquake."
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meMA.C2.acrostic.title = "First Canon of the Saint,"
 meMA.C2.acrostic.notice1 = "of which the Acrostic is:"
 meMA.C2.acrostic.text = "I address triumphant Demetrios."
 meMA.C2.poet = poets_en_UK_lash.Theofanous
 meMA.C2.title = titles_en_UK_lash.ti.Canon1SaintM
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
+meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.C3.acrostic.title = "Second Canon of the Saint,"
 meMA.C3.acrostic.notice1 = "of which the Acrostic is:"
@@ -190,7 +190,7 @@ meMA.C3.acrostic.text = "Adorned with spiritual myrrh, you become myrrh."
 meMA.C3.acrostic.notice2 = "In the Theotokia: By Philotheos."
 meMA.C3.poet = ""
 meMA.C3.title = titles_en_UK_lash.ti.Canon2SaintM
-meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
+meMA.C3.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6

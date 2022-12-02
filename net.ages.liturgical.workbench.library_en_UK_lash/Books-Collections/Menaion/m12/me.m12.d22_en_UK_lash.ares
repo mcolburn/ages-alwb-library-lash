@@ -101,7 +101,7 @@ meCO.C1.acrostic.title = "Triode,"
 meCO.C1.acrostic.notice1 = "of which the Acrostic is:"
 meCO.C1.acrostic.text = "I shall sing on Wednesday."
 meCO.C1.title = "Triode."
-meCO.C1.verse = prayers_en_UK_lash.verse_God.text
+meCO.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.Ode3C1H.ode = misc_en_UK_lash.Ode3
 meCO.Ode3C1H.mode = misc_en_UK_lash.Mode2
@@ -183,17 +183,17 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.title = titles_en_UK_lash.ti.CanonForefeast
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meMA.C2.poet = poets_en_UK_lash.Iosif
 meMA.C2.title = titles_en_UK_lash.ti.Canon1SaintW
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintW.text
+meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintW.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.title = titles_en_UK_lash.ti.Canon2SaintW
-meMA.C3.verse = prayers_en_UK_lash.verse_SaintW.text
+meMA.C3.verse = prayers_en_UK_lash.pr.verse_SaintW.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6

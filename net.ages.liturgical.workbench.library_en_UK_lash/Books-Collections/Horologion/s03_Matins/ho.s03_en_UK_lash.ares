@@ -103,7 +103,7 @@ hoMA.ResEvlog6.mode = misc_en_UK_lash.Mode5
 hoMA.ResEvlog6.incipit = "…"
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_UK_lash.Mode5
-hoMA.ResEvlog7.text = prayers_en_UK_lash.Allilouia3Doxa.text
+hoMA.ResEvlog7.text = prayers_en_UK_lash.pr.Alleluia3Glory.text
 
 hoMA.FuneralEvlog.title1 = ""
 hoMA.FuneralEvlog.title2 = ""
@@ -134,7 +134,7 @@ hoMA.FuneralEvlog8.mode = misc_en_UK_lash.Mode5
 hoMA.FuneralEvlog8.incipit = "Hail, honoured one, who bore…"
 hoMA.FuneralEvlog8.text = "Hail, honoured one, who bore God in the flesh for the salvation of all; through you the human race has found salvation; through you may we find Paradise, O pure and blessed Mother of God."
 hoMA.FuneralEvlog9.mode = misc_en_UK_lash.Mode5
-hoMA.FuneralEvlog9.text = prayers_en_UK_lash.Allilouia3Doxa.text
+hoMA.FuneralEvlog9.text = prayers_en_UK_lash.pr.Alleluia3Glory.text
 
 //Psalm 50
 hoMA.Psalm50.text = "" // for media

@@ -70,7 +70,7 @@ trVE.Apolytikion1.text = "Assuring us before your Passion of the general resurre
 
 trCO.C1.poet = poets_en_UK_lash.AndreouKritis
 trCO.C1.title = "Canon for Lazarus"
-trCO.C1.verse = prayers_en_UK_lash.verse_God.text
+trCO.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 trCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trCO.Ode1C1H.mode = misc_en_UK_lash.Mode1

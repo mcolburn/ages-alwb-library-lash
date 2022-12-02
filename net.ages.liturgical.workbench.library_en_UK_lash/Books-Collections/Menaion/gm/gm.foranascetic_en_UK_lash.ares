@@ -27,7 +27,7 @@ meVE.SticStavrotheotokion.text = "When she saw Christ, the lover of mankind, cru
 
 //meMA.C1.title = titles_en_UK_lash.ti.CanonDevoutM
 meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
-meMA.C1.verse = prayers_en_UK_lash.verse_DevoutMan.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_DevoutMan.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8

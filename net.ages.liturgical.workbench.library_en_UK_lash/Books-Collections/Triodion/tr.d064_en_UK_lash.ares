@@ -205,7 +205,7 @@ trMA.C1.acrostic.notice1 = "of which the acrostic is:"
 trMA.C1.acrostic.text = "Hosanna Christ, blessed God."
 trMA.C1.poet = poets_en_UK_lash.KosmaMonachou
 trMA.C1.title = titles_en_UK_lash.ti.CanonFeast
-trMA.C1.verse = prayers_en_UK_lash.verse_God.text
+trMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 trMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 trMA.Ode1C1H.mode = misc_en_UK_lash.Mode4

@@ -95,7 +95,7 @@ euMA.Kathisma31.incipit = "…"
 euMA.Kathisma31.text = ""
 
 euMA.C1.title = ""
-euMA.C1.verse = prayers_en_UK_lash.verse_God.text
+euMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 euMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
 euMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
@@ -145,15 +145,15 @@ euMA.MM.Lauds123as456.text = properties_en_UK_lash.media.key
 
 euCON.Key4000.title = ""
 euCON.Key4100.title = ""
-euCON.Key4101.text = prayers_en_UK_lash.enarxis02
+euCON.Key4101.text = prayers_en_UK_lash.pr.enarxis02.text
 euCON.R410 = ""
-euCON.Key4102.text = prayers_en_UK_lash.enarxis01
+euCON.Key4102.text = prayers_en_UK_lash.pr.enarxis01.text
 //Litany
 euCON.R411 = ""
 euCON.Key4104.text = ""
-euCON.Key4105.text = prayers_en_UK_lash.exc07b
+euCON.Key4105.text = prayers_en_UK_lash.pr.exc07b.text
 euCON.Key4106.text = ""
-euCON.Key4107.text = prayers_en_UK_lash.exc14
+euCON.Key4107.text = prayers_en_UK_lash.pr.exc14.text
 
 euCON.Key4200.title = ""
 euCON.R420 = ""
@@ -203,9 +203,9 @@ euCON.Key4211b.incipit = "…"
 euCON.Key4211b.text = ""
 euCON.Key4211c.incipit = "…"
 euCON.Key4211c.text = ""
-euCON.Key4212.text = prayers_en_UK_lash.exc06
+euCON.Key4212.text = prayers_en_UK_lash.pr.exc06.text
 euCON.Key4213.text = eu.lichrysbasil_en_UK_lash.euLI.Key0501.text
-euCON.Key4214.text = prayers_en_UK_lash.exc01
+euCON.Key4214.text = prayers_en_UK_lash.pr.exc01.text
 
 euCON.Key4300.title = ""
 euCON.R430 = ""
@@ -223,37 +223,37 @@ euCON.Key4402.text = ""
 euCON.R441 = ""
 euCON.R442 = ""
 euCON.Key4403.text = ""
-euCON.Key4404.text = prayers_en_UK_lash.exc20
+euCON.Key4404.text = prayers_en_UK_lash.pr.exc20.text
 euCON.Key4405a.text = ""
 euCON.Key4405b.text = ""
 euCON.Key4405c.text = ""
-euCON.Key4406.text = prayers_en_UK_lash.exc01
+euCON.Key4406.text = prayers_en_UK_lash.pr.exc01.text
 euCON.R443 = ""
 euCON.R444 = ""
 
 euCON.Key4500.title = ""
 euCON.R450 = ""
-euCON.Key4501.text = prayers_en_UK_lash.enarxis01
-euCON.Key4502.text = prayers_en_UK_lash.petKneel07
+euCON.Key4501.text = prayers_en_UK_lash.pr.enarxis01.text
+euCON.Key4502.text = prayers_en_UK_lash.pr.petKneel07.text
 euCON.R451 = ""
 euCON.Key4503a.text = ""
 euCON.Key4503b.text = ""
 euCON.Key4503c.text = ""
 euCON.Key4504.text = ""
-euCON.Key4505.text = prayers_en_UK_lash.petKneel08
+euCON.Key4505.text = prayers_en_UK_lash.pr.petKneel08.text
 //Litany
 euCON.Key4506.text = ""
 euCON.R452 = ""
 euCON.Key4507.text = ""
-euCON.Key4508.text = prayers_en_UK_lash.EisToOnoma
+euCON.Key4508.text = prayers_en_UK_lash.pr.InTheNameOfFather.text
 euCON.R453 = ""
 euCON.Key4510.text = ""
 
 euCON.Key4600.title = ""
 euCON.R460 = ""
 euCON.R461 = ""
-euCON.Key4603.text = prayers_en_UK_lash.enarxis01
-euCON.Key4604.text = prayers_en_UK_lash.Allilouia3.text
+euCON.Key4603.text = prayers_en_UK_lash.pr.enarxis01.text
+euCON.Key4604.text = prayers_en_UK_lash.pr.Alleluia3.text
 euCON.R462 = ""
 euCON.Key4606.text = ""
 euCON.Key4607.text = ""

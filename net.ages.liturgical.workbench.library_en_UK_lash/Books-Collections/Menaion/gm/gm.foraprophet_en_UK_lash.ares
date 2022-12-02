@@ -31,7 +31,7 @@ meMA.C1.acrostic.text = "Let the fame of Sophonias give me splendour."
 meMA.C1.poet = poets_en_UK_lash.Theofanous
 //meMA.C1.title = titles_en_UK_lash.ti.CanonProphet
 meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
-meMA.C1.verse = prayers_en_UK_lash.verse_Prophet.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_Prophet.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode6

@@ -145,7 +145,7 @@ peMA.C1.acrostic.text = "We celebrate Pentecost"
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_UK_lash.KosmaMonachou
 peMA.C1.title = titles_en_UK_lash.ti.Canon1Feast
-peMA.C1.verse = prayers_en_UK_lash.verse_God.text
+peMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 peMA.C2.acrostic.title = "Another Canon,"
 peMA.C2.acrostic.notice1 = "whose acrostic is contained in the following elegiac couplets: "
@@ -153,7 +153,7 @@ peMA.C2.acrostic.text = "Only-begotten of God, from the heart of the Father you 
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = poets_en_UK_lash.KyriouIoannouArkla
 peMA.C2.title = titles_en_UK_lash.ti.Canon2Feast
-peMA.C2.verse = prayers_en_UK_lash.verse_God.text
+peMA.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 peMA.C2.acrostic.line1.text = "Only-begotten of God, from the heart of the Father you sent to"
 peMA.C2.acrostic.line2.text = "Those upon earth once again other Advocate, Spirit divine,"

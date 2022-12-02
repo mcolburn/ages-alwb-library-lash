@@ -142,13 +142,13 @@ meMA.C1.acrostic.notice1 = "with the following acrostic, not including the Theot
 meMA.C1.acrostic.text = "Dancing I praise the wonders of Elias."
 meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 meMA.C1.title = titles_en_UK_lash.ti.Canon1Prophet
-meMA.C1.verse = prayers_en_UK_lash.verse_Prophet.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_Prophet.text
 
 meMA.C2.acrostic.title = "Second Canon."
 meMA.C2.acrostic.notice1 = "whose acrostic is:"
 meMA.C2.acrostic.text = "Give to me God's grace, blessed Elias. Joseph."
 meMA.C2.title = titles_en_UK_lash.ti.Canon2Prophet
-meMA.C2.verse = prayers_en_UK_lash.verse_Prophet.text
+meMA.C2.verse = prayers_en_UK_lash.pr.verse_Prophet.text
 
 meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C11.mode = misc_en_UK_lash.Mode2

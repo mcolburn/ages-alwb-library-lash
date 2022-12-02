@@ -30,7 +30,7 @@ meMA.C1.acrostic.notice1 = "whose Acrostic is:"
 meMA.C1.acrostic.text = "Let Christ, glory of the martyrs be acclaimed."
 //meMA.C1.title = titles_en_UK_lash.ti.CanonSaints
 meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
-meMA.C1.verse = prayers_en_UK_lash.verse_SaintsM.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2

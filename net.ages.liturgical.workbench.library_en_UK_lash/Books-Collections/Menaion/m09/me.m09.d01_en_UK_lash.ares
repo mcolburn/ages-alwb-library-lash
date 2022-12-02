@@ -186,20 +186,20 @@ meMA.PostGospelIdiomelon.text = meVE.Aposticha4.text
 
 meMA.C1.poet = poets_en_UK_lash.IoannouMonachou
 meMA.C1.title = "Canon for the Indiction."
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.title = "Canon for the holy Women."
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintsW.text
+meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintsW.text
 
 meMA.C3.acrostic.title = ""
 meMA.C3.acrostic.notice1 = ""
 meMA.C3.acrostic.text = ""
 meMA.C3.poet = poets_en_UK_lash.IoannouMonachou
 meMA.C3.title = titles_en_UK_lash.ti.CanonDevoutM
-meMA.C3.verse = prayers_en_UK_lash.verse_SaintM.text
+meMA.C3.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode1

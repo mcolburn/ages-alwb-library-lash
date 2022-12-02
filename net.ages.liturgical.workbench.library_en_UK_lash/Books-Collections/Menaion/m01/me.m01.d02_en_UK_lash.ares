@@ -89,13 +89,13 @@ meCO.C1.acrostic.notice1 = "of which the Acrostic is:"
 meCO.C1.acrostic.text = "On Monday."
 meCO.C1.poet = poets_en_UK_lash.SymeonTouLogothetou
 meCO.C1.title = ""
-meCO.C1.verse = prayers_en_UK_lash.verse_God.text
+meCO.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.C2.acrostic.title = "Another Diode."
 meCO.C2.acrostic.notice1 = "Its acrostic is:"
 meCO.C2.acrostic.text = "And on Tuesday."
 meCO.C2.title = "Another Diode."
-meCO.C2.verse = prayers_en_UK_lash.verse_God.text
+meCO.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meCO.Ode1C1H.mode = misc_en_UK_lash.Mode2
@@ -223,13 +223,13 @@ meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
 meMA.C1.poet = poets_en_UK_lash.Iosif
 meMA.C1.title = titles_en_UK_lash.ti.CanonForefeast
-meMA.C1.verse = prayers_en_UK_lash.verse_God.text
+meMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meMA.C2.acrostic.title = ""
 meMA.C2.acrostic.notice1 = ""
 meMA.C2.acrostic.text = ""
 meMA.C2.title = titles_en_UK_lash.ti.CanonSaintM
-meMA.C2.verse = prayers_en_UK_lash.verse_SaintM.text
+meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
 meMA.Ode1C1H.mode = misc_en_UK_lash.Mode2
