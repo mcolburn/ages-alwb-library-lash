@@ -25,7 +25,7 @@ hoMO.PrayerForDeceased.title = "A Prayer"
 hoMO.PrayerForDeceased.text = "Remember, Lord, our fathers and brethren who have fallen asleep in hope of resurrection to eternal life and all those who have died in piety and faith; and pardon them every offence, willing and unwilling, in word, or deed, or thought, by which they have offended. Settle them in places of light, places of green pasture, places of rest, from which all sorrow, grief and sighing have fled; where the presence of your face gives joy to all your saints from every age. Grant them and us your Kingdom and participation in your ineffable and eternal good things, and the enjoyment of your infinite and blessed life. For you are the life, the resurrection and the repose of your servants who have fallen asleep, Christ our God, and to you we give glory, together with your Father who has no beginning, and your all-holy, good and life giving Spirit, now and for ever, and to the ages of ages."
 
 hoMO.TriadicMegalynaria.title = "Hymns to the Trinity"
-hoMO.TriadicMegalynaria.mode = misc_en_UK_lash.Mode2
+hoMO.TriadicMegalynaria.mode = miscellanea_en_UK_lash.misc.Mode2
 hoMO.TriadicMegalynaria01.incipit = "It is truly right to…"
 hoMO.TriadicMegalynaria01.text = "It is truly right to praise the divine Trinity, the Father without beginning and Maker of all, the co-eternal Word, born without change from the Father before the ages, and the Holy Spirit, proceeding timelessly from the Father."
 hoMO.TriadicMegalynaria02.incipit = "It is truly right to…"
@@ -35,7 +35,7 @@ hoMO.TriadicMegalynaria03.text = "As befits God, let us all praise with songs in
 hoMO.TriadicMegalynaria04.incipit = "Immaculate Virgin, all creation seeing…"
 hoMO.TriadicMegalynaria04.text = "Immaculate Virgin, all creation seeing your Son risen from the dead, as befits God, has been filled with unspeakable joy, as it glorifies him and honours you."
 
-hoMO.SaturdayTroparion1.mode = misc_en_UK_lash.Mode2
+hoMO.SaturdayTroparion1.mode = miscellanea_en_UK_lash.misc.Mode2
 hoMO.SaturdayTroparion1.incipit = "We who are on earth…"
 hoMO.SaturdayTroparion1.text = "We who are on earth, imitating the Powers above, offer you, O Good one, a hymn of victory: Holy, Holy, Holy are you, O God. Through the intercessions of your Saints, O Lord, have mercy on us." //oc.m2.d2_en_UK_lash.octrMA.Triadic2.text
 hoMO.SaturdayTroparion2.incipit = "Uncreated nature, maker of all…"

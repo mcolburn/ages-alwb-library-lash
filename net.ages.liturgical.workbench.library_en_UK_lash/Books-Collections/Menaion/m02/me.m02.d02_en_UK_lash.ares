@@ -20,59 +20,59 @@ meHO.note1 = ""
 meHO.note2 = ""
 meDA.dismissal = dismissals_en_UK_lash.dis00.meeting
 
-meSV.Stichera1.mode = misc_en_UK_lash.Mode1
+meSV.Stichera1.mode = miscellanea_en_UK_lash.misc.Mode1
 meSV.Stichera1.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meSV.Stichera1.incipit = "The Word uncircumscribed, above all…"
 meSV.Stichera1.text = "The Word uncircumscribed, above all being, who rides in glory on the heavenly thrones, Symeon takes into his arms and cries, 'Now release me, according to your word, my Saviour, the salvation and delight of the faithful'."
 
-meSV.Stichera2.mode = misc_en_UK_lash.Mode1
+meSV.Stichera2.mode = miscellanea_en_UK_lash.misc.Mode1
 meSV.Stichera2.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meSV.Stichera2.incipit = "When he saw you, the…"
 meSV.Stichera2.text = "When he saw you, the Word begotten from the Father before the ages, as an infant, wondrous Symeon cried out, 'I quake and tremble to hold you in my hands, my Master. But, I beg you, now release your servant in peace, for you are compassionate'."
 
-meSV.Stichera3.mode = misc_en_UK_lash.Mode1
+meSV.Stichera3.mode = miscellanea_en_UK_lash.misc.Mode1
 meSV.Stichera3.melody = he.a.m1_en_UK_lash.TonOuranionTagmaton.notmetered
 meSV.Stichera3.incipit = "Now let the heavenly gate…"
 meSV.Stichera3.text = "Now let the heavenly gate be opened. God the Word, begotten beyond time from the Father, has been born from a Virgin, taking flesh, for as he is good he wishes to call back mortal nature and set it at the Father's right hand."
 
-meSV.SticGlory.poet = poets_en_UK_lash.AndreouKritis
-meSV.SticGlory.mode = misc_en_UK_lash.Mode4
+meSV.SticGlory.poet = poets_en_UK_lash.po.AndreouKritis
+meSV.SticGlory.mode = miscellanea_en_UK_lash.misc.Mode4
 meSV.SticGlory.melody = ""
 meSV.SticGlory.incipit = meVE.Lity8.incipit
 meSV.SticGlory.text = meVE.Lity8.text
 
-meSV.Aposticha1.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
 meSV.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 meSV.Aposticha1.incipit = "Today the Saviour was brought…"
 meSV.Aposticha1.text = "Today the Saviour was brought as a babe into the temple of the Lord, and the Elder receives him with aged arms."
 
-meSV.Aposticha2.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode2
 meSV.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 meSV.Aposticha2.incipit = "Christ, the burning coal foreseen…"
 meSV.Aposticha2.text = "Christ, the burning coal foreseen by godly Isaias, in the hands of the Mother of God, as in a pair of tongs, is now given to the Elder."
 
-meSV.Aposticha3.mode = misc_en_UK_lash.Mode2
+meSV.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode2
 meSV.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 meSV.Aposticha3.incipit = "As Symeon held the Master…"
 meSV.Aposticha3.text = "As Symeon held the Master in his arms with fear and joy, he asked release from life, as he sang the praise of God's Mother."
 
-meSV.AposGlory.mode = misc_en_UK_lash.Mode2
+meSV.AposGlory.mode = miscellanea_en_UK_lash.misc.Mode2
 meSV.AposGlory.melody = he.a.m2_en_UK_lash.OikosTouEfratha.notmetered
 meSV.AposGlory.incipit = "The All-Pure cried, 'Symeon, receive…"
 meSV.AposGlory.text = "The All-Pure cried, 'Symeon, receive as a babe in your arms the Lord of glory and the salvation of the world'."
 
-meVE.Stichera01.poet = poets_en_UK_lash.GermanouPatriarchou
-meVE.Stichera01.mode = misc_en_UK_lash.Mode1
+meVE.Stichera01.poet = poets_en_UK_lash.po.GermanouPatriarchou
+meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Stichera01.melody = ""
 meVE.Stichera01.incipit = "Say, Symeon, whom do your…"
 meVE.Stichera01.text = "Say, Symeon, whom do your carry in your arms, as you rejoice in the temple? To whom do you cry and shout aloud, 'Now I have been set free. For I have seen my Saviour'? 'This is he who was born from a Virgin. This is the Word, God from God, incarnate for our sake and who saves mankind. Let us worship him'."
 
-meVE.Stichera02.mode = misc_en_UK_lash.Mode1
+meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Stichera02.melody = ""
 meVE.Stichera02.incipit = "Receive, Symeon, the One whom…"
 meVE.Stichera02.text = "Receive, Symeon, the One whom Moses in the dark cloud saw of old giving the Law on Sinai, now become a babe and subject to the Law. This is he who spoke through the Law. This is he who was told of in the Prophets, incarnate for our sake and who saves mankind. Let us worship him."
 
-meVE.Stichera03.mode = misc_en_UK_lash.Mode1
+meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Stichera03.melody = ""
 meVE.Stichera03.incipit = "Come, let us too, with…"
 meVE.Stichera03.text = "Come, let us too, with songs inspired, go to meet Christ. Let us receive him, whose salvation Symeon saw. This is he whom David proclaimed, and who spoke through the Prophets, was incarnate for our sake and who proclaims by the Law. Let us worship him."
@@ -80,128 +80,128 @@ meVE.Stichera03.text = "Come, let us too, with songs inspired, go to meet Christ
 meVE.MM.Stichera123as567.text = ""
 meVE.MM.Stichera123as8910.text = ""
 
-meVE.SticGlory.poet = poets_en_UK_lash.IoannouMonachou
-meVE.SticGlory.mode = misc_en_UK_lash.Mode6
+meVE.SticGlory.poet = poets_en_UK_lash.po.IoannouMonachou
+meVE.SticGlory.mode = miscellanea_en_UK_lash.misc.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.incipit = "Let heaven's gate be opened…"
 meVE.SticGlory.text = "Let heaven's gate be opened today. For he who is without beginning, the Word of the Father, taking a beginning in time, yet not abandoning his godhead, is being willingly brought into the temple of the law as a babe of forty days by a Virgin Mother, and the Elder receives him in his arms. The servant cries to the Master, 'Release me, for my eyes have seen your salvation'. You have come into the world to save the human race. Lord, glory to you!"
 
-meVE.Lity1.poet = poets_en_UK_lash.Anatoliou
-meVE.Lity1.mode = misc_en_UK_lash.Mode1
+meVE.Lity1.poet = poets_en_UK_lash.po.Anatoliou
+meVE.Lity1.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Lity1.melody = ""
 meVE.Lity1.incipit = "The Ancient of Days, who…"
 meVE.Lity1.text = "The Ancient of Days, who also gave the Law to Moses on Sinai, today appears as a babe. And according to the Law, as Maker of the Law, fulfilling the Law, he is brought to the temple and given to the Elder. The righteous Symeon, having received him and seen the accomplishment of the decrees completed, cried out with joy, 'My eyes have seen the Mystery hidden from eternity, made manifest in these last times: a light that dispels the dark folly of the unbelieving nations and the glory of the newly chosen Israel. Therefore, release your servant from the bonds of this flesh for the wondrous life that is ageless and unceasing, O you who grant the world your great mercy.'"
 
-meVE.Lity2.poet = poets_en_UK_lash.IoannouMonachou
-meVE.Lity2.mode = misc_en_UK_lash.Mode1
+meVE.Lity2.poet = poets_en_UK_lash.po.IoannouMonachou
+meVE.Lity2.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Lity2.melody = ""
 meVE.Lity2.incipit = "Today he who of old…"
 meVE.Lity2.text = "Today he who of old gave the Law to Moses on Sinai bows to the ordinances of the Law, having become for us like us in his compassion. Now God, who is pure, having opened a pure womb as a holy child, as God is being offered to himself, freeing us from the curse of the Law and enlightening our souls."
 
-meVE.Lity3.poet = poets_en_UK_lash.AndreouPyrou
-meVE.Lity3.mode = misc_en_UK_lash.Mode2
+meVE.Lity3.poet = poets_en_UK_lash.po.AndreouPyrou
+meVE.Lity3.mode = miscellanea_en_UK_lash.misc.Mode2
 meVE.Lity3.melody = ""
 meVE.Lity3.incipit = "The One whom the Ministers…"
 meVE.Lity3.text = "The One whom the Ministers on high entreat with trembling, now Symeon below, receiving him in arms of matter, proclaims that Godhead is united with mankind. And, seeing the God of heaven as a mortal, as he withdraws from things on earth, he cries out with joy, 'To those in darkness you reveal the light that knows no evening. Lord, glory to you!'"
 
-meVE.Lity4.poet = poets_en_UK_lash.Germanou
-meVE.Lity4.mode = misc_en_UK_lash.Mode2
+meVE.Lity4.poet = poets_en_UK_lash.po.Germanou
+meVE.Lity4.mode = miscellanea_en_UK_lash.misc.Mode2
 meVE.Lity4.melody = ""
 meVE.Lity4.incipit = me.m02.d01_en_UK_lash.meVE.SticBoth.incipit
 meVE.Lity4.text = me.m02.d01_en_UK_lash.meVE.SticBoth.text
 
-meVE.Lity5.poet = poets_en_UK_lash.GermanouOiDeIoannouMonachou
-meVE.Lity5.mode = misc_en_UK_lash.Mode2
+meVE.Lity5.poet = poets_en_UK_lash.po.GermanouOiDeIoannouMonachou
+meVE.Lity5.mode = miscellanea_en_UK_lash.misc.Mode2
 meVE.Lity5.melody = ""
 meVE.Lity5.incipit = me.m02.d01_en_UK_lash.meVE.AposGlory.incipit
 meVE.Lity5.text = me.m02.d01_en_UK_lash.meVE.AposGlory.text
 
-meVE.Lity6.poet = poets_en_UK_lash.GermanouOiDeIoannouMonachou
-meVE.Lity6.mode = misc_en_UK_lash.Mode2
+meVE.Lity6.poet = poets_en_UK_lash.po.GermanouOiDeIoannouMonachou
+meVE.Lity6.mode = miscellanea_en_UK_lash.misc.Mode2
 meVE.Lity6.melody = ""
 meVE.Lity6.incipit = me.m02.d01_en_UK_lash.meMA.AposGlory.incipit
 meVE.Lity6.text = me.m02.d01_en_UK_lash.meMA.AposGlory.text
 
-meVE.Lity7.poet = poets_en_UK_lash.AnatoliouOiDeAndreouIerosolymitou
-meVE.Lity7.mode = misc_en_UK_lash.Mode2
+meVE.Lity7.poet = poets_en_UK_lash.po.AnatoliouOiDeAndreouIerosolymitou
+meVE.Lity7.mode = miscellanea_en_UK_lash.misc.Mode2
 meVE.Lity7.melody = ""
 meVE.Lity7.incipit = "Today Symeon the Elder enters…"
 meVE.Lity7.text = "Today Symeon the Elder enters the Temple, rejoicing in Spirit to receive in his arms the One who gave the Law to Moses and who fulfils the Law. For Moses was counted worthy to see God through darkness and a faint voice, and with his face veiled he rebuked the unbelieving hearts of the Hebrews. While Symeon carried the pre-eternal Word of the Father incarnate in body and he revealed the light of the Nations, the Cross and Resurrection. And Anna was shown to be a Prophetess as she proclaimed the Saviour to be the Redeemer of Israel. To him let us cry, 'Christ our God, through the Mother of God have mercy on us.'"
 
-meVE.Lity8.poet = poets_en_UK_lash.AndreouKritis
-meVE.Lity8.mode = misc_en_UK_lash.Mode4
+meVE.Lity8.poet = poets_en_UK_lash.po.AndreouKritis
+meVE.Lity8.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Lity8.melody = ""
 meVE.Lity8.incipit = "Today the holy Mother, and…"
 meVE.Lity8.text = "Today the holy Mother, and more exalted than the Holy Place, has come to the Holy Place, revealing to the world the Maker of the world and the Giver of the Law. The Elder Symeon received him in his arms and in worship he cried, 'Now you release your servant, because I have seen you, the Saviour of our souls.'" //Today the holy Mother, who is higher than the Holy Place, has come to the Holy Place, revealing to the world the Maker of the world and the Giver of the law. Symeon the Elder took him in his arms and cried with veneration, 'Now you release your servant. For I have seen you, the Saviour of our souls'.
 
-meVE.LityGlory.poet = poets_en_UK_lash.AndreouKritis
-meVE.LityGlory.mode = misc_en_UK_lash.Mode5
+meVE.LityGlory.poet = poets_en_UK_lash.po.AndreouKritis
+meVE.LityGlory.mode = miscellanea_en_UK_lash.misc.Mode5
 meVE.LityGlory.melody = ""
 meVE.LityGlory.incipit = "Search the Scriptures, as Christ…"
 meVE.LityGlory.text = "Search the Scriptures, as Christ our God said in the Gospels, for in them we find him brought to birth and wrapped in swaddling clothes, nursed and given suck, accepting circumcision and carried by Symeon, not in imagination, but in truth appearing to the world. To him let us cry, 'God before the ages, glory to you!'"
 
-meVE.LityBoth.poet = poets_en_UK_lash.GermanouOiDeAnatoliou
-meVE.LityBoth.mode = misc_en_UK_lash.Mode5
+meVE.LityBoth.poet = poets_en_UK_lash.po.GermanouOiDeAnatoliou
+meVE.LityBoth.mode = miscellanea_en_UK_lash.misc.Mode5
 meVE.LityBoth.melody = ""
 meVE.LityBoth.incipit = "The Ancient of Days, become…"
 meVE.LityBoth.text = "The Ancient of Days, become an infant in the flesh, is being brought to the Temple by a Virgin Mother, as he fulfils the ordinance of his own Law. Symeon received him and said, 'Now you release your servant according to your word in peace. For my eyes, O Lord, have seen your salvation.'"
 
-meVE.Aposticha1.poet = poets_en_UK_lash.KosmaMonachou
-meVE.Aposticha1.mode = misc_en_UK_lash.Mode7
+meVE.Aposticha1.poet = poets_en_UK_lash.po.KosmaMonachou
+meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode7
 meVE.Aposticha1.melody = ""
 meVE.Aposticha1.incipit = "Adorn your bridal chamber, O…"
 meVE.Aposticha1.text = "Adorn your bridal chamber, O Sion, and receive Christ the King. Greet Mary, the gate of heaven, for she is shown to be the Cherubim Throne. She carries the King of glory. The Virgin is a cloud of light, bearing in the flesh a Son before the Morning Star. Symeon took him in his arms and proclaimed to peoples that he is the Master of life and death and the Saviour of the world."
 
-meVE.Aposticha2.mode = misc_en_UK_lash.Mode7
+meVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode7
 meVE.Aposticha2.melody = ""
 meVE.Aposticha2.incipit = "The Mother who has not…"
 meVE.Aposticha2.text = "The Mother who has not known wedlock, bearing in the Temple him who shone forth from the Father before the ages and in the last times from a virgin womb, brought the one who gave the Law on Sinai and who obeys the ordinance of the Law to the Priest and just Elder, who had been told that he would see Christ the Lord. When Symeon received him in his arms, he rejoiced and cried out, 'This is God, co-eternal with the Father, and the Redeemer of our souls.'"
 
-meVE.Aposticha3.mode = misc_en_UK_lash.Mode7
+meVE.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode7
 meVE.Aposticha3.melody = ""
 meVE.Aposticha3.incipit = "Mary the Mother of God…"
 meVE.Aposticha3.text = "Mary the Mother of God, carrying in her arms the one who rides on the chariots of the Cherubim and who is praised in song by the Seraphim, gave the Giver of the Law incarnate from her without wedlock, fulfilling the order of the Law, into the hands of the Priest and Elder. As he carries Life, he asks release from life, saying, 'Master, now release me to reveal to Adam that I have seen a babe, who is without change God before the ages and the Saviour of the world.'"
 
-meVE.AposGlory.poet = poets_en_UK_lash.AndreouKritis
-meVE.AposGlory.mode = misc_en_UK_lash.Mode8
+meVE.AposGlory.poet = poets_en_UK_lash.po.AndreouKritis
+meVE.AposGlory.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "He who rides on the…"
 meVE.AposGlory.text = "He who rides on the Cherubim and is hymned by the Seraphim is being brought today into God's Temple according to the Law and enthroned on aged arms. By Joseph he receives gifts befitting God, as a pair of turtle doves the unblemished Church and the newly chosen people of the nations; as Author of the Old and New Covenants, two young pigeons. Symeon, having received the fulfilment of the oracle concerning him, blessed Mary, the Virgin Mother of God, and foretold the symbols of the Passion of the One born from her. From him he asks for his release, crying out, 'Now you release me, Master, as you promised me; for I have seen you, the pre-eternal light, Saviour and Lord of the people that bears Christ's name.'"
 
-meVE.Apolytikion1.mode = misc_en_UK_lash.Mode1
+meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Apolytikion1.melody = ""
 meVE.Apolytikion1.incipit = "Hail, full of grace, Virgin…"
 meVE.Apolytikion1.text = "Hail, full of grace, Virgin Mother of God, for from you there dawned the Sun of righteousness, Christ our God, who enlightens those in darkness. Be glad too, righteous Elder, for you received in your embrace the Liberator of our souls, who grants us also resurrection."
 
-meMA.Kathisma11.mode = misc_en_UK_lash.Mode1
-meMA.Kathisma11.melody = misc_en_UK_lash.AutomelonNotMetered
+meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma11.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
 meMA.Kathisma11.incipit = he.a.m1_en_UK_lash.ChorosAngelikos.incipit
 meMA.Kathisma11.text = he.a.m1_en_UK_lash.ChorosAngelikos.text
 
-meMA.Kathisma21.mode = misc_en_UK_lash.Mode1
+meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Kathisma21.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "He who is with the…"
 meMA.Kathisma21.text = "He who is with the Father on a holy throne, coming to earth, was born from a Virgin; and he who is uncircumscribed by time became a babe. Symeon received him in his arms and said with joy, 'Now you release me, O Compassionate, for you have made your servant glad.'"
 
-meMA.Kathisma31.mode = misc_en_UK_lash.Mode4
+meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Kathisma31.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
 meMA.Kathisma31.incipit = "The Ancient of Days becomes…"
 meMA.Kathisma31.text = "The Ancient of Days becomes an infant for my sake. God, who is most pure, shares in purifications that he may confirm my flesh, which he took from a Virgin. And Symeon, initiated into the mystery, acknowledged him as God who had appeared in flesh and greeted him as Life. As an old man with joy he cried, 'Release me, for I have seen you, the Life of all.'"
 
 meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
-meMA.PostGospelGlory.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelGlory.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
-meMA.PostGospelBoth.mode = misc_en_UK_lash.Mode2
+meMA.PostGospelBoth.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.incipit
 meMA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
-meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.IoannouMonachou
-meMA.PostGospelIdiomelon.mode = misc_en_UK_lash.Mode6
+meMA.PostGospelIdiomelon.poet = poets_en_UK_lash.po.IoannouMonachou
+meMA.PostGospelIdiomelon.mode = miscellanea_en_UK_lash.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
 meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
 meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
@@ -209,186 +209,186 @@ meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
 meMA.C1.acrostic.title = "The Canon,"
 meMA.C1.acrostic.notice1 = "of which the Acrostic is:"
 meMA.C1.acrostic.text = "An Elder, rejoicing, holds Christ in his arms."
-meMA.C1.poet = poets_en_UK_lash.KosmaMonachou
+meMA.C1.poet = poets_en_UK_lash.po.KosmaMonachou
 meMA.C1.title = titles_en_UK_lash.ti.CanonFeast
 meMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
-meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode1C1H.melody = he.h.m3_en_UK_lash.ChersonAvyssotokon.melody
 meMA.Ode1C1H.incipit = he.h.m3_en_UK_lash.ChersonAvyssotokon.incipit
 meMA.Ode1C1H.text = he.h.m3_en_UK_lash.ChersonAvyssotokon.text
 
-meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode1C11.melody = he.h.m3_en_UK_lash.ChersonAvyssotokon.name
 meMA.Ode1C11.incipit = "Let the clouds pour down…"
 meMA.Ode1C11.text = "Let the clouds pour down water. For Christ, the Sun, riding on a light cloud, has come on unblemished arms into the temple as a babe. Therefore, believers, let us shout aloud, 'Let us sing to the Lord, for he has been greatly glorified'."
 
-meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode1C12.melody = he.h.m3_en_UK_lash.ChersonAvyssotokon.name
 meMA.Ode1C12.incipit = "Be strong, Symeon's hands, weakened…"
 meMA.Ode1C12.text = "Be strong, Symeon's hands, weakened by old age. And you, an old man's feeble legs, run straight to meet Christ. Forming a choir with the Bodiless Powers, let us sing to the Lord, for he has been greatly glorified."
 
-meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode1C13.melody = he.h.m3_en_UK_lash.ChersonAvyssotokon.name
 meMA.Ode1C13.incipit = "You heavens, stretched out with…"
 meMA.Ode1C13.text = "You heavens, stretched out with understanding, rejoice. Earth be glad. For Christ, the Craftsman, who came forth from a bosom that is above all godhead, is being brought as a babe to God the Father by a Virgin Mother, he who is before all things, for he has been greatly glorified'."
 
-meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode3C1H.melody = he.h.m3_en_UK_lash.ToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m3_en_UK_lash.ToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m3_en_UK_lash.ToStereoma.text
 
-meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode3C11.melody = he.h.m3_en_UK_lash.ToStereoma.name
 meMA.Ode3C11.incipit = "The First-born of the Father…"
 meMA.Ode3C11.text = "The First-born of the Father before the ages has appeared from an undefiled Maiden as a first-born babe, and he stretches out his hands to Adam."
 
-meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode3C12.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode3C12.melody = he.h.m3_en_UK_lash.ToStereoma.name
 meMA.Ode3C12.incipit = "To set right again the…"
 meMA.Ode3C12.text = "To set right again the first formed man, who through deception had become childish in mind, God the Word has appeared as a child."
 
-meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode3C13.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode3C13.melody = he.h.m3_en_UK_lash.ToStereoma.name
 meMA.Ode3C13.incipit = "The Creator, having become a…"
 meMA.Ode3C13.text = "The Creator, having become a child without change, has reshaped according to the form of his godhead our nature born of earth and destined to return to earth again."
 
-meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "On Mount Sinai of old…"
 meMA.Ode3Kathisma1.text = "On Mount Sinai of old, Moses saw the back parts of God and was found worthy to hear faintly in darkness and in storm the voice of God. Now Symeon holds in his arms God incarnate for our sake without change. And rejoicing he hastens to go from what is here to eternal life. And so he cries, 'Now, Master, you release your servant.'"
 
-meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode4C1H.melody = he.h.m3_en_UK_lash.EkalypsenOuranous.melody
 meMA.Ode4C1H.incipit = he.h.m3_en_UK_lash.EkalypsenOuranous.incipit
 meMA.Ode4C1H.text = he.h.m3_en_UK_lash.EkalypsenOuranous.text
 
-meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode4C11.melody = he.h.m3_en_UK_lash.EkalypsenOuranous.name
 meMA.Ode4C11.incipit = "'Symeon, initiate of ineffable mysteries'…"
 meMA.Ode4C11.text = "'Symeon, initiate of ineffable mysteries', cried the Mother of God, 'Take into your arms with joy the One of whom you were told by the Holy Spirit of old, Christ the Word, become an infant, and cry out to him, 'The universe has been filled with your praise.''"
 
-meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode4C12.melody = he.h.m3_en_UK_lash.EkalypsenOuranous.name
 meMA.Ode4C12.incipit = "'Symeon, receive with joy an…"
 meMA.Ode4C12.text = "'Symeon, receive with joy an infant in age, the Consolation of the Israel of God, for whom you hoped, Christ, the Maker and Master of the Law, as he fulfils the order of the Law, and cry out to him, 'The universe has been filled with your praise''."
 
-meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode4C13.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode4C13.melody = he.h.m3_en_UK_lash.EkalypsenOuranous.name
 meMA.Ode4C13.incipit = "As Symeon watched the Word…"
 meMA.Ode4C13.text = "As Symeon watched the Word incarnate, who is without beginning, riding on the Virgin, as on the throne of the Cherubim, him the cause of the existence of all things, as a babe, in amazement he cried out to him, 'The universe has been filled with your praise.'"
 
-meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode5C1H.melody = he.h.m3_en_UK_lash.OsEidenIsaias.melody
 meMA.Ode5C1H.incipit = he.h.m3_en_UK_lash.OsEidenIsaias.incipit
 meMA.Ode5C1H.text = he.h.m3_en_UK_lash.OsEidenIsaias.text
 
-meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode5C11.melody = he.h.m3_en_UK_lash.OsEidenIsaias.name
 meMA.Ode5C11.incipit = "When the godly Elder saw…"
 meMA.Ode5C11.text = "When the godly Elder saw the Word held in the hands of his Mother, he understood that this was the glory revealed of old to the Prophet. He cried out, 'Rejoice, holy Lady, for, like a throne, you hold God, Lord of the light that knows no evening and Lord of peace'."
 
-meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode5C12.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode5C12.melody = he.h.m3_en_UK_lash.OsEidenIsaias.name
 meMA.Ode5C12.incipit = "The Elder, bending down and…"
 meMA.Ode5C12.text = "The Elder, bending down and reverently touching the footprints of God's Mother, who did not know wedlock, said, 'Pure Virgin you carry fire. I tremble to take God as a infant in my arms, Lord of the light that knows no evening and Lord of peace.'"
 
-meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode5C13.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode5C13.melody = he.h.m3_en_UK_lash.OsEidenIsaias.name
 meMA.Ode5C13.incipit = "'Isaias was cleansed when he…"
 meMA.Ode5C13.text = "'Isaias was cleansed when he received the coal from the Seraphim', cried the Elder to God's Mother, 'You, with your hands as with tongs, make me resplendent as you give me the one you carry, Lord of the light that knows no evening and Lord of peace.'"
 
-meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode6C1H.melody = he.h.m3_en_UK_lash.EvoiseSoi.melody
 meMA.Ode6C1H.incipit = he.h.m3_en_UK_lash.EvoiseSoi.incipit
 meMA.Ode6C1H.text = he.h.m3_en_UK_lash.EvoiseSoi.text
 
-meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode6C11.melody = he.h.m3_en_UK_lash.EvoiseSoi.name
 meMA.Ode6C11.incipit = "You have been set up…"
 meMA.Ode6C11.text = "You have been set up in Sion as a stumbling stone and rock of offence for the disobedient, unbreakable salvation of believers."
 
-meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode6C12.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode6C12.melody = he.h.m3_en_UK_lash.EvoiseSoi.name
 meMA.Ode6C12.incipit = "Truly bearing the imprint of…"
 meMA.Ode6C12.text = "Truly bearing the imprint of him who begot you before the ages, through compassion for mortals you have now put on their weakness."
 
-meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode6C13.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode6C13.melody = he.h.m3_en_UK_lash.EvoiseSoi.name
 meMA.Ode6C13.incipit = "I have worshipped you, Son…"
 meMA.Ode6C13.text = "I have worshipped you, Son of the Most High, Son of a Virgin, God become a little child. Now release me in peace.'"
 
-meMA.Kontakion1.mode = misc_en_UK_lash.Mode1
+meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Kontakion1.melody = ""
 meMA.Kontakion1.incipit = "You sanctified a virgin womb…"
 meMA.Kontakion1.text = "You sanctified a virgin womb by your birth, and fittingly blessed Symeon's hands; You have come now too and saved us, O Christ God. But give peace to your commonwealth in times of war, and strengthen its Rulers, whose friend you are, Only Lover of mankind."
 
 meMA.Oikos1.text = "Let us run to the Mother of God if we wish to see her Son being brought to Symeon. From heaven the Bodiless Ones are amazed as they look on him and say, 'Wondrous and marvellous, incomprehensible, ineffable are the things we now see, for the One who created Adam is being carried as a babe; the uncontainable is contained in the arms of the elder; He who is in the uncircumscribed bosom of his Father is willingly circumscribed in flesh, but not in godhead, the only Lover of mankind'."
 
-meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode7C1H.melody = he.h.m3_en_UK_lash.SeTonEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m3_en_UK_lash.SeTonEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m3_en_UK_lash.SeTonEnPyri.text
 
-meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode7C11.melody = he.h.m3_en_UK_lash.SeTonEnPyri.name
 meMA.Ode7C11.incipit = "'I go to bring revelation…"
 meMA.Ode7C11.text = "'I go to bring revelation to Adam, who sojourns in Hell, to declare to Eve the good tidings' Symeon cried out, as with the choir of Prophets he sang, 'Blessed are you the God of our Fathers'."
 
-meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode7C12.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode7C12.melody = he.h.m3_en_UK_lash.SeTonEnPyri.name
 meMA.Ode7C12.incipit = "To deliver a race formed…"
 meMA.Ode7C12.text = "To deliver a race formed of dust God will come to Hell and will grant forgiveness to all the prisoners, sight to the blind and so that the dumb may cry, 'Blessed are you the God of our Fathers'."
 
-meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode7C13.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode7C13.melody = he.h.m3_en_UK_lash.SeTonEnPyri.name
 meMA.Ode7C13.incipit = "'And a sword will pass…"
 meMA.Ode7C13.text = "'And a sword will pass through your heart, O Undefiled,' Symeon foretold to the Mother of God, 'When you see you Son on the Cross.' To him we cry, 'Blessed are you the God of our Fathers'."
 
-meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode8C1H.melody = he.h.m3_en_UK_lash.AstektoPyri.melody
 meMA.Ode8C1H.incipit = he.h.m3_en_UK_lash.AstektoPyri.incipit
 meMA.Ode8C1H.text = he.h.m3_en_UK_lash.AstektoPyri.text
 
-meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode8C11.melody = he.h.m3_en_UK_lash.AstektoPyri.name
 meMA.Ode8C11.incipit = "People of Israel, as you…"
 meMA.Ode8C11.text = "People of Israel, as you see your glory, Emmanuel, a child from a Virgin, now dance before the Ark of God and sing, 'Bless the Lord, all you works of the Lord, and praise and exalt him to all the ages.'"
 
-meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode8C12.melody = he.h.m3_en_UK_lash.AstektoPyri.name
 meMA.Ode8C12.incipit = "'See,' cried Symeon, 'he will…"
 meMA.Ode8C12.text = "'See,' cried Symeon, 'he will be the sign that will be contradicted, for he is God and a little child.' To him let us sing with faith, 'Bless the Lord, all you works of the Lord, and praise and exalt him to all the ages.'"
 
-meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode8C13.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode8C13.melody = he.h.m3_en_UK_lash.AstektoPyri.name
 meMA.Ode8C13.incipit = "He that is life, God…"
 meMA.Ode8C13.text = "He that is life, God the Word become a babe, will be the fall of the disobedient, but resurrection for those who sing with faith, 'Bless the Lord, all you works of the Lord, and praise and exalt him to all the ages.'"
@@ -426,52 +426,52 @@ meMA.Ode9C1MTr.text = "In nature Unity, but in Persons Trinity, watch over your 
 meMA.Ode9C1MTh.incipit = "…"
 meMA.Ode9C1MTh.text = "Mother of God, hope of all Christians, protect, watch over, guard all those who put their hope in you."
 
-meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C1H.mode = misc_en_UK_lash.Mode3
+meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode9C1H.melody = he.h.m3_en_UK_lash.EnNomoSkia.melody
 meMA.Ode9C1H.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit
 meMA.Ode9C1H.text = he.h.m3_en_UK_lash.EnNomoSkia.text
 
-meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C11.mode = misc_en_UK_lash.Mode3
+meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode9C11.melody = he.h.m3_en_UK_lash.EnNomoSkia.name
 meMA.Ode9C11.incipit = "For those of old there…"
 meMA.Ode9C11.text = "For those of old there was a pair of doves and two young pigeons. In their place the godly Elder and Anna the sober prophetess, ministering to the One born from a Virgin and only offspring of the Father as he enters the temple, magnify him."
 
-meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C12.mode = misc_en_UK_lash.Mode3
+meMA.Ode9C12.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode9C12.melody = he.h.m3_en_UK_lash.EnNomoSkia.name
 meMA.Ode9C12.incipit = "'You have granted me, O…"
 meMA.Ode9C12.text = "'You have granted me, O Christ, the joy of your salvation', cried Symeon, 'Take your servant, wearied by the shadow, as a new initiate and preacher of grace, as with praise he magnifies you.'"
 
-meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C13.mode = misc_en_UK_lash.Mode3
+meMA.Ode9C13.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Ode9C13.melody = he.h.m3_en_UK_lash.EnNomoSkia.name
 meMA.Ode9C13.incipit = "Reverently holy Anna, sober and…"
 meMA.Ode9C13.text = "Reverently holy Anna, sober and aged, openly confessed the Master, announcing him clearly in the temple. While as she proclaimed the Mother of God to all those present, she magnified her."
 
-meMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode3
-meMA.Exaposteilarion1.melody = misc_en_UK_lash.Automelon
+meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.EnPnevmatiToIero.text
 
-meMA.Lauds1.mode = misc_en_UK_lash.Mode4
+meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Lauds1.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
 meMA.Lauds1.incipit = "Fulfilling the written Law, the…"
 meMA.Lauds1.text = "Fulfilling the written Law, the Lover of mankind is now being brought into the Temple. And Symeon the Elder receives him in aged arms, crying, 'Now you release me to the blessedness of the other world, for today I have seen you, clothed in mortal flesh, the Lord of life and Master of death.'"
 
-meMA.Lauds2.mode = misc_en_UK_lash.Mode4
+meMA.Lauds2.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Lauds2.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
 meMA.Lauds2.incipit = "Light for revelation to the…"
 meMA.Lauds2.text = "Light for revelation to the nations, you, Lord, the Sun of justice, appeared, seated on a light cloud, bringing to completion the shadow of the Law and making manifest the beginning of the new Grace. Therefore, as he looked on you, Symeon cried aloud, 'Release me from corruption, for I have seen you today.'"
 
-meMA.Lauds3.mode = misc_en_UK_lash.Mode4
+meMA.Lauds3.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Lauds3.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
 meMA.Lauds3.incipit = "Not parted in your Godhead…"
 meMA.Lauds3.text = "Not parted in your Godhead from the bosom of your Begetter; incarnate, as you were well-pleased; held in the arms of the Ever-Virgin, you, who hold the universe in your hand, were given into the hands of Symeon, who received God. And so he cried aloud with joy, 'Now you release me, your servant, in peace, for I have seen you, Master.'"
 
-meMA.LaudsGlory.poet = poets_en_UK_lash.Germanou
-meMA.LaudsGlory.mode = misc_en_UK_lash.Mode6
+meMA.LaudsGlory.poet = poets_en_UK_lash.po.Germanou
+meMA.LaudsGlory.mode = miscellanea_en_UK_lash.misc.Mode6
 meMA.LaudsGlory.melody = ""
 meMA.LaudsGlory.incipit = "Christ God, who today were…"
 meMA.LaudsGlory.text = "Christ God, who today were well-pleased to be laid in aged hands, as upon the chariot of the Cherubim, calling us, who sing your praise, back from the tyranny of the passions, deliver and save our souls."
@@ -487,7 +487,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meLI.TheotokosHymn.mode = misc_en_UK_lash.Mode3
+meLI.TheotokosHymn.mode = miscellanea_en_UK_lash.misc.Mode3
 meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1MTh.incipit
 meLI.TheotokosHymnVerse.text = meMA.Ode9C1MTh.text
 meLI.TheotokosHymn.incipit = he.h.m3_en_UK_lash.EnNomoSkia.incipit

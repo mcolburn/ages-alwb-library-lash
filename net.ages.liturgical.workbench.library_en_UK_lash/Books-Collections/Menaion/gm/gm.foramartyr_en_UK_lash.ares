@@ -1,26 +1,26 @@
 A_Resource_Whose_Name = gm.foramartyr_en_UK_lash
 
-meVE.Stichera01.mode = misc_en_UK_lash.Mode4
+meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "You put on the purple…"
 meVE.Stichera01.text = "You put on the purple garment of your flesh, made scarlet with blood by divine grace, glorious, all wise Martyr, and, having bound your head with a diadem of incorruption and life, holding in your right hand the trophy of the Cross like a sceptre, you reign with Christ rejoicing for ever."
 
-meVE.Stichera02.mode = misc_en_UK_lash.Mode4
+meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "You have become known, revered…"
 meVE.Stichera02.text = "You have become known, revered Martyr, as an invincible warrior, for having armoured yourself with the weapon of the Cross you went out to single combat with the hostile champion and utterly defeated him, triumphing brilliantly and receiving the crown of victory from the only judge and Master of the contest, who reigns as king for ever."
 
-meVE.Stichera03.mode = misc_en_UK_lash.Mode4
+meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "By your honoured sufferings, glorious…"
 meVE.Stichera03.text = "By your honoured sufferings, glorious, invincible Athlete, you were an image of the honoured suffering of Christ, and becoming a victor you dwell with all the saints in the city on high, glad champion, and by participation in God are made divine; and so we celebrate your honoured and holy festival."
 
-meVE.SticTheotokion.mode = misc_en_UK_lash.Mode4
+meVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.SticTheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.SticTheotokion.incipit = "As I sail by sea…"
 meVE.SticTheotokion.text = "As I sail by sea, travel by road, sleep by night, watch over me; give me the grace of a watchful mind, All-blameless, and grant that I may do the Lord's will; that on the day of sentence I may find release from all that I have done in life, I who flee to your protection."
 
-meVE.SticStavrotheotokion.mode = misc_en_UK_lash.Mode4
+meVE.SticStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.incipit = "When the Ewe-lamb, your Mother…"
 meVE.SticStavrotheotokion.text = "When the Ewe-lamb, your Mother, saw you nailed to the Cross, Lord, she was struck with amazement, and cried out: What is this sight, my Son so greatly loved? Is this how the disobedient, lawless people repays your many wonders? But glory, Master, to your ineffable condescension!"
@@ -32,263 +32,263 @@ meMA.C1.acrostic.text = "Accept my eighth ode, O All-blessed. Joseph."
 meMA.C1.title = titles_en_UK_lash.ti.TheCanonGeneralMenaion
 meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
-meMA.Ode1C1H.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode1C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.YgranDiodefsas.text
 
-meMA.Ode1C11.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
 meMA.Ode1C11.incipit = "Revered Martyr of Christ, having…"
 meMA.Ode1C11.text = "Revered Martyr of Christ, having accomplished the godly contest, you have been found worthy of the heavenly kingdom, as you intercede on behalf of the world."
 
-meMA.Ode1C12.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C12.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
 meMA.Ode1C12.incipit = "By godly struggles you changed…"
 meMA.Ode1C12.text = "By godly struggles you changed the tyrant's decree; but, brave athlete, I beg you by your mediations take pity on me, who am always being changed for the worse."
 
-meMA.Ode1C13.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
 meMA.Ode1C13.incipit = "You were declared to be…"
 meMA.Ode1C13.text = "You were declared to be a temple of the all-powerful, O Martyr of Christ; by your prayers show those who sing your praises in your honoured shrine to be the dwellings of the Spirit."
 
-meMA.Ode1C1T.ode = misc_en_UK_lash.Ode1
-meMA.Ode1C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode1C1T.ode = miscellanea_en_UK_lash.misc.Ode1
+meMA.Ode1C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C1T.melody = he.h.m8_en_UK_lash.YgranDiodefsas.name
 meMA.Ode1C1T.incipit = "He who is full empties…"
 meMA.Ode1C1T.text = "He who is full empties himself, O Pure one, in your womb, yet does not empty his Father's bosom; implore him therefore to grant salvation to those who honour you with faith."
 
-meMA.Ode3C1H.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode3C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.SyEiToStereoma.text
 
-meMA.Ode3C11.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "Abandoning race and fame, Martyr…"
 meMA.Ode3C11.text = "Abandoning race and fame, Martyr of Christ, you were eager to die; and so you enjoy eternal life."
 
-meMA.Ode3C12.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C12.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3C12.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
 meMA.Ode3C12.incipit = "Give help, O Martyr, to…"
 meMA.Ode3C12.text = "Give help, O Martyr, to us who are always endangered by the insults of the world and by fearful troubles."
 
-meMA.Ode3C13.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C13.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3C13.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
 meMA.Ode3C13.incipit = "You have found bliss and…"
 meMA.Ode3C13.text = "You have found bliss and are full of every illumination; intercede then, O Champion, that all may be enriched with righteousness."
 
-meMA.Ode3C1T.ode = misc_en_UK_lash.Ode3
-meMA.Ode3C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode3C1T.ode = miscellanea_en_UK_lash.misc.Ode3
+meMA.Ode3C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3C1T.melody = he.h.m8_en_UK_lash.SyEiToStereoma.name
 meMA.Ode3C1T.incipit = "You carried the ear of…"
 meMA.Ode3C1T.text = "You carried the ear of corn that had not been husbanded, O Immaculate, which nourishes the hearts of all of us who faithfully sing your praise."
 
-meMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode5
+meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode3Kathisma1.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Radiant with the forms of…"
 meMA.Ode3Kathisma1.text = "Radiant with the forms of virtues, made beautiful by the light of martyrdom, you shine more brightly than the sun, wise Martyr, strong as steel, and you truly illumine those who faithfully celebrate your light-bearing memorial, all-glorious Champion, and who venerate your relics."
 
-meMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode5
+meMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode3KathismaT.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
 meMA.Ode3KathismaT.incipit = "Hail gate of the Lord…"
 meMA.Ode3KathismaT.text = "Hail gate of the Lord, through which none may pass; hail wall and protection of those who flee to you; hail haven without storms and who did not know wedlock; who bore in the flesh your Maker and God, do not cease to intercede for those who hymn and worship your offspring."
 
-meMA.Ode3KathismaSt.mode = misc_en_UK_lash.Mode5
+meMA.Ode3KathismaSt.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode3KathismaSt.melody = he.a.m5_en_UK_lash.TonSynanarchonLogon.notmetered
 meMA.Ode3KathismaSt.incipit = "By the Cross of your…"
 meMA.Ode3KathismaSt.text = "By the Cross of your Son, O full of God's grace, all the error of idols has been destroyed and the strength of the demons trampled down; and so we faithful, as is fitting, ever hymn and bless you, and confessing you to be Mother of God, magnify you."
 
-meMA.Ode4C1H.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode4C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.EisakikoaKyrie.text
 
-meMA.Ode4C11.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
 meMA.Ode4C11.incipit = "I have disregarded God's laws…"
 meMA.Ode4C11.text = "I have disregarded God's laws, I have lived in every lawlessness; hasten, holy Martyr, help me, who am under condemnation, I implore you."
 
-meMA.Ode4C12.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode4C12.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
 meMA.Ode4C12.incipit = "Bound for the Lord's sake…"
 meMA.Ode4C12.text = "Bound for the Lord's sake, you undid all the wickedness of the foe; from which save, O Martyr, all those who faithfully make their prayer to you."
 
-meMA.Ode4C13.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C13.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode4C13.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
 meMA.Ode4C13.incipit = "On the day of judgement…"
 meMA.Ode4C13.text = "On the day of judgement, when we stand before the Lord to be judged, become a helper for us who are under condemnation, glorious Martyr."
 
-meMA.Ode4C1T.ode = misc_en_UK_lash.Ode4
-meMA.Ode4C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode4C1T.ode = miscellanea_en_UK_lash.misc.Ode4
+meMA.Ode4C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode4C1T.melody = he.h.m8_en_UK_lash.EisakikoaKyrie.name
 meMA.Ode4C1T.incipit = "You gave a body to…"
 meMA.Ode4C1T.text = "You gave a body to God, who dwelt in you in a manner past understanding; ask him, O All-blameless, that we may be found worthy of eternal glory."
 
-meMA.Ode5C1H.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode5C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.text
 
-meMA.Ode5C11.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.name
 meMA.Ode5C11.incipit = "United with the heavenly powers…"
 meMA.Ode5C11.text = "United with the heavenly powers, brave Champion, intercede that those who sing your praise on earth may be saved."
 
-meMA.Ode5C12.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C12.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode5C12.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.name
 meMA.Ode5C12.incipit = "Heal, I cry to you…"
 meMA.Ode5C12.text = "Heal, I cry to you, revered Martyr, the chronic passions of my soul, by making supplication to the Lover of mankind."
 
-meMA.Ode5C13.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C13.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode5C13.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.name
 meMA.Ode5C13.incipit = "In accordance with laws you…"
 meMA.Ode5C13.text = "In accordance with laws you competed; empower us then to keep the laws of the Almighty, glorious Martyr."
 
-meMA.Ode5C1T.ode = misc_en_UK_lash.Ode5
-meMA.Ode5C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode5C1T.ode = miscellanea_en_UK_lash.misc.Ode5
+meMA.Ode5C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode5C1T.melody = he.h.m8_en_UK_lash.OrthrizontesVoomenSoi.name
 meMA.Ode5C1T.incipit = "Virgin Mother of God, implore…"
 meMA.Ode5C1T.text = "Virgin Mother of God, implore your Son to give us pardon of faults and his mercy."
 
-meMA.Ode6C1H.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode6C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.IlasthitiMoiSotir.text
 
-meMA.Ode6C11.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "Wise Martyr, a light which…"
 meMA.Ode6C11.text = "Wise Martyr, a light which never sets has dawned for you who struggled, and holy tents of joy received you. As you dwell in them remember those who sing your praise on earth."
 
-meMA.Ode6C12.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C12.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode6C12.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C12.incipit = "Revered Martyr, you accomplished great…"
 meMA.Ode6C12.text = "Revered Martyr, you accomplished great struggles on earth; by your sacred prayers rescue us from great evils, dangers and tribulations, that we may glorify you with love."
 
-meMA.Ode6C13.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C13.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode6C13.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C13.incipit = "Do not declare me, Jesus…"
 meMA.Ode6C13.text = "Do not declare me, Jesus, to be one condemned when I stand before your dread throne, O Word; but take pity, save me at the godly mediations of your Saint, O you of many mercies."
 
-meMA.Ode6C1T.ode = misc_en_UK_lash.Ode6
-meMA.Ode6C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode6C1T.ode = miscellanea_en_UK_lash.misc.Ode6
+meMA.Ode6C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode6C1T.melody = he.h.m8_en_UK_lash.IlasthitiMoiSotir.name
 meMA.Ode6C1T.incipit = "Hallow my mind and guide…"
 meMA.Ode6C1T.text = "Hallow my mind and guide my soul to light, All-holy Maiden, Mother of God and ever-Virgin who ineffably bore God who rests among the saints."
 
-meMA.Ode7C1H.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode7C1H.melody = misc_en_UK_lash.Heirmos
+meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.OiEkTisIoudaias.text
 
-meMA.Ode7C11.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
 meMA.Ode7C11.incipit = "Joy of Martyrs, save me…"
 meMA.Ode7C11.text = "Joy of Martyrs, save me from the world's stumbling blocks, the dishonour of passions and every tribulation, and grant that I may sing each day: God of our fathers, blessed are you!"
 
-meMA.Ode7C12.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C12.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode7C12.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
 meMA.Ode7C12.incipit = "My good protector, do not…"
 meMA.Ode7C12.text = "My good protector, do not utterly despise me who am storm-tossed by the troubles of life, but take pity on me by your prayers, and save me who sing: God of our fathers, blessed are you!"
 
-meMA.Ode7C13.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C13.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode7C13.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
 meMA.Ode7C13.incipit = "Save me, all-blessed one, by…"
 meMA.Ode7C13.text = "Save me, all-blessed one, by your fervent help from foul sloth, dread sin and blackness, for I have recourse to you in faith, that I may faithfully honour you to all the ages."
 
-meMA.Ode7C1T.ode = misc_en_UK_lash.Ode7
-meMA.Ode7C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode7C1T.ode = miscellanea_en_UK_lash.misc.Ode7
+meMA.Ode7C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode7C1T.melody = he.h.m8_en_UK_lash.OiEkTisIoudaias.name
 meMA.Ode7C1T.incipit = "Having squandered the years of…"
 meMA.Ode7C1T.text = "Having squandered the years of my life in great indifference, O Virgin, I fall down before you and cry out: Rouse me, save me, as I cry to your Son: God of our fathers, blessed are you!"
 
-meMA.Ode8C1H.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode8C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.NikitaiTyrannou.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.NikitaiTyrannou.text
 
-meMA.Ode8C11.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.NikitaiTyrannou.name
 meMA.Ode8C11.incipit = "You were tried, O invincible…"
 meMA.Ode8C11.text = "You were tried, O invincible, like gold in a fire of torments, and were revealed as an imprint of the sufferings of Christ as you cried out: All you works of the Lord, bless the Lord!"
 
-meMA.Ode8C12.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C12.melody = he.h.m8_en_UK_lash.NikitaiTyrannou.name
 meMA.Ode8C12.incipit = "By your prayers, holy Martyr…"
 meMA.Ode8C12.text = "By your prayers, holy Martyr, save me who am storm-tossed and trapped by the dread deceptions of the Stranger, as I cry out: All you works of the Lord, bless the Lord!"
 
-meMA.Ode8C13.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C13.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C13.melody = he.h.m8_en_UK_lash.NikitaiTyrannou.name
 meMA.Ode8C13.incipit = "You abolished all the power…"
 meMA.Ode8C13.text = "You abolished all the power of the boaster, deliver me, glorious Martyr, from his wickedness as I cry aloud: All you works of the Lord, bless the Lord!"
 
-meMA.Ode8C1T.ode = misc_en_UK_lash.Ode8
-meMA.Ode8C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode8C1T.ode = miscellanea_en_UK_lash.misc.Ode8
+meMA.Ode8C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C1T.melody = he.h.m8_en_UK_lash.NikitaiTyrannou.name
 meMA.Ode8C1T.incipit = "You gave birth ineffably to…"
 meMA.Ode8C1T.text = "You gave birth ineffably to the benefactor who became man through compassion, Mother of God, and who saves those who sing: All you works of the Lord, bless the Lord!"
 
-meMA.Ode9C1H.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C1H.mode = misc_en_UK_lash.Mode8
-meMA.Ode9C1H.melody = misc_en_UK_lash.HeirmosNotMetered
+meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.EfrixePasaAkoi.text
 
-meMA.Ode9C11.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C11.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.name
 meMA.Ode9C11.incipit = "That with godly voices we…"
 meMA.Ode9C11.text = "That with godly voices we may call you blessed, revered Martyr, who nobly struggled and smashed the goads of the deceiver, save us, who have gained you as our noble protector, from dangers, afflictions and troubles of many kinds."
 
-meMA.Ode9C12.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C12.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C12.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C12.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C12.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.name
 meMA.Ode9C12.incipit = "Like the dawn, like the…"
 meMA.Ode9C12.text = "Like the dawn, like the morning star you have dawned, revered Martyr, and enlightened by your teachings all the ends of the earth, and banished the dread darkness of the demons; and so enlighten me, darkened in soul by sloth."
 
-meMA.Ode9C13.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C13.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C13.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C13.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.name
 meMA.Ode9C13.incipit = "Establish all those who faithfully…"
 meMA.Ode9C13.text = "Establish all those who faithfully ever take refuge under your protection, revered Martyr, lest we be overwhelmed by life's troubles and the wiles of the evil one, who year by year magnify and glorify you."
 
-meMA.Ode9C14.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C14.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C14.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C14.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C14.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.name
 meMA.Ode9C14.incipit = "Take care, my soul, the…"
 meMA.Ode9C14.text = "Take care, my soul, the great day of judgement has drawn near, when what is made is brought to judgement. And what will you do, as you persist in evil works? Make and cry out: At the prayers of your Saint save me, O Lord!"
 
-meMA.Ode9C1T.ode = misc_en_UK_lash.Ode9
-meMA.Ode9C1T.mode = misc_en_UK_lash.Mode8
+meMA.Ode9C1T.ode = miscellanea_en_UK_lash.misc.Ode9
+meMA.Ode9C1T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C1T.melody = he.h.m8_en_UK_lash.EfrixePasaAkoi.name
 meMA.Ode9C1T.incipit = "Wretch that I am, I…"
 meMA.Ode9C1T.text = "Wretch that I am, I tremble at your impartial tribunal, O only King; keep me then uncondemned in your compassion, the all-pure Lady, who ineffably gave you a body, implore s you insistently, O Christ of many mercies."

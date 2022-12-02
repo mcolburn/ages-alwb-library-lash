@@ -5,7 +5,7 @@ trVE.AposGlory.text = ""
 trHW.Encomia.title = "The Lamentations."
 
 trHW.Encomia100.title = "First Section."
-trHW.Encomia100.mode = misc_en_UK_lash.Mode5
+trHW.Encomia100.mode = miscellanea_en_UK_lash.misc.Mode5
 
 trHW.Encomia101.text = "In the tomb they laid you, * you, O Christ, who are Life; * in amazement angel armies lift up their song * as they glorify your self-abasement, Lord."
 
@@ -158,7 +158,7 @@ trHW.Encomia1T.text = "Now we call you blessed, * All-Pure Mother of God, * and 
 trHW.Encomia1F.text = trHW.Encomia101.text
 
 trHW.Encomia200.title = "Second Section."
-trHW.Encomia200.mode = misc_en_UK_lash.Mode5
+trHW.Encomia200.mode = miscellanea_en_UK_lash.misc.Mode5
 
 trHW.Encomia201.text = "It is right indeed * we should magnify the one who grants life, * you, that stretched your hands wide upon the Cross, * broke and smashed the might and power of the foe."
 
@@ -287,7 +287,7 @@ trHW.Encomia2T.text = "Wholly undefiled, * Mother, who gave birth to life, pure 
 trHW.Encomia2F.text = trHW.Encomia201.text
 
 trHW.Encomia300.title = "Third Section."
-trHW.Encomia300.mode = misc_en_UK_lash.Mode3
+trHW.Encomia300.mode = miscellanea_en_UK_lash.misc.Mode3
 
 trHW.Encomia301.text = "Each generation offers, * my Christ, for your entombment * in hymns and songs its praises."
 

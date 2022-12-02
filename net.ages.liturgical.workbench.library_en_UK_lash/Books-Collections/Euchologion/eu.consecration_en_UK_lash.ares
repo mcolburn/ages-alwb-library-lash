@@ -8,88 +8,88 @@ euCON.Key1002.title = ""
 euCON.Key1002.text = ""
 euCON.R101 = ""
 euCON.R102 = ""
-euCON.Key1003.mode = misc_en_UK_lash.Mode6
+euCON.Key1003.mode = miscellanea_en_UK_lash.misc.Mode6
 euCON.Key1003.incipit = pe.d127_en_UK_lash.peVE.SticGlory.incipit
 euCON.Key1003.text = pe.d127_en_UK_lash.peVE.SticGlory.text
-euCON.Key1004.mode = misc_en_UK_lash.Mode6
+euCON.Key1004.mode = miscellanea_en_UK_lash.misc.Mode6
 euCON.Key1004.incipit = oc.m6.d5_en_UK_lash.ocVE.AposTheotokion.incipit
 euCON.Key1004.text = oc.m6.d5_en_UK_lash.ocVE.AposTheotokion.text
 
 euCON.Key2000.title = ""
 
-euVE.Stichera01.mode = misc_en_UK_lash.Mode6
-euVE.Stichera01.melody = misc_en_UK_lash.Idiomelon
+euVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode6
+euVE.Stichera01.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Stichera01.incipit = me.m09.d13_en_UK_lash.meVE.Stichera01.incipit
 euVE.Stichera01.text = me.m09.d13_en_UK_lash.meVE.Stichera01.text
 
-euVE.Stichera02.mode = misc_en_UK_lash.Mode6
-euVE.Stichera02.melody = misc_en_UK_lash.Idiomelon
+euVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode6
+euVE.Stichera02.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Stichera02.incipit = me.m09.d13_en_UK_lash.meVE.Stichera02.incipit
 euVE.Stichera02.text = me.m09.d13_en_UK_lash.meVE.Stichera02.text
 
-euVE.Stichera03.poet = poets_en_UK_lash.Anatoliou
-euVE.Stichera03.mode = misc_en_UK_lash.Mode6
-euVE.Stichera03.melody = misc_en_UK_lash.Idiomelon
+euVE.Stichera03.poet = poets_en_UK_lash.po.Anatoliou
+euVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode6
+euVE.Stichera03.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Stichera03.incipit = me.m09.d13_en_UK_lash.meVE.Stichera03.incipit
 euVE.Stichera03.text = me.m09.d13_en_UK_lash.meVE.Stichera03.text
 
-euVE.Stichera04.poet = poets_en_UK_lash.IoannouMonachou
-euVE.Stichera04.mode = misc_en_UK_lash.Mode6
-euVE.Stichera04.melody = misc_en_UK_lash.Idiomelon
+euVE.Stichera04.poet = poets_en_UK_lash.po.IoannouMonachou
+euVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode6
+euVE.Stichera04.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Stichera04.incipit = me.m09.d13_en_UK_lash.meVE.SticGlory.incipit
 euVE.Stichera04.text = me.m09.d13_en_UK_lash.meVE.SticGlory.text
 
-euVE.SticBoth.poet = poets_en_UK_lash.Anatoliou
-euVE.SticBoth.mode = misc_en_UK_lash.Mode2
-euVE.SticBoth.melody = misc_en_UK_lash.Idiomelon
+euVE.SticBoth.poet = poets_en_UK_lash.po.Anatoliou
+euVE.SticBoth.mode = miscellanea_en_UK_lash.misc.Mode2
+euVE.SticBoth.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.SticBoth.incipit = me.m09.d13_en_UK_lash.meVE.AposGlory.incipit
 euVE.SticBoth.text = me.m09.d13_en_UK_lash.meVE.AposGlory.text
 
-euVE.Aposticha1.poet = poets_en_UK_lash.IoannouMonachou
-euVE.Aposticha1.mode = misc_en_UK_lash.Mode1
-euVE.Aposticha1.melody = misc_en_UK_lash.Idiomelon
+euVE.Aposticha1.poet = poets_en_UK_lash.po.IoannouMonachou
+euVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode1
+euVE.Aposticha1.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Aposticha1.incipit = me.m09.d13_en_UK_lash.meMA.Lauds4.incipit
 euVE.Aposticha1.text = me.m09.d13_en_UK_lash.meMA.Lauds4.text
 
 //euVE.ApostichaVerse2.text = ""
 
-euVE.Aposticha2.poet = poets_en_UK_lash.Anatoliou
-euVE.Aposticha2.mode = misc_en_UK_lash.Mode1
-euVE.Aposticha2.melody = misc_en_UK_lash.Idiomelon
+euVE.Aposticha2.poet = poets_en_UK_lash.po.Anatoliou
+euVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode1
+euVE.Aposticha2.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Aposticha2.incipit = me.m09.d13_en_UK_lash.meMA.Lauds5.incipit
 euVE.Aposticha2.text = me.m09.d13_en_UK_lash.meMA.Lauds5.text
 
 //euVE.ApostichaVerse3.text = ""
 
-euVE.Aposticha3.poet = poets_en_UK_lash.IoannouMonachou
+euVE.Aposticha3.poet = poets_en_UK_lash.po.IoannouMonachou
 euVE.Aposticha3.mode = me.m09.d13_en_UK_lash.meMA.Lauds6.mode
-euVE.Aposticha3.melody = misc_en_UK_lash.Idiomelon
+euVE.Aposticha3.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.Aposticha3.incipit = me.m09.d13_en_UK_lash.meMA.Lauds6.incipit
 euVE.Aposticha3.text = me.m09.d13_en_UK_lash.meMA.Lauds6.text
 
-euVE.AposGlory.mode = misc_en_UK_lash.Mode3
-euVE.AposGlory.melody = misc_en_UK_lash.Idiomelon
+euVE.AposGlory.mode = miscellanea_en_UK_lash.misc.Mode3
+euVE.AposGlory.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euVE.AposGlory.incipit = me.m09.d13_en_UK_lash.meMA.LaudsGlory.incipit
 euVE.AposGlory.text = me.m09.d13_en_UK_lash.meMA.LaudsGlory.text
 
-euVE.Apolytikion.mode = misc_en_UK_lash.Mode4
+euVE.Apolytikion.mode = miscellanea_en_UK_lash.misc.Mode4
 euVE.Apolytikion.melody = ""
 euVE.Apolytikion.incipit = me.m09.d13_en_UK_lash.meVE.Apolytikion1.incipit
 euVE.Apolytikion.text = me.m09.d13_en_UK_lash.meVE.Apolytikion1.text
 
 euCON.Key3000.title = ""
 
-euMA.Kathisma11.mode = misc_en_UK_lash.Mode8
+euMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode8
 euMA.Kathisma11.melody = he.a.m8_en_UK_lash.ToProstachthen.name
 euMA.Kathisma11.incipit = me.m09.d13_en_UK_lash.meMA.Ode3Kathisma1.incipit
 euMA.Kathisma11.text = me.m09.d13_en_UK_lash.meMA.Ode3Kathisma1.text
 
-euMA.Kathisma21.mode = misc_en_UK_lash.Mode8
+euMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode8
 euMA.Kathisma21.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
 euMA.Kathisma21.incipit = "…"
 euMA.Kathisma21.text = ""
 
-euMA.Kathisma31.mode = misc_en_UK_lash.Mode4
+euMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode4
 euMA.Kathisma31.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
 euMA.Kathisma31.incipit = "…"
 euMA.Kathisma31.text = ""
@@ -97,12 +97,12 @@ euMA.Kathisma31.text = ""
 euMA.C1.title = ""
 euMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
-euMA.Ode3Kathisma1.mode = misc_en_UK_lash.Mode4
+euMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
 euMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
 euMA.Ode3Kathisma1.incipit = me.m09.d13_en_UK_lash.meMA.Kathisma11.incipit
 euMA.Ode3Kathisma1.text = me.m09.d13_en_UK_lash.meMA.Kathisma11.text
 
-euMA.Ode3KathismaT.mode = misc_en_UK_lash.Mode4
+euMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode4
 euMA.Ode3KathismaT.melody = he.a.m4_en_UK_lash.TachyProkatalave.name
 euMA.Ode3KathismaT.incipit = me.m09.d13_en_UK_lash.meMA.Ode3KathismaT.incipit
 euMA.Ode3KathismaT.text = me.m09.d13_en_UK_lash.meMA.Ode3KathismaT.text
@@ -114,30 +114,30 @@ euMA.Kontakion.text = me.m09.d13_en_UK_lash.meMA.Kontakion1.text
 
 euMA.Oikos.text = me.m09.d13_en_UK_lash.meMA.Oikos1.text
 
-euMA.Exaposteilarion1.mode = misc_en_UK_lash.Mode2
+euMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
 euMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.GynaikesAkoutisthite.name
 euMA.Exaposteilarion1.incipit = "…"
 euMA.Exaposteilarion1.text = ""
 
 euMA.R001 = ""
 
-euMA.Lauds1.mode = misc_en_UK_lash.Mode4
+euMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
 euMA.Lauds1.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.name
 euMA.Lauds1.incipit = me.m09.d13_en_UK_lash.meMA.Lauds1.incipit
 euMA.Lauds1.text = me.m09.d13_en_UK_lash.meMA.Lauds1.text
 
-euMA.Lauds2.mode = misc_en_UK_lash.Mode4
+euMA.Lauds2.mode = miscellanea_en_UK_lash.misc.Mode4
 euMA.Lauds2.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.name
 euMA.Lauds2.incipit = me.m09.d13_en_UK_lash.meMA.Lauds2.incipit
 euMA.Lauds2.text = me.m09.d13_en_UK_lash.meMA.Lauds2.text
 
-euMA.Lauds3.mode = misc_en_UK_lash.Mode4
+euMA.Lauds3.mode = miscellanea_en_UK_lash.misc.Mode4
 euMA.Lauds3.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.name
 euMA.Lauds3.incipit = me.m09.d13_en_UK_lash.meMA.Lauds3.incipit
 euMA.Lauds3.text = me.m09.d13_en_UK_lash.meMA.Lauds3.text
 
-euMA.LaudsBoth.mode = misc_en_UK_lash.Mode5
-euMA.LaudsBoth.melody = misc_en_UK_lash.Idiomelon
+euMA.LaudsBoth.mode = miscellanea_en_UK_lash.misc.Mode5
+euMA.LaudsBoth.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euMA.LaudsBoth.text = "" //me.m12.d09_en_UK_lash.meMA.LaudsGlory.text
 
 euMA.MM.Lauds12as12.text = properties_en_UK_lash.media.key
@@ -158,27 +158,27 @@ euCON.Key4107.text = prayers_en_UK_lash.pr.exc14.text
 euCON.Key4200.title = ""
 euCON.R420 = ""
 euCON.R421 = ""
-euCON.Key4201.mode = misc_en_UK_lash.Mode7
+euCON.Key4201.mode = miscellanea_en_UK_lash.misc.Mode7
 euCON.Key4201.incipit = oc.m7.d3_en_UK_lash.ocVE.Aposticha3.incipit
 euCON.Key4201.text = oc.m7.d3_en_UK_lash.ocVE.Aposticha3.text
-euCON.Key4202.mode = misc_en_UK_lash.Mode7
+euCON.Key4202.mode = miscellanea_en_UK_lash.misc.Mode7
 euCON.Key4202.incipit = oc.m7.d2_en_UK_lash.ocVE.Aposticha3.incipit
 euCON.Key4202.text = oc.m7.d2_en_UK_lash.ocVE.Aposticha3.text
 euCON.R422 = ""
-euCON.Key4203.mode = misc_en_UK_lash.Mode1
-euCON.Key4203.melody = misc_en_UK_lash.Idiomelon
+euCON.Key4203.mode = miscellanea_en_UK_lash.misc.Mode1
+euCON.Key4203.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euCON.Key4203.incipit = me.m09.d13_en_UK_lash.meMA.Lauds4.incipit
 euCON.Key4203.text = me.m09.d13_en_UK_lash.meMA.Lauds4.text
-euCON.Key4204.mode = misc_en_UK_lash.Mode1
-euCON.Key4204.melody = misc_en_UK_lash.Idiomelon
+euCON.Key4204.mode = miscellanea_en_UK_lash.misc.Mode1
+euCON.Key4204.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euCON.Key4204.incipit = me.m09.d13_en_UK_lash.meMA.Lauds5.incipit
 euCON.Key4204.text = me.m09.d13_en_UK_lash.meMA.Lauds5.text
-euCON.Key4205.mode = misc_en_UK_lash.Mode6
-euCON.Key4205.melody = misc_en_UK_lash.Idiomelon
+euCON.Key4205.mode = miscellanea_en_UK_lash.misc.Mode6
+euCON.Key4205.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euCON.Key4205.incipit = me.m09.d13_en_UK_lash.meVE.Stichera01.incipit
 euCON.Key4205.text = me.m09.d13_en_UK_lash.meVE.Stichera01.text
-euCON.Key4206.mode = misc_en_UK_lash.Mode5
-euCON.Key4206.melody = misc_en_UK_lash.Idiomelon
+euCON.Key4206.mode = miscellanea_en_UK_lash.misc.Mode5
+euCON.Key4206.melody = miscellanea_en_UK_lash.misc.Idiomelon
 euCON.Key4206.text = "" //me.m12.d09_en_UK_lash.meMA.LaudsGlory.text
 euCON.R423 = ""
 euCON.Key4207.title = ""
@@ -193,7 +193,7 @@ euCON.R426 = ""
 euCON.R427 = ""
 euCON.Key4209.incipit = "…"
 euCON.Key4209.text = ""
-euCON.Key4210.mode = misc_en_UK_lash.Mode3
+euCON.Key4210.mode = miscellanea_en_UK_lash.misc.Mode3
 euCON.Key4210.incipit = "…"
 euCON.Key4210.text = ""
 euCON.R428 = ""
@@ -212,7 +212,7 @@ euCON.R430 = ""
 euCON.R431 = ""
 euCON.R432 = ""
 euCON.Key4304.title = ""
-euCON.Key4304.mode = misc_en_UK_lash.Mode4
+euCON.Key4304.mode = miscellanea_en_UK_lash.misc.Mode4
 euCON.Key4304.incipit = me.m09.d13_en_UK_lash.meVE.Apolytikion1.incipit
 euCON.Key4304.text = me.m09.d13_en_UK_lash.meVE.Apolytikion1.text
 
