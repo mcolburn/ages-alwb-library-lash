@@ -79,7 +79,7 @@ peMA.Kathisma1T.incipit = oc.m4.d7_en_UK_lash.ocMA.Kathisma14.incipit
 peMA.Kathisma1T.text = oc.m4.d7_en_UK_lash.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
-peMA.Kathisma21.melody = he.a.m4_en_UK_lash.OYpsotheisEnToStavro.notmetered
+peMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 peMA.Kathisma21.incipit = "Let heaven rejoice, and things…"
 peMA.Kathisma21.text = "Let heaven rejoice, and things on earth dance, for Christ, having appeared from a Virgin as man, has delivered all mankind from corruption by his own death; but, having shone with wonders, he asks water of the Woman of Samaria and bestows a source of healings, for he alone is immortal."
 
@@ -109,17 +109,17 @@ peMA.LaudsGlory.incipit = pe.d099_en_UK_lash.peMA.LaudsGlory.incipit
 peMA.LaudsGlory.text = pe.d099_en_UK_lash.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode4
-peMA.Aposticha1.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+peMA.Aposticha1.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode4
-peMA.Aposticha2.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+peMA.Aposticha2.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode4
-peMA.Aposticha3.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+peMA.Aposticha3.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 

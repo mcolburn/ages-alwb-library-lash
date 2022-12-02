@@ -77,7 +77,7 @@ euFUN.Key0804.mode = miscellanea_en_UK_lash.misc.Mode3
 euFUN.Key0804.incipit = oc.m3.d7_en_UK_lash.ocVE.Aposticha4.incipit
 euFUN.Key0804.text = oc.m3.d7_en_UK_lash.ocVE.Aposticha4.text
 euFUN.Key0805.mode = miscellanea_en_UK_lash.misc.Mode4
-euFUN.Key0805.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.notmetered
+euFUN.Key0805.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 euFUN.Key0805.incipit = oc.m4.d7_en_UK_lash.ocMA.Aposticha1.incipit
 euFUN.Key0805.text = oc.m4.d7_en_UK_lash.ocMA.Aposticha1.text
 euFUN.Key0806.title = titles_en_UK_lash.ti.AnotherExtraHymn
@@ -91,7 +91,7 @@ euFUN.Key0808.mode = miscellanea_en_UK_lash.misc.Mode6
 euFUN.Key0808.incipit = oc.m6.d7_en_UK_lash.ocVE.Aposticha2.incipit
 euFUN.Key0808.text = oc.m6.d7_en_UK_lash.ocVE.Aposticha2.text
 euFUN.Key0809.mode = miscellanea_en_UK_lash.misc.Mode7
-euFUN.Key0809.melody = he.a.m7_en_UK_lash.OukEtiKolyometha.notmetered
+euFUN.Key0809.melody = he.a.m7_en_UK_lash.heAU.OukEtiKolyometha.notmetered
 euFUN.Key0809.incipit = oc.m7.d7_en_UK_lash.ocVE.Aposticha3.incipit
 euFUN.Key0809.text = oc.m7.d7_en_UK_lash.ocVE.Aposticha3.text
 euFUN.Key0810.title = titles_en_UK_lash.ti.AnotherExtraHymn
@@ -110,7 +110,7 @@ euFUN.Key0813.text = oc.m8.d7_en_UK_lash.ocVE.AposTheotokion.text
 
 euFUN.Key0900.title = ""
 euFUN.Key0900.mode = miscellanea_en_UK_lash.misc.Mode6
-euFUN.Key0900.melody = he.h.m6_en_UK_lash.OiOsioiSouPaides.name
+euFUN.Key0900.melody = he.h.m6_en_UK_lash.heHE.OiOsioiSouPaides.name
 euFUN.Key0901.incipit = "…"
 euFUN.Key0901.text = ""
 euFUN.Key0902.incipit = "…"
@@ -139,17 +139,17 @@ euFUN.Key1003.title = ""
 euFUN.Key1003.text = ""
 
 euFUN.Key1101.mode = miscellanea_en_UK_lash.misc.Mode2
-euFUN.Key1101.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
+euFUN.Key1101.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 euFUN.Key1101.incipit = "…"
 euFUN.Key1101.text = ""
 
 euFUN.Key1102.mode = miscellanea_en_UK_lash.misc.Mode2
-euFUN.Key1102.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
+euFUN.Key1102.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 euFUN.Key1102.incipit = "…"
 euFUN.Key1102.text = ""
 
 euFUN.Key1103.mode = miscellanea_en_UK_lash.misc.Mode2
-euFUN.Key1103.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
+euFUN.Key1103.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 euFUN.Key1103.incipit = "…"
 euFUN.Key1103.text = ""
 
@@ -159,7 +159,7 @@ euFUN.Key1104.incipit = "…"
 euFUN.Key1104.text = ""
 
 euFUN.Key1105.mode = miscellanea_en_UK_lash.misc.Mode6
-euFUN.Key1105.melody = he.a.m6_en_UK_lash.TriimerosAnestis.notmetered
+euFUN.Key1105.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.notmetered
 euFUN.Key1105.incipit = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.incipit
 euFUN.Key1105.text = oc.m6.d7_en_UK_lash.ocVE.AposTheotokion.text
 

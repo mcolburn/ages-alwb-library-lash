@@ -65,8 +65,8 @@ meMA.Ode1C1T.text = "Glorious things have been said of you, Mary Mother of God, 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.OStereosasKatArchas.incipit
-meMA.Ode3C1H.text = he.h.m8_en_UK_lash.OStereosasKatArchas.text
+meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.incipit
+meMA.Ode3C1H.text = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -170,8 +170,8 @@ meMA.Ode5C1T.text = "As you have a mother's boldness towards your Son, O All-pur
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.AvyssosAmartion.incipit
-meMA.Ode6C1H.text = he.h.m8_en_UK_lash.AvyssosAmartion.text
+meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.heHE.AvyssosAmartion.incipit
+meMA.Ode6C1H.text = he.h.m8_en_UK_lash.heHE.AvyssosAmartion.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -230,8 +230,8 @@ meMA.Ode7C1T.text = "Abolishing the curse of Eve you made your dwelling in the a
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.EptaplasiosKaminon.incipit
-meMA.Ode8C1H.text = he.h.m8_en_UK_lash.EptaplasiosKaminon.text
+meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.incipit
+meMA.Ode8C1H.text = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -260,8 +260,8 @@ meMA.Ode8C1T.text = "All-pure Mother of God, wipe away the wounds of my soul and
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.EfrixePasaAkoi.incipit
-meMA.Ode9C1H.text = he.h.m8_en_UK_lash.EfrixePasaAkoi.text
+meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.incipit
+meMA.Ode9C1H.text = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8

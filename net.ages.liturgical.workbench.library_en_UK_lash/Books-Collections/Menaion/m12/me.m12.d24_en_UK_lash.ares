@@ -21,32 +21,32 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "Let us sound the cymbals…"
 meVE.Stichera01.text = "Let us sound the cymbals, let us cry out with joy in songs: Christ’s revelation has been made manifest. The proclamations of the Prophets have reached their term, for the one they said would appear in flesh to mortals is being brought to birth in a holy Cave, laid in a manger like a babe and wrapped in swaddling clothes like little child."
 
 meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "With upright mind let us…"
 meVE.Stichera02.text = "With upright mind let us make songs ring out for the Forefeast of Christ’s Nativity. For he that is equal in honour to the Father and the Spirit, having through compassion clothed himself in our matter, is about to be born in the city of Bethlehem. Shepherds with Angels sing the praise of his ineffable birth."
 
 meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "Seeing a Conception beyond explanation…"
 meVE.Stichera03.text = "Seeing a Conception beyond explanation and Birth beyond expression, the Virgin was amazed. Rejoicing and yet also weeping she exclaimed, ‘How can I offer my breast to him who nourishes the universe? Or how can I sing your praise as both my Son and my God? By what title can I address you, Lord beyond all naming?’"
 
 meVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode2
-meVE.Stichera04.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
+meVE.Stichera04.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 meVE.Stichera04.incipit = "When with godlike foresight you…"
 meVE.Stichera04.text = "When with godlike foresight you went out from the city, you clearly left behind the pleasure of the world; and having heard the sweet melody of psalms, you were flooded with the light of divine knowledge; while having conceived fear in your womb, you gave birth to a divine and saving Spirit for those who journeyed with you."
 
 meVE.Stichera05.mode = miscellanea_en_UK_lash.misc.Mode2
-meVE.Stichera05.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
+meVE.Stichera05.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 meVE.Stichera05.incipit = "When you had been made…"
 meVE.Stichera05.text = "When you had been made a bride of Christ, with zeal you brought to your servants to him, bearing them as a living gift, imitating your courage, Evgenia, shining out clearly with faith and grace, practising every virtue, as true Martyrs proclaiming to all true religion."
 
 meVE.Stichera06.mode = miscellanea_en_UK_lash.misc.Mode2
-meVE.Stichera06.melody = he.a.m2_en_UK_lash.OteEkTouXylou.notmetered
+meVE.Stichera06.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 meVE.Stichera06.incipit = "Clearly illumined by the beam…"
 meVE.Stichera06.text = "Clearly illumined by the beam of the Spirit, you bring a choir of virgins to Christ, having caught them by your word of wisdom and shown them the course of the path that leads on high, you guided them to shine with the blood of Martyrs. Dancing with them, you have now found a fitting desire: true delight, all-praised Martyr."
 
@@ -76,13 +76,13 @@ meVE.AposGlory.incipit = me.m12.d06_en_UK_lash.meVE.SticBoth.incipit
 meVE.AposGlory.text = me.m12.d06_en_UK_lash.meVE.SticBoth.text
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
+meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meVE.Apolytikion1.incipit = "Mary once, with aged Joseph…"
 meVE.Apolytikion1.text = "Mary once, with aged Joseph, went to be enrolled in Bethlehem, for they were of David’s line; and she bore in her womb the fruit unsown. The time of the birth was at hand and there was no room at the inn; but the Cave proved a fair palace for the Queen. Christ is born, that he may raise up again his image that of old had fallen."
 
 meVE.Apolytikion2.poet = poets_en_UK_lash.po.Gerasimou
 meVE.Apolytikion2.mode = miscellanea_en_UK_lash.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_UK_lash.TheiasPisteos.name
+meVE.Apolytikion2.melody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
@@ -93,205 +93,205 @@ meCO.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meCO.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode1C1H.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meCO.Ode1C1H.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meCO.Ode1C1H.incipit = "…"
 meCO.Ode1C1H.text = ""
 
 meCO.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meCO.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode1C11.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meCO.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meCO.Ode1C11.incipit = "…"
 meCO.Ode1C11.text = ""
 
 meCO.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
 meCO.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode1C12.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meCO.Ode1C12.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meCO.Ode1C12.incipit = "…"
 meCO.Ode1C12.text = ""
 
 meCO.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
 meCO.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode1C13.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meCO.Ode1C13.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meCO.Ode1C13.incipit = "…"
 meCO.Ode1C13.text = ""
 
 meCO.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meCO.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode3C1H.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meCO.Ode3C1H.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meCO.Ode3C1H.incipit = "…"
 meCO.Ode3C1H.text = ""
 
 meCO.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meCO.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode3C11.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meCO.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meCO.Ode3C11.incipit = "…"
 meCO.Ode3C11.text = ""
 
 meCO.Ode3C12.ode = miscellanea_en_UK_lash.misc.Ode3
 meCO.Ode3C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode3C12.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meCO.Ode3C12.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meCO.Ode3C12.incipit = "…"
 meCO.Ode3C12.text = ""
 
 meCO.Ode3C13.ode = miscellanea_en_UK_lash.misc.Ode3
 meCO.Ode3C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode3C13.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meCO.Ode3C13.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meCO.Ode3C13.incipit = "…"
 meCO.Ode3C13.text = ""
 
 meCO.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meCO.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode4C1H.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meCO.Ode4C1H.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meCO.Ode4C1H.incipit = "…"
 meCO.Ode4C1H.text = ""
 
 meCO.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meCO.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode4C11.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meCO.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meCO.Ode4C11.incipit = "…"
 meCO.Ode4C11.text = ""
 
 meCO.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
 meCO.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode4C12.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meCO.Ode4C12.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meCO.Ode4C12.incipit = "…"
 meCO.Ode4C12.text = ""
 
 meCO.Ode4C13.ode = miscellanea_en_UK_lash.misc.Ode4
 meCO.Ode4C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode4C13.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meCO.Ode4C13.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meCO.Ode4C13.incipit = "…"
 meCO.Ode4C13.text = ""
 
 meCO.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meCO.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode5C1H.melody = he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C1H.melody = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo.name
 meCO.Ode5C1H.incipit = "…"
 meCO.Ode5C1H.text = ""
 
 meCO.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meCO.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode5C11.melody = he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo.name
 meCO.Ode5C11.incipit = "…"
 meCO.Ode5C11.text = ""
 
 meCO.Ode5C12.ode = miscellanea_en_UK_lash.misc.Ode5
 meCO.Ode5C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode5C12.melody = he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C12.melody = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo.name
 meCO.Ode5C12.incipit = "…"
 meCO.Ode5C12.text = ""
 
 meCO.Ode5C13.ode = miscellanea_en_UK_lash.misc.Ode5
 meCO.Ode5C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode5C13.melody = he.h.m6_en_UK_lash.ProsSeOrthrizo.name
+meCO.Ode5C13.melody = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo.name
 meCO.Ode5C13.incipit = "…"
 meCO.Ode5C13.text = ""
 
 meCO.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meCO.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode6
 meCO.Ode6C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
-meCO.Ode6C1H.incipit = he.h.m6_en_UK_lash.AvyssosEschati.incipit
-meCO.Ode6C1H.text = he.h.m6_en_UK_lash.AvyssosEschati.text
+meCO.Ode6C1H.incipit = he.h.m6_en_UK_lash.heHE.AvyssosEschati.incipit
+meCO.Ode6C1H.text = he.h.m6_en_UK_lash.heHE.AvyssosEschati.text
 
 meCO.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meCO.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode6C11.melody = he.h.m6_en_UK_lash.AvyssosEschati.name
+meCO.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.AvyssosEschati.name
 meCO.Ode6C11.incipit = "…"
 meCO.Ode6C11.text = ""
 
 meCO.Ode6C12.ode = miscellanea_en_UK_lash.misc.Ode6
 meCO.Ode6C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode6C12.melody = he.h.m6_en_UK_lash.AvyssosEschati.name
+meCO.Ode6C12.melody = he.h.m6_en_UK_lash.heHE.AvyssosEschati.name
 meCO.Ode6C12.incipit = "…"
 meCO.Ode6C12.text = ""
 
 meCO.Ode6C13.ode = miscellanea_en_UK_lash.misc.Ode6
 meCO.Ode6C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode6C13.melody = he.h.m6_en_UK_lash.AvyssosEschati.name
+meCO.Ode6C13.melody = he.h.m6_en_UK_lash.heHE.AvyssosEschati.name
 meCO.Ode6C13.incipit = "…"
 meCO.Ode6C13.text = ""
 
 meCO.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meCO.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode6
 meCO.Ode7C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
-meCO.Ode7C1H.incipit = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.incipit
-meCO.Ode7C1H.text = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.text
+meCO.Ode7C1H.incipit = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.incipit
+meCO.Ode7C1H.text = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.text
 
 meCO.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meCO.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode7C11.melody = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.name
+meCO.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.name
 meCO.Ode7C11.incipit = "…"
 meCO.Ode7C11.text = ""
 
 meCO.Ode7C12.ode = miscellanea_en_UK_lash.misc.Ode7
 meCO.Ode7C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode7C12.melody = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.name
+meCO.Ode7C12.melody = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.name
 meCO.Ode7C12.incipit = "…"
 meCO.Ode7C12.text = ""
 
 meCO.Ode7C13.ode = miscellanea_en_UK_lash.misc.Ode7
 meCO.Ode7C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode7C13.melody = he.h.m6_en_UK_lash.OiPaidesEnVavyloni.name
+meCO.Ode7C13.melody = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.name
 meCO.Ode7C13.incipit = "…"
 meCO.Ode7C13.text = ""
 
 meCO.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode6
 meCO.Ode8C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
-meCO.Ode8C1H.incipit = he.h.m6_en_UK_lash.NomonPatroon.incipit
-meCO.Ode8C1H.text = he.h.m6_en_UK_lash.NomonPatroon.text
+meCO.Ode8C1H.incipit = he.h.m6_en_UK_lash.heHE.NomonPatroon.incipit
+meCO.Ode8C1H.text = he.h.m6_en_UK_lash.heHE.NomonPatroon.text
 
 meCO.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode8C11.melody = he.h.m6_en_UK_lash.NomonPatroon.name
+meCO.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.NomonPatroon.name
 meCO.Ode8C11.incipit = "…"
 meCO.Ode8C11.text = ""
 
 meCO.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode8C12.melody = he.h.m6_en_UK_lash.NomonPatroon.name
+meCO.Ode8C12.melody = he.h.m6_en_UK_lash.heHE.NomonPatroon.name
 meCO.Ode8C12.incipit = "…"
 meCO.Ode8C12.text = ""
 
 meCO.Ode8C13.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode8C13.melody = he.h.m6_en_UK_lash.NomonPatroon.name
+meCO.Ode8C13.melody = he.h.m6_en_UK_lash.heHE.NomonPatroon.name
 meCO.Ode8C13.incipit = "…"
 meCO.Ode8C13.text = ""
 
 meCO.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode6
 meCO.Ode9C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
-meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.AporeiPasaGlossa.incipit
-meCO.Ode9C1H.text = he.h.m2_en_UK_lash.AporeiPasaGlossa.text
+meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.AporeiPasaGlossa.incipit
+meCO.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.AporeiPasaGlossa.text
 
 meCO.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode9C11.melody = he.h.m2_en_UK_lash.AporeiPasaGlossa.name
+meCO.Ode9C11.melody = he.h.m2_en_UK_lash.heHE.AporeiPasaGlossa.name
 meCO.Ode9C11.incipit = "…"
 meCO.Ode9C11.text = ""
 
 meCO.Ode9C12.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode9C12.melody = he.h.m2_en_UK_lash.AporeiPasaGlossa.name
+meCO.Ode9C12.melody = he.h.m2_en_UK_lash.heHE.AporeiPasaGlossa.name
 meCO.Ode9C12.incipit = "…"
 meCO.Ode9C12.text = ""
 
 meCO.Ode9C13.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode9C13.melody = he.h.m2_en_UK_lash.AporeiPasaGlossa.name
+meCO.Ode9C13.melody = he.h.m2_en_UK_lash.heHE.AporeiPasaGlossa.name
 meCO.Ode9C13.incipit = "…"
 meCO.Ode9C13.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Kathisma11.melody = he.a.m6_en_UK_lash.AngelikaiDynameis.name
+meMA.Kathisma11.melody = he.a.m6_en_UK_lash.heAU.AngelikaiDynameis.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Kathisma21.melody = miscellanea_en_UK_lash.misc.Automelon
-meMA.Kathisma21.incipit = he.a.m8_en_UK_lash.AvlonPoimenikon.incipit
-meMA.Kathisma21.text = he.a.m8_en_UK_lash.AvlonPoimenikon.text
+meMA.Kathisma21.incipit = he.a.m8_en_UK_lash.heAU.AvlonPoimenikon.incipit
+meMA.Kathisma21.text = he.a.m8_en_UK_lash.heAU.AvlonPoimenikon.text
 
 meMA.C1.acrostic.title = ""
 meMA.C1.acrostic.notice1 = ""
@@ -314,378 +314,378 @@ meMA.C3.verse = prayers_en_UK_lash.pr.verse_SaintW.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode1C1H.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C1H.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meMA.Ode1C1H.incipit = "…"
 meMA.Ode1C1H.text = ""
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode1C11.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
 
 meMA.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode1C12.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C12.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meMA.Ode1C12.incipit = "…"
 meMA.Ode1C12.text = ""
 
 meMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode1C13.melody = he.h.m6_en_UK_lash.KymatiThalassis.name
+meMA.Ode1C13.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meMA.Ode1C13.incipit = "…"
 meMA.Ode1C13.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C21.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C21.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
 
 meMA.Ode1C22.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C22.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C22.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C22.incipit = "…"
 meMA.Ode1C22.text = ""
 
 meMA.Ode1C23.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C23.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C23.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C23.incipit = "…"
 meMA.Ode1C23.text = ""
 
 meMA.Ode1C31.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C31.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C31.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C31.incipit = "…"
 meMA.Ode1C31.text = ""
 
 meMA.Ode1C32.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C32.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C32.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C32.incipit = "…"
 meMA.Ode1C32.text = ""
 
 meMA.Ode1C33.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C33.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C33.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C33.incipit = "…"
 meMA.Ode1C33.text = ""
 
 meMA.Ode1C34.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C34.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C34.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C34.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C34.incipit = "…"
 meMA.Ode1C34.text = ""
 
 meMA.Ode1C3T.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode1C3T.melody = he.h.m2_en_UK_lash.EnVythoKatestrose.name
+meMA.Ode1C3T.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C3T.incipit = "…"
 meMA.Ode1C3T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode3C1H.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C1H.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meMA.Ode3C1H.incipit = "…"
 meMA.Ode3C1H.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode3C11.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
 
 meMA.Ode3C12.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode3C12.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C12.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
 meMA.Ode3C13.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode3C13.melody = he.h.m6_en_UK_lash.SeTonEpiYdaton.name
+meMA.Ode3C13.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meMA.Ode3C13.incipit = "…"
 meMA.Ode3C13.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C21.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C21.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
 
 meMA.Ode3C22.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C22.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C22.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.name
 meMA.Ode3C22.incipit = "…"
 meMA.Ode3C22.text = ""
 
 meMA.Ode3C23.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C23.melody = he.h.m2_en_UK_lash.ExinthisenIErimos.name
+meMA.Ode3C23.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.name
 meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
 meMA.Ode3C31.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C31.melody = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C31.melody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.name
 meMA.Ode3C31.incipit = "…"
 meMA.Ode3C31.text = ""
 
 meMA.Ode3C32.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C32.melody = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C32.melody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.name
 meMA.Ode3C32.incipit = "…"
 meMA.Ode3C32.text = ""
 
 meMA.Ode3C33.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C33.melody = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C33.melody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.name
 meMA.Ode3C33.incipit = "…"
 meMA.Ode3C33.text = ""
 
 meMA.Ode3C3T.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3C3T.melody = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.name
+meMA.Ode3C3T.melody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.name
 meMA.Ode3C3T.incipit = "…"
 meMA.Ode3C3T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode3H.melody = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.melody
-meMA.Ode3H.incipit = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.incipit
-meMA.Ode3H.text = he.h.m2_en_UK_lash.EnPetraMeTisPisteos.text
+meMA.Ode3H.melody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.melody
+meMA.Ode3H.incipit = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.incipit
+meMA.Ode3H.text = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode1
-meMA.Ode3Kathisma1.melody = he.a.m1_en_UK_lash.TonTafonSouSotir.name
+meMA.Ode3Kathisma1.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
+meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode3Kathisma3.melody = he.a.m8_en_UK_lash.ToProstachthen.name
+meMA.Ode3Kathisma3.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode4C1H.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meMA.Ode4C1H.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meMA.Ode4C1H.incipit = "…"
 meMA.Ode4C1H.text = ""
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode4C11.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meMA.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
 
 meMA.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode4C12.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meMA.Ode4C12.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meMA.Ode4C12.incipit = "…"
 meMA.Ode4C12.text = ""
 
 meMA.Ode4C13.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode4C13.melody = he.h.m2_en_UK_lash.TinEkParthenou.name
+meMA.Ode4C13.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 meMA.Ode4C13.incipit = "…"
 meMA.Ode4C13.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C21.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C21.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
 
 meMA.Ode4C22.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C22.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C22.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C22.incipit = "…"
 meMA.Ode4C22.text = ""
 
 meMA.Ode4C23.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C23.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C23.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C23.incipit = "…"
 meMA.Ode4C23.text = ""
 
 meMA.Ode4C24.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C24.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C24.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C24.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C24.incipit = "…"
 meMA.Ode4C24.text = ""
 
 meMA.Ode4C31.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C31.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C31.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C31.incipit = "…"
 meMA.Ode4C31.text = ""
 
 meMA.Ode4C32.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C32.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C32.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C32.incipit = "…"
 meMA.Ode4C32.text = ""
 
 meMA.Ode4C33.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C33.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C33.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C33.incipit = "…"
 meMA.Ode4C33.text = ""
 
 meMA.Ode4C34.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C34.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C34.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C34.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C34.incipit = "…"
 meMA.Ode4C34.text = ""
 
 meMA.Ode4C3T.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode4C3T.melody = he.h.m2_en_UK_lash.ElilythasEkParthenou.name
+meMA.Ode4C3T.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C3T.incipit = "…"
 meMA.Ode4C3T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode5C1H.melody = he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C1H.melody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.name
 meMA.Ode5C1H.incipit = "…"
 meMA.Ode5C1H.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode5C11.melody = he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
 
 meMA.Ode5C12.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode5C12.melody = he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C12.melody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.name
 meMA.Ode5C12.incipit = "…"
 meMA.Ode5C12.text = ""
 
 meMA.Ode5C13.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode5C13.melody = he.h.m6_en_UK_lash.TheofaneiasSouChriste.name
+meMA.Ode5C13.melody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.name
 meMA.Ode5C13.incipit = "…"
 meMA.Ode5C13.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C21.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C21.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
 
 meMA.Ode5C22.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C22.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C22.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.name
 meMA.Ode5C22.incipit = "…"
 meMA.Ode5C22.text = ""
 
 meMA.Ode5C23.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C23.melody = he.h.m2_en_UK_lash.MesitisTheou.name
+meMA.Ode5C23.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.name
 meMA.Ode5C23.incipit = "…"
 meMA.Ode5C23.text = ""
 
 meMA.Ode5C31.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C31.melody = he.h.m2_en_UK_lash.OFotismos.name
+meMA.Ode5C31.melody = he.h.m2_en_UK_lash.heHE.OFotismos.name
 meMA.Ode5C31.incipit = "…"
 meMA.Ode5C31.text = ""
 
 meMA.Ode5C32.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C32.melody = he.h.m2_en_UK_lash.OFotismos.name
+meMA.Ode5C32.melody = he.h.m2_en_UK_lash.heHE.OFotismos.name
 meMA.Ode5C32.incipit = "…"
 meMA.Ode5C32.text = ""
 
 meMA.Ode5C33.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C33.melody = he.h.m2_en_UK_lash.OFotismos.name
+meMA.Ode5C33.melody = he.h.m2_en_UK_lash.heHE.OFotismos.name
 meMA.Ode5C33.incipit = "…"
 meMA.Ode5C33.text = ""
 
 meMA.Ode5C3T.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode5C3T.melody = he.h.m2_en_UK_lash.OFotismos.name
+meMA.Ode5C3T.melody = he.h.m2_en_UK_lash.heHE.OFotismos.name
 meMA.Ode5C3T.incipit = "…"
 meMA.Ode5C3T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode6C1H.melody = he.h.m6_en_UK_lash.SyneschethiAllOuKateschethi.name
+meMA.Ode6C1H.melody = he.h.m6_en_UK_lash.heHE.SyneschethiAllOuKateschethi.name
 meMA.Ode6C1H.incipit = "…"
 meMA.Ode6C1H.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode6C11.melody = he.h.m6_en_UK_lash.SyneschethiAllOuKateschethi.name
+meMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.SyneschethiAllOuKateschethi.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
 
 meMA.Ode6C12.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode6C12.melody = he.h.m6_en_UK_lash.SyneschethiAllOuKateschethi.name
+meMA.Ode6C12.melody = he.h.m6_en_UK_lash.heHE.SyneschethiAllOuKateschethi.name
 meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Ode6C13.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode6C13.melody = he.h.m6_en_UK_lash.SyneschethiAllOuKateschethi.name
+meMA.Ode6C13.melody = he.h.m6_en_UK_lash.heHE.SyneschethiAllOuKateschethi.name
 meMA.Ode6C13.incipit = "…"
 meMA.Ode6C13.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C21.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C21.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
 
 meMA.Ode6C22.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C22.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C22.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Ode6C23.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C23.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C23.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C23.incipit = "…"
 meMA.Ode6C23.text = ""
 
 meMA.Ode6C31.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C31.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C31.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C31.incipit = "…"
 meMA.Ode6C31.text = ""
 
 meMA.Ode6C32.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C32.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C32.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C32.incipit = "…"
 meMA.Ode6C32.text = ""
 
 meMA.Ode6C33.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C33.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C33.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C33.incipit = "…"
 meMA.Ode6C33.text = ""
 
 meMA.Ode6C3T.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6C3T.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.name
+meMA.Ode6C3T.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C3T.incipit = "…"
 meMA.Ode6C3T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode6H.melody = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.melody
-meMA.Ode6H.incipit = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.incipit
-meMA.Ode6H.text = he.h.m2_en_UK_lash.EnAvyssoPtaismaton.text
+meMA.Ode6H.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.melody
+meMA.Ode6H.incipit = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.incipit
+meMA.Ode6H.text = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Kontakion1.melody = miscellanea_en_UK_lash.misc.Automelon
@@ -693,7 +693,7 @@ meMA.Kontakion1.incipit = me.m12.d20_en_UK_lash.meMA.Kontakion1.incipit
 meMA.Kontakion1.text = me.m12.d20_en_UK_lash.meMA.Kontakion1.text
 
 meMA.Kontakion2.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Kontakion2.melody = he.a.m4_en_UK_lash.EpefanisSimeron.name
+meMA.Kontakion2.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.name
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
 
@@ -701,295 +701,295 @@ meMA.Oikos2.text = ""
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode7C1H.melody = he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C1H.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.name
 meMA.Ode7C1H.incipit = "…"
 meMA.Ode7C1H.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode7C11.melody = he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
 
 meMA.Ode7C12.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode7C12.melody = he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C12.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.name
 meMA.Ode7C12.incipit = "…"
 meMA.Ode7C12.text = ""
 
 meMA.Ode7C13.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode7C13.melody = he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C13.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.name
 meMA.Ode7C13.incipit = "…"
 meMA.Ode7C13.text = ""
 
 meMA.Ode7C14.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C14.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode7C14.melody = he.h.m6_en_UK_lash.AfrastonThavma.name
+meMA.Ode7C14.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.name
 meMA.Ode7C14.incipit = "…"
 meMA.Ode7C14.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C21.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C21.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
 
 meMA.Ode7C22.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C22.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C22.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C22.incipit = "…"
 meMA.Ode7C22.text = ""
 
 meMA.Ode7C23.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C23.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C23.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C23.incipit = "…"
 meMA.Ode7C23.text = ""
 
 meMA.Ode7C31.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C31.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C31.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C31.incipit = "…"
 meMA.Ode7C31.text = ""
 
 meMA.Ode7C32.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C32.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C32.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C32.incipit = "…"
 meMA.Ode7C32.text = ""
 
 meMA.Ode7C33.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C33.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C33.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C33.incipit = "…"
 meMA.Ode7C33.text = ""
 
 meMA.Ode7C3T.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode7C3T.melody = he.h.m2_en_UK_lash.AntitheonProstagma.name
+meMA.Ode7C3T.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C3T.incipit = "…"
 meMA.Ode7C3T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode8C1H.melody = he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C1H.melody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.name
 meMA.Ode8C1H.incipit = "…"
 meMA.Ode8C1H.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode8C11.melody = he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
 
 meMA.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode8C12.melody = he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C12.melody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.name
 meMA.Ode8C12.incipit = "…"
 meMA.Ode8C12.text = ""
 
 meMA.Ode8C13.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode8C13.melody = he.h.m6_en_UK_lash.EkstithiFrittonOurane.name
+meMA.Ode8C13.melody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.name
 meMA.Ode8C13.incipit = "…"
 meMA.Ode8C13.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C21.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C21.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
 
 meMA.Ode8C22.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C22.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C22.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.name
 meMA.Ode8C22.incipit = "…"
 meMA.Ode8C22.text = ""
 
 meMA.Ode8C23.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C23.melody = he.h.m2_en_UK_lash.KaminosPote.name
+meMA.Ode8C23.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.name
 meMA.Ode8C23.incipit = "…"
 meMA.Ode8C23.text = ""
 
 meMA.Ode8C31.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C31.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C31.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.name
 meMA.Ode8C31.incipit = "…"
 meMA.Ode8C31.text = ""
 
 meMA.Ode8C32.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C32.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C32.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.name
 meMA.Ode8C32.incipit = "…"
 meMA.Ode8C32.text = ""
 
 meMA.Ode8C33.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C33.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C33.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.name
 meMA.Ode8C33.incipit = "…"
 meMA.Ode8C33.text = ""
 
 meMA.Ode8C34.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C34.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C34.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C34.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.name
 meMA.Ode8C34.incipit = "…"
 meMA.Ode8C34.text = ""
 
 meMA.Ode8C3T.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8C3T.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.name
+meMA.Ode8C3T.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.name
 meMA.Ode8C3T.incipit = "…"
 meMA.Ode8C3T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode8H.melody = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.melody
-meMA.Ode8H.incipit = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.incipit
-meMA.Ode8H.text = he.h.m2_en_UK_lash.TonEnKaminoTouPyros.text
+meMA.Ode8H.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.melody
+meMA.Ode8H.incipit = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.incipit
+meMA.Ode8H.text = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.text
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode9C1H.melody = he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C1H.melody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.name
 meMA.Ode9C1H.incipit = "…"
 meMA.Ode9C1H.text = ""
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode9C11.melody = he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
 
 meMA.Ode9C12.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode9C12.melody = he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C12.melody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.name
 meMA.Ode9C12.incipit = "…"
 meMA.Ode9C12.text = ""
 
 meMA.Ode9C13.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Ode9C13.melody = he.h.m6_en_UK_lash.MiEpodyrouMouMiter.name
+meMA.Ode9C13.melody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.name
 meMA.Ode9C13.incipit = "…"
 meMA.Ode9C13.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C21.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C21.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
 
 meMA.Ode9C22.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C22.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C22.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C22.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C22.incipit = "…"
 meMA.Ode9C22.text = ""
 
 meMA.Ode9C23.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C23.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C23.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C23.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
 meMA.Ode9C24.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C24.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C24.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C24.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C24.incipit = "…"
 meMA.Ode9C24.text = ""
 
 meMA.Ode9C31.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C31.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C31.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C31.incipit = "…"
 meMA.Ode9C31.text = ""
 
 meMA.Ode9C32.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C32.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C32.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C32.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C32.incipit = "…"
 meMA.Ode9C32.text = ""
 
 meMA.Ode9C33.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C33.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C33.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C33.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C33.incipit = "…"
 meMA.Ode9C33.text = ""
 
 meMA.Ode9C34.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C34.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C34.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C34.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C34.incipit = "…"
 meMA.Ode9C34.text = ""
 
 meMA.Ode9C3T.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C3T.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9C3T.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.name
+meMA.Ode9C3T.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C3T.incipit = "…"
 meMA.Ode9C3T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Ode9H.melody = he.h.m2_en_UK_lash.AnarchouGennitoros.melody
-meMA.Ode9H.incipit = he.h.m2_en_UK_lash.AnarchouGennitoros.incipit
-meMA.Ode9H.text = he.h.m2_en_UK_lash.AnarchouGennitoros.text
+meMA.Ode9H.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.melody
+meMA.Ode9H.incipit = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.incipit
+meMA.Ode9H.text = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Exaposteilarion3.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Exaposteilarion3.melody = he.a.m2_en_UK_lash.ToisMathitaisSynelthomen.name
+meMA.Exaposteilarion3.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.name
 meMA.Exaposteilarion3.incipit = "…"
 meMA.Exaposteilarion3.text = ""
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Lauds1.melody = he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds1.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.name
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""
 
 meMA.Lauds2.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Lauds2.melody = he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds2.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.name
 meMA.Lauds2.incipit = "…"
 meMA.Lauds2.text = ""
 
 meMA.Lauds3.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Lauds3.melody = he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds3.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.name
 meMA.Lauds3.incipit = "…"
 meMA.Lauds3.text = ""
 
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Lauds4.melody = he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.Lauds4.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.name
 meMA.Lauds4.incipit = "…"
 meMA.Lauds4.text = ""
 
 meMA.LaudsGlory.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.LaudsGlory.melody = he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.LaudsGlory.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.name
 meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
 meMA.LaudsBoth.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.LaudsBoth.melody = he.a.m6_en_UK_lash.AiAngelikai.name
+meMA.LaudsBoth.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.name
 meMA.LaudsBoth.incipit = "…"
 meMA.LaudsBoth.text = ""
 
 meMA.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Aposticha1.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.name
 meMA.Aposticha1.incipit = "…"
 meMA.Aposticha1.text = ""
 
 meMA.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Aposticha2.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.Aposticha2.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.name
 meMA.Aposticha2.incipit = "…"
 meMA.Aposticha2.text = ""
 
 meMA.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Aposticha3.melody = he.a.m2_en_UK_lash.OikosTouEfratha.name
+meMA.Aposticha3.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.name
 meMA.Aposticha3.incipit = "…"
 meMA.Aposticha3.text = ""
 

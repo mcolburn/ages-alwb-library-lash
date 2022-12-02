@@ -1,141 +1,141 @@
 A_Resource_Whose_Name = he.ga_en_UK_lash
 
-he.title = ""
+heGA.title = ""
 
 // For a Prophet. Insert name.
-TouProfitouSou.name = ""
-TouProfitouSou.incipit = "…"
-TouProfitouSou.mode = miscellanea_en_UK_lash.misc.Mode2
-TouProfitouSou.melody = ""
-TouProfitouSou.text1 = "As we celebrate the memory of your Prophet" // insert name from Menaion. E.g. me.m09.d04_en_UK_lash.meVE.Apolytikion2.text
-TouProfitouSou.text2 = "O Lord, through him we beseech you: save our souls"
+heGA.TouProfitouSou.name = ""
+heGA.TouProfitouSou.incipit = "…"
+heGA.TouProfitouSou.mode = miscellanea_en_UK_lash.misc.Mode2
+heGA.TouProfitouSou.melody = ""
+heGA.TouProfitouSou.text1 = "As we celebrate the memory of your Prophet" // insert name from Menaion. E.g. me.m09.d04_en_UK_lash.meVE.Apolytikion2.text
+heGA.TouProfitouSou.text2 = "O Lord, through him we beseech you: save our souls"
 
 // For one named Apostle and/or Evangelist. Insert name.
-ApostoleAgie.name = ""
-ApostoleAgie.incipit = "…"
-ApostoleAgie.mode = miscellanea_en_UK_lash.misc.Mode3
-ApostoleAgie.melody = ""
-ApostoleAgie.text1 = "O Holy Apostle"
-ApostoleAgie.text1a = "and Evangelist"
-ApostoleAgie.text2 = "intercede with the merciful God to grant our souls forgiveness of sins."
+heGA.ApostoleAgie.name = ""
+heGA.ApostoleAgie.incipit = "…"
+heGA.ApostoleAgie.mode = miscellanea_en_UK_lash.misc.Mode3
+heGA.ApostoleAgie.melody = ""
+heGA.ApostoleAgie.text1 = "O Holy Apostle"
+heGA.ApostoleAgie.text1a = "and Evangelist"
+heGA.ApostoleAgie.text2 = "intercede with the merciful God to grant our souls forgiveness of sins."
 
 // For several unnamed Apostles
-ApostoloiAgioi.name = "O holy Apostles."
-ApostoloiAgioi.incipit = "O holy Apostles…"
-ApostoloiAgioi.mode = miscellanea_en_UK_lash.misc.Mode3
-ApostoloiAgioi.melody = ""
-ApostoloiAgioi.text = "O holy Apostles, intercede with the merciful God to grant our souls forgiveness of sins."
+heGA.ApostoloiAgioi.name = "O holy Apostles."
+heGA.ApostoloiAgioi.incipit = "O holy Apostles…"
+heGA.ApostoloiAgioi.mode = miscellanea_en_UK_lash.misc.Mode3
+heGA.ApostoloiAgioi.melody = ""
+heGA.ApostoloiAgioi.text = "O holy Apostles, intercede with the merciful God to grant our souls forgiveness of sins."
 
 // For hieromartyr
-ChristotitaEkdidachtheis.name = ""
-ChristotitaEkdidachtheis.incipit = "…"
-ChristotitaEkdidachtheis.mode = miscellanea_en_UK_lash.misc.Mode4
-ChristotitaEkdidachtheis.melody = ""
-ChristotitaEkdidachtheis.text1 = ""
-ChristotitaEkdidachtheis.text2 = ""
+heGA.ChristotitaEkdidachtheis.name = ""
+heGA.ChristotitaEkdidachtheis.incipit = "…"
+heGA.ChristotitaEkdidachtheis.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.ChristotitaEkdidachtheis.melody = ""
+heGA.ChristotitaEkdidachtheis.text1 = ""
+heGA.ChristotitaEkdidachtheis.text2 = ""
 
 // For one unnamed Martyr
-OMartysSouKyrie.name = ""
-OMartysSouKyrie.incipit = "…"
-OMartysSouKyrie.mode = miscellanea_en_UK_lash.misc.Mode4
-OMartysSouKyrie.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-OMartysSouKyrie.text = "Your Martyr, O Lord, by his struggle obtained the crown of incorruption from you, our God; for with your might he destroyed tyrants, and shattered the feeble insolence of the demons: at his prayers, Christ our God, save our souls."
+heGA.OMartysSouKyrie.name = ""
+heGA.OMartysSouKyrie.incipit = "…"
+heGA.OMartysSouKyrie.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.OMartysSouKyrie.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
+heGA.OMartysSouKyrie.text = "Your Martyr, O Lord, by his struggle obtained the crown of incorruption from you, our God; for with your might he destroyed tyrants, and shattered the feeble insolence of the demons: at his prayers, Christ our God, save our souls."
 
 // For several unnamed Martyrs
-OiMartyresSouKyrie.name = ""
-OiMartyresSouKyrie.incipit = "…"
-OiMartyresSouKyrie.mode = miscellanea_en_UK_lash.misc.Mode4
-OiMartyresSouKyrie.melody = he.a.m4_en_UK_lash.TachyProkatalave.notmetered
-OiMartyresSouKyrie.text = "Your Martyrs, O Lord, by their struggle obtained the crowns of incorruption from you, our God; for with your might they destroyed tyrants and vanquished the feeble insolence of the demons; at their intercessions, O Christ God, save our souls."
+heGA.OiMartyresSouKyrie.name = ""
+heGA.OiMartyresSouKyrie.incipit = "…"
+heGA.OiMartyresSouKyrie.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.OiMartyresSouKyrie.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
+heGA.OiMartyresSouKyrie.text = "Your Martyrs, O Lord, by their struggle obtained the crowns of incorruption from you, our God; for with your might they destroyed tyrants and vanquished the feeble insolence of the demons; at their intercessions, O Christ God, save our souls."
 
 // For one unnamed woman Martyr
-IAmnasSou.name = "O Jesu, your lamb."
-IAmnasSou.incipit = "O Jesu, your lamb…"
-IAmnasSou.mode = miscellanea_en_UK_lash.misc.Mode4
-IAmnasSou.melody = he.a.m4_en_UK_lash.KateplagiIosif.notmetered
-IAmnasSou.text = "O Jesu, your lamb cries aloud: O my Bridegroom, I long for you; and seeking you I struggle, and I am crucified and buried with you in your baptism; and I suffer for your sake, that I may reign with you; and I die for you, that I may live in you; but as a spotless victim now accept one who with longing is slain for you. Through her prayers, as you are merciful, save our souls!"
+heGA.IAmnasSou.name = "O Jesu, your lamb."
+heGA.IAmnasSou.incipit = "O Jesu, your lamb…"
+heGA.IAmnasSou.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.IAmnasSou.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
+heGA.IAmnasSou.text = "O Jesu, your lamb cries aloud: O my Bridegroom, I long for you; and seeking you I struggle, and I am crucified and buried with you in your baptism; and I suffer for your sake, that I may reign with you; and I die for you, that I may live in you; but as a spotless victim now accept one who with longing is slain for you. Through her prayers, as you are merciful, save our souls!"
 
 // For a group of unnamed Martyrs
-TasAlgidonas.name = ""
-TasAlgidonas.incipit = "…"
-TasAlgidonas.mode = miscellanea_en_UK_lash.misc.Mode1
-TasAlgidonas.melody = ""
-TasAlgidonas.text = "Be entreated by the sufferings, which the Saints endured for you, O Lord; and heal all our pains, we beg, O Lover of mankind."
+heGA.TasAlgidonas.name = ""
+heGA.TasAlgidonas.incipit = "…"
+heGA.TasAlgidonas.mode = miscellanea_en_UK_lash.misc.Mode1
+heGA.TasAlgidonas.melody = ""
+heGA.TasAlgidonas.text = "Be entreated by the sufferings, which the Saints endured for you, O Lord; and heal all our pains, we beg, O Lover of mankind."
 
 // For one named Hieromartyr. Insert name with comma
-KaiTroponMetochos.name = ""
-KaiTroponMetochos.incipit = "…"
-KaiTroponMetochos.mode = miscellanea_en_UK_lash.misc.Mode4
-KaiTroponMetochos.melody = ""
-KaiTroponMetochos.text1 = "You shared their way of life and you succeeded to the Apostles’ thrones; you found the practice, O God-inspired, to climb the heights of contemplation; rightly proclaiming the word of truth; and in faith you struggled to shedding of blood, Bishop and Martyr"
-KaiTroponMetochos.text2 = "intercede with Christ our God that our souls may be saved."
+heGA.KaiTroponMetochos.name = ""
+heGA.KaiTroponMetochos.incipit = "…"
+heGA.KaiTroponMetochos.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.KaiTroponMetochos.melody = ""
+heGA.KaiTroponMetochos.text1 = "You shared their way of life and you succeeded to the Apostles’ thrones; you found the practice, O God-inspired, to climb the heights of contemplation; rightly proclaiming the word of truth; and in faith you struggled to shedding of blood, Bishop and Martyr"
+heGA.KaiTroponMetochos.text2 = "intercede with Christ our God that our souls may be saved."
 
-// For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_en_UK_lash.TisErimouPolitis.text
-TisErimouPolitis.name = ""
-TisErimouPolitis.incipit = "…"
-TisErimouPolitis.mode = miscellanea_en_UK_lash.misc.Mode1
-TisErimouPolitis.melody = he.a.m1_en_UK_lash.TisErimouPolitis.notmetered
-TisErimouPolitis.text1 = ""
-TisErimouPolitis.text2 = ""
-
-// For one named ascetic man. Insert name with comma
-TaisTonDakryonSou.name = "With the streams of your tears."
-TaisTonDakryonSou.incipit = "With the streams of your tears…"
-TaisTonDakryonSou.mode = miscellanea_en_UK_lash.misc.Mode8
-TaisTonDakryonSou.melody = ""
-TaisTonDakryonSou.text1 = "With the streams of your tears you cultivated the barren desert, and with deep sighings from your hear you made your toils bring forth fruit a hundredfold, and you became a beacon, shining in all the world by your wonders, our venerable Father"
-TaisTonDakryonSou.text2 = "intercede with Christ God that our souls may be saved."
+// For one named ascetic man. Insert name with semicolon. See Automelon: he.a.m1_en_UK_lash.heAU.TisErimouPolitis.text
+heGA.TisErimouPolitis.name = ""
+heGA.TisErimouPolitis.incipit = "…"
+heGA.TisErimouPolitis.mode = miscellanea_en_UK_lash.misc.Mode1
+heGA.TisErimouPolitis.melody = he.a.m1_en_UK_lash.heAU.TisErimouPolitis.notmetered
+heGA.TisErimouPolitis.text1 = ""
+heGA.TisErimouPolitis.text2 = ""
 
 // For one named ascetic man. Insert name with comma
-EnSoiPaterAkrivos.name = ""
-EnSoiPaterAkrivos.incipit = "…"
-EnSoiPaterAkrivos.mode = miscellanea_en_UK_lash.misc.Mode8
-EnSoiPaterAkrivos.melody = ""
-EnSoiPaterAkrivos.text1 = ""
-EnSoiPaterAkrivos.text2 = ""
+heGA.TaisTonDakryonSou.name = "With the streams of your tears."
+heGA.TaisTonDakryonSou.incipit = "With the streams of your tears…"
+heGA.TaisTonDakryonSou.mode = miscellanea_en_UK_lash.misc.Mode8
+heGA.TaisTonDakryonSou.melody = ""
+heGA.TaisTonDakryonSou.text1 = "With the streams of your tears you cultivated the barren desert, and with deep sighings from your hear you made your toils bring forth fruit a hundredfold, and you became a beacon, shining in all the world by your wonders, our venerable Father"
+heGA.TaisTonDakryonSou.text2 = "intercede with Christ God that our souls may be saved."
+
+// For one named ascetic man. Insert name with comma
+heGA.EnSoiPaterAkrivos.name = ""
+heGA.EnSoiPaterAkrivos.incipit = "…"
+heGA.EnSoiPaterAkrivos.mode = miscellanea_en_UK_lash.misc.Mode8
+heGA.EnSoiPaterAkrivos.melody = ""
+heGA.EnSoiPaterAkrivos.text1 = ""
+heGA.EnSoiPaterAkrivos.text2 = ""
 
 // For one named ascetic woman. Insert name
-EnSoiMiterAkrivos.name = ""
-EnSoiMiterAkrivos.incipit = "…"
-EnSoiMiterAkrivos.mode = miscellanea_en_UK_lash.misc.Mode8
-EnSoiMiterAkrivos.melody = ""
-EnSoiMiterAkrivos.text1 = "In you, Mother, was preserved unimpaired that which is according to God's image; for you took up the Cross and followed Christ, and by your deeds you taught us to despise the flesh, for it passes away, but to care for the soul, which is a thing immortal. And therefore your spirit, holy"
-EnSoiMiterAkrivos.text2 = "rejoices with the Angels."
+heGA.EnSoiMiterAkrivos.name = ""
+heGA.EnSoiMiterAkrivos.incipit = "…"
+heGA.EnSoiMiterAkrivos.mode = miscellanea_en_UK_lash.misc.Mode8
+heGA.EnSoiMiterAkrivos.melody = ""
+heGA.EnSoiMiterAkrivos.text1 = "In you, Mother, was preserved unimpaired that which is according to God's image; for you took up the Cross and followed Christ, and by your deeds you taught us to despise the flesh, for it passes away, but to care for the soul, which is a thing immortal. And therefore your spirit, holy"
+heGA.EnSoiMiterAkrivos.text2 = "rejoices with the Angels."
 
 // For one named Hierarch. Insert "" and title/name etc with semicolon
-KanonaPisteos.name = ""
-KanonaPisteos.incipit = "…"
-KanonaPisteos.mode = miscellanea_en_UK_lash.misc.Mode4
-KanonaPisteos.melody = ""
-KanonaPisteos.text1 = "The truth of your actions proclaimed you to your flock as a rule of faith, an image of meekness and a teacher of self-control; and you gained through humility the things on high, through poverty riches,"
-KanonaPisteos.text2 = "Intercede with Christ our God that our souls may be saved."
+heGA.KanonaPisteos.name = ""
+heGA.KanonaPisteos.incipit = "…"
+heGA.KanonaPisteos.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.KanonaPisteos.melody = ""
+heGA.KanonaPisteos.text1 = "The truth of your actions proclaimed you to your flock as a rule of faith, an image of meekness and a teacher of self-control; and you gained through humility the things on high, through poverty riches,"
+heGA.KanonaPisteos.text2 = "Intercede with Christ our God that our souls may be saved."
 
 // For one named Hierarch Confessor or Teacher
-OrthodoxiasOdigeH.name = ""
-OrthodoxiasOdigeH.incipit = "…"
-OrthodoxiasOdigeH.mode = miscellanea_en_UK_lash.misc.Mode8
-OrthodoxiasOdigeH.melody = ""
-OrthodoxiasOdigeH.text1 = ""
-OrthodoxiasOdigeH.text2 = ""
+heGA.OrthodoxiasOdigeH.name = ""
+heGA.OrthodoxiasOdigeH.incipit = "…"
+heGA.OrthodoxiasOdigeH.mode = miscellanea_en_UK_lash.misc.Mode8
+heGA.OrthodoxiasOdigeH.melody = ""
+heGA.OrthodoxiasOdigeH.text1 = ""
+heGA.OrthodoxiasOdigeH.text2 = ""
 
 // For one named monastic Confessor or Teacher
-OrthodoxiasOdigeM.name = ""
-OrthodoxiasOdigeM.incipit = "…"
-OrthodoxiasOdigeM.mode = miscellanea_en_UK_lash.misc.Mode8
-OrthodoxiasOdigeM.melody = ""
-OrthodoxiasOdigeM.text1 = ""
-OrthodoxiasOdigeM.text2 = ""
+heGA.OrthodoxiasOdigeM.name = ""
+heGA.OrthodoxiasOdigeM.incipit = "…"
+heGA.OrthodoxiasOdigeM.mode = miscellanea_en_UK_lash.misc.Mode8
+heGA.OrthodoxiasOdigeM.melody = ""
+heGA.OrthodoxiasOdigeM.text1 = ""
+heGA.OrthodoxiasOdigeM.text2 = ""
 
 // For several unnamed holy Fathers
-OTheosTonPateronImon.name = "God of our Fathers."
-OTheosTonPateronImon.incipit = "God of our Fathers…"
-OTheosTonPateronImon.mode = miscellanea_en_UK_lash.misc.Mode4
-OTheosTonPateronImon.melody = ""
-OTheosTonPateronImon.text = "God of our Fathers, who always deal with us in your forbearance, do not deprive us of your mercy, but at their intercessions guide our life in peace."
+heGA.OTheosTonPateronImon.name = "God of our Fathers."
+heGA.OTheosTonPateronImon.incipit = "God of our Fathers…"
+heGA.OTheosTonPateronImon.mode = miscellanea_en_UK_lash.misc.Mode4
+heGA.OTheosTonPateronImon.melody = ""
+heGA.OTheosTonPateronImon.text = "God of our Fathers, who always deal with us in your forbearance, do not deprive us of your mercy, but at their intercessions guide our life in peace."
 
-YpomonisStylos.name = "You became a pillar."
-YpomonisStylos.incipit = "You became a pillar…"
-YpomonisStylos.mode = miscellanea_en_UK_lash.misc.Mode1
-YpomonisStylos.melody = ""
-YpomonisStylos.text1 = "You became a pillar of endurance, Venerable Father, rivalling the forefathers: Job in sufferings and Joseph in trials, and, while still in the body, the life of the Bodiless Powers. Our Venerable Father"
-YpomonisStylos.text2 = "intercede with Christ God that our souls may be saved."
+heGA.YpomonisStylos.name = "You became a pillar."
+heGA.YpomonisStylos.incipit = "You became a pillar…"
+heGA.YpomonisStylos.mode = miscellanea_en_UK_lash.misc.Mode1
+heGA.YpomonisStylos.melody = ""
+heGA.YpomonisStylos.text1 = "You became a pillar of endurance, Venerable Father, rivalling the forefathers: Job in sufferings and Joseph in trials, and, while still in the body, the life of the Bodiless Powers. Our Venerable Father"
+heGA.YpomonisStylos.text2 = "intercede with Christ God that our souls may be saved."

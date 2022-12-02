@@ -1,27 +1,27 @@
 A_Resource_Whose_Name = gm.fortwoormoreapostles_en_UK_lash
 
 meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Stichera01.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera01.incipit = "As eye witnesses and ones…"
 meVE.Stichera01.text = "As eye witnesses and ones who testified to the incarnation of the Word, O truly happy disciples, you are called blessed, for shining like flashes of lightning, you appeared to the world, and like spiritual mountains you dripped sweetness; divided like ever-flowing rivers of Paradise, you water the churches of the nations with divine streams."
 
 meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Stichera02.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera02.incipit = "Like thunderbolts, blazing with the…"
 meVE.Stichera02.text = "Like thunderbolts, blazing with the beams of the Spirit, you were sent out through all the world, granting ungrudgingly the force of wonders, ministers of the mysteries of Christ and written tablets of God's grace, inscribed by God with the law taught by God, all-blessed initiates."
 
 meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.Stichera03.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.Stichera03.incipit = "The rod of the fishermen…"
 meVE.Stichera03.text = "The rod of the fishermen troubled the arrogance of philosophers and the eloquence of rhetors; for they clearly set out the teachings of divine wisdom, the doctrines of graces and the Gospel of ten thousand blessings, the participation in eternal delight, the pleasures of angels and enduring glory."
 
 meVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.SticTheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.SticTheotokion.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.SticTheotokion.incipit = "We, who are much storm-tossed…"
 meVE.SticTheotokion.text = "We, who are much storm-tossed on the sea of the troubles and harsh difficulties of life, have you as the most sheltered haven of salvation, and as gentle calm; and so we all have recourse to you as we cry out: Never cease to stand by your servants."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
-meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.OsGennaionEnMartysi.notmetered
+meVE.SticStavrotheotokion.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meVE.SticStavrotheotokion.incipit = "O all-immaculate Ewe-lamb, you bore…"
 meVE.SticStavrotheotokion.text = "O all-immaculate Ewe-lamb, you bore the unblemished Lamb, who came to heal the sin of the whole world by his own blood, who was slaughtered for our sake and gave life to the universe; clothe me, who have been stripped naked of divine incorruption, with the cloak of divine grace from the wool of your Offspring."
 
@@ -35,266 +35,266 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_Apostles.text
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.ThalassisToErythraion.incipit
-meMA.Ode1C1H.text = he.h.m4_en_UK_lash.ThalassisToErythraion.text
+meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.incipit
+meMA.Ode1C1H.text = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C11.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.name
+meMA.Ode1C11.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C11.incipit = "As I long to sing…"
 meMA.Ode1C11.text = "As I long to sing the choir of the Apostles, grant me, O Christ, as God, at their intercessions, the ray of the all-holy Spirit and the lamp of your wisdom."
 
 meMA.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C12.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.name
+meMA.Ode1C12.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C12.incipit = "Your revered Apostles, O Christ…"
 meMA.Ode1C12.text = "Your revered Apostles, O Christ, given strength by your strength and grace, made godlike by their unyielding inclinations towards you, triumphed over the power of hostile foes."
 
 meMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C13.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.name
+meMA.Ode1C13.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C13.incipit = "Performing healings, Master, in your…"
 meMA.Ode1C13.text = "Performing healings, Master, in your name, your far-famed Apostles, caught the gatherings of the nations with your knowledge and made them shine with your light."
 
 meMA.Ode1C14.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C14.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C14.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.name
+meMA.Ode1C14.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C14.incipit = "Made disciples by heavenly wisdom…"
 meMA.Ode1C14.text = "Made disciples by heavenly wisdom, glorious Apostles of Christ, you clearly made foolish all the useless verbiage of the wise by the brevity of the proclamation."
 
 meMA.Ode1C1T.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C1T.melody = he.h.m4_en_UK_lash.ThalassisToErythraion.name
+meMA.Ode1C1T.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C1T.incipit = "You bore him who is…"
 meMA.Ode1C1T.text = "You bore him who is by nature Creator and who has truly made us divine by a union beyond understanding, all-praised Mother of God. Implore him fervently to guide to the light those who sing your praise."
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.incipit
-meMA.Ode3C1H.text = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.text
+meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.incipit
+meMA.Ode3C1H.text = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3C11.melody = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+meMA.Ode3C11.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C11.incipit = "Speaking of God upon earth…"
 meMA.Ode3C11.text = "Speaking of God upon earth, aflame with tongues of fire, you handed down heavenly and revered doctrines, Heralds of Christ."
 
 meMA.Ode3C12.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3C12.melody = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+meMA.Ode3C12.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C12.incipit = "You revealed your disciples, Master…"
 meMA.Ode3C12.text = "You revealed your disciples, Master, as spiritual heavens, who declare all your glory to the ends of the earth."
 
 meMA.Ode3C13.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3C13.melody = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+meMA.Ode3C13.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C13.incipit = "You have been inscribed in…"
 meMA.Ode3C13.text = "You have been inscribed in heaven and revealed as companions of Christ; now, O all-wise, willingly guard us who honour you."
 
 meMA.Ode3C1T.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3C1T.melody = he.h.m4_en_UK_lash.EffrainetaiEpiSoi.name
+meMA.Ode3C1T.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C1T.incipit = "He who dwells in the…"
 meMA.Ode3C1T.text = "He who dwells in the highest dwelt among us, O Immaculate, for he took flesh from you without seed and was made manifest."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "With the net of the…"
 meMA.Ode3Kathisma1.text = "With the net of the divine words you caught the rational fish and brought them as first-fruits to our God, and longing to put on the marks of Christ you were revealed as imitators of his Passion, glorious Apostles; therefore we have come together and honour as is fitting your all-festive memorial, and with one voice we cry out to you: Intercede with Christ God to bestow forgiveness of faults on those who celebrate with love your holy memorial."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaT.incipit = "Hail throne of God, formed…"
 meMA.Ode3KathismaT.text = "Hail throne of God, formed of fire; hail Maiden, royal seat, couch strewn with purple, gold and purple bridal chamber, cloak of true sea-purple, most costly sacred enclosure, lightning-bearing chariot, lampstand of many lights; hail Mother of God, city with twelve walls, gate plated with gold, and chamber formed of splendour, table splendid with gold, tabernacle adorned by God; hail glorious bride, cascading gold, hail only salvation of my soul."
 
 meMA.Ode3KathismaSt.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode3KathismaSt.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.notmetered
+meMA.Ode3KathismaSt.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3KathismaSt.incipit = "The Ewe-lamb seeing the Lamb…"
 meMA.Ode3KathismaSt.text = "The Ewe-lamb seeing the Lamb and Shepherd and Redeemer on the Cross, lamented and wept and bitterly cried out: The world rejoices, for it receives redemption, but my inward parts are on fire as I see your crucifixion, which you endure through the compassion of your mercy, long-suffering Lord, the abyss of mercy; have compassion and bestow forgiveness of faults on those who hymn with faith your divine sufferings."
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode4C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.EparthentaSeIdousa.incipit
-meMA.Ode4C1H.text = he.h.m4_en_UK_lash.EparthentaSeIdousa.text
+meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.incipit
+meMA.Ode4C1H.text = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode4C11.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C11.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C11.incipit = "The sound of the divine…"
 meMA.Ode4C11.text = "The sound of the divine words of the Apostles has passed like a torch of fire through the whole inhabited world, burning up the fuel of error, but enlightening by grace the companies of the devout."
 
 meMA.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode4C12.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C12.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C12.incipit = "The Disciples, appearing like beacons…"
 meMA.Ode4C12.text = "The Disciples, appearing like beacons lit by God, made the world, blackened by the fog of godlessness, bright by the rays of grace and the beams of the proclamation."
 
 meMA.Ode4C13.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode4C13.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C13.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C13.incipit = "Dazzling with most sacred lamps…"
 meMA.Ode4C13.text = "Dazzling with most sacred lamps of the spiritual Sun, you shine in the world like the sun, all-praised Apostles, by the light of the godhead, as you chase away the fog of error."
 
 meMA.Ode4C14.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C14.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode4C14.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C14.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C14.incipit = "With your Cross as a…"
 meMA.Ode4C14.text = "With your Cross as a rod of power, O Word, your eye-witnesses cut through the salt sea of life, like horses troubling the waves of polytheism."
 
 meMA.Ode4C1T.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode4C1T.melody = he.h.m4_en_UK_lash.EparthentaSeIdousa.name
+meMA.Ode4C1T.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C1T.incipit = "Your living heaven, made lovely…"
 meMA.Ode4C1T.text = "Your living heaven, made lovely with the outpouring of varied light, O Christ, the King of kings, the immaculate Virgin is now glorified as Mother of God."
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode5C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.SyKyrieMouFos.incipit
-meMA.Ode5C1H.text = he.h.m4_en_UK_lash.SyKyrieMouFos.text
+meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.incipit
+meMA.Ode5C1H.text = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode5C11.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C11.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C11.incipit = "Your godlike and all-wise servants…"
 meMA.Ode5C11.text = "Your godlike and all-wise servants, O Christ, you showed as a light in the world, announcing you to all, the light that does not set."
 
 meMA.Ode5C12.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode5C12.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C12.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C12.incipit = "Outstandingly practising every virtue, Apostles…"
 meMA.Ode5C12.text = "Outstandingly practising every virtue, Apostles, you destroyed all the snares of the manifold wickedness of the demons."
 
 meMA.Ode5C13.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode5C13.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C13.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C13.incipit = "The Apostles, enflamed by fiery…"
 meMA.Ode5C13.text = "The Apostles, enflamed by fiery tongues, revealed to us the shining of the Trinity, of the Godhead in Unity."
 
 meMA.Ode5C1T.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode5C1T.melody = he.h.m4_en_UK_lash.SyKyrieMouFos.name
+meMA.Ode5C1T.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C1T.incipit = "We present you as an…"
 meMA.Ode5C1T.text = "We present you as an unbreakable weapon against enemies; we have gained you as anchor and hope of our salvation, O Bride of God."
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.incipit
-meMA.Ode6C1H.text = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.text
+meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.incipit
+meMA.Ode6C1H.text = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode6C11.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C11.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C11.incipit = "Establishing your Disciples by wisdom…"
 meMA.Ode6C11.text = "Establishing your Disciples by wisdom and wonders, O Saviour, you made them more powerful than the prattling of the Greeks, and they destroyed their deceiving doctrines."
 
 meMA.Ode6C12.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode6C12.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C12.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C12.incipit = "The divine rivers of wisdom…"
 meMA.Ode6C12.text = "The divine rivers of wisdom have filled all the valleys of the Church with waters, being rich in the streams from the wells of salvation."
 
 meMA.Ode6C13.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode6C13.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C13.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C13.incipit = "Appearing like living stars, all-blessed…"
 meMA.Ode6C13.text = "Appearing like living stars, all-blessed Apostles, you scattered every gloomy error with bright beams of light, as you blazed with the knowledge of God."
 
 meMA.Ode6C1T.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode6C1T.melody = he.h.m4_en_UK_lash.ThysoSoiMetaFonis.name
+meMA.Ode6C1T.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C1T.incipit = "Having found you as a…"
 meMA.Ode6C1T.text = "Having found you as a wholly perfect dove, and as an all-fair and shining lily and flower of the valleys, Mother of God, the Bridegroom dwelt in your womb."
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode7C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.incipit
-meMA.Ode7C1H.text = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.text
+meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.incipit
+meMA.Ode7C1H.text = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode7C11.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C11.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C11.incipit = "God before by nature, you…"
 meMA.Ode7C11.text = "God before by nature, you made your disciples sons and revealed them as truly heirs of your Father's glory, O Supremely Good, and you were well-pleased for them to accompany you as God and Master."
 
 meMA.Ode7C12.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode7C12.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C12.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C12.incipit = "You granted your godlike Disciples…"
 meMA.Ode7C12.text = "You granted your godlike Disciples, O Word, a flood of wisdom, a breadth of heart, an eloquent tongue, you sent them out to proclaim the Gospel of the Kingdom to all the nations."
 
 meMA.Ode7C13.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode7C13.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C13.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C13.incipit = "Appearing like clouds of divine…"
 meMA.Ode7C13.text = "Appearing like clouds of divine light, the Apostles rained life-giving water on all the nations, as they cried: Blessed are you in the temple of your glory."
 
 meMA.Ode7C1T.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode7C1T.melody = he.h.m4_en_UK_lash.EnTiKaminoAvramiaioi.name
+meMA.Ode7C1T.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C1T.incipit = "You appeared all-adorned with divine…"
 meMA.Ode7C1T.text = "You appeared all-adorned with divine glory, O Immaculate, who alone from all eternity received the Word of God, O Virgin Mother; blessed are you among women, all-blameless Lady."
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.incipit
-meMA.Ode8C1H.text = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.text
+meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.incipit
+meMA.Ode8C1H.text = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode8C11.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C11.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C11.incipit = "The godly and all-wise choir…"
 meMA.Ode8C11.text = "The godly and all-wise choir of Christ's Apostles by the fire of the Spirit burned up like easily sawn fuel the sacred images of the demons, and guided to the light the hearts of the believers who cry: All you works of the Lord, bless the Lord."
 
 meMA.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode8C12.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C12.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C12.incipit = "With one accord let us…"
 meMA.Ode8C12.text = "With one accord let us honour with hymns the godlike Disciples and Apostles of Christ, who thundered to us the heavenly doctrines, they are the meadows of the faith, the general benefactors of humanity, the servants of the Saviour."
 
 meMA.Ode8C13.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode8C13.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C13.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C13.incipit = "The all-revered and spacious vessels…"
 meMA.Ode8C13.text = "The all-revered and spacious vessels of the virtues, the first-fruits of mortals, the trumpets of the proclamation, the torrents of incorruptible life, the god-bearing lightnings, the springs of healings, the beautiful feet of the Gospel, let us honour."
 
 meMA.Ode8C1T.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode8C1T.melody = he.h.m4_en_UK_lash.CheirasEkpetasasDaniil.name
+meMA.Ode8C1T.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C1T.incipit = "He was full, yet emptied…"
 meMA.Ode8C1T.text = "He was full, yet emptied himself that we might share his fullness; the uncircumscribed Word, without abandoning the Father's bosom, was incarnate from your womb; therefore we all bless you, Mary, Bride of God."
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
-meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.LithosAcheirotmitos.incipit
-meMA.Ode9C1H.text = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.incipit
+meMA.Ode9C1H.text = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode9C11.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C11.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 meMA.Ode9C11.incipit = "Eye-witnesses of God you received…"
 meMA.Ode9C11.text = "Eye-witnesses of God you received from the Master authority to loose the bonds of faults; in compassion wipe out the sins of those who sing your praise and make them worthy of salvation."
 
 meMA.Ode9C12.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C12.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode9C12.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C12.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 meMA.Ode9C12.incipit = "Wise Apostles, you all received…"
 meMA.Ode9C12.text = "Wise Apostles, you all received the whole radiance of the Spirit, which appeared to you in reality, and you were initiated into exalted teachings in the upper room, and now you are worthily called blessed."
 
 meMA.Ode9C13.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C13.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode9C13.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C13.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 meMA.Ode9C13.incipit = "To you his friends now…"
 meMA.Ode9C13.text = "To you his friends now at rest Christ gives the prize of unfading crowns and fullness of contemplation; implore him now that the Churches may be kept safe."
 
 meMA.Ode9C1T.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode9C1T.melody = he.h.m4_en_UK_lash.LithosAcheirotmitos.text
+meMA.Ode9C1T.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 meMA.Ode9C1T.incipit = "Wishing to dwell in flesh…"
 meMA.Ode9C1T.text = "Wishing to dwell in flesh, he who disposed all things by a word, dwelt in you; having found you alone to be holier than all, and declared you to be in truth Mother of God, O Virgin Mother."
