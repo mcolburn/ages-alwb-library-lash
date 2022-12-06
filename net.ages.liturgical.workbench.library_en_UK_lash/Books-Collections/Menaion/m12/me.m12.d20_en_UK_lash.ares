@@ -101,11 +101,11 @@ meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meVE.Apolytikion1.incipit = "Bethlehem prepare; Eden is opened…"
 meVE.Apolytikion1.text = "Bethlehem prepare; Eden is opened for all. Make ready Ephratha, because the tree of life has flowered in the Cave from the Virgin. For her womb has been revealed as the spiritual Paradise in which is the plant of life; eating from it we shall live; we shall not die as Adam. Christ is born to raise up his image which had fallen."
 
-meVE.Apolytikion2.poet = poets_en_UK_lash.po.Gerasimou
-meVE.Apolytikion2.mode = miscellanea_en_UK_lash.misc.Mode3
-meVE.Apolytikion2.melody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.notmetered
-meVE.Apolytikion2.incipit = "…"
-meVE.Apolytikion2.text = ""
+meVE.Apolytikion2ger.poet = poets_en_UK_lash.po.Gerasimou
+meVE.Apolytikion2ger.mode = miscellanea_en_UK_lash.misc.Mode3
+meVE.Apolytikion2ger.melody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.notmetered
+meVE.Apolytikion2ger.incipit = "…"
+meVE.Apolytikion2ger.text = ""
 
 meCO.C1.acrostic.title = "Triode, sung at Compline,"
 meCO.C1.acrostic.notice1 = "whose Acrostic is:"
