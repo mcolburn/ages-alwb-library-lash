@@ -367,7 +367,7 @@ meMA.Ode5C12.text = ""
 
 meMA.Ode5C2H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C2H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode5C2H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode5C2H.melody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta_Koimisis.name
 meMA.Ode5C2H.incipit = "…"
 meMA.Ode5C2H.text = ""
 
@@ -565,11 +565,13 @@ meMA.Ode9C23.incipit = "…"
 meMA.Ode9C23.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.greekname
 meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.text
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 meMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meMA.Lauds1.incipit = "At your glorious Falling Asleep…"
 meMA.Lauds1.text = "At your glorious Falling Asleep the heavens rejoice and the armies of Angels exult; the whole earth is glad as it utters its funeral hymn to you, Mother of the Master of all things, all-holy Virgin, who knew not wedlock, who have delivered the human race from the ancestral sentence."

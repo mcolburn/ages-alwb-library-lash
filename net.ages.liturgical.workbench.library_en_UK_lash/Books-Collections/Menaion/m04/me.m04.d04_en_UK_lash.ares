@@ -35,11 +35,13 @@ meVE.Stichera03.incipit = "…"
 meVE.Stichera03.text = ""
 
 meVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
+meVE.SticTheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.greekname
 meVE.SticTheotokion.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.name
 meVE.SticTheotokion.incipit = "…"
 meVE.SticTheotokion.text = ""
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
+meVE.SticStavrotheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.greekname
 meVE.SticStavrotheotokion.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.name
 meVE.SticStavrotheotokion.incipit = "…"
 meVE.SticStavrotheotokion.text = ""

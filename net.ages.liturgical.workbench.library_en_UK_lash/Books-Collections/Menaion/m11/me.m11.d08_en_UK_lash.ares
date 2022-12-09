@@ -112,6 +112,7 @@ meVE.LityBoth.incipit = "Today the temple that contains…"
 meVE.LityBoth.text = "Today the temple that contains God, the Mother of God, is brought into the Lord's temple and Zachary receives her. Today the Holy of Holies rejoices and the choir of Angels mystically celebrates the festival; with whom let us, as today we celebrate, cry out with Gabriel: Hail, full of grace, the Lord is with you, he who has great mercy."
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meVE.Aposticha1.incipit = "As we in the world…"
 meVE.Aposticha1.text = "As we in the world celebrate a festival like the Angels, let us cry out to God, who is borne on a throne of glory, the hymn: Holy are you, heavenly Father; co-eternal Son, holy are you, and you, all-holy Spirit."
@@ -594,16 +595,19 @@ meMA.Ode9C2T.incipit = "Harmoniously, Mother of God, we…"
 meMA.Ode9C2T.text = "Harmoniously, Mother of God, we glorify you, for you deliver us from passions and from dangers, and you fulfil our entreaties for good things."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "The Maker and God has…"
 meMA.Exaposteilarion1.text = "The Maker and God has proclaimed you as champion, governor and provider for our mortal race, O godlike Chief Captain, and has honoured you ineffably with glory, ceaselessly to sound the thrice-holy and divine hymn of victory."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "Inexpressibly aflame with the divine…"
 meMA.Exaposteilarion2.text = "Inexpressibly aflame with the divine rays of the Trinity beyond light, you pass through all creation as lightning, fulfilling God's behest, Archangel Michael, lightning-formed, guarding, protecting and sheltering those who radiantly sing your praise."
 
 meMA.Exaposteilarion3.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion3.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion3.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion3.incipit = "O glorious Michael, godlike Chief…"
 meMA.Exaposteilarion3.text = "O glorious Michael, godlike Chief Captain, you have been placed by God as leader of Virtues, Powers, Archangels, Angels, Dominations, Thrones and Principalities; as you stand before the unendurable throne, shelter, guard, protect and save those who in faith honour you, the world's defender."
@@ -614,6 +618,7 @@ meMA.ExapTheotokion.incipit = "You are greater in honour…"
 meMA.ExapTheotokion.text = "You are greater in honour than the glorious Cherubim, O Al-praised, and beyond compare more glorious than the dread Seraphim, and holier than all the Holy Angels, O All-pure, for inexpressibly you gave birth to the Creator of all things in a body, O Mother of God. Ask him to give your servants deliverance from offences."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds1.incipit = "Michael, we faithfully sing your…"
 meMA.Lauds1.text = "Michael, we faithfully sing your praise as Chief Captain of the heavenly orders, and mighty champion, guard and deliverer of those on earth, beseeching you to deliver us from every destroying pain."

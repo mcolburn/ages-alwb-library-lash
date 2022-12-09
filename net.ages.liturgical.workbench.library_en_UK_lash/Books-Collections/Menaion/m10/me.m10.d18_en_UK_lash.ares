@@ -58,11 +58,13 @@ meVE.SticGlory.incipit = "Apostle of Christ, Writer of…"
 meVE.SticGlory.text = "Apostle of Christ, Writer of the doctrines of God and foundation of the Church. It was you who with divine words truly drew out and saved as from the rolling swell hearts in the gloom of ignorance sunk in the deep of destruction. You became the companion of Paul, the vessel of election, but also his imitator. Therefore we entreat you, most noble Luke, adornment of the people of Antioch. Intercede with the Saviour and God, for those who with faith celebrate your ever-revered memory."
 
 meVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.notmetered
 meVE.SticTheotokion.incipit = "O Trinity of infinite power…"
 meVE.SticTheotokion.text = "O Trinity of infinite power, Unity of three Persons, at the prayers of your honoured Disciple and godly Apostle, and of the Ever-Virgin, save those who sing your praise."
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Grace was poured out on…"
 meVE.Aposticha1.text = "Grace was poured out on your lips in a fiery tongue, Apostle Luke, and you were revealed as a tongue of fire as you sent forth words of light by your preaching for those worthy of light, but bolts of shame for those who longed for the darkness, as you wrote and taught the honoured Gospel; and you appeared as a fragrance of life for those who truly wished for life, as Paul said, whom you had as teacher; but again as the odour of death for those who did not love life. But grant us peace and life and light and God's great mercy."
@@ -360,6 +362,7 @@ meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.OrousParilthes.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.OrousParilthes.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "Luke, Apostle of Christ, initiate…"
 meMA.Exaposteilarion1.text = "Luke, Apostle of Christ, initiate of ineffable mysteries, Teacher of the nations, with godlike Paul and the pure Mother of God, whose godlike icon you depicted from love, intercede on behalf of those who call you blessed and who honour your sacred falling asleep, all-wise speaker of mysteries who saw God."
@@ -371,6 +374,7 @@ meMA.ExapTheotokion.text = "Sovereign Lady, Queen of all, go before in dangers, 
 
 meMA.Lauds1.note = ""
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_UK_lash.heAU.NefelinSeFotos.greekname
 meMA.Lauds1.melody = he.a.m1_en_UK_lash.heAU.NefelinSeFotos.notmetered
 meMA.Lauds1.incipit = "Believers, in hymns let us…"
 meMA.Lauds1.text = "Believers, in hymns let us honour Christ's Disciple, wise writer of the Gospel, fair living imprint of the vessel of election, whose praise is in all the Churches, Luke the Apostle. For he proclaimed the marvellous wonders of God, enlightening those on earth with beams of theology through grace."

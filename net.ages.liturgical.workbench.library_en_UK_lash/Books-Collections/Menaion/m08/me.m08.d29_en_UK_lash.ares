@@ -569,11 +569,13 @@ meMA.Ode9C2T.incipit = "You were seen, O Virgin…"
 meMA.Ode9C2T.text = "You were seen, O Virgin Mother of God, to give birth beyond nature in a body to the good Word that the Father uttered from his own heart before all the ages as he is good. Him we know also to be beyond bodies, even though he has been clothed in a body."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.name
 meMA.Exaposteilarion1.incipit = "Let us garland with hymns…"
 meMA.Exaposteilarion1.text = "Let us garland with hymns of praise the one known to be greatest among Prophets and who became precursor of Apostles, the Forerunner of grace, for his head was cut off for the sake of the law of the Lord."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.name
 meMA.Exaposteilarion2.incipit = "Dissolute Herod treacherously cut off…"
 meMA.Exaposteilarion2.text = "Dissolute Herod treacherously cut off your head, planter of purity, Baptist of the Saviour, but was quite unable to cut out the rebukes of your tongue."
@@ -584,6 +586,7 @@ meMA.ExapTheotokion.incipit = "Holy Maiden, who abolished by…"
 meMA.ExapTheotokion.text = "Holy Maiden, who abolished by your divine childbearing the curse of the world, deliver by your prayers from dangers of every kind the flock that faithfully entreats you."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Lauds1.greekmelody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.greekname
 meMA.Lauds1.melody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.name
 meMA.Lauds1.incipit = "O marvellous wonder! A dissolute…"
 meMA.Lauds1.text = "O marvellous wonder! A dissolute, licentious girl carries round the sacred head revered by Angels. She offers to her adulterous mother the tongue that rebuked the lawless. O your ineffable forbearance, lover of mankind! Through it, O Christ, save our souls, for you alone are compas­sionate."

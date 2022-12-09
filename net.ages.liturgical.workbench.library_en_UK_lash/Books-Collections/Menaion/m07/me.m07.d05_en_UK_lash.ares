@@ -85,6 +85,7 @@ meVE.LityBoth.incipit = "…"
 meVE.LityBoth.text = //me.m12.d06_en_UK_lash.meMA.LaudsTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Hail venerable Athanasios, companion of…"
 meVE.Aposticha1.text = "Hail venerable Athanasios, companion of angelic choirs; for you truly led their life on earth, all-blessed Father, practising virtue and appearing as an unsullied mirror of purity, receiving the blazing beams of the Holy Spirit; therefore shining brightly you saw the future, foretelling all, initiated from the divine illumination of Christ; implore him that our souls be given his great mercy."
@@ -546,6 +547,7 @@ meMA.Ode9C2T.incipit = "…"
 meMA.Ode9C2T.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.notmetered
 meMA.Exaposteilarion1.incipit = "You dawned resplendent, bearing light…"
 meMA.Exaposteilarion1.text = "You dawned resplendent, bearing light, from the regions of the East and enlightened the regions of the West, Athanasios, by the radiance of your virtues; but do not cease to intercede for the world to the Lord."
@@ -556,6 +558,7 @@ meMA.ExapTheotokion.incipit = "All-shining universal Queen, at the…"
 meMA.ExapTheotokion.text = "All-shining universal Queen, at the supplications of honoured Athanasios guard untouched by any hostility your flock which ever sings your praise, the protection of the world."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Lauds1.greekmelody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.greekname
 meMA.Lauds1.melody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.notmetered
 meMA.Lauds1.incipit = "Truly the death of your…"
 meMA.Lauds1.text = "Truly the death of your Saint was precious in your sight, O Christ; for see, from his foot your servant made a spring of blood gush out and after death it drives out every kind of sickness and puts to flight the spirits of wickedness with which, while still alive, he had battled to shedding of blood."

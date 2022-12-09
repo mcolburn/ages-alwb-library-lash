@@ -80,6 +80,7 @@ meVE.LityBoth.incipit = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Hail, spiritual heaven, ever telling…"
 meVE.Aposticha1.text = "Hail, spiritual heaven, ever telling the glory of God; the first to submit fervently to the call of Christ, and immediately to join him; set aflame by him you were seen as a second light, and by your beams you enlightened those in darkness, as you imitated his loving-kindness. Therefore we celebrate your all-holy festival, and with great joy kiss the casket of your relics, from which you pour out salvation for those who ask, and God's great mercy."
@@ -922,11 +923,13 @@ meMA.Ode9C3T.incipit = "Virgin, Mother of God, intercede…"
 meMA.Ode9C3T.text = "Virgin, Mother of God, intercede that those who with faith take refuge under your compassion and devoutly worship your Son as God of the world and Lord may be rescued from dangers and trials of every kind."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "The Word without beginning having…"
 meMA.Exaposteilarion1.text = "The Word without beginning having found you, O all-blessed, declared you the First-called of all the Apostles, revered Andrew; and following in his footsteps you were revealed as guide of those who had gone astray, bringing up the divine path to heaven."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "Let us give glorious praise…"
 meMA.Exaposteilarion2.text = "Let us give glorious praise to Peter's brother, the first-called of the Disciples, who became an eye-witness and servant of the Word, the Apostle Andrew; for he enlightened the nations, and was crucified, dying like a Disciple of the Master."
@@ -937,6 +940,7 @@ meMA.ExapTheotokion.incipit = "All-blameless Virgin, implore God, to…"
 meMA.ExapTheotokion.text = "All-blameless Virgin, implore God, to whom you gave birth, for all who devoutly honour you, with the glorious Apostle, to obtain the divine radiance of your Son and the place of the elect and of the Saints; for you have strength to do whatever you wish."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds1.incipit = "Bethsaida now be glad; for…"
 meMA.Lauds1.text = "Bethsaida now be glad; for in you there flowered from a mystic pool two sweet scented lilies, Peter and Andrew, who spread the fragrant proclamation of the faith to the whole world by the grace of Christ, whose sufferings too they imitated."
@@ -952,6 +956,7 @@ meMA.Lauds3.incipit = "Chosen initiate of the divine…"
 meMA.Lauds3.text = "Chosen initiate of the divine dispensation of Christ, chosen first of all to be a disciple of the Word, Andrew who saw God cried out and said, when he saw his brother Peter, 'We have found the Messias whom the Scripture and Prophets proclaimed of old'."
 
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Lauds4.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds4.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds4.incipit = "The city of Patras has…"
 meMA.Lauds4.text = "The city of Patras has gained you as Shepherd and divine defender, deliverer from dangers of every kind and guardian, wise Andrew, as with thanksgiving it honours you. But implore without ceasing that it may be preserved unharmed."

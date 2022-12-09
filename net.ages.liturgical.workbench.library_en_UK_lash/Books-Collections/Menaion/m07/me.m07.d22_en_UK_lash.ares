@@ -46,11 +46,13 @@ meVE.SticTheotokion.incipit = oc.m6.d3_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d3_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode8
+meVE.Aposticha1.greekmelody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.greekname
 meVE.Aposticha1.melody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.notmetered
 meVE.Aposticha1.incipit = "When Christ appeared, you followed…"
 meVE.Aposticha1.text = "When Christ appeared, you followed in his footsteps, holy Myrrhbearer all-praised, and served him most ardently with upright intent; nor did you abandon him in death, but you went, and with compassion brought him sweet spices with your tears. Therefore we keep the festival of your all-holy memory."
@@ -72,11 +74,13 @@ meVE.AposGlory.incipit = "Mary Magdalen, having as his…"
 meVE.AposGlory.text = "Mary Magdalen, having as his disciple faithfully served Christ our God, who willingly made himself poor with my poverty in his surpassing compassion, when she saw him stretched on a Cross and shut up in a tomb, weeping cried out, 'What is this strange sight? How is he who gives life to the dead numbered among the dead? What sweet spices can I bring the one who freed me from the foul stench of the demons? What tears can I shed for the one who stripped my foremother of her tears?' But the Sovereign of the universe, appearing like the guardian of Paradise, by the dew of his words banished the heat and said to her, 'Go to my brethren and shout aloud the good tidings of joy: I am ascending to my Father and your Father, and my God and your God, that I may grant the world my great mercy.'"
 
 meVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode8
-meVE.AposTheotokion.melody = ""
+meVE.AposTheotokion.greekmelody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.greekname
+meVE.AposTheotokion.melody = he.a.m8_en_UK_lash.heAU.OTouParadoxou.name
 meVE.AposTheotokion.incipit = oc.m8.d2_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.AposTheotokion.text = oc.m8.d2_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode8
+meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.greekname
 meVE.AposStavrotheotokion.melody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.notmetered
 meVE.AposStavrotheotokion.incipit = "The Ewe-lamb when she saw…"
 meVE.AposStavrotheotokion.text = "The Ewe-lamb when she saw the Lamb willingly stretched out on the tree of the Cross, cried out as a mother, with cries of lamentation, 'My Son, what is this strange sight? As the Lord who apportions life to all, how are you put to death, O long-suffering, who grant resurrection to mortals? I glorify, O my God, your great condescension.'"
@@ -308,6 +312,7 @@ meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "Mary, aptly named, and Disciple…"
 meMA.Exaposteilarion1.text = "Mary, aptly named, and Disciple of Christ, with the rest of the Myrrhbearers and Mary the Virgin, alone Mother of God, without ceasing implore the crucified Lord on behalf of us who honour you from love, O Myrrhbearer."

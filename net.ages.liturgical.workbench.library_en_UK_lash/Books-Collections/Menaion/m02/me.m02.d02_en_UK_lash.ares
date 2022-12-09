@@ -451,11 +451,13 @@ meMA.Ode9C13.incipit = "Reverently holy Anna, sober and…"
 meMA.Ode9C13.text = "Reverently holy Anna, sober and aged, openly confessed the Master, announcing him clearly in the temple. While as she proclaimed the Mother of God to all those present, she magnified her."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.text
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
 meMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meMA.Lauds1.incipit = "Fulfilling the written Law, the…"
 meMA.Lauds1.text = "Fulfilling the written Law, the Lover of mankind is now being brought into the Temple. And Symeon the Elder receives him in aged arms, crying, 'Now you release me to the blessedness of the other world, for today I have seen you, clothed in mortal flesh, the Lord of life and Master of death.'"

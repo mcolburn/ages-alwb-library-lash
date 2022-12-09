@@ -55,6 +55,7 @@ meVE.SticGlory.incipit = "Come, let us feast the…"
 meVE.SticGlory.text = "Come, let us feast the universal Dormition of the all-blameless Mother of God; for today Angels celebrate the honoured Translation of God's Mother, and invite us who are born of earth to a festival to cry with never-silent voice: Hail, who passed over from earth and took up your abode in heavenly dwellings. Hail, who gathered the choir of the Disciples together by a light cloud. Hail, our hope and protection; for we, the race of Christians, ceaselessly call you blest."
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.notmetered
 meVE.Aposticha1.incipit = me.m08.d15_en_UK_lash.meSV.Aposticha1.incipit
 meVE.Aposticha1.text = me.m08.d15_en_UK_lash.meSV.Aposticha1.text
@@ -505,16 +506,19 @@ meMA.Ode9H.incipit = he.h.m4_en_UK_lash.heHE.ApasGigenis.incipit
 meMA.Ode9H.text = he.h.m4_en_UK_lash.heHE.ApasGigenis.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "…"
 meMA.Exaposteilarion1.text = ""
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.notmetered
 meMA.Exaposteilarion2.incipit = "…"
 meMA.Exaposteilarion2.text = ""
 
 meMA.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = "With hymns the godly worshippers…"
 meMA.Aposticha1.text = "With hymns the godly worshippers, as they accompanied your revered body that had received God, cried out, 'Where do you now depart, Sovereign Lady?'"

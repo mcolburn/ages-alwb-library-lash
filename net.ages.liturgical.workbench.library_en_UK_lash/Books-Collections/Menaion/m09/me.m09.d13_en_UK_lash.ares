@@ -63,6 +63,7 @@ meVE.SticBoth.incipit = "Today a tree has been…"
 meVE.SticBoth.text = "Today a tree has been revealed; today the Hebrew race has been destroyed; today, through faithful Kings, the faith is revealed. Adam fell through the tree, but again through a tree demons trembled. Almighty Lord, glory to you!"
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Hail, life-bearing Cross, invincible trophy…"
 meVE.Aposticha1.text = "Hail, life-bearing Cross, invincible trophy of true religion, door of Paradise, support of the faithful, wall of the Church. Through you corruption has vanished utterly and been destroyed, the power of death has been swallowed up and we raised from earth to heaven. Unconquerable weapon, opponent of demons, glory of Martyrs, true ornament of Ascetics, harbour of salvation, who give to the world his great mercy."
@@ -800,11 +801,13 @@ meMA.Ode9C3T.incipit = "Most-pure Sovereign Lady, protection that…"
 meMA.Ode9C3T.text = "Most-pure Sovereign Lady, protection that cannot be shamed, who gave birth to the light which shone forth from the light, ask enlightenment for me and scatter far from me the darkness of temptations and pleasures."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "Willingly raised on the Cross…"
 meMA.Exaposteilarion1.text = "Willingly raised on the Cross on Golgotha, the Lord has worked our salvation and renewed all creation; he was placed in a life-receiving grave and arose, as God, on the third day, the dedication of whose bright and holy rising we all celebrate with the ranks of the bodiless powers."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.incipit = "The Lord and God, willingly…"
 meMA.Exaposteilarion2.text = "The Lord and God, willingly incarnate has worked salvation through the Cross in the midst of the earth for the renewal of the world; laid in a grave, he rose on the third day, and as an earnest of life, he shows forth his rising, whose dedication we celebrate in faith with the Angels of God."
@@ -815,6 +818,7 @@ meMA.ExapTheotokion.incipit = "With gladness we cry 'Hail'…"
 meMA.ExapTheotokion.text = "With gladness we cry 'Hail' to you, O Virgin; hail Adam's redemption and Eve's; hail through whom mortal nature has been exalted to the glory beyond the world of your Son and God; hail through whom he is ever worshipped in heaven by Angels, O all-praised Mary, Mother of God."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
 meMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meMA.Lauds1.incipit = "Today the divine, sacred, honoured…"
 meMA.Lauds1.text = "Today the divine, sacred, honoured and light-bearing house of the resurrection of Christ is shiningly dedicated; and the divine tomb distributes life to the world and furnishes an immortal fount; it gushes forth streams of grace; bursts forth rivers of wonders; grants healings to those who hymn it with faith."

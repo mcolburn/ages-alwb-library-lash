@@ -86,6 +86,7 @@ meVE.LityBoth.incipit = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.incipit
 meVE.LityBoth.text = oc.m4.d2_en_UK_lash.ocMA.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_UK_lash.heAU.OExYpsistouKlitheis.greekname
 meVE.Aposticha1.melody = he.a.m4_en_UK_lash.heAU.OExYpsistouKlitheis.notmetered
 meVE.Aposticha1.incipit = "The one hallowed before his…"
 meVE.Aposticha1.text = "The one hallowed before his conception, the Angel embodied, the mind of fire, the man of heaven, the godlike forerunner of the second coming of Christ. the glorious Elias, the foundation of the Prophets has spiritually invited all lovers of festivals to celebrate his godly memory. At his intercessions guard your people, O Christ God, untroubled from every kind of harm of the trickster."
@@ -558,6 +559,7 @@ meMA.Ode9C2T.incipit = "As you are loving, do…"
 meMA.Ode9C2T.text = "As you are loving, do not despise the voices of your servants, all-blameless Lady; but insistently beg the Master of all things, O Virgin, to grant trophies of victory to our Sovereign, health of soul and a share in and the splendour of God's kingdom."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.FosAnalloioton.notmetered
 meMA.Exaposteilarion1.incipit = "Light showed you as a…"
 meMA.Exaposteilarion1.text = "Light showed you as a charioteer borne heavenwards on a fiery chariot, Elias, and did not consume you; for by a tongue of clay you drew down fire and dried up showers."
@@ -568,6 +570,7 @@ meMA.ExapTheotokion.incipit = "Light you bore, O Virgin…"
 meMA.ExapTheotokion.text = "Light you bore, O Virgin; implore your Son, O Mother of God, by your intercessions to take pity and to save me, who trust in your honoured assistance, from eternal darkness."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Lauds1.greekmelody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.greekname
 meMA.Lauds1.melody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.notmetered
 meMA.Lauds1.incipit = "When through virtue and an…"
 meMA.Lauds1.text = "When through virtue and an innocent life you had been joined to God, inspired Prophet, you received authority from him and altered creation according to your judgement: you shut up the gates of the rain as you willed; you brought down fire from above; you consumed the impious by fire. Intercede that our souls may be saved."

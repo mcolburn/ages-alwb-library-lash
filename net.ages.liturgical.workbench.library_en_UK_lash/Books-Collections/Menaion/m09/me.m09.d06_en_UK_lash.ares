@@ -46,6 +46,7 @@ meVE.SticTheotokion.incipit = "Rejoice with us, all you…"
 meVE.SticTheotokion.text = "Rejoice with us, all you choirs of Virgins, for our defence and intercessor, protection and great refuge by her revered and godlike concern brings comfort on this present day to the afflicted. Therefore as is fitting we sing her praises as we cry out, 'Shelter us by your godlike protection, all-pure Lady, Mother of God'."
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.name
 meVE.Aposticha1.incipit = me.m11.d08_en_UK_lash.meMA.Lauds1.incipit
 meVE.Aposticha1.text = me.m11.d08_en_UK_lash.meMA.Lauds1.text //"As leader of the heavenly hosts and strong defender, guard and deliverer of those on earth we sing your praise with faith, Michael Chief Captain, as we implore you to deliver us from every pain that brings destruction."
@@ -604,6 +605,7 @@ meMA.Ode9C2T.incipit = "You appeared wider than the…"
 meMA.Ode9C2T.text = "You appeared wider than the heavens, O Virgin, for in a manner beyond explanation you contained God, whom the choirs of Bodiless Powers mystically praise. Implore him, pure Maiden, that we who call you blessed with never silent voices may all be saved."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "All humanity, assemble together and…"
 meMA.Exaposteilarion1.text = "All humanity, assemble together and see; contemplate the strange wonder that has been accomplished in Chonae. Michael, the bodiless one, split the rock with a staff and speared rivers that were flowing down unchecked to become holy water."
@@ -614,6 +616,7 @@ meMA.ExapTheotokion.incipit = "Alas, wretch that I am…"
 meMA.ExapTheotokion.text = "Alas, wretch that I am, through my incontinence of old I was thrust from the greater image in which I shared by God's action. But you, O Christ, in your compassion, ineffably became my fellow and shared that which worse, renewing me, O Saviour, from virgin blood."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.name
 meMA.Lauds1.incipit = me.m11.d08_en_UK_lash.meVE.Aposticha1.incipit
 meMA.Lauds1.text = me.m11.d08_en_UK_lash.meVE.Aposticha1.text //"As we in the world keep festival like the Angels, let us cry aloud to God, who is borne on a throne of glory, the hymn: Holy are you, Father in heaven; co-eternal Word, holy are you; and the All-holy Spirit."

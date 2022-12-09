@@ -724,11 +724,13 @@ meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "The voice of one who…"
 meMA.Exaposteilarion1.text = "The voice of one who cries has sounded; you hills, leap for joy; dance, human race, for the Word before eternity, taking flesh as a man, has come that he may be baptized in Jordan by hands which he fashioned and to abolish the sin of the world."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "How will a river's streams…"
 meMA.Exaposteilarion2.text = "How will a river's streams receive you, Lover of mankind, who made from nothing rivers and seas? How will the Forerunner dare to lay his hand on your immaculate head, Master? Trembling we sing the praise, O Word, of the height of your poverty."
@@ -739,6 +741,7 @@ meMA.Lauds.acrostic.text = "Song of Theophanes for the Lights."
 meMA.Lauds.poet = poets_en_UK_lash.po.Theofanous
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_UK_lash.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "Go on, Angelic Powers, from…"
 meMA.Lauds1.text = "Go on, Angelic Powers, from Bethlehem to Jordan’s streams. Leaving the wilderness behind. John draw near. River rejoice and make ready. Let all the earth be glad. Christ is coming to cleanse the sin of Adam, as he is compassionate."
@@ -754,6 +757,7 @@ meMA.Lauds3.incipit = "Great and fearful is the…"
 meMA.Lauds3.text = "Great and fearful is the mystery! That God has been made like humans and wholly without knowledge of sin the guiltless today asks to be baptized by John in the river Jordan. Blessed is our God who has appeared; glory to you!"
 
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_UK_lash.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "A flower from David, which…"
 meMA.Lauds4.text = "A flower from David, which blossomed from the Virgin, Christ has come to the streams of Jordan to wash away the sins of the Forefather in the waters. Adam, dance; Eve rejoice; let heaven be glad; let peoples say, `Blessed is our God who has come; glory to you'."

@@ -45,6 +45,7 @@ meVE.SticTheotokion.incipit = he.o_en_UK_lash.heOT.TheotokeSyEi.incipit
 meVE.SticTheotokion.text = he.o_en_UK_lash.heOT.TheotokeSyEiApostolou.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Aposticha1.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
 meVE.Aposticha1.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meVE.Aposticha1.incipit = "Christ, the lover of mankind…"
 meVE.Aposticha1.text = "Christ, the lover of mankind, drew you out like a pearl from the abyss of the confusion of the world, Apostle Thomas, and through you he enriched those who were in doubt and involved in the poverty of dread deeds. And so we call you blessed and glorify with songs of praise you festive memorial, as we devoutly honour you."
@@ -66,6 +67,7 @@ meVE.AposGlory.incipit = "You gazed on the divine…"
 meVE.AposGlory.text = "You gazed on the divine mysteries of Christ, Apostle Thomas, and mystically you have been declared to be a spiritual mixing bowl, in which the souls of believers rejoice; for with the divine net of the Spirit you drew peoples from the deep of ignorance; therefore you came from Sion as a river of grace, welling up with your inspired doctrines into the whole creation. And so, imitating the passion of Christ, you were pierced in the side and entered the darkness of incorruption; implore him to have mercy on our souls."
 
 meVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
+meVE.AposTheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.greekname
 meVE.AposTheotokion.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.notmetered
 meVE.AposTheotokion.incipit = "When to mind there comes…"
 meVE.AposTheotokion.text = "When to mind there comes the thought of the dread judgement seat of your Son, All-pure Virgin, and the universal tribunal, I am in despair, trembling and terrified at the examination of my deeds; for they are all worthless and filled with every kind of shame, and truly worthy of darkness and punishment and rejection. See my distress, and see the abasement of my soul, and deliver me from every constraint and punishment."
@@ -332,11 +334,13 @@ meMA.Ode9H.incipit = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "Eyewitness and Apostle of Christ…"
 meMA.Exaposteilarion1.text = "Eyewitness and Apostle of Christ the all-pitying, grant peace to the whole inhabited world, victories to our Christ-loving Sovereign, ask forgiveness of faults and salvation for us who praise you, Thomas, as an inspired disciple."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "Christ, the great Sun, sent…"
 meMA.Exaposteilarion2.text = "Christ, the great Sun, sent you as a beam radiant with light to India, as an initiate dispelling utterly the fog of error, O wise Apostle Thomas, and enlightening the peoples to honour the divine Trinity, by which we are all guarded."

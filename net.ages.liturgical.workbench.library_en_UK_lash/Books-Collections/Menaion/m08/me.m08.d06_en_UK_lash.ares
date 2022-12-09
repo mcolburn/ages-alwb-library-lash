@@ -586,11 +586,13 @@ meMA.Ode9C23.incipit = "You have smitten me with…"
 meMA.Ode9C23.text = "You have smitten me with longing, O Christ, and changed me by your divine love; but with your immaterial fire burn up my sins and count me worthy to be filled with delight in you, that as I leap for joy, O Good One, I may magnify your first and second Comings."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.FosAnalloioton.greekname
 meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.heAU.FosAnalloioton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.heAU.FosAnalloioton.text
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.OExYpsistouKlitheis.greekname
 meMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.OExYpsistouKlitheis.notmetered
 meMA.Lauds1.incipit = "…"
 meMA.Lauds1.text = ""

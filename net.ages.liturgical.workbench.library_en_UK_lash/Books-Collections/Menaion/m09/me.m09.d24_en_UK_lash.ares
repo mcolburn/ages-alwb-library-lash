@@ -48,16 +48,19 @@ meVE.SticGlory.incipit = "All-blessed Thekla, companion of Paul…"
 meVE.SticGlory.text = "All-blessed Thekla, companion of Paul and fellow-athlete of Stephen, by your athletic struggles you trampled down the foe, and as a martyr having smashed his devices, you escaped Thamyris and were wedded to Christ, the true lover. Protomartyr of Christ among women, as you have boldness, rescue from dangers the souls of us who faithfully celebrate your memory."
 
 meVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
+meVE.SticTheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.greekname
 meVE.SticTheotokion.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.notmetered
 meVE.SticTheotokion.incipit = "You are my sure refuge…"
 meVE.SticTheotokion.text = "You are my sure refuge, my hope and protection, chaste Virgin-mother; make haste then with speed and deliver me from the ills which beset me on every side."
 
 meVE.SticStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
+meVE.SticStavrotheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.greekname
 meVE.SticStavrotheotokion.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.notmetered
 meVE.SticStavrotheotokion.incipit = oc.m6.d4_en_UK_lash.ocVE.AposTheotokion.incipit
 meVE.SticStavrotheotokion.text = oc.m6.d4_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode1
+meVE.Aposticha1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meVE.Aposticha1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meVE.Aposticha1.incipit = "Far-famed Protomartyr and Equal of…"
 meVE.Aposticha1.text = "Far-famed Protomartyr and Equal of the Apostles, glory of women martyrs, fair virgin Thekla, by your supplications that are powerful with God heal the dread passions and bruises of my soul, I cry to you, and snatch me from the unquenchable fire."
@@ -79,11 +82,13 @@ meVE.AposGlory.incipit = "You trampled down the assaults…"
 meVE.AposGlory.text = "You trampled down the assaults of lions, and shaming Thamaris you followed your Bridegroom, Protomartyr and Apostle, as you cried out: I have run in the fragrance of your myrrh, O Christ. And so, hastening after Paul, you received the gift of grace from heaven and inherited the garland of victory from God, judge of the contest, and you intercede without ceasing that he bestow pardon of offences on those who celebrate with faith your sacred memorial."
 
 meVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode8
+meVE.AposTheotokion.greekmelody = he.a.m8_en_UK_lash.heAU.OiMartyresSouKyrie.greekname
 meVE.AposTheotokion.melody = he.a.m8_en_UK_lash.heAU.OiMartyresSouKyrie.notmetered
 meVE.AposTheotokion.incipit = "My hope and my protector…"
 meVE.AposTheotokion.text = "My hope and my protector, fervent assistance and my refuge, you are the salvation of the faithful, all-immaculate, pure Lady; therefore I also flee to you, crying out and shouting to you: I have sinned. Save me, O Maiden, save me as alone truly the surety of those who sin."
 
 meVE.AposStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode8
+meVE.AposStavrotheotokion.greekmelody = he.a.m8_en_UK_lash.heAU.OiMartyresSouKyrie.greekname
 meVE.AposStavrotheotokion.melody = he.a.m8_en_UK_lash.heAU.OiMartyresSouKyrie.notmetered
 meVE.AposStavrotheotokion.incipit = "I cannot bear to see…"
 meVE.AposStavrotheotokion.text = "I cannot bear to see you, my Child, who give awakening to all, sleeping in death upon a tree, so that to those who of old through the transgression of the fruit fell into destroying slumber you may grant divine and saving awakening, cried the grieving Virgin, whom we magnify." //me.m01.d23_en_UK_lash.meVE.SticStavrotheotokion.text
@@ -365,6 +370,7 @@ meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion1.incipit = "Fair virgin, strengthened by the…"
 meMA.Exaposteilarion1.text = "Fair virgin, strengthened by the divine teachings of God’s herald Paul, you despised a corruptible suitor and followed Paul, O much-tried Protomartyr Thekla, Equal of the Apostles; therefore you have won from Christ the crown of victory."
@@ -404,11 +410,13 @@ meMA.LaudsGlory.incipit = "Protomartyr of Christ, it was…"
 meMA.LaudsGlory.text = "Protomartyr of Christ, it was not only the races of mankind that marvelled but wild beasts too were astonished. For you the flames were not reckoned as flames, fair virgin Thekla, because of your Bridegroom Christ, for you were glad as you suffered for him and were parted from the world that you might gain the blessedness of heaven as you intercede with boldness for our souls."
 
 meMA.LaudsTheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.LaudsTheotokion.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 meMA.LaudsTheotokion.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meMA.LaudsTheotokion.incipit = "Bedew my understanding, All-pure Lady…"
 meMA.LaudsTheotokion.text = "Bedew my understanding, All-pure Lady, with the showers of the Holy Spirit. As you bore Christ, the drop who wipes away the measureless lawlessness of mortals, dry up the source of my passions and make me worthy, O All-immaculate, of the torrent of eternal delight."
 
 meMA.LaudsStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.LaudsStavrotheotokion.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 meMA.LaudsStavrotheotokion.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 meMA.LaudsStavrotheotokion.incipit = "When she saw you nailed…"
 meMA.LaudsStavrotheotokion.text = "When she saw you nailed to the Cross, O Lord, your lamb and Mother was amazed and cried: My Son, so dearly loved, what is this sight? Is this how the lawless, disobedient people that enjoyed your wonders rewards you? But glory, Master, to your ineffable condescension." //me.m02.d27_en_UK_lash.meVE.SticStavrotheotokion.text
@@ -420,11 +428,13 @@ meMA.AposGlory.incipit = "Come, lovers of contests, let…"
 meMA.AposGlory.text = "Come, lovers of contests, let us honour with hymns Thekla, the Protomartyr, the boast of women; for she trampled down the hostile adversary with the power of the Cross, and, having won the victory, deserved her crown. And so the Champion implores that those who celebrate with faith and love her memory may be delivered from dangers and from the judgement to come."
 
 meMA.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.AposTheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.greekname
 meMA.AposTheotokion.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 meMA.AposTheotokion.incipit = "Truly we have no other…"
 meMA.AposTheotokion.text = "Truly we have no other mighty refuge, tower of strength and invincible wall but you, All-pure Virgin. To you we flee and to you we cry: Help us, Sovereign Lady, lest we perish. Show to all your grace, the glory of your power and the greatness of your compassion."
 
 meMA.AposStavrotheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.AposStavrotheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.greekname
 meMA.AposStavrotheotokion.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
 meMA.AposStavrotheotokion.incipit = "You gave birth to the…"
 meMA.AposStavrotheotokion.text = "You gave birth to the grape cluster of life that you bore unhusbanded in your womb. But when you saw him hanging you raised a loud lament and cried: My child, who drop down sweetness through which, O Benefactor, may all the intoxication of the passions be abolished by showing your compassion through me who gave you birth."

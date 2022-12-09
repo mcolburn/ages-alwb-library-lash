@@ -139,6 +139,7 @@ meVE.LityBoth.incipit = "…"
 meVE.LityBoth.text = ""
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Hail instrument of the Church…"
 meVE.Aposticha1.text = "Hail instrument of the Church, lovely and gleaming like gold; the tongue which with love for mankind traced out for us the many-sided ways of repentance; mind formed of gold; golden-mouthed swallow; dove, whose pinions, as the Psalmist says, are shining like gold with the golden pallor of virtues; stream like gold, pouring out waters; godlike mouth and entrusted with love for mankind: entreat Christ to send down to our souls his great mercy."
@@ -709,11 +710,13 @@ meMA.Ode9C2T.incipit = "Pure Mother of God, who…"
 meMA.Ode9C2T.text = "Pure Mother of God, who have been glorified, save those who sing your praise with love, in compassion banishing a crowd of temptations; for since you gave birth to God, all that you wish you obtain and can perform, O Virgin. And so we all magnify you."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "By your words of shining…"
 meMA.Exaposteilarion1.text = "By your words of shining gold, Father Chrysostom, the Church of Christ is bright and resplendent; while the souls of the faithful are filled with joy as they honour your all-holy memory, for you appeared to all as guide to salvation and herald of repentance."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 meMA.Exaposteilarion2.incipit = "The mighty voiced herald of…"
 meMA.Exaposteilarion2.text = "The mighty voiced herald of repentance, the treasury of the poor, the golden and eloquent mouth of the Church, the clarification of the Scriptures, John the all-wise, let us praise, for by him we have been established."
@@ -724,6 +727,7 @@ meMA.ExapTheotokion.incipit = "All-blameless Virgin, my Lady and…"
 meMA.ExapTheotokion.text = "All-blameless Virgin, my Lady and Mistress, with far-famed Chrysostom implore your Son to deliver from trials of every kind those who sing your praise and make them all worthy of eternal good things, for can do whatever you will."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
 meMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meMA.Lauds1.incipit = "Pouring forth your sacred teachings…"
 meMA.Lauds1.text = "Pouring forth your sacred teachings more brightly than gold, all-wise Chrysostom, you enrich minds that are poor, and you dispel the fog of the passions and the bitter winter of the love of money. And so, as is fitting, we call you blessed and honour the dust of your relics as a source of sanctification."
@@ -739,6 +743,7 @@ meMA.Lauds3.incipit = "You have become a sun…"
 meMA.Lauds3.text = "You have become a sun with many lights, irradiating the inhabited world by your words, dazzling star, brightly shining lamp, torch that ever summons those who are storm-tossed by the worldly sea to the calm haven of salvation by grace, O Golden-worded, Golden-mouthed, intercessor for our souls."
 
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Lauds4.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
 meMA.Lauds4.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meMA.Lauds4.incipit = "Unjustly driven from flock, venerable…"
 meMA.Lauds4.text = "Unjustly driven from flock, venerable Father, you became familiar with afflictions and bitter exiles, by which you were counted worthy of a blessed end as a noble Athlete, throwing down the one of many wiles, and Christ crowned you with a diadem of victory, John Chrysostom, intercessor for our souls."

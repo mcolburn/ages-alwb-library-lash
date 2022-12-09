@@ -46,6 +46,7 @@ meVE.SticTheotokion.incipit = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.incipit
 meVE.SticTheotokion.text = oc.m6.d1_en_UK_lash.ocVE.SticTheotokion.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode6
+meVE.Aposticha1.greekmelody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.greekname
 meVE.Aposticha1.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.notmetered
 meVE.Aposticha1.incipit = "As the holy priest and…"
 meVE.Aposticha1.text = "As the holy priest and Prophet, went in holiness to the Holy of Holies, a holy Angel stood by him, as it is written, and addressed him saying: Your prayer has been heard, and now Elizabeth's barrenness is being abolished, and she will give birth for you, old man, to a son, John the Forerunner, lamp of Elias, Prophet of the Most High and voice of the Word who dawned from a Virgin, Child of God."
@@ -309,6 +310,7 @@ meMA.Ode9C1T.incipit = "Elizabeth recognised you, pure Mother…"
 meMA.Ode9C1T.text = "Elizabeth recognised you, pure Mother, when she perceived that she herself had been loosed from sterile bonds, and that she was carrying in her womb the Forerunner of the One who made his dwelling in your womb, O immaculate Virgin, Mary full of God's grace."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "The glorious conception of the…"
 meMA.Exaposteilarion1.text = "The glorious conception of the Forerunner foretells the King who is to be born of a Virgin, as he from the fruitless and barren Elizabeth and the old man and priest, the famous Zachary. At their prayers and those of the Mother of God and John your Baptist, Lord, save and take pity on us all."
@@ -319,6 +321,7 @@ meMA.ExapTheotokion.incipit = "With one accord, O all-pure…"
 meMA.ExapTheotokion.text = "With one accord, O all-pure, we who have been redeemed from the ancient curse through your divine child-bearing, cry out to you the 'Hail' of the august Archangel: Hail, redemption of Adam, Virgin Mother of God. Hail, honoured one, through whom we have been delivered from death. Hail, through whom we have found the kingdom of heaven."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Lauds1.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 meMA.Lauds1.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meMA.Lauds1.incipit = "Creation rejoices at your conception…"
 meMA.Lauds1.text = "Creation rejoices at your conception, Forerunner and Prophet, Baptist John; for your divine birth is a sign for us of the Master's nativity; and therefore we who are upon earth with one accord as is fitting sing your praise."

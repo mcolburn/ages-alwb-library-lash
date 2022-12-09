@@ -639,16 +639,19 @@ meMA.Ode9C2T.incipit = "The Lord, who alone covers…"
 meMA.Ode9C2T.text = "The Lord, who alone covers his upper chambers with the waters, reins back the sea and dries up the deeps, taking flesh from you, pure Virgin, hastens from Bethlehem to Jordan, to be baptised in the flesh."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion1.incipit = "With love of true love…"
 meMA.Exaposteilarion1.text = "With love of true love of wisdom, Father, you circumcised the covering of your soul and were revealed to the world as a sun by your wonders, and flooded the minds of the faithful with light, O Basil, worshipper of the Trinity and initiate of the Mother of God."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Exaposteilarion2.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
 meMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.notmetered
 meMA.Exaposteilarion2.incipit = "The Creator of the ages…"
 meMA.Exaposteilarion2.text = "The Creator of the ages, who fulfilled the law as a babe of eight days, is circumcised in the flesh; and he is wrapped in swaddling clothes as a mortal and he is nourished with milk, who holds all things by his infinite strength as God, and ends them in an instant."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Lauds1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meMA.Lauds1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meMA.Lauds1.incipit = "He who was born ineffably…"
 meMA.Lauds1.text = "He who was born ineffably from the Father without division and without change as Word and God from God, abiding in unaltered Godhead, undergoes Circumcision in the flesh; and so, in accordance with the Law he who is beyond the Law ransoms all from the curse of the Law and grants the blessing from on high. Therefore as we sing our praise we hymn his supremely loving condescension and give glory with thanksgiving, as we implore him that our souls may be given his great mercy."
@@ -664,6 +667,7 @@ meMA.Lauds3.incipit = "You entered within a heavenly…"
 meMA.Lauds3.text = "You entered within a heavenly Temple as a sacred Hierarch, wearing, like a holy robe, action and contemplation, the beginnings of wisdom, and now, as you act as priest at the altar on high, Venerable Father, and perform the immaterial liturgy, remember, compassionate, all-blessed Basil, those who celebrate your sacred and all honoured memory, as you intercede with Christ, who grants the world his great mercy."
 
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Lauds4.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meMA.Lauds4.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meMA.Lauds4.incipit = "Wholly consecrated to God, and…"
 meMA.Lauds4.text = "Wholly consecrated to God, and from childhood dedicated to him in every way, irradiated by the rays of the wisdom beyond wisdom, you made clear the knowledge of what exists; radiantly explaining and wisely expounding the orderly arrangement of what exists, setting out the principles of a more godlike knowledge. Therefore we proclaim you to be a godlike Teacher, inspired by God, a light-bearing Beacon of the Church, as we sing the praise of Christ, who grants the world his great mercy."

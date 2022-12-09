@@ -61,6 +61,7 @@ meVE.SticBoth.incipit = me.m12.d06_en_UK_lash.meVE.AposBoth.incipit
 meVE.SticBoth.text = me.m12.d06_en_UK_lash.meVE.AposBoth.text
 
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
+meVE.Aposticha1.greekmelody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.greekname
 meVE.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.notmetered
 meVE.Aposticha1.incipit = "Christ is coming to crush…"
 meVE.Aposticha1.text = "Christ is coming to crush the evil one, to enlighten those in darkness and release the prisoners; let us go forth to meet him."
@@ -801,16 +802,19 @@ meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.text
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion1.incipit = "Glorious Virgin Martyr, splendour of…"
 meMA.Exaposteilarion1.text = "Glorious Virgin Martyr, splendour of champions, all-wise Anastasia, do not cease to implore the one who is now coming to be born of a Virgin Maiden, the pure Mother of God, in a cave and a manger, to grant release from sins to all those who celebrate your all-holy memory and honour you with love."
 
 meMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 meMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.Exaposteilarion2.incipit = "Your light-bearing memorial, Martyr Anastasia…"
 meMA.Exaposteilarion2.text = "Your light-bearing memorial, Martyr Anastasia, proclaims in advance Christ’s Nativity in Bethlehem, as it summons Magi from the Persia with gifts; the Shepherds with Angels to sing in praise; for you offered yourself like gold, incense and myrrh to your Master, when you struggled in the contest, O wise in God."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Lauds1.greekmelody = he.a.m6_en_UK_lash.heAU.AiAngelikai.greekname
 meMA.Lauds1.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.notmetered
 meMA.Lauds1.incipit = "Now all the ancient images…"
 meMA.Lauds1.text = "Now all the ancient images are being discharged, for the Virgin is with child, the stone has been cut from the mountain, Jesse’s rod has blossomed and Gideon’s dew has now been poured out on earth. Peoples, let us cry out, ‘The King of Israel, Christ, is at hand!’"
@@ -826,6 +830,7 @@ meMA.Lauds3.incipit = "The One who worked wonders…"
 meMA.Lauds3.text = "The One who worked wonders and smote Egypt, rained Manna on the ungrateful people, becomes incarnate and suckles at the breast. Seen as a little child, he flees from Herod, borne on the Virgin Mother as on a light cloud, as Isaias, the most visionary of prophets foresaw."
 
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Lauds4.greekmelody = he.a.m6_en_UK_lash.heAU.AiAngelikai.greekname
 meMA.Lauds4.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.notmetered
 meMA.Lauds4.incipit = "The pre-existent Child, King of…"
 meMA.Lauds4.text = "The pre-existent Child, King of the ages, is willingly brought to birth and is given to us as a son. Listen, you Nations, Israel, give ear! Understand and be discomfited, for he is with us, the One grind down and wipe out from the earth every kingdom and rule that does not obey him."
@@ -841,6 +846,7 @@ meMA.LaudsBoth.incipit = "David, leap for joy, for…"
 meMA.LaudsBoth.text = "David, leap for joy, for Christ comes from your loins! Jesse, be glad, for your root has flowered! Juda, from your thigh the Lord will come forth. Nations he devours, as Balaam said. As great Isaias said, ‘See, the all-revered Virgin will give birth to a little child, Emmanuel’."
 
 meMA.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Aposticha1.greekmelody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.greekname
 meMA.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.notmetered
 meMA.Aposticha1.incipit = "The Star shines out already…"
 meMA.Aposticha1.text = "The Star shines out already in the Cave; you Shepherds with Angels, you Magi with gifts, get ready to arrive."
