@@ -88,6 +88,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C11.incipit = "Impart to me, Lord, who…"
 meMA.Ode1C11.text = "Impart to me, Lord, who now desire to sing the Seventh Council, the assembly of the seven gifts of the Paraclete, who made it wise with tongues of fire and silenced all blasphemous prattling."
@@ -112,6 +113,7 @@ meMA.Ode1C1T.text = "Now as the Fathers devoutly taught, we faithfully confess a
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.name
 meMA.Ode3C11.incipit = "Guided by Christ the godly…"
 meMA.Ode3C11.text = "Guided by Christ the godly Chief Shepherds, lest his Church, which cannot be broken, might be shaken, shook to their foundations as partners of Antichrist those who wished to shake the Church to its foundations."
@@ -146,6 +148,7 @@ meMA.Ode3KathismaT.text = "Come speedily to help us, pure Virgin Mother; deliver
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C11.incipit = "Sword and arrow, God's word…"
 meMA.Ode4C11.text = "Sword and arrow, God's word, in hand, the godlike Fathers utterly slaughtered all those ill disposed to the sign of the cross and who likewise do not honour the images of Christ, the Mother of God and all the Saints."
@@ -170,6 +173,7 @@ meMA.Ode4C1T.text = "Ever pure, you are my hope, and you are my song, you are my
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "Now the revered Fathers, having…"
 meMA.Ode5C11.text = "Now the revered Fathers, having deliberated together with lofty thought, have condemned the Iconoclasts as thinkers of strange thoughts; and decreed, as is fitting, that honour be paid to Christ's image."
@@ -188,6 +192,7 @@ meMA.Ode5C1T.text = "He, the Son of God, through his merciful compassion, was bo
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "Sweetness and rejoicing the mountains…"
 meMA.Ode6C11.text = "Sweetness and rejoicing the mountains have rained down; for the multitude of heretics has been scattered, which exuded bitter poison: the rejection of the holy images."
@@ -213,6 +218,7 @@ meMA.Oikos1.text = "The all-merciful God, wishing to rouse us always to the perf
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C11.incipit = "Overthrown are the leaders of…"
 meMA.Ode7C11.text = "Overthrown are the leaders of heresy by the teachings of the inspired men, who rightly transfer the honour given to the types to their archetypes, as Basil the Great said: Blessed is the God of our Fathers."
@@ -237,6 +243,7 @@ meMA.Ode7C1T.text = "For all the only hope of salvation, the all-pure Sovereign 
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C11.incipit = "The assembly of the Fathers…"
 meMA.Ode8C11.text = "The assembly of the Fathers excellently decreed, for those who honour God, a relative worship and the re-erection of the sacred image of Christ; but we lovers of true religion, as obedient children, celebrate their yearly memorial, and with longing we kiss Christ's image."
@@ -261,6 +268,7 @@ meMA.Ode8C1T.text = "By his mercy the Creator is willingly created as an infant 
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C11.incipit = "Lord most mighty and King…"
 meMA.Ode9C11.text = "Lord most mighty and King of all, great in might and counsel, who hold the universe in being, incomprehensible, alone God, strengthen the Church, protecting her by your orthodoxy, at the entreaties of the all-glorious Fathers, who have condemned false doctrine."

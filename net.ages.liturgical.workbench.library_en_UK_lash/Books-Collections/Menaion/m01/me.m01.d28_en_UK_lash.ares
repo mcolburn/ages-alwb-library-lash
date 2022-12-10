@@ -82,6 +82,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_DevoutMan.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "The gladdening shower of your…"
 meMA.Ode1C11.text = "The gladdening shower of your prayers water my soul parched by the drought of the passions, All blessed Father, and with your words breathe upon me who praise your festival."
@@ -106,6 +107,7 @@ meMA.Ode1C1T.text = "Without corruption you received the Word in your womb and g
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.name
 meMA.Ode3C11.incipit = "You cleansed yourself of all…"
 meMA.Ode3C11.text = "You cleansed yourself of all the slime of passion, showed yourself to be truly a vessel of virtues and a container of the gifts of grace of the Holy Spirit."
@@ -130,6 +132,7 @@ meMA.Ode3C1T.text = "One of the Holy Trinity in two natures incarnate in a manne
 
 meMA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3H.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3H.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.melody
 meMA.Ode3H.incipit = he.h.m6_en_UK_lash.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m6_en_UK_lash.heHE.OukEstinAgios.text
@@ -151,6 +154,7 @@ meMA.Ode3KathismaSt.text = "By the Cross of your Son, O Full of God’s grace, t
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "The power of your words…"
 meMA.Ode4C11.text = "The power of your words, blessed Father, has run through all the world, dispelling the blindness of souls by its elevating light."
@@ -181,6 +185,7 @@ meMA.Ode4C1T.text = "As a sacred enclosure, as a holy mountain, as a source of i
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "With the streams of your…"
 meMA.Ode5C11.text = "With the streams of your tears, blest Father, you completely dried up the sea of pleasures; and by the outpouring of your teachings you overwhelmed the torrents of heresies."
@@ -205,6 +210,7 @@ meMA.Ode5C1T.text = "By the assault of the serpent, evil tasting of the tree pro
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.name
 meMA.Ode6C11.incipit = "The God bearing Father, established…"
 meMA.Ode6C11.text = "The God bearing Father, established not on a foundation of sand but on unbreakable faith, remained unshaken by every assault of the foe, for he was governed by invincible power."
@@ -229,6 +235,7 @@ meMA.Ode6C1T.text = "He who as God is above all visible and invisible creation t
 
 meMA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6H.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6H.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.melody
 meMA.Ode6H.incipit = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.text
@@ -242,6 +249,7 @@ meMA.Oikos1.text = "Wishing to follow in the footsteps of the Forerunner, O Fath
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C11.incipit = "Most honoured Father, you were…"
 meMA.Ode7C11.text = "Most honoured Father, you were revealed as a most strict lawgiver for monks, anointing them against the holds of enemies; and so we honour on earth your revered and sacred memory."
@@ -260,6 +268,7 @@ meMA.Ode7C1T.text = "Your conceiving was beyond reason, Bride of God; for you bo
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C11.incipit = "You were revealed as a…"
 meMA.Ode8C11.text = "You were revealed as a second light bearing sun, shedding rays of teachings to the ends of the earth and you diminished the unlit darkness of every sin, blest Father, with the light of repentance."
@@ -278,12 +287,14 @@ meMA.Ode8C1T.text = "Confessing you as truly Mother of God, with faith we cry to
 
 meMA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8H.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8H.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8H.incipit = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8H.text = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.name
 meMA.Ode9C11.incipit = "Wounded with love of the…"
 meMA.Ode9C11.text = "Wounded with love of the Almighty, you passed your whole life grieving, crying out with amazement, venerable Father, ‘Loose the waves of your grace, my Saviour, preserving it richly for me in the life to come’."
@@ -308,6 +319,7 @@ meMA.Ode9C1T.text = "No human mind can comprehend the mystery understanding of y
 
 meMA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9H.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 meMA.Ode9H.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.melody
 meMA.Ode9H.incipit = he.h.m6_en_UK_lash.heHE.TheonAnthropois.incipit
 meMA.Ode9H.text = he.h.m6_en_UK_lash.heHE.TheonAnthropois.text

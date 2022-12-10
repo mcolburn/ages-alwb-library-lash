@@ -102,6 +102,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_Baptist.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "Shoot of a barren woman…"
 meMA.Ode1C11.text = "Shoot of a barren woman, pluck from my barren soul my fruitless thoughts as I begin to praise your Conception in a barren womb."
@@ -126,6 +127,7 @@ meMA.Ode1C1T.text = "Seeing the Master being carried in your womb, all-pure Moth
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.name
 meMA.Ode3C11.incipit = "The barren woman today conceives…"
 meMA.Ode3C11.text = "The barren woman today conceives a sacred fruit, which afterwards is going by grace to cut out with the spiritual axe all fruitlessness of souls."
@@ -160,6 +162,7 @@ meMA.Ode3KathismaT.text = he.a.m4_en_UK_lash.heAU.KateplagiIosif.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "The voice of an Angel…"
 meMA.Ode4C11.text = "The voice of an Angel sacredly announced beforehand to the priest that you would spring from a barren womb as truly the messenger of Christ's coming, blest Forerunner."
@@ -184,6 +187,7 @@ meMA.Ode4C1T.text = "The womb of the Virgin was carrying you who carry the unive
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "To the Prophet, as he…"
 meMA.Ode5C11.text = "To the Prophet, as he was entering the Sanctuary and offering the service according to the law to the Maker, a holy Angel appeared, announcing the divine conception of the Forerunner."
@@ -208,6 +212,7 @@ meMA.Ode5C1T.text = "Blessed are you among women, O full of God's grace, Elizabe
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.name
 meMA.Ode6C11.incipit = "My mind is full of…"
 meMA.Ode6C11.text = "My mind is full of doubt and I do not believe your words, the priest said to the Archangel; for I asked salvation for the people, not fruit from my loins."
@@ -239,6 +244,7 @@ meMA.Oikos1.text = "Let us open the sacred Gospel, which holy and wondrous Luke 
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C11.incipit = "As you have not believed…"
 meMA.Ode7C11.text = "As you have not believed my words receive dumbness for all to see; and when you see the voice of the Word being brought to birth, receive your voice again, crying out: Blessed are you, the God of Israel."
@@ -263,6 +269,7 @@ meMA.Ode7C1T.text = "The moon, Elizabeth, carrying within her a divine star, the
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C11.incipit = "The friend of the Bridegroom…"
 meMA.Ode8C11.text = "The friend of the Bridegroom is being made ready, the voice of the Word begins to be, and is nourished by barren loins, he the great soldier of the universal King."
@@ -287,6 +294,7 @@ meMA.Ode8C1T.text = "As Elizabeth contemplated you, O Maiden, bearing child, ins
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.name
 meMA.Ode9C11.incipit = "The great and godlike Forerunner…"
 meMA.Ode9C11.text = "The great and godlike Forerunner of Christ, having now opened the sterile gates, dwells in his mother's womb as in a palace. Like a soldier he will come forth ahead of the universal King to prepare his ways."

@@ -78,6 +78,7 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintsM.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode1C11.greekmelody = he.h.m1_en_UK_lash.heHE.SouITropaiouchos.greekname
 meMA.Ode1C11.melody = he.h.m1_en_UK_lash.heHE.SouITropaiouchos.name
 meMA.Ode1C11.incipit = "Master, as I propose to sing…"
 meMA.Ode1C11.text = "Master, as I propose to sing the praise of the skilled demolishers of error, I call on your almighty grace from on high, and on your force; for you are indeed the right hand and power of the Father."
@@ -108,6 +109,7 @@ meMA.Ode1C1T.text = "As through God's action you con­tained in your womb the Li
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C21.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C21.incipit = "The devout gathering of the…"
 meMA.Ode1C21.text = "The devout gathering of the Fathers, which was welded together against Eftyches, following and abiding by the teachings of the godlike Father, Cyril, truly defined the Saviour with two undivided natures."
@@ -132,6 +134,7 @@ meMA.Ode1C2T.text = "Glorious things have been spoken of you from generation to 
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3C11.greekmelody = he.h.m1_en_UK_lash.heHE.OMonosEidos.greekname
 meMA.Ode3C11.melody = he.h.m1_en_UK_lash.heHE.OMonosEidos.name
 meMA.Ode3C11.incipit = "The first source of blessings…"
 meMA.Ode3C11.text = "The first source of blessings, the grace of the Spirit, opened your mouths as rivers which sweep away error, glorious Fathers, and give the faithful streams of true religion to drink, the preaching of Prophets and Apostles."
@@ -156,6 +159,7 @@ meMA.Ode3C1T.text = "We who long to see the rays of the Spirit's grace and the d
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C21.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.name
 meMA.Ode3C21.incipit = "You that without shame pride…"
 meMA.Ode3C21.text = "You that without shame pride yourselves on the words of Severos, which are full of death-dealing poison, may you be ever put to shame and all depart from the Church, like wolves and ravaging dogs."
@@ -190,6 +194,7 @@ meMA.Ode3KathismaT.text = me.m03.d28_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode4C11.greekmelody = he.h.m1_en_UK_lash.heHE.OrosSeTiChariti.greekname
 meMA.Ode4C11.melody = he.h.m1_en_UK_lash.heHE.OrosSeTiChariti.name
 meMA.Ode4C11.incipit = "Wise fathers, making the laws…"
 meMA.Ode4C11.text = "Wise fathers, making the laws of the Spirit your meditation, you received the practical laws sent to you from Rome, and unfolding them by the light of the Spirit, you firmly estab­lished the Church."
@@ -214,6 +219,7 @@ meMA.Ode4C1T.text = "O Virgin, who gave birth,  to the empersonned Word of God a
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C21.incipit = "Explain to us, insane and…"
 meMA.Ode4C21.text = "Explain to us, insane and foolish Severos, how the light without be­ginning, the Word and Son of the Father is one composite nature; for if you spoke thus, you would signify another nature; for the flesh and the Word are not one essence, wretch, but two."
@@ -238,6 +244,7 @@ meMA.Ode4C2T.text = "You, Mother of God, are the Cheru­bim chariot; you the pla
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode5C11.greekmelody = he.h.m1_en_UK_lash.heHE.OFotisasTiEllampsei.greekname
 meMA.Ode5C11.melody = he.h.m1_en_UK_lash.heHE.OFotisasTiEllampsei.name
 meMA.Ode5C11.incipit = "Christ declared you, God-bearing Fathers…"
 meMA.Ode5C11.text = "Christ declared you, God-bearing Fathers, to be lawgivers guiding the new Israel, like Moses, and like him drowning the hostile Pharao in the dread deep of destruction."
@@ -268,6 +275,7 @@ meMA.Ode5C1T.text = "Maiden, you are all enlightenment and radiance, for you wer
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C21.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C21.incipit = "Lawless Severos, do not dreadfully…"
 meMA.Ode5C21.text = "Lawless Severos, do not dreadfully confound the natures of Christ; for all the worshippers and all-blessed Teachers in their preaching have set forth Christ in two natures and one person."
@@ -292,6 +300,7 @@ meMA.Ode5C2T.text = "Having obtained a mother's boldness towards your Son, O All
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode6C11.greekmelody = he.h.m1_en_UK_lash.heHE.SplanchnonIonan.greekname
 meMA.Ode6C11.melody = he.h.m1_en_UK_lash.heHE.SplanchnonIonan.name
 meMA.Ode6C11.incipit = "The truly dread assembly uttered…"
 meMA.Ode6C11.text = "The truly dread assembly uttered a strange and new confounding of the natures of Christ, confounding the double energies into an energy one and monstrous; which the fullness of the holy orthodox regions rejected."
@@ -322,6 +331,7 @@ meMA.Ode6C1T.text = "All-blameless Lady, you have become the door of the divine 
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C21.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C21.incipit = "The two letters of Cyril…"
 meMA.Ode6C21.text = "The two letters of Cyril, once sent to Succensus, the leader of the East, refute all the error of Severos, as they devoutly proclaim Christ."
@@ -347,6 +357,7 @@ meMA.Oikos1.text = "Let us listen to the Church of God as she cries with exalted
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode7C11.greekmelody = he.h.m1_en_UK_lash.heHE.SeNoitin.greekname
 meMA.Ode7C11.melody = he.h.m1_en_UK_lash.heHE.SeNoitin.name
 meMA.Ode7C11.incipit = "Acknowledging you the Son of…"
 meMA.Ode7C11.text = "Acknowledging you the Son of God and Son of man, the choirs of theologians of old proclaimed you, Master who love mankind, as double in wills and energies, confident in the duality of your two natures."
@@ -377,6 +388,7 @@ meMA.Ode7C1T.text = "Christ, the highly exalted, the light that knows no evening
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C21.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C21.incipit = "Confessing Christ to be in…"
 meMA.Ode7C21.text = "Confessing Christ to be in two natures and energies without confusion and without change, we reject the error of Severos. Therefore we cry to him who underwent suffering by the assumption of the flesh: Blessed is the God of our Fathers."
@@ -401,6 +413,7 @@ meMA.Ode7C2Tr.text = "We proclaim you Lord of all teaching with right belief tha
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode8C11.greekmelody = he.h.m1_en_UK_lash.heHE.EnKaminoPaides.greekname
 meMA.Ode8C11.melody = he.h.m1_en_UK_lash.heHE.EnKaminoPaides.name
 meMA.Ode8C11.incipit = "The Fathers, moving out, as…"
 meMA.Ode8C11.text = "The Fathers, moving out, as from head-quarters, from  the inspired teaching of the Apostles and Prophets, proclaimed: Christ, the Lord of all, is one in person, double in natures, double in energies."
@@ -425,6 +438,7 @@ meMA.Ode8C1T.text = "You are wholly Maiden, wholly fair, wholly formed of light,
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C21.incipit = "Let faces be ashamed and…"
 meMA.Ode8C21.text = "Let faces be ashamed and the mouths be muzzled of those who do not proclaim one Son in two natures without division, without change and without confusion; for we orthodox all agree in holding that Christ acts and wills not indeed by one and then another person, but in accordance with both natures."
@@ -449,6 +463,7 @@ meMA.Ode8C2Tr.text = "The Godhead of triple light, shining out with a single bea
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode9C11.greekmelody = he.h.m1_en_UK_lash.heHE.TyponTisAgnis.greekname
 meMA.Ode9C11.melody = he.h.m1_en_UK_lash.heHE.TyponTisAgnis.name
 meMA.Ode9C11.incipit = "Having in yourselves, blessed Fathers…"
 meMA.Ode9C11.text = "Having in yourselves, blessed Fathers, Christ who of old spoke the things of God, and being now united purely to the Pure, establish his Church, which you truly made firm by mighty sweat and toils."
@@ -479,6 +494,7 @@ meMA.Ode9C1T.text = "You are a golden flourish and godly conclusion to my song, 
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C21.incipit = "Crafty Severos passed through the…"
 meMA.Ode9C21.text = "Crafty Severos passed through the unsullied Church and by the vote of the devout Fathers he justly received the penalty for his blasphemy and babble, and condemned he is thrown out of the company of the Teachers."

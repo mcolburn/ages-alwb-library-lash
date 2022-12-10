@@ -220,12 +220,14 @@ meMA.C3.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C11.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode1C11.incipit
 meMA.Ode1C11.text = me.m07.d27_en_UK_lash.meMA.Ode1C11.text
@@ -244,6 +246,7 @@ meMA.Ode1C13.text = me.m07.d27_en_UK_lash.meMA.Ode1C13.text
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C21.greekmelody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C21.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C21.incipit = "Having received the kingdom of…"
 meMA.Ode1C21.text = "Having received the kingdom of heaven which you proclaimed, blessed Saint, and become a heavenly companion to the Word, by your entreaties guard those who believe your honoured proclamation and theology."
@@ -268,6 +271,7 @@ meMA.Ode1C2T.text = "The choir of godly maidens, greatly inspired, sing of you a
 
 meMA.Ode1C31.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C31.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C31.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C31.incipit = "Illumined in thought, you bent…"
 meMA.Ode1C31.text = "Illumined in thought, you bent down into the deeps of the Spirit and made clear to us the dread begetting, crying out: In the beginning was the Word of God."
@@ -292,12 +296,14 @@ meMA.Ode1C3T.text = "On the day of judgement, Pure Virgin, who conceived the God
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.incipit
 meMA.Ode3C1H.text = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C11.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.name
 meMA.Ode3C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode3C11.incipit
 meMA.Ode3C11.text = me.m07.d27_en_UK_lash.meMA.Ode3C11.text
@@ -316,6 +322,7 @@ meMA.Ode3C13.text = me.m07.d27_en_UK_lash.meMA.Ode3C13.text
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C21.greekmelody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C21.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.name
 meMA.Ode3C21.incipit = "With your theologian's tongue, John…"
 meMA.Ode3C21.text = "With your theologian's tongue, John blessed by God, you revealed the mystery beyond understanding of the Trinity, by which my heart has been established."
@@ -340,6 +347,7 @@ meMA.Ode3C2T.text = "We honour you, All-blameless, the only Virgin and Mother, w
 
 meMA.Ode3C31.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C31.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3C31.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.name
 meMA.Ode3C31.incipit = "With bright and pure mind…"
 meMA.Ode3C31.text = "With bright and pure mind, thrice-blessed Theologian, you spoke with the Word, were initiated by him with things clearly beyond reason and you enlightened all creation."
@@ -374,12 +382,14 @@ meMA.Ode3KathismaT.text = "As you bore the merciful and compassionate Word, Sove
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.incipit
 meMA.Ode4C1H.text = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode4C11.incipit
 meMA.Ode4C11.text = me.m07.d27_en_UK_lash.meMA.Ode4C11.text
@@ -398,6 +408,7 @@ meMA.Ode4C13.text = me.m07.d27_en_UK_lash.meMA.Ode4C13.text
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C21.greekmelody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C21.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C21.incipit = "Fittingly the Word declared you…"
 meMA.Ode4C21.text = "Fittingly the Word declared you a theologian, O most excellent, for he initiated you into his Godhead and taught you the ineffable dispensation as man."
@@ -422,6 +433,7 @@ meMA.Ode4C2T.text = "To heal the ancient transgression of Eve, he who is above a
 
 meMA.Ode4C31.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C31.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C31.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.name
 meMA.Ode4C31.incipit = "Drops of the Word, glorious…"
 meMA.Ode4C31.text = "Drops of the Word, glorious Apostle, you used to water the whole face of the earth and devoutly dried up the muddy waters of impiety; therefore we honour you."
@@ -446,12 +458,14 @@ meMA.Ode4C3T.text = "Now let us openly hymn the divine enclosure of God, the Hol
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_UK_lash.heHE.MesitisTheou.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.heHE.MesitisTheou.incipit
 meMA.Ode5C1H.text = he.h.m2_en_UK_lash.heHE.MesitisTheou.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_UK_lash.heHE.MesitisTheou.greekname
 meMA.Ode5C11.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.name
 meMA.Ode5C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode5C11.incipit
 meMA.Ode5C11.text = me.m07.d27_en_UK_lash.meMA.Ode5C11.text
@@ -470,6 +484,7 @@ meMA.Ode5C13.text = me.m07.d27_en_UK_lash.meMA.Ode5C13.text
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C21.greekmelody = he.h.m2_en_UK_lash.heHE.MesitisTheou.greekname
 meMA.Ode5C21.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.name
 meMA.Ode5C21.incipit = "You appeared as a heavenly…"
 meMA.Ode5C21.text = "You appeared as a heavenly mind, O Theologian, by grace having become all light by your nearness to the source of light, and by your eager straining towards him becoming divine."
@@ -494,6 +509,7 @@ meMA.Ode5C2T.text = "Mindful of your words we now call you blessed, O All-blamel
 
 meMA.Ode5C31.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C31.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C31.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.name
 meMA.Ode5C31.incipit = "Like morning you made the…"
 meMA.Ode5C31.text = "Like morning you made the spiritual dawn shine for those on earth, O Apostle, proclaiming to the world his dwelling in it with a body and his dispelling the darkness of the cult of many gods."
@@ -518,12 +534,14 @@ meMA.Ode5C3T.text = "As you stood with the beloved Disciple by the Cross of your
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode6C11.incipit
 meMA.Ode6C11.text = me.m07.d27_en_UK_lash.meMA.Ode6C11.text
@@ -542,6 +560,7 @@ meMA.Ode6C13.text = me.m07.d27_en_UK_lash.meMA.Ode6C13.text
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C21.greekmelody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C21.incipit = "Jesus, my God and Lord…"
 meMA.Ode6C21.text = "Jesus, my God and Lord, con­tented with your purity and total chastity, O Theologian, made you his brother."
@@ -566,6 +585,7 @@ meMA.Ode6C2T.text = "He who stretched taut the heavens by his will, made wide an
 
 meMA.Ode6C31.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C31.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C31.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.name
 meMA.Ode6C31.incipit = "Truly your theologian's tongue was…"
 meMA.Ode6C31.text = "Truly your theologian's tongue was like the pen of a swift writer, writing well true knowledge and a brand new law, O Theologian, on the tables of our hearts."
@@ -597,12 +617,14 @@ meMA.Oikos1.text = "To learn wholly the high secrets of heaven, to investigate t
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.incipit
 meMA.Ode7C1H.text = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.greekname
 meMA.Ode7C11.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode7C11.incipit
 meMA.Ode7C11.text = me.m07.d27_en_UK_lash.meMA.Ode7C11.text
@@ -621,6 +643,7 @@ meMA.Ode7C13.text = me.m07.d27_en_UK_lash.meMA.Ode7C13.text
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C21.greekmelody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.greekname
 meMA.Ode7C21.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C21.incipit = "Shining with the outpouring of…"
 meMA.Ode7C21.text = "Shining with the outpouring of the divine light, you clearly revealed the Holy Spirit who proceeds from the Father who has no beginning, and rests in the Son as inseparably consubstantial."
@@ -645,6 +668,7 @@ meMA.Ode7C2T.text = "You alone displayed all-immaculate conceiving, child-birth 
 
 meMA.Ode7C31.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C31.greekmelody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C31.melody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C31.incipit = "Let us hymn the thunder…"
 meMA.Ode7C31.text = "Let us hymn the thunder which re-echoed to all the ends of the earth, through whom every senseless report has been removed from earth and Christ, the Maker of the universe is magnified."
@@ -669,12 +693,14 @@ meMA.Ode7C3T.text = "We bless you, O all-blameless, who bore the blessed Lord, w
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_UK_lash.heHE.KaminosPote.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.heHE.KaminosPote.incipit
 meMA.Ode8C1H.text = he.h.m2_en_UK_lash.heHE.KaminosPote.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_UK_lash.heHE.KaminosPote.greekname
 meMA.Ode8C11.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.name
 meMA.Ode8C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode8C11.incipit
 meMA.Ode8C11.text = me.m07.d27_en_UK_lash.meMA.Ode8C11.text
@@ -693,6 +719,7 @@ meMA.Ode8C13.text = me.m07.d27_en_UK_lash.meMA.Ode8C13.text
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C21.greekmelody = he.h.m2_en_UK_lash.heHE.KaminosPote.greekname
 meMA.Ode8C21.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.name
 meMA.Ode8C21.incipit = "Like a flash of light…"
 meMA.Ode8C21.text = "Like a flash of light passing through the inhabited world, you appeared, blessed Saint, shining on the world with the radiance of chastity, the brightness of virginity and the doctrines of true religion, beloved of Christ our God."
@@ -717,6 +744,7 @@ meMA.Ode8C2T.text = "That you might abolish the former curse and the sentence of
 
 meMA.Ode8C31.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C31.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C31.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C31.incipit = "You gained a skilful tongue…"
 meMA.Ode8C31.text = "You gained a skilful tongue, blessed saint, and gave life to those dead through wickedness who accepted your sacred preaching; therefore we honour you as initiate of ineffable mysteries."
@@ -741,12 +769,14 @@ meMA.Ode8C3T.text = "O full of God's grace, ask Jesus the Saviour, who took his 
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.incipit
 meMA.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C11.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C11.incipit = me.m07.d27_en_UK_lash.meMA.Ode9C11.incipit
 meMA.Ode9C11.text = me.m07.d27_en_UK_lash.meMA.Ode9C11.text
@@ -765,6 +795,7 @@ meMA.Ode9C13.text = me.m07.d27_en_UK_lash.meMA.Ode9C13.text
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C21.greekmelody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C21.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C21.incipit = "Now not dimly, but face…"
 meMA.Ode9C21.text = "Now not dimly, but face to face, you have been granted to see the flood of delight, the river of peace, and the fount of immortality; drawing from which you divine life."
@@ -789,6 +820,7 @@ meMA.Ode9C2T.text = "Like early dawn you were found, blazing in the night of lif
 
 meMA.Ode9C31.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C31.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 meMA.Ode9C31.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.name
 meMA.Ode9C31.incipit = "Sovereign Lord of times and…"
 meMA.Ode9C31.text = "Sovereign Lord of times and seasons, the Redeemer was hanged upon the tree in the middle of the day and entrusted to you, blessed Apostle, as a virgin, the Ever-Virgin, giving an irremovable glory to magnify you."

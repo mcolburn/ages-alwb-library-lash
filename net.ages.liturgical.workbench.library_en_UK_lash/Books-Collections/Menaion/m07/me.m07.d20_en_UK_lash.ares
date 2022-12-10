@@ -153,6 +153,7 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_Prophet.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_UK_lash.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m2_en_UK_lash.heHE.AsomenToKyrio.name
 meMA.Ode1C11.incipit = "Chosen to sing the fire-breathing…"
 meMA.Ode1C11.text = "Chosen to sing the fire-breathing power of the wonders of Elias, fittingly we have summoned the strength of the fire-formed and holy tongue of the Spirit."
@@ -177,6 +178,7 @@ meMA.Ode1C1T.text = "O only blessed one, pure and godlike treasure of purity, pu
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C21.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C21.incipit = "As to the widow's son…"
 meMA.Ode1C21.text = "As to the widow's son, give life to my soul, which has become a corpse, and make it bright with godly virtues, blessed Saint, guide it towards life and make it a partaker of everlasting delight, longing to take delight in you."
@@ -201,6 +203,7 @@ meMA.Ode1C2T.text = "God who is beyond being was incarnate from you, O All-blame
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.greekname
 meMA.Ode3C11.melody = he.h.m2_en_UK_lash.heHE.EnPetraMeTisPisteos.name
 meMA.Ode3C11.incipit = "How excellent, O Prophet, the…"
 meMA.Ode3C11.text = "How excellent, O Prophet, the Host who through ravens provided for a sumptuous banquet, who alone fills everything living with good-pleasure, to whom we cry: You are our God, and none is Holy but you, O Lord."
@@ -225,6 +228,7 @@ meMA.Ode3C1T.text = "You alone beyond all those from every age were counted wort
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.greekname
 meMA.Ode3C21.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.name
 meMA.Ode3C21.incipit = "The priests of shame as…"
 meMA.Ode3C21.text = "The priests of shame as enemies you slew, glorious Prophet, aflame with zeal for God. Therefore I cry to you: Snatch me from the works of shame and the everlasting fire."
@@ -259,6 +263,7 @@ meMA.Ode3KathismaT.text = "All generations of mankind call you blessed, as Virgi
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C11.incipit = "You appeared clearly, O Prophet…"
 meMA.Ode4C11.text = "You appeared clearly, O Prophet, as pruner of evil but planter of virtue; therefore we honour you."
@@ -283,6 +288,7 @@ meMA.Ode4C1T.text = "Like a fruitful vine, Pure Virgin, you bore a cluster to gu
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C21.incipit = "God turned all your fiery…"
 meMA.Ode4C21.text = "God turned all your fiery zeal and sent you to nourish a widow, inspired Elias, who by a woman's threat had of old become a fugitive. And so I implore you to nourish my hungry soul with divine gifts of grace."
@@ -307,6 +313,7 @@ meMA.Ode4C2T.text = "All-blameless Lady, with all the heavenly Powers, with all 
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.name
 meMA.Ode5C11.incipit = "The Law of the Fathers…"
 meMA.Ode5C11.text = "The Law of the Fathers showed you, Elias, to be an all true intercessor, a worker of marvels who turned natures from their elements, and burned up a holy sacrifice with water."
@@ -331,6 +338,7 @@ meMA.Ode5C1T.text = "To you who gave birth to Christ the Creator of the universe
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C21.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C21.incipit = "Ablaze with the zeal of…"
 meMA.Ode5C21.text = "Ablaze with the zeal of the faith you shut up the clouds that give birth to rain; but, I beg you, Elias, by your sacred mediation water my soul, melted by the flame of pleasures, with divine showers, and save me."
@@ -355,6 +363,7 @@ meMA.Ode5C2T.text = "The Word beyond being came down upon you like rain; entreat
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.name
 meMA.Ode6C11.incipit = "Inspired, god-bearing Elias, you became…"
 meMA.Ode6C11.text = "Inspired, god-bearing Elias, you became a figure of godliness and of unsullied life, a husbandman of purity and an image of Angels."
@@ -379,6 +388,7 @@ meMA.Ode6C1T.text = "The bush on Sinai close companion to the fire yet unconsume
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C21.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C21.incipit = "Be gracious to me, Saviour…"
 meMA.Ode6C21.text = "Be gracious to me, Saviour, who have foolishly sinned greatly against you, and ransom me from the punishment that awaits me in the world to come, for you have great Elias and your most pure Mother entreating you."
@@ -410,6 +420,7 @@ meMA.Oikos1.text = "When he contemplated the great lawlessness of mankind and th
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_UK_lash.heHE.VatosEnOrei.greekname
 meMA.Ode7C11.melody = he.h.m2_en_UK_lash.heHE.VatosEnOrei.name
 meMA.Ode7C11.incipit = "Clothed with power that was…"
 meMA.Ode7C11.text = "Clothed with power that was marvellously formed for you from God, with only one meal, inspired Elias, you ended the long journey of forty days. And so at Horeb you danced and sang: Blessed is the God of our Fathers."
@@ -434,6 +445,7 @@ meMA.Ode7C1T.text = "The all-good Word of God the Father dwelt supernaturally in
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C21.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C21.incipit = "Taking pity on a people…"
 meMA.Ode7C21.text = "Taking pity on a people that was perishing, glorious Prophet, with zeal of faith and godly invocations you brought down fire that consumed a holy sacrifice. Therefore I implore you: deliver me from the eternal flame and save me."
@@ -458,6 +470,7 @@ meMA.Ode7C2T.text = "O All-praised, I hymn you and I magnify your pure child-bea
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.greekname
 meMA.Ode8C11.melody = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.name
 meMA.Ode8C11.incipit = "At the reproof of a…"
 meMA.Ode8C11.text = "At the reproof of a Prophet, Achab found the total destruction of the race plausible as a reward for murderous defilement; but the Thesbite from his mind that breathed fire sang this hymn to the Giver of life: Praise the Lord, you his works, and highly exalt him to all the ages."
@@ -476,6 +489,7 @@ meMA.Ode8C1T.text = "Christ, the shoot beyond godhead of the Virgin, revealed yo
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C21.incipit = "We know you to have…"
 meMA.Ode8C21.text = "We know you to have been a vessel that contained the Spirit of God; for you, Elias, were an angel on earth who breathed the fire of divine zeal, routed impiety, rebuked kings, anointed prophets and cut off the priests of shame with the sword. And so we cry to you: Deliver us from shame to come."
@@ -506,6 +520,7 @@ meMA.Ode8C2T.text = "Born from you Emmanuel appeared framing laws of true religi
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C11.melody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.name
 meMA.Ode9C11.incipit = "Having lived on earth a…"
 meMA.Ode9C11.text = "Having lived on earth a path of life unchanged by men, and crossed the stream of Jordan with his cloak, the Thesbite, as charioteer of the air, through the Spirit completed the strange path of his journey to heaven."
@@ -530,6 +545,7 @@ meMA.Ode9C1T.text = "O Mother of God, who abolished the severe ancient sentence,
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C21.incipit = "You were counted worthy to…"
 meMA.Ode9C21.text = "You were counted worthy to see God in a light breeze, as far it is possible to see him, having before made your body light by an ascetic life, glorious Prophet; therefore I implore you that, lightening the grossness of my mind by your prayers, you would shine on me with divine beams of repentance."

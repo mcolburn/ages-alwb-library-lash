@@ -102,6 +102,7 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "The One who before was…"
 meMA.Ode1C11.text = "The One who before was without a body, by the Father's good pleasure did not refuse to be formed with a body like ours, and has granted us the grace of a divine representation."
@@ -126,6 +127,7 @@ meMA.Ode1C1T.text = "Taking flesh from your pure loins in a manner above nature,
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C21.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -150,6 +152,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.name
 meMA.Ode3C11.incipit = "You wrapped the honoured Church…"
 meMA.Ode3C11.text = "You wrapped the honoured Church around with raiment, O Saviour, when you moved the royal heart to seek out your likeness as a shield wall."
@@ -174,6 +177,7 @@ meMA.Ode3C1T.text = "Wishing to cut out from its root all the forefather's natur
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.greekname
 meMA.Ode3C21.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -198,6 +202,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.greekname
 meMA.Ode3H.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.melody
 meMA.Ode3H.incipit = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.incipit
 meMA.Ode3H.text = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.text
@@ -219,6 +224,7 @@ meMA.Ode3Kathisma3.text = "O Virgin, who conceived God without seed and without 
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "As it leaves the city…"
 meMA.Ode4C11.text = "As it leaves the city in the East and draws near ours, the King, wise in God, now receives your sacred napkin."
@@ -243,6 +249,7 @@ meMA.Ode4C1T.text = "Intercede we beg, O most pure, that your city may be guarde
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_UK_lash.heHE.TinAnexichniaston.greekname
 meMA.Ode4C21.melody = he.h.m4_en_UK_lash.heHE.TinAnexichniaston.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -267,6 +274,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "Small was the city that…"
 meMA.Ode5C11.text = "Small was the city that first prepared your reception, O Christ, which the coming of Thaddaios set free from diseases, the writing of your hand and the depiction of your face."
@@ -285,6 +293,7 @@ meMA.Ode5C1T.text = "Halt the massed assaults of our enemies, O Virgin; destroy 
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.greekname
 meMA.Ode5C21.melody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -309,6 +318,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_UK_lash.heHE.SyneschethiAllOuKateschethi.greekname
 meMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.SyneschethiAllOuKateschethi.name
 meMA.Ode6C11.incipit = "You were fairer in beauty…"
 meMA.Ode6C11.text = "You were fairer in beauty beyond all the sons of mortals, O Saviour; for though you had neither form nor beauty at the moment of your passion, yet you truly enlightened all things, and the sight of your form is revealed. Its likeness, imprinted on a cloth, has been granted to us."
@@ -327,6 +337,7 @@ meMA.Ode6C1T.text = "Just now I was fainting, O Saviour, from the strength from 
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.greekname
 meMA.Ode6C21.melody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -351,6 +362,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.greekname
 meMA.Ode6H.melody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.melody
 meMA.Ode6H.incipit = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.incipit
 meMA.Ode6H.text = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.text
@@ -363,6 +375,7 @@ meMA.Kontakion1ger.text = ""
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.greekname
 meMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.OiPaidesEnVavyloni.name
 meMA.Ode7C11.incipit = "O Word of God, when…"
 meMA.Ode7C11.text = "O Word of God, when you dwelt on earth you drove out every disease with a word; but returning to your Father's throne you heal our diseases through your Imprint."
@@ -387,6 +400,7 @@ meMA.Ode7C1T.text = "By your conceiving humanity was freed from the ancient cond
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.greekname
 meMA.Ode7C21.melody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -411,6 +425,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_UK_lash.heHE.NomonPatroon.greekname
 meMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.NomonPatroon.name
 meMA.Ode8C11.incipit = "As in a vision, the…"
 meMA.Ode8C11.text = "As in a vision, the whole chosen people of the city, hoping that you, the Lord, will make your home there, gives you a wondrous welcome, leading out a choir of High Priests, carried on whose shoulders and entering your own inheritance, O Compassionate, you came to rest in your Mother's shrine."
@@ -429,6 +444,7 @@ meMA.Ode8C1T.text = "The Angel of Great Counsel of the Father, having chosen to 
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.greekname
 meMA.Ode8C21.melody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -453,12 +469,14 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.greekname
 meMA.Ode8H.melody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.melody
 meMA.Ode8H.incipit = he.h.m4_en_UK_lash.heHE.PaidasEvageis.incipit
 meMA.Ode8H.text = he.h.m4_en_UK_lash.heHE.PaidasEvageis.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_UK_lash.heHE.XeniasDespotikis.greekname
 meMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.XeniasDespotikis.name
 meMA.Ode9C11.incipit = "A people without understanding raved…"
 meMA.Ode9C11.text = "A people without understanding raved against you, O Saviour, and in return for kindness shamelessly threatened dreadful deeds against you; but we, who had been thrust far away, were adopted as children by your sufferings, O Saviour."
@@ -477,6 +495,7 @@ meMA.Ode9C1T.text = "The Word of God, bearing a body, appeared to those on earth
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_UK_lash.heHE.ApasGigenis.greekname
 meMA.Ode9C21.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -501,6 +520,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_UK_lash.heHE.ApasGigenis.greekname
 meMA.Ode9H.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.melody
 meMA.Ode9H.incipit = he.h.m4_en_UK_lash.heHE.ApasGigenis.incipit
 meMA.Ode9H.text = he.h.m4_en_UK_lash.heHE.ApasGigenis.text

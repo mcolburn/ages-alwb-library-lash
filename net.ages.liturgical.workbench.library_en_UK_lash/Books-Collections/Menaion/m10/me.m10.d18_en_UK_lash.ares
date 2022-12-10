@@ -112,6 +112,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_Apostle.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.IKekommeni.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.IKekommeni.name
 meMA.Ode1C11.incipit = "Knowing your mouth, O wise…"
 meMA.Ode1C11.text = "Knowing your mouth, O wise Apostle Luke, to be a divine mixing bowl of the wisdom from in high and enriched with the great and ineffable treasure of grace we draw from it eagerly, as we chant to the Lord; for he has been greatly glorified."
@@ -136,6 +137,7 @@ meMA.Ode1C1T.text = "Apostle Luke, you made clear the manner of the ineffable an
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "Your Gospel, inspired Luke, makes…"
 meMA.Ode3C11.text = "Your Gospel, inspired Luke, makes present the Dayspring from on high that has overshadowed mankind."
@@ -160,6 +162,7 @@ meMA.Ode3C1T.text = "As you prophesied, O Immaculate, all the generations of man
 
 meMA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.text
@@ -176,6 +179,7 @@ meMA.Ode3KathismaT.text = "Let us sing the praise of the heavenly gate and ark, 
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.EpevisEfIppous.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.EpevisEfIppous.name
 meMA.Ode4C11.incipit = "As you were seen to…"
 meMA.Ode4C11.text = "As you were seen to be enlightened by the radiance of the Spirit, you were counted worthy to depict by your hands his laws for those who love God, those who sing with faith, 'Glory to your power, O Lord!'"
@@ -206,6 +210,7 @@ meMA.Ode4C1T.text = "The Lord has put down the mighty from their thrones, as the
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.FotisonImas.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.FotisonImas.notmetered
 meMA.Ode5C11.incipit = "Purified by the law of…"
 meMA.Ode5C11.text = "Purified by the law of love from former stains, you received in your heart, Luke, the spiritual light and shared it with all."
@@ -230,6 +235,7 @@ meMA.Ode5C1T.text = "Hail, truly the treasure house of virginity, the restoratio
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.notmetered
 meMA.Ode6C11.incipit = "Having ascended to the mountain…"
 meMA.Ode6C11.text = "Having ascended to the mountain of the virtues, O Apostle, you conversed with the beloved, and like Moses you received the twin tables written by God inscribed by the finger of the Spirit, blessed Luke, teacher of the inhabited world."
@@ -254,6 +260,7 @@ meMA.Ode6C1T.text = "The Lord, as he is mighty, renewing my nature, regarded you
 
 meMA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
@@ -267,6 +274,7 @@ meMA.Oikos1.text = "As physician and beloved disciple, Luke, heal by mystical su
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.PaidesEvraion.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.PaidesEvraion.name
 meMA.Ode7C11.incipit = "Ah, how the Master is…"
 meMA.Ode7C11.text = "Ah, how the Master is made manifest from the tomb to Luke and Cleopas! For having risen he taught them to cry, 'Blessed are you, Lord God to the ages!'"
@@ -291,6 +299,7 @@ meMA.Ode7C1T.text = "Hail Mary, Mother of God, the Bodiless Angel cried out you,
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.name
 meMA.Ode8C11.incipit = "Having received your books as…"
 meMA.Ode8C11.text = "Having received your books as tables written by God, let us faithfully delight in the illumination of grace, O all-blessed, as we praise the Lord and highly exalt him to all the ages."
@@ -321,12 +330,14 @@ meMA.Ode8C1T.text = "Revealed as a Prophetess, Elizabeth, bearing the Baptist an
 
 meMA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.greekname
 meMA.Ode8H.melody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.melody
 meMA.Ode8H.incipit = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.incipit
 meMA.Ode8H.text = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.OrousParilthes.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.OrousParilthes.name
 meMA.Ode9C11.incipit = "You took your stand, Luke…"
 meMA.Ode9C11.text = "You took your stand, Luke, as having reached the final goal of the yearning for things desired, and you clearly met a blessed end, the mirrors having being removed at the manifestations of the truth."
@@ -357,6 +368,7 @@ meMA.Ode9C1T.text = "You received the Word who is without flesh as he wished to 
 
 meMA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_UK_lash.heHE.OrousParilthes.greekname
 meMA.Ode9H.melody = he.h.m8_en_UK_lash.heHE.OrousParilthes.melody
 meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.OrousParilthes.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.OrousParilthes.text

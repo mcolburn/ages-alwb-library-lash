@@ -194,12 +194,14 @@ meMA.C3.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.incipit
 meMA.Ode1C1H.text = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 meMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -224,6 +226,7 @@ meMA.Ode1C1T.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C21.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C21.incipit = "Bound with the godly crown…"
 meMA.Ode1C21.text = "Bound with the godly crown of martyrdom, you dance before God, blazing with the lighting that flashes from him and filled with enlightenment, revered Martyr Demetrios."
@@ -248,6 +251,7 @@ meMA.Ode1C2T.text = "As God he was before without mother; as one like us he beca
 
 meMA.Ode1C31.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C31.greekmelody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C31.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.name
 meMA.Ode1C31.incipit = "[English text unavailable at this…"
 meMA.Ode1C31.text = "[English text unavailable at this time]"
@@ -278,12 +282,14 @@ meMA.Ode1C3T.text = "[English text unavailable at this time]"
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_UK_lash.heHE.OukEstinAgios.incipit
 meMA.Ode3C1H.text = he.h.m6_en_UK_lash.heHE.OukEstinAgios.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 meMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.name
 meMA.Ode3C11.incipit = "…"
 meMA.Ode3C11.text = ""
@@ -308,6 +314,7 @@ meMA.Ode3C1T.text = ""
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C21.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C21.incipit = "The decree of the tyrants…"
 meMA.Ode3C21.text = "The decree of the tyrants was reckoned by you as nothing, O Champion, for you chose before all things the Word of God."
@@ -326,6 +333,7 @@ meMA.Ode3C2T.text = "Healing the form of mortals that had been corrupted, O All-
 
 meMA.Ode3C31.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C31.greekmelody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.greekname
 meMA.Ode3C31.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.name
 meMA.Ode3C31.incipit = "[English text unavailable at this…"
 meMA.Ode3C31.text = "[English text unavailable at this time]"
@@ -371,12 +379,14 @@ meMA.Ode3Kathisma3.text = "Because from your unendurable wrath that threatened u
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.incipit
 meMA.Ode4C1H.text = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 meMA.Ode4C11.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -401,6 +411,7 @@ meMA.Ode4C1T.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C21.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C21.incipit = "The most high Word of…"
 meMA.Ode4C21.text = "The most high Word of God, seeing you had conquered the falsehood of impiety, crowned you with glory, Demetrios, as you sang: Glory to your power, O Lord."
@@ -425,6 +436,7 @@ meMA.Ode4C2T.text = "You alone, Mother of God, were counted worthy to be more sa
 
 meMA.Ode4C31.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C31.greekmelody = he.h.m4_en_UK_lash.heHE.TinAnexichniaston.greekname
 meMA.Ode4C31.melody = he.h.m4_en_UK_lash.heHE.TinAnexichniaston.name
 meMA.Ode4C31.incipit = "[English text unavailable at this…"
 meMA.Ode4C31.text = "[English text unavailable at this time]"
@@ -449,12 +461,14 @@ meMA.Ode4C3T.text = "[English text unavailable at this time]"
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.incipit
 meMA.Ode5C1H.text = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 meMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -479,6 +493,7 @@ meMA.Ode5C1T.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C21.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C21.incipit = "Having received in your heart…"
 meMA.Ode5C21.text = "Having received in your heart the fire of divine love, you quenched the fire of the godless folly of idols, revered Demetrios."
@@ -503,6 +518,7 @@ meMA.Ode5C2T.text = "The Word of God, consubstantial with the Father, O Mother o
 
 meMA.Ode5C31.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C31.greekmelody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.greekname
 meMA.Ode5C31.melody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.name
 meMA.Ode5C31.incipit = "[English text unavailable at this…"
 meMA.Ode5C31.text = "[English text unavailable at this time]"
@@ -527,12 +543,14 @@ meMA.Ode5C3T.text = "[English text unavailable at this time]"
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.name
 meMA.Ode6C11.incipit = "…"
 meMA.Ode6C11.text = ""
@@ -557,6 +575,7 @@ meMA.Ode6C1T.text = ""
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C21.incipit = "Assembled with one accord, we…"
 meMA.Ode6C21.text = "Assembled with one accord, we sing the praise of your light-bearing memory, most blessed Demetrios, and the multitudes of the wonders and gifts of grace of the Holy and revered Spirit."
@@ -575,6 +594,7 @@ meMA.Ode6C2T.text = "Finding you undefiled among thorns as a most pure lily and 
 
 meMA.Ode6C31.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C31.greekmelody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.greekname
 meMA.Ode6C31.melody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.name
 meMA.Ode6C31.incipit = "[English text unavailable at this…"
 meMA.Ode6C31.text = "[English text unavailable at this time]"
@@ -612,12 +632,14 @@ meMA.Oikos1.text = "Let all we believers assembled honour with songs and hymns t
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.incipit
 meMA.Ode7C1H.text = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.greekname
 meMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -642,6 +664,7 @@ meMA.Ode7C1T.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C21.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C21.incipit = "Ablaze with divine glory and…"
 meMA.Ode7C21.text = "Ablaze with divine glory and grace, Martyr and Champion, you shine as though formed of light, and you enlighten those who cry: Blessed are you, Lord, in the temple of your glory."
@@ -660,6 +683,7 @@ meMA.Ode7C2T.text = "Virgin Mother, glorified and enlightened, guard well all th
 
 meMA.Ode7C31.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C31.greekmelody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.greekname
 meMA.Ode7C31.melody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.name
 meMA.Ode7C31.incipit = "[English text unavailable at this…"
 meMA.Ode7C31.text = "[English text unavailable at this time]"
@@ -684,12 +708,14 @@ meMA.Ode7C3T.text = "[English text unavailable at this time]"
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.incipit
 meMA.Ode8C1H.text = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 meMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -720,6 +746,7 @@ meMA.Ode8C1T.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C21.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C21.incipit = "You darkened all the folly…"
 meMA.Ode8C21.text = "You darkened all the folly of the foe and all his wrestler’s tricks, girded with the indestructible power of Christ, and having become a victor, glorious Martyr Demetrios, you cried out: All you his works, praise the Lord!"
@@ -744,6 +771,7 @@ meMA.Ode8C2T.text = "Let us confess her who alone in all generations is Virgin-M
 
 meMA.Ode8C31.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C31.greekmelody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.greekname
 meMA.Ode8C31.melody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.name
 meMA.Ode8C31.incipit = "[English text unavailable at this…"
 meMA.Ode8C31.text = "[English text unavailable at this time]"
@@ -774,12 +802,14 @@ meMA.Ode8C3T.text = "[English text unavailable at this time]"
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.heHE.TheonAnthropois.incipit
 meMA.Ode9C1H.text = he.h.m6_en_UK_lash.heHE.TheonAnthropois.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 meMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -810,6 +840,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "Break the bonds of the…"
 meMA.Ode9C21.text = "Break the bonds of the faults of those who sing your praise, O Champion. End the assaults of the passions; abolish the folly of heresies; calm the storm of temptations by your intercessions."
@@ -828,6 +859,7 @@ meMA.Ode9C2T.text = "All we the faithful, believing you, O Virgin, to be root, s
 
 meMA.Ode9C31.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9C31.greekmelody = he.h.m4_en_UK_lash.heHE.ApasGigenis.greekname
 meMA.Ode9C31.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.name
 meMA.Ode9C31.incipit = "[English text unavailable at this…"
 meMA.Ode9C31.text = "[English text unavailable at this time]"

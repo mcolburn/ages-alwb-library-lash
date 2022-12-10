@@ -164,12 +164,14 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintW.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C1H.greekmelody = he.h.m4_en_UK_lash.heHE.TristatasKrataious.greekname
 meMA.Ode1C1H.melody = he.h.m4_en_UK_lash.heHE.TristatasKrataious.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.heHE.TristatasKrataious.incipit
 meMA.Ode1C1H.text = he.h.m4_en_UK_lash.heHE.TristatasKrataious.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C11.greekmelody = he.h.m4_en_UK_lash.heHE.TristatasKrataious.greekname
 meMA.Ode1C11.melody = he.h.m4_en_UK_lash.heHE.TristatasKrataious.name
 meMA.Ode1C11.incipit = "…"
 meMA.Ode1C11.text = ""
@@ -188,6 +190,7 @@ meMA.Ode1C13.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C21.greekmelody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.greekname
 meMA.Ode1C21.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -212,12 +215,14 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C1H.greekmelody = he.h.m4_en_UK_lash.heHE.OtiSteiraEteken.greekname
 meMA.Ode3C1H.melody = he.h.m4_en_UK_lash.heHE.OtiSteiraEteken.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.heHE.OtiSteiraEteken.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.heHE.OtiSteiraEteken.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C11.greekmelody = he.h.m4_en_UK_lash.heHE.OtiSteiraEteken.greekname
 meMA.Ode3C11.melody = he.h.m4_en_UK_lash.heHE.OtiSteiraEteken.name
 meMA.Ode3C11.incipit = "Daniel sees you, O Word…"
 meMA.Ode3C11.text = "Daniel sees you, O Word, as a stone cut from a virgin mountain, levelling the altars of idols by your might; and so in fear we glorify you."
@@ -236,6 +241,7 @@ meMA.Ode3C13.text = "Mary, an unploughed land, carries a lifebearing ear to give
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C21.greekmelody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C21.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -260,6 +266,7 @@ meMA.Ode3C2T.text = ""
 
 meMA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3H.greekmelody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3H.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3H.incipit = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.text
@@ -281,12 +288,14 @@ meMA.Ode3Kathisma3.text = ""
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C1H.greekmelody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C1H.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.incipit
 meMA.Ode4C1H.text = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C11.greekmelody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C11.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.name
 meMA.Ode4C11.incipit = "…"
 meMA.Ode4C11.text = ""
@@ -305,6 +314,7 @@ meMA.Ode4C13.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C21.greekmelody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.greekname
 meMA.Ode4C21.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -329,12 +339,14 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C1H.greekmelody = he.h.m4_en_UK_lash.heHE.AseveisOukOpsontai.greekname
 meMA.Ode5C1H.melody = he.h.m4_en_UK_lash.heHE.AseveisOukOpsontai.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.heHE.AseveisOukOpsontai.incipit
 meMA.Ode5C1H.text = he.h.m4_en_UK_lash.heHE.AseveisOukOpsontai.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C11.greekmelody = he.h.m4_en_UK_lash.heHE.AseveisOukOpsontai.greekname
 meMA.Ode5C11.melody = he.h.m4_en_UK_lash.heHE.AseveisOukOpsontai.name
 meMA.Ode5C11.incipit = "…"
 meMA.Ode5C11.text = ""
@@ -353,6 +365,7 @@ meMA.Ode5C13.text = ""
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C21.greekmelody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C21.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -377,12 +390,14 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C1H.greekmelody = he.h.m4_en_UK_lash.heHE.IlthonEisTaVathi.greekname
 meMA.Ode6C1H.melody = he.h.m4_en_UK_lash.heHE.IlthonEisTaVathi.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.heHE.IlthonEisTaVathi.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.heHE.IlthonEisTaVathi.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C11.greekmelody = he.h.m4_en_UK_lash.heHE.IlthonEisTaVathi.greekname
 meMA.Ode6C11.melody = he.h.m4_en_UK_lash.heHE.IlthonEisTaVathi.name
 meMA.Ode6C11.incipit = "A little Child is born…"
 meMA.Ode6C11.text = "A little Child is born for us on earth, he who shone ineffably from the Father before the ages; he has freed us all from the ancient transgression as he is compassionate."
@@ -401,6 +416,7 @@ meMA.Ode6C13.text = "The Star reveals to Magi the Sun of justice who is brought 
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C21.greekmelody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C21.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -425,6 +441,7 @@ meMA.Ode6C2T.text = ""
 
 meMA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6H.greekmelody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6H.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6H.incipit = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.text
@@ -438,12 +455,14 @@ meMA.Oikos1.text = "The Virgin, holding in her embrace the Son of God, and as sh
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C1H.greekmelody = he.h.m4_en_UK_lash.heHE.NeoiTreisEnVavyloni.greekname
 meMA.Ode7C1H.melody = he.h.m4_en_UK_lash.heHE.NeoiTreisEnVavyloni.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.heHE.NeoiTreisEnVavyloni.incipit
 meMA.Ode7C1H.text = he.h.m4_en_UK_lash.heHE.NeoiTreisEnVavyloni.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C11.greekmelody = he.h.m4_en_UK_lash.heHE.NeoiTreisEnVavyloni.greekname
 meMA.Ode7C11.melody = he.h.m4_en_UK_lash.heHE.NeoiTreisEnVavyloni.name
 meMA.Ode7C11.incipit = "…"
 meMA.Ode7C11.text = ""
@@ -462,6 +481,7 @@ meMA.Ode7C13.text = ""
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C21.greekmelody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.greekname
 meMA.Ode7C21.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -486,12 +506,14 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C1H.greekmelody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C1H.melody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C11.greekmelody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C11.melody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.name
 meMA.Ode8C11.incipit = "…"
 meMA.Ode8C11.text = ""
@@ -510,6 +532,7 @@ meMA.Ode8C13.text = ""
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C21.greekmelody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C21.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -534,18 +557,21 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8H.greekmelody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8H.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8H.incipit = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8H.text = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9C1H.greekmelody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C1H.melody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9C11.greekmelody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.greekname
 meMA.Ode9C11.melody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.name
 meMA.Ode9C11.incipit = "…"
 meMA.Ode9C11.text = ""
@@ -564,6 +590,7 @@ meMA.Ode9C1T.text = ""
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9C21.greekmelody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""
@@ -594,6 +621,7 @@ meMA.Ode9C2T.text = ""
 
 meMA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode9H.greekmelody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9H.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.melody
 meMA.Ode9H.incipit = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9H.text = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text

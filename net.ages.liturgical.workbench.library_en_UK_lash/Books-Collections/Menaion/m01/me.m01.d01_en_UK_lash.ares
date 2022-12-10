@@ -197,12 +197,14 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_UK_lash.heHE.DefteLaoi.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.heHE.DefteLaoi.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.heHE.DefteLaoi.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.heHE.DefteLaoi.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_UK_lash.heHE.DefteLaoi.greekname
 meMA.Ode1C11.melody = he.h.m2_en_UK_lash.heHE.DefteLaoi.name
 meMA.Ode1C11.incipit = "The eighth day, which bears…"
 meMA.Ode1C11.text = "The eighth day, which bears the image of the age to come, is made radiant and hallowed, O Christ, by your voluntary poverty; for on it you were circumcised in the flesh according to the law."
@@ -215,6 +217,7 @@ meMA.Ode1C12.text = "Christ receives circumcision on the eighth day from his bir
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C21.greekmelody = he.h.m2_en_UK_lash.heHE.DefteLaoi.greekname
 meMA.Ode1C21.melody = he.h.m2_en_UK_lash.heHE.DefteLaoi.name
 meMA.Ode1C21.incipit = "Yours is the voice that…"
 meMA.Ode1C21.text = "Yours is the voice that should have been with those who wish to undertake your praises, Basil; but as you judge kindly, Father, grant us grace ungrudgingly."
@@ -251,12 +254,14 @@ meMA.Ode1C2T.text = "Who will be able worthily to tell forth your conception bey
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.incipit
 meMA.Ode3C1H.text = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C11.melody = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.name
 meMA.Ode3C11.incipit = "The Word, who is beyond…"
 meMA.Ode3C11.text = "The Word, who is beyond being, became incarnate and was circumcised to bring the Law to an end; but he has given us the first fruits of divine grace and unsullied life."
@@ -269,6 +274,7 @@ meMA.Ode3C12.text = "Fulfiller of the Law, as being not hostile to God, Christ w
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C21.greekmelody = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.greekname
 meMA.Ode3C21.melody = he.h.m2_en_UK_lash.heHE.StereosonImasEnSoiKyrie.name
 meMA.Ode3C21.incipit = "When you had become filled…"
 meMA.Ode3C21.text = "When you had become filled with all learning, no only that which is below and well-worn, but even more that which better, you were revealed, Basil, as a light for the world."
@@ -314,12 +320,14 @@ meMA.Ode3Kathisma3.text = "The Lord of all things undergoes circumcision, and as
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.incipit
 meMA.Ode4C1H.text = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C11.incipit = "Circumcision has ceased since Christ…"
 meMA.Ode4C11.text = "Circumcision has ceased since Christ was willingly circumcised, saving the multitudes of the nations by grace."
@@ -332,6 +340,7 @@ meMA.Ode4C12.text = "The eighth day, on which the master Christ was circumcised,
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C21.greekmelody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C21.melody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C21.incipit = "As the Bride, the Church…"
 meMA.Ode4C21.text = "As the Bride, the Church, is made lovely by the birth of Christ, so too she is by your memory, O all-blessed."
@@ -368,12 +377,14 @@ meMA.Ode4C2T.text = "We implore you, Immaculate, who conceived God without seed,
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.incipit
 meMA.Ode5C1H.text = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C11.melody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.name
 meMA.Ode5C11.incipit = "From a Virgin Mother, Lord…"
 meMA.Ode5C11.text = "From a Virgin Mother, Lord, you came forth beyond explanation, and did not disdain to clothe yourself in mortals' form, so as a babe in accordance with the law you fulfilled the Law."
@@ -386,6 +397,7 @@ meMA.Ode5C12.text = "As she accepts the shadow of the Law, the daughter of Israe
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C21.greekmelody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C21.melody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.name
 meMA.Ode5C21.incipit = "Truly the Church holds a…"
 meMA.Ode5C21.text = "Truly the Church holds a double feast today: of the Circumcision as a babe of the Master who appeared on earth, and of the memory of a wise and thrice-blessed servant."
@@ -416,12 +428,14 @@ meMA.Ode5C2T.text = "To you, who gave birth to Christ, the creator of the univer
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.name
 meMA.Ode6C11.incipit = "The Law has come to…"
 meMA.Ode6C11.text = "The Law has come to an end since Christ became an infant, and revealed as the fulfiller of the Law he accepted circumcision and abolished the curse of the Law."
@@ -434,6 +448,7 @@ meMA.Ode6C12.text = "Sabbaths and Circumcision, the proud boast of the Hebrews, 
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C21.greekmelody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_UK_lash.heHE.AvyssosAmartimaton.name
 meMA.Ode6C21.incipit = "Unstintingly you nourished souls of…"
 meMA.Ode6C21.text = "Unstintingly you nourished souls of the poor that were wasted by famine, and you filled the hearts of those who hungered, Basil, with every godly joy."
@@ -472,12 +487,14 @@ meMA.Oikos1.text = "Bowl of temperance, mouth of wisdom and foundation of doctri
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_UK_lash.heHE.EikonosChrysis.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_UK_lash.heHE.EikonosChrysis.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.heHE.EikonosChrysis.incipit
 meMA.Ode7C1H.text = he.h.m2_en_UK_lash.heHE.EikonosChrysis.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_UK_lash.heHE.EikonosChrysis.greekname
 meMA.Ode7C11.melody = he.h.m2_en_UK_lash.heHE.EikonosChrysis.name
 meMA.Ode7C11.incipit = "The nativity of Christ is…"
 meMA.Ode7C11.text = "The nativity of Christ is all radiant and bright, and traces out today the mystery of the renewal of the age to come; because by the regulation of the Law the Saviour is circumcised , not as God, but as a mortal and the fulfilment of the Law."
@@ -490,6 +507,7 @@ meMA.Ode7C12.text = "Fulfilling the Law the Maker of the Law is today willingly 
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C21.greekmelody = he.h.m2_en_UK_lash.heHE.EikonosChrysis.greekname
 meMA.Ode7C21.melody = he.h.m2_en_UK_lash.heHE.EikonosChrysis.name
 meMA.Ode7C21.incipit = "The Son, the image of…"
 meMA.Ode7C21.text = "The Son, the image of the Father, and the Spirit of the Son have appeared; while you, O Basil, are an unsullied mirror of the Spirit and a house for the whole Trinity; blest is your memory; and those who glorify it are glorified in return."
@@ -526,12 +544,14 @@ meMA.Ode7C2T.text = "Moses foresaw you on Mount Sinai as a bush that flamed, Pur
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_UK_lash.heHE.TonArritoSofia.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_UK_lash.heHE.TonArritoSofia.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.heHE.TonArritoSofia.incipit
 meMA.Ode8C1H.text = he.h.m2_en_UK_lash.heHE.TonArritoSofia.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_UK_lash.heHE.TonArritoSofia.greekname
 meMA.Ode8C11.melody = he.h.m2_en_UK_lash.heHE.TonArritoSofia.name
 meMA.Ode8C11.incipit = "On the eighth day the…"
 meMA.Ode8C11.text = "On the eighth day the Master is circumcised as a babe and receives the name Jesus, because he is the Saviour of the world and Lord."
@@ -544,6 +564,7 @@ meMA.Ode8C12.text = "The all-glorious memory of the High Priest is fittingly lin
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C21.greekmelody = he.h.m2_en_UK_lash.heHE.TonArritoSofia.greekname
 meMA.Ode8C21.melody = he.h.m2_en_UK_lash.heHE.TonArritoSofia.name
 meMA.Ode8C21.incipit = "Him who gave Basil to…"
 meMA.Ode8C21.text = "Him who gave Basil to the world in his ineffable providence as a light of true religion and trumpet of theology, bless him, as Lord, all you works of the Lord."
@@ -598,12 +619,14 @@ meMA.Ode9C2MTh.text = "Magnify, O my soul, her who rescued us from the curse."
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.incipit
 meMA.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C11.melody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.name
 meMA.Ode9C11.incipit = "Passing beyond the bounds of…"
 meMA.Ode9C11.text = "Passing beyond the bounds of all human nature, Christ is born of a Virgin, and as the letter of the law lays down is circumcised in the flesh and shown to be one who fulfils the Law."
@@ -616,6 +639,7 @@ meMA.Ode9C12.text = "Come, let us with holiness celebrate the festival of the gl
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C21.greekmelody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.greekname
 meMA.Ode9C21.melody = he.h.m2_en_UK_lash.heHE.ITonProIliouFostira.name
 meMA.Ode9C21.incipit = "As a faithful sheep of…"
 meMA.Ode9C21.text = "As a faithful sheep of Christ the Chief Shepherd you followed, Basil, in his life-bearing steps; for you for you gave up your soul, all-blessed Father, to the tyrant, nobly braving danger for the Church."

@@ -28,12 +28,14 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_Theotokos.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C1H.greekmelody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C1H.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.melody
 meMA.Ode1C1H.incipit = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.incipit
 meMA.Ode1C1H.text = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C11.greekmelody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.greekname
 meMA.Ode1C11.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 meMA.Ode1C11.incipit = "You it was that God…"
 meMA.Ode1C11.text = "You it was that God chose among women as lovely, as most fair, as wholly unblemished, and he dwelt in your unblemished womb; implore him, all-blameless one, that from the blemish of offences those who sing your praise may be delivered."
@@ -52,12 +54,14 @@ meMA.Ode1C13.text = "Virgin, you wholly renewed the nature of mortals, dried up 
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C1H.greekmelody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C1H.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.melody
 meMA.Ode3C1H.incipit = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.incipit
 meMA.Ode3C1H.text = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C11.greekmelody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.greekname
 meMA.Ode3C11.melody = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.name
 meMA.Ode3C11.incipit = "Using me, humanity, as clothing…"
 meMA.Ode3C11.text = "Using me, humanity, as clothing, the Maker comes forth from you, All-blameless, and bestows a robe of incorruption on the many stripped naked by offences."
@@ -76,12 +80,14 @@ meMA.Ode3C13.text = "Staunch the wounds of my soul, O Immaculate; preserve with 
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C1H.greekmelody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C1H.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.melody
 meMA.Ode4C1H.incipit = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.incipit
 meMA.Ode4C1H.text = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C11.greekmelody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.greekname
 meMA.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.ElilythasEkParthenou.name
 meMA.Ode4C11.incipit = "Rain down on me, Lady…"
 meMA.Ode4C11.text = "Rain down on me, Lady, a drop of compunction, to remove all the burning heat of my heart and stem the harmful floods of my despondency."
@@ -100,12 +106,14 @@ meMA.Ode4C13.text = "Pure Virgin, enriched with the sovereignty of all creation,
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C1H.greekmelody = he.h.m2_en_UK_lash.heHE.MesitisTheou.greekname
 meMA.Ode5C1H.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.melody
 meMA.Ode5C1H.incipit = he.h.m2_en_UK_lash.heHE.MesitisTheou.incipit
 meMA.Ode5C1H.text = he.h.m2_en_UK_lash.heHE.MesitisTheou.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C11.greekmelody = he.h.m2_en_UK_lash.heHE.MesitisTheou.greekname
 meMA.Ode5C11.melody = he.h.m2_en_UK_lash.heHE.MesitisTheou.name
 meMA.Ode5C11.incipit = "O All-immaculate, who bore the…"
 meMA.Ode5C11.text = "O All-immaculate, who bore the way of life, guide me now into the right way, who have been senselessly hurled headlong into pathless places and pits of harsh misdeeds."
@@ -124,12 +132,14 @@ meMA.Ode5C13.text = "Mother and Virgin immaculate, let your servant, burning wit
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C1H.greekmelody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C1H.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.melody
 meMA.Ode6C1H.incipit = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.incipit
 meMA.Ode6C1H.text = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C11.greekmelody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C11.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C11.incipit = "Lady, at the judgement to…"
 meMA.Ode6C11.text = "Lady, at the judgement to come, do not point me out as an object of the demons' malignant joy, but entreat the Judge, your Son, to look kindly on me."
@@ -148,12 +158,14 @@ meMA.Ode6C13.text = "Judge and God of all, you bore, Lady all-praised. Therefore
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C1H.greekmelody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.greekname
 meMA.Ode7C1H.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.melody
 meMA.Ode7C1H.incipit = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.incipit
 meMA.Ode7C1H.text = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C11.greekmelody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.greekname
 meMA.Ode7C11.melody = he.h.m2_en_UK_lash.heHE.AntitheonProstagma.name
 meMA.Ode7C11.incipit = "Impregnable wall, sure help, my…"
 meMA.Ode7C11.text = "Impregnable wall, sure help, my strength and song and salvation are you, O Lady, make war on the demons who war against me and ever seek to put me to death."
@@ -172,12 +184,14 @@ meMA.Ode7C13.text = "Gave a foreshadowing the furnace of your giving birth, O Al
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C1H.greekmelody = he.h.m2_en_UK_lash.heHE.KaminosPote.greekname
 meMA.Ode8C1H.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.melody
 meMA.Ode8C1H.incipit = he.h.m2_en_UK_lash.heHE.KaminosPote.incipit
 meMA.Ode8C1H.text = he.h.m2_en_UK_lash.heHE.KaminosPote.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C11.greekmelody = he.h.m2_en_UK_lash.heHE.KaminosPote.greekname
 meMA.Ode8C11.melody = he.h.m2_en_UK_lash.heHE.KaminosPote.name
 meMA.Ode8C11.incipit = "For what is good, my…"
 meMA.Ode8C11.text = "For what is good, my soul,  be zealous, keep far from wickedness through the harmony of godly deeds, for you have God's Mother who intercedes for you as protection of all and who cannot be put to shame, for she is compassionate and loves humankind."
@@ -196,12 +210,14 @@ meMA.Ode8C13.text = "Deck my heart, made gloomy by the dishonour of offences, wi
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C1H.greekmelody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C1H.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.melody
 meMA.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.incipit
 meMA.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C11.greekmelody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.greekname
 meMA.Ode9C11.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 meMA.Ode9C11.incipit = "Cropped Adam bitter death from…"
 meMA.Ode9C11.text = "Cropped Adam bitter death from the tree for tasting food that was not his; but your Son, nailed to a tree, became a source of the sweetness of immortality, O Immaculate; for this we honour you."

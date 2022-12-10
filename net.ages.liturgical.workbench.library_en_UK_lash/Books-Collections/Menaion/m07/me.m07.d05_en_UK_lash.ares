@@ -146,6 +146,7 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_DevoutMen.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C11.incipit = "Immortality became your name and…"
 meMA.Ode1C11.text = "Immortality became your name and while still in life you appeared as a partaker of true immortality, passing beyond transient things. But as you stand before Christ remember us who remember you."
@@ -170,6 +171,7 @@ meMA.Ode1C1T.text = "You gave birth beyond reason to a little child, the Ancient
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode1C21.greekmelody = he.h.m2_en_UK_lash.heHE.DefteLaoi.greekname
 meMA.Ode1C21.melody = he.h.m2_en_UK_lash.heHE.DefteLaoi.name
 meMA.Ode1C21.incipit = "…"
 meMA.Ode1C21.text = ""
@@ -194,6 +196,7 @@ meMA.Ode1C2T.text = ""
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.name
 meMA.Ode3C11.incipit = "From a child you were…"
 meMA.Ode3C11.text = "From a child you were seized with love for God, collecting round you children of your own age and forming them into a band you trained them spiritually, most wisely weaning them from childish ways."
@@ -218,6 +221,7 @@ meMA.Ode3C1T.text = "He who was ineffably begotten of the Father before the ages
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode3C21.greekmelody = he.h.m2_en_UK_lash.heHE.SyToLogoSouKyrie.greekname
 meMA.Ode3C21.melody = he.h.m2_en_UK_lash.heHE.SyToLogoSouKyrie.name
 meMA.Ode3C21.incipit = "…"
 meMA.Ode3C21.text = ""
@@ -252,6 +256,7 @@ meMA.Ode3KathismaT.text = "The Wisdom and Word you conceived in your womb unburn
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C11.incipit = "Making your mind ruler of…"
 meMA.Ode4C11.text = "Making your mind ruler of the passions and guided by inspired deeds you accomplished the good way and devoutly drove off the ambushes, villainies and knaveries of the demons, wisely choosing the better part."
@@ -276,6 +281,7 @@ meMA.Ode4C1T.text = "Carried with awe on the backs of the Cherubim, the Master d
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode4C21.greekmelody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.greekname
 meMA.Ode4C21.melody = he.h.m2_en_UK_lash.heHE.EisakikoaKyrieTinAkoin.name
 meMA.Ode4C21.incipit = "…"
 meMA.Ode4C21.text = ""
@@ -300,6 +306,7 @@ meMA.Ode4C2T.text = ""
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "You appeared as a lode-stone…"
 meMA.Ode5C11.text = "You appeared as a lode-stone, Father, by the sweetness of your words drawing to the teaching and hearing of your instructions those who desire to see and look on your revered and gracious face."
@@ -324,6 +331,7 @@ meMA.Ode5C1T.text = "The mouth of rhetors has not strength to sing you, O All-pr
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode5C21.greekmelody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.greekname
 meMA.Ode5C21.melody = he.h.m2_en_UK_lash.heHE.OTouFotosChorigos.name
 meMA.Ode5C21.incipit = "…"
 meMA.Ode5C21.text = ""
@@ -348,6 +356,7 @@ meMA.Ode5C2T.text = ""
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "By your toils you slew…"
 meMA.Ode6C11.text = "By your toils you slew the desires of the flesh, you crucified yourself to the world and the passions, as by fasts and tears, prayers and hymns you waited on God."
@@ -372,6 +381,7 @@ meMA.Ode6C1T.text = "Revealed as a new Moses, you made ready another tabernacle,
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode6C21.greekmelody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.greekname
 meMA.Ode6C21.melody = he.h.m2_en_UK_lash.heHE.EnAvyssoPtaismaton.name
 meMA.Ode6C21.incipit = "…"
 meMA.Ode6C21.text = ""
@@ -410,6 +420,7 @@ meMA.Oikos18.text = "Hail, Father Athanasios!"
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C11.incipit = "The sound of your way…"
 meMA.Ode7C11.text = "The sound of your way of life and your achievements has gone out into nearly all creation, Father, and reached the glorious height of God who glorified you and made you spoken of to all."
@@ -434,6 +445,7 @@ meMA.Ode7C1T.text = "Your servant, Mother of God, as he longed to see the ineffa
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode7C21.greekmelody = he.h.m2_en_UK_lash.heHE.OTinKaminonPalai.greekname
 meMA.Ode7C21.melody = he.h.m2_en_UK_lash.heHE.OTinKaminonPalai.name
 meMA.Ode7C21.incipit = "…"
 meMA.Ode7C21.text = ""
@@ -458,6 +470,7 @@ meMA.Ode7C2T.text = ""
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C11.incipit = "As a youth, Athanasios, you…"
 meMA.Ode8C11.text = "As a youth, Athanasios, you routed the principalities and powers of darkness and became a great teacher and saving guide, unveiling their assaults, their ambushes and their wiles, and guarding your untended flock from the malice of the demons."
@@ -482,6 +495,7 @@ meMA.Ode8C1T.text = "As Elias of old dwelt on Carmel, so he too dwelt on Mount A
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode8C21.greekmelody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.greekname
 meMA.Ode8C21.melody = he.h.m2_en_UK_lash.heHE.TonEnKaminoTouPyros.name
 meMA.Ode8C21.incipit = "…"
 meMA.Ode8C21.text = ""
@@ -506,6 +520,7 @@ meMA.Ode8C2T.text = ""
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C11.incipit = "When you had perfected, as…"
 meMA.Ode9C11.text = "When you had perfected, as though without flesh upon earth, purity, sobriety and a pure and unsullied way of life and conduct, you hastened to heavenly abodes and you rejoice together with all the saints and just as you implore Christ on behalf of all."
@@ -530,6 +545,7 @@ meMA.Ode9C1T.text = "As you are a hallowed temple which contained one of the Tri
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Ode9C21.greekmelody = he.h.m2_en_UK_lash.heHE.TonEkTheouTheonLogon.greekname
 meMA.Ode9C21.melody = he.h.m2_en_UK_lash.heHE.TonEkTheouTheonLogon.name
 meMA.Ode9C21.incipit = "…"
 meMA.Ode9C21.text = ""

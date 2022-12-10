@@ -86,6 +86,7 @@ meVE.Apolytikion1.text = me.m12.d17_en_UK_lash.meVE.Apolytikion1.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C1H.greekmelody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.greekname
 meMA.Ode1C1H.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.melody
 meMA.Ode1C1H.incipit = he.h.m6_en_UK_lash.heHE.KymatiThalassis.incipit
 meMA.Ode1C1H.text = he.h.m6_en_UK_lash.heHE.KymatiThalassis.text
@@ -98,6 +99,7 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode1C11.greekmelody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.greekname
 meMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.KymatiThalassis.name
 meMA.Ode1C11.incipit = "To you in fear the…"
 meMA.Ode1C11.text = "To you in fear the gates of death stand open and the everlasting bars are shattered; for at your revered descent the dead of old have risen up and with joy, O Christ, they sing your Resurrection."
@@ -134,6 +136,7 @@ meMA.Ode1C1T.text = "O full of grace, Mother without bridegroom, Virgin undefile
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_UK_lash.heHE.ChristosGennatai.greekname
 meMA.Ode1C21.melody = he.h.m1_en_UK_lash.heHE.ChristosGennatai.name
 meMA.Ode1C21.incipit = "Christ made a child in…"
 meMA.Ode1C21.text = "Christ made a child in the flesh, Christ willingly become a beggar, Christ made visible, the Virgin now comes to Bethlehem to give birth to him. Let heaven and earth be glad."
@@ -152,12 +155,14 @@ meMA.Ode1C2T.text = "The Rich becomes a beggar, and beggars those rich by wicked
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C1H.greekmelody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.greekname
 meMA.Ode3C1H.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.melody
 meMA.Ode3C1H.incipit = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.incipit
 meMA.Ode3C1H.text = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode3C11.greekmelody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.greekname
 meMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.SeTonEpiYdaton.name
 meMA.Ode3C11.incipit = "After three days in the…"
 meMA.Ode3C11.text = "After three days in the tomb, you raised by your Rising those dead since time began; they, loosed from condemnation, in harmony rejoiced and cried: See, you have come, Lord, our Redemption!"
@@ -188,6 +193,7 @@ meMA.Ode3C1T.text = "Your conceiving was without seed, the acquisition of your g
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_UK_lash.heHE.ToProTonAionon.greekname
 meMA.Ode3C21.melody = he.h.m1_en_UK_lash.heHE.ToProTonAionon.name
 meMA.Ode3C21.incipit = "He who was begotten of…"
 meMA.Ode3C21.text = "He who was begotten of the Father before the ages beyond understanding, in the last times became flesh from the Virgin, as he knows how, for he wished to renew humanity, corrupted by the plot of the evil serpent."
@@ -211,12 +217,14 @@ meMA.Hypakoe.text = "An Angel turned the furnace of the Youths to dew, while now
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C1H.greekmelody = he.h.m6_en_UK_lash.heHE.TinEnStavroSou.greekname
 meMA.Ode4C1H.melody = he.h.m6_en_UK_lash.heHE.TinEnStavroSou.melody
 meMA.Ode4C1H.incipit = he.h.m6_en_UK_lash.heHE.TinEnStavroSou.incipit
 meMA.Ode4C1H.text = he.h.m6_en_UK_lash.heHE.TinEnStavroSou.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode4C11.greekmelody = he.h.m6_en_UK_lash.heHE.TinEnStavroSou.greekname
 meMA.Ode4C11.melody = he.h.m6_en_UK_lash.heHE.TinEnStavroSou.name
 meMA.Ode4C11.incipit = "Your divine descent into Hell…"
 meMA.Ode4C11.text = "Your divine descent into Hell, Christ God, declared life to the dead; for you bound the enemies below, loving Lord, and opened to mankind the path to heaven."
@@ -247,6 +255,7 @@ meMA.Ode4C1T.text = "Loudly the expectation of the Nations is proclaimed in adva
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_UK_lash.heHE.RavdosEkTisRizis.greekname
 meMA.Ode4C21.melody = he.h.m1_en_UK_lash.heHE.RavdosEkTisRizis.name
 meMA.Ode4C21.incipit = "Rod out of Jesse's root…"
 meMA.Ode4C21.text = "Rod out of Jesse's root, O Virgin, you budded, and blossomed with a flower that does wither, the Creator of all, who as God decks the whole earth with flowers, which cries aloud to him: Glory to your power, O Lord!"
@@ -265,12 +274,14 @@ meMA.Ode4C2T.text = "Avvakum foresaw you, Jesus, incarnate of a shaded mountain,
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C1H.greekmelody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.greekname
 meMA.Ode5C1H.melody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.melody
 meMA.Ode5C1H.incipit = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.incipit
 meMA.Ode5C1H.text = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode5C11.greekmelody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.greekname
 meMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.TheofaneiasSouChriste.name
 meMA.Ode5C11.incipit = "The shining Angel, clearly indicating…"
 meMA.Ode5C11.text = "The shining Angel, clearly indicating the dazzling radiance of joy, is revealed in the tomb proclaiming Resurrection to the women; and they, setting sorrow aside, rejoiced, for Christ had risen, and they announced to the Apostles the message: Rejoice!"
@@ -301,6 +312,7 @@ meMA.Ode5C1T.text = "Showing by the Spirit of God your passionless acquisition o
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_UK_lash.heHE.TheosOnEirinis.greekname
 meMA.Ode5C21.melody = he.h.m1_en_UK_lash.heHE.TheosOnEirinis.name
 meMA.Ode5C21.incipit = "By nature the Master, you…"
 meMA.Ode5C21.text = "By nature the Master, you are found with slaves. All-perfect Son of God, you were well-pleased to be called Son of Man, All-merciful; and so you willingly became a beggar and are coming to be born in the Cave, O supremely Good."
@@ -319,12 +331,14 @@ meMA.Ode5C2T.text = "The Ewe-lamb has come forth to bear the Shepherd. Holy Cave
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C1H.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C1H.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.melody
 meMA.Ode6C1H.incipit = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.incipit
 meMA.Ode6C1H.text = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode6C11.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 meMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.name
 meMA.Ode6C11.incipit = "By your burial for three…"
 meMA.Ode6C11.text = "By your burial for three days, O good one, in a manner fitting God you accomplished the slaughter of death and the cleansing of Hell. By rising you poured out life for those in the world, Jesus our King."
@@ -355,6 +369,7 @@ meMA.Ode6C1T.text = "O Mary, Mother who knew not man, from your virgin womb you 
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_UK_lash.heHE.SplanchnonIonan.greekname
 meMA.Ode6C21.melody = he.h.m1_en_UK_lash.heHE.SplanchnonIonan.name
 meMA.Ode6C21.incipit = "Sovereign Lady, you are a…"
 meMA.Ode6C21.text = "Sovereign Lady, you are a new heaven. From your womb, as from a cloud, you hasten to make Christ, the sun of glory, dawn in a cave in the flesh, for by his owns bright rays he is going to make all the fullness of the earth cry aloud because of his measureless pity."
@@ -387,12 +402,14 @@ meMA.Oikos2.text = "Seeing the dazzling radiance of your conceiving, O Virgin, A
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C1H.greekmelody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.greekname
 meMA.Ode7C1H.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.melody
 meMA.Ode7C1H.incipit = he.h.m6_en_UK_lash.heHE.AfrastonThavma.incipit
 meMA.Ode7C1H.text = he.h.m6_en_UK_lash.heHE.AfrastonThavma.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode7C11.greekmelody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.greekname
 meMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.AfrastonThavma.name
 meMA.Ode7C11.incipit = "O strange wonder! The Lord…"
 meMA.Ode7C11.text = "O strange wonder! The Lord himself, who is seated on a throne in the highest, by his taking flesh underwent death; but in the strength of his Godhead he rose and raised with himself the dead since time began."
@@ -423,6 +440,7 @@ meMA.Ode7C1T.text = "The strange wonder spoken of openly of old by prophets and 
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_UK_lash.heHE.OiPaidesEfseveia.greekname
 meMA.Ode7C21.melody = he.h.m1_en_UK_lash.heHE.OiPaidesEfseveia.name
 meMA.Ode7C21.incipit = "The godly vine, which makes…"
 meMA.Ode7C21.text = "The godly vine, which makes the pure cluster ripen, draws near and has come to give birth to the wine of joy which gushes forth and gives drink to us who cry to him: God of our fathers, blessed are you!"
@@ -441,12 +459,14 @@ meMA.Ode7C2T.text = "The tong, which the prophet Isaias saw of old, has come car
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C1H.greekmelody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.greekname
 meMA.Ode8C1H.melody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.melody
 meMA.Ode8C1H.incipit = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.incipit
 meMA.Ode8C1H.text = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode8C11.greekmelody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.greekname
 meMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.EkstithiFrittonOurane.name
 meMA.Ode8C11.incipit = "How ineffable, O Christ, is…"
 meMA.Ode8C11.text = "How ineffable, O Christ, is your condescension for us lowly creatures! For see, you tasted death, though you are immortal God, and were laid as a mortal in a tomb. But you arose, O Word, and raised up with yourself those below who highly exalt you to all the ages."
@@ -477,6 +497,7 @@ meMA.Ode8C1T.text = "Jesus Emmanuel, the Son and Word without beginning of God t
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_UK_lash.heHE.ThavmatosYperfyous.greekname
 meMA.Ode8C21.melody = he.h.m1_en_UK_lash.heHE.ThavmatosYperfyous.name
 meMA.Ode8C21.incipit = "Glory to God in the…"
 meMA.Ode8C21.text = "Glory to God in the highest, let us cry in joy with the Angels. The Saviour will be born. The Master, whom a Star shows to the Magi as they hasten to behold him in a manger, will come to make his dwelling. Let all creation bless the Lord, and highly exalt him to all the ages."
@@ -495,12 +516,14 @@ meMA.Ode8C2T.text = "O Word without beginning, I carry you as a young babe, yet 
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C1H.greekmelody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.greekname
 meMA.Ode9C1H.melody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.melody
 meMA.Ode9C1H.incipit = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.incipit
 meMA.Ode9C1H.text = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Ode9C11.greekmelody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.greekname
 meMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.MiEpodyrouMouMiter.name
 meMA.Ode9C11.incipit = "Creation, why do you lament…"
 meMA.Ode9C11.text = "Creation, why do you lament as you behold God the Master of life on a Cross and on a bier? For he will arise and radiantly renew you by his rising on the third day, having destroyed death and raised with himself those who sing his praise."
@@ -531,6 +554,7 @@ meMA.Ode9C1T.text = "All creation rejoices, O Virgin, at your child-bearing; for
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_UK_lash.heHE.MystirionXenon.greekname
 meMA.Ode9C21.melody = he.h.m1_en_UK_lash.heHE.MystirionXenon.name
 meMA.Ode9C21.incipit = "Strange, wonderful and dread mysteries!…"
 meMA.Ode9C21.text = "Strange, wonderful and dread mysteries! The Lord of glory came to earth, and as a beggar in a cave he put on flesh, seeking to call back Adam, and to deliver Eve from her pains."

@@ -238,12 +238,14 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.name
 meMA.Ode1C11.incipit = ho.s23_en_UK_lash.hoCA.Ode11.incipit
 meMA.Ode1C11.text = ho.s23_en_UK_lash.hoCA.Ode11.text
@@ -274,6 +276,7 @@ meMA.Ode1C15.text = ""
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C21.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C21.incipit = "As you became a most…"
 meMA.Ode1C21.text = "As you became a most fervent herald of repentance, Father Chrysostom, intercede with God that I may repent with my whole heart and implore that I may be cleansed of the wounds of ancient falls by your compassion."
@@ -298,12 +301,14 @@ meMA.Ode1C2T.text = "Adorned with the adornment of grace, O blessed one, graced 
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.name
 meMA.Ode3C11.incipit = ho.s23_en_UK_lash.hoCA.Ode31.incipit
 meMA.Ode3C11.text = ho.s23_en_UK_lash.hoCA.Ode31.text
@@ -328,6 +333,7 @@ meMA.Ode3C14.text = ho.s23_en_UK_lash.hoCA.Ode34.text
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C21.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.name
 meMA.Ode3C21.incipit = "Enriched with the mind of…"
 meMA.Ode3C21.text = "Enriched with the mind of Christ, by your pure way of life you became his fellow worker for the salvation of mortals, teacher and orator, Chrysostom, inspired by God, pouring out saving teachings."
@@ -362,12 +368,14 @@ meMA.Ode3KathismaT.text = "Tremble, my soul, and groan as you think on the flame
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.name
 meMA.Ode4C11.incipit = ho.s23_en_UK_lash.hoCA.Ode41.incipit
 meMA.Ode4C11.text = ho.s23_en_UK_lash.hoCA.Ode41.text
@@ -398,6 +406,7 @@ meMA.Ode4C15.text = ""
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C21.incipit = "Christ, who with providence arranges…"
 meMA.Ode4C21.text = "Christ, who with providence arranges for all things as he is good, has given you to us as another of like manner to the Apostles, herald of the heavenly initiation and godlike instructor in the mysteries on high, all-blessed John Chrysostom."
@@ -428,12 +437,14 @@ meMA.Ode4C2T.text = "After God we have gained you as protection, for you were de
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_UK_lash.heHE.FotisonImas.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_UK_lash.heHE.FotisonImas.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.heHE.FotisonImas.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.heHE.FotisonImas.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.FotisonImas.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.FotisonImas.name
 meMA.Ode5C11.incipit = ho.s23_en_UK_lash.hoCA.Ode51.incipit
 meMA.Ode5C11.text = ho.s23_en_UK_lash.hoCA.Ode51.text
@@ -458,6 +469,7 @@ meMA.Ode5C14.text = ho.s23_en_UK_lash.hoCA.Ode54.text
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C21.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C21.incipit = "We all know you to…"
 meMA.Ode5C21.text = "We all know you to be a most resplendent beacon of the Church and saviour of souls, snatching them from the death-bearing maw and guiding them to eternal life, honoured Father."
@@ -482,12 +494,14 @@ meMA.Ode5C2T.text = "As you conceived God, the creator and maker and Lord, all g
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.name
 meMA.Ode6C11.incipit = ho.s23_en_UK_lash.hoCA.Ode61.incipit
 meMA.Ode6C11.text = ho.s23_en_UK_lash.hoCA.Ode61.text
@@ -512,6 +526,7 @@ meMA.Ode6C14.text = ho.s23_en_UK_lash.hoCA.Ode64.text
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C21.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C21.incipit = "With spiritual wisdom you enriched…"
 meMA.Ode6C21.text = "With spiritual wisdom you enriched the whole world, becoming a rich bestower of the word; for rich grace from on high was poured out on your lips, O Hierarch."
@@ -543,12 +558,14 @@ meMA.Oikos1.text = "I bow the knee to the Maker of all things, I stretch out my 
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.name
 meMA.Ode7C11.incipit = ho.s23_en_UK_lash.hoCA.Ode71.incipit
 meMA.Ode7C11.text = ho.s23_en_UK_lash.hoCA.Ode71.text
@@ -573,6 +590,7 @@ meMA.Ode7C14.text = ho.s23_en_UK_lash.hoCA.Ode74.text
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C21.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C21.incipit = "Initiated into the depth of…"
 meMA.Ode7C21.text = "Initiated into the depth of goodness and compassion of God, you appeared pledging salvation to those who fervently repent and cry out with their whole soul: Blessed is the God of our Fathers."
@@ -597,12 +615,14 @@ meMA.Ode7C2T.text = "Immaculate Virgin, you conceived the God and Lord over all 
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.name
 meMA.Ode8C11.incipit = ho.s23_en_UK_lash.hoCA.Ode81.incipit
 meMA.Ode8C11.text = ho.s23_en_UK_lash.hoCA.Ode81.text
@@ -627,6 +647,7 @@ meMA.Ode8C14.text = ho.s23_en_UK_lash.hoCA.Ode84.text
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C21.incipit = "As with understanding we attend…"
 meMA.Ode8C21.text = "As with understanding we attend to your words, O Chrysostom, we are initiated into the mystery of theology and pluck all the enjoyment of good thongs, and flee the harm of wickedness; for you have become the general guardian of salvation, crying out: Highly exalt Christ to the ages."
@@ -651,12 +672,14 @@ meMA.Ode8C2T.text = "The Prophets foretold in bodily forms, manifold riddles and
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.name
 meMA.Ode9C11.incipit = ho.s23_en_UK_lash.hoCA.Ode91.incipit
 meMA.Ode9C11.text = ho.s23_en_UK_lash.hoCA.Ode91.text
@@ -687,6 +710,7 @@ meMA.Ode9C15.text = ho.s23_en_UK_lash.hoCA.Ode95.text
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C21.incipit = "As you truly enjoy the…"
 meMA.Ode9C21.text = "As you truly enjoy the life for which you struggled according to your power on earth, conspicuous by your angelic way of life, and gaining a the tongue and gentle mouth of Christ, intercede, inspired Father, that those who with faith especially called you blessed may be saved."

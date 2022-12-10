@@ -115,6 +115,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintW.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.AsomenToKyrio.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.AsomenToKyrio.name
 meMA.Ode1C11.incipit = "First Woman Martyr’s far-famed struggles…"
 meMA.Ode1C11.text = "First Woman Martyr’s far-famed struggles tongue’s sound has not the strength to tell; for it is far too weak to raise a worthy hymn."
@@ -139,6 +140,7 @@ meMA.Ode1C1T.text = "All-immaculate Mother of God, who bore beyond nature the et
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "So far beyond thought, all-honoured…"
 meMA.Ode3C11.text = "So far beyond thought, all-honoured virgin, the love by which in Christ, united by the Spirit, you were bound to Paul."
@@ -163,6 +165,7 @@ meMA.Ode3C1T.text = "By your intercessions, O All-pure, give us help, driving of
 
 meMA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3H.greekmelody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.greekname
 meMA.Ode3H.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.melody
 meMA.Ode3H.incipit = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.text
@@ -184,6 +187,7 @@ meMA.Ode3KathismaSt.text = "When she saw the Lamb and Shepherd and Redeemer on t
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.name
 meMA.Ode4C11.incipit = "O all-wise Thekla, when you…"
 meMA.Ode4C11.text = "O all-wise Thekla, when you were betrothed to Thamyris, the bridesman Paul joined you as a spotless virgin to the heavenly Bridegroom."
@@ -214,6 +218,7 @@ meMA.Ode4C1T.text = "As you are sinless, grant us pardon of our follies, O God, 
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.name
 meMA.Ode5C11.incipit = "Martyr Thekla, all-blessed, you ran…"
 meMA.Ode5C11.text = "Martyr Thekla, all-blessed, you ran the arduous race of the athlete and were found worthy of the prize."
@@ -238,6 +243,7 @@ meMA.Ode5C1T.text = "We sing your praise as Virgin after childbirth, Mother of G
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.name
 meMA.Ode6C11.incipit = "The weakness of a girl’s…"
 meMA.Ode6C11.text = "The weakness of a girl’s nature was made strong by the Saviour’s power, for with longing for God she left off the ornaments of youth and boldly by night ran seeking the sweet-scented teachings of her Lover."
@@ -262,6 +268,7 @@ meMA.Ode6C1T.text = "All-holy Virgin Mother of God, do not cease to intercede fo
 
 meMA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6H.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 meMA.Ode6H.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.melody
 meMA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
@@ -275,6 +282,7 @@ meMA.Oikos1.text = "The brilliance of an honoured feast brightly outshines the s
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.name
 meMA.Ode7C11.incipit = "In longing as to a…"
 meMA.Ode7C11.text = "In longing as to a prisoner, All-blessed virgin, you were bound to Paul; with songs unchained in harmony you sang in faith devoutly with him: God of our Fathers, blessed are you."
@@ -305,6 +313,7 @@ meMA.Ode7C1T.text = "You appeared incarnate from a virgin womb for our salvation
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.name
 meMA.Ode8C11.incipit = "O Virgin Martyr, strange seemed…"
 meMA.Ode8C11.text = "O Virgin Martyr, strange seemed your thought; for you dwelt in a tomb as if in Eden, as you sang the praise of Christ to the ages."
@@ -335,12 +344,14 @@ meMA.Ode8C1T.text = "The One who came down from heaven and dwelt in a virgin wom
 
 meMA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8H.greekmelody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.greekname
 meMA.Ode8H.melody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.melody
 meMA.Ode8H.incipit = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.incipit
 meMA.Ode8H.text = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.name
 meMA.Ode9C11.incipit = "Is there any who would…"
 meMA.Ode9C11.text = "Is there any who would not marvel, Protomartyr, at your indomitable courage? For having tamed the passions, wild beasts of the mind, you did not quail before the impotent assaults of wild beasts, but remained in their midst unharmed."
@@ -365,6 +376,7 @@ meMA.Ode9C1T.text = "Sovereign Lady, slay my sin that still lives, give life to 
 
 meMA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9H.greekmelody = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.greekname
 meMA.Ode9H.melody = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.melody
 meMA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.incipit
 meMA.Ode9H.text = he.h.m8_en_UK_lash.heHE.SeTinApeirogamon.text

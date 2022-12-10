@@ -161,6 +161,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_Baptist.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.name
 meMA.Ode1C11.incipit = "Let us sing praise of…"
 meMA.Ode1C11.text = "Let us sing praise of the Prophet who appeared from a barren womb, the sacred Forerunner of the One who was born ineffably from a virgin womb."
@@ -188,6 +189,7 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_Baptist.text
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C21.greekmelody = he.h.m8_en_UK_lash.heHE.TonIsrailEkDouleias.greekname
 meMA.Ode1C21.melody = he.h.m8_en_UK_lash.heHE.TonIsrailEkDouleias.name
 meMA.Ode1C21.incipit = "Let us all praise godlike…"
 meMA.Ode1C21.text = "Let us all praise godlike John, to whom above all mortals Christ bore witness as his Forerunner and friend."
@@ -212,6 +214,7 @@ meMA.Ode1C2T.text = "At every moment, Mother of God, entreat God, who was incarn
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "A dissolute girl, filled with…"
 meMA.Ode3C11.text = "A dissolute girl, filled with drunken­ness, said, Give me here and now, Herod, the head of John on a dish."
@@ -236,6 +239,7 @@ meMA.Ode3C1T.text = "Give us help by your intercessions, O All-pure, by driving 
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C21.greekmelody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.greekname
 meMA.Ode3C21.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.name
 meMA.Ode3C21.incipit = "As mediator of the Old…"
 meMA.Ode3C21.text = "As mediator of the Old and Forerun­ner of the New, leader of the preach­ing of the Gospel, you reproached the lawless union of a tyrant and glori­ously met your death with joy."
@@ -275,6 +279,7 @@ meMA.Ode3KathismaT.text = "All the choirs of Angels were amazed, pure Virgin, at
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C11.incipit = "Unable to bear the severity…"
 meMA.Ode4C11.text = "Unable to bear the severity of the rebukes and the god-fearing boldness of speech, the one who was liable to the penalties of the law, disfigured by the licentiousness of the pleasures, bound and imprisoned the one who in spirit was joined before the end with the choirs on high."
@@ -299,6 +304,7 @@ meMA.Ode4C1T.text = "You are the boast of the faithful, Virgin without bridegroo
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.ExOrousKataskiou.greekname
 meMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.ExOrousKataskiou.name
 meMA.Ode4C21.incipit = "Herod did not endure your…"
 meMA.Ode4C21.text = "Herod did not endure your rebukes, O servant of Christ, all-blessed John, and so he prepared unjust murder against you, for he had no reverence for your holiness."
@@ -323,6 +329,7 @@ meMA.Ode4C2T.text = "Hail from our lips, holy Mother of God. Hail, who bore joy 
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "On her mother’s instructions the…"
 meMA.Ode5C11.text = "On her mother’s instructions the cub, more savage than the savage lioness, possessed of an evil spirit, asked as the reward for her dance the head of the Forerunner and herald, which even all the wild beasts in the deserts treated with reverence."
@@ -347,6 +354,7 @@ meMA.Ode5C1T.text = "As you gained a mother’s boldness towards your Son, All-p
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C21.greekmelody = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C21.melody = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.name
 meMA.Ode5C21.incipit = "As payment for a dance…"
 meMA.Ode5C21.text = "As payment for a dance the head of the Forerunner on a dish was given through deception to the girl. O folly!"
@@ -371,6 +379,7 @@ meMA.Ode5C2T.text = "We sing your praise as Virgin after child-birth, Mother of 
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "Braving danger for the law…"
 meMA.Ode6C11.text = "Braving danger for the law of the commandments, blessed one, you disciplined the transgressor by your rebukes, for you were a reed blown about by the breaths of hostile spirits."
@@ -395,6 +404,7 @@ meMA.Ode6C1T.text = "May we be delivered from dread failings by your intercessio
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C21.greekmelody = he.h.m8_en_UK_lash.heHE.ChitonaMoiParaschou.greekname
 meMA.Ode6C21.melody = he.h.m8_en_UK_lash.heHE.ChitonaMoiParaschou.name
 meMA.Ode6C21.incipit = "For the multitude of the…"
 meMA.Ode6C21.text = "For the multitude of the faithful, glo­rious John, you were a source of di­vine teachings when you announced the Lamb of God to us."
@@ -426,6 +436,7 @@ meMA.Oikos1.text = "The birthday feast of Herod appeared to all as unholy, for a
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C11.incipit = "Lawless Herod, armed with licentious…"
 meMA.Ode7C11.text = "Lawless Herod, armed with licentious lust and terrible drunkenness you as­saulted and tore down the unshakeable tower of self-mastery, the invincible city of sobriety, the Baptist of Christ."
@@ -450,6 +461,7 @@ meMA.Ode7C1T.text = "Delivered by your Offspring from the condemnation of the an
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C21.greekmelody = he.h.m8_en_UK_lash.heHE.PaidesEvraion.greekname
 meMA.Ode7C21.melody = he.h.m8_en_UK_lash.heHE.PaidesEvraion.name
 meMA.Ode7C21.incipit = "Servant heralding the Master’s Com­ing…"
 meMA.Ode7C21.text = "Servant heralding the Master’s Com­ing, morning star heralding the sun, John hastened to Hades crying, Blessed are you, Lord God, to the ages."
@@ -474,6 +486,7 @@ meMA.Ode7C2T.text = "You stemmed the onrush of death, pure Virgin, when you conc
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C11.incipit = "John, who outran your birth…"
 meMA.Ode8C11.text = "John, who outran your birth and your passion, came through a sword to the lowest parts of the earth as Prophet and Messenger of your entrance also there, crying as voice of the Word, You dead, highly exalt the Giver of life, you blind, the Giver of light, you prisoners, the Deliverer Christ."
@@ -498,6 +511,7 @@ meMA.Ode8C1T.text = "Sovereign Lady, Mother of the Lord, by your compassionate i
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C21.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C21.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C21.incipit = "Once the boastful tyrant Herod…"
 meMA.Ode8C21.text = "Once the boastful tyrant Herod transgressed and having turned his attention to the festivities of his birthday he arranges for the young woman to dance, having convinced her that he will fulfil her every re­quest. But she, compelled by her mother’s instructions, asked for the head of the Forerunner on a dish."
@@ -522,6 +536,7 @@ meMA.Ode8C2T.text = "You have become holier than the An­gels, All-holy Maiden, 
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.name
 meMA.Ode9C11.incipit = "Every regiment of evil trembled…"
 meMA.Ode9C11.text = "Every regiment of evil trembled together with their champion the devil at your theologian’s tongue, O Prophet, which proclaims Christ, and through a dissolute girl they persuaded Herod to cut off your head. But we, the faithful, magnify you."
@@ -546,6 +561,7 @@ meMA.Ode9C1T.text = "Bend your bow, march forward and reign, O Son of God’s Mo
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C21.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C21.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C21.incipit = "You were a voice of…"
 meMA.Ode9C21.text = "You were a voice of one who cries, O Baptist, for you shone forth as a Prophet from a Prophet crying out in the desert to all, Repent; and you rebuked Herod who did evil, licentious deeds, And so you hurried on to Hades proclaiming the Kingdom of our God."

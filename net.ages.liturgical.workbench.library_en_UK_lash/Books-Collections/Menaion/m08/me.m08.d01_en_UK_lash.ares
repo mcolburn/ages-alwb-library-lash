@@ -122,12 +122,14 @@ meMA.C2.verse = prayers_en_UK_lash.pr.verse_SaintsM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C1H.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C1H.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C11.incipit = "Let us today with pure mind…"
 meMA.Ode1C11.text = "Let us today with pure mind and devout intent worship the life-bearing Cross of the Lord; for it is set forth granting to those who approach it sanctification and salvation, illumination, glory and mercy."
@@ -158,6 +160,7 @@ meMA.Ode1C1T.text = "When I gave birth to you ineffably, my Child, I escaped the
 
 meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode1C21.greekmelody = he.h.m1_en_UK_lash.heHE.OdinEpinikion.greekname
 meMA.Ode1C21.melody = he.h.m1_en_UK_lash.heHE.OdinEpinikion.name
 meMA.Ode1C21.incipit = "O all-wise Youths…"
 meMA.Ode1C21.text = "O all-wise Youths, who like professionals guarded the doctrines of Moses and devoutly imitated the death of Christ, intercede always that we may all be saved."
@@ -206,12 +209,14 @@ meMA.Ode1C2T.text = "Giving bud ineffably in your womb to the ripe grape cluster
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C1H.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C1H.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.name
 meMA.Ode3C11.incipit = "The Cross, cause of all…"
 meMA.Ode3C11.text = "The Cross, cause of all blessings, is seen and worshipped; and all creation keeps festival with joy, enlightened by the grace of our God who was willingly lifted up on it."
@@ -236,6 +241,7 @@ meMA.Ode3C1T.text = "As she watched life that had died on a Cross, and unable to
 
 meMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3C21.greekmelody = he.h.m1_en_UK_lash.heHE.LithonOnApedokimasan.greekname
 meMA.Ode3C21.melody = he.h.m1_en_UK_lash.heHE.LithonOnApedokimasan.name
 meMA.Ode3C21.incipit = "O Youths who all sprang…"
 meMA.Ode3C21.text = "O Youths who all sprang up and grew together in holiness and were instructed in accordance with the Law by Eleazar, you competed like professionals and trampled down to the ground all the plans of Antiochos."
@@ -287,12 +293,14 @@ meMA.Ode3Kathisma2.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma22.text
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C1H.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C1H.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.heHE.SyMouIschys.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.heHE.SyMouIschys.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C11.incipit = "See, the mighty protection and…"
 meMA.Ode4C11.text = "See, the mighty protection and restoration of mortals, the invincible weapon of the faith, the saving Cross is set forth and appears. And sanctifying the hearts of all who approach it with faith it enlightens by grace."
@@ -323,6 +331,7 @@ meMA.Ode4C1T.text = "'From a virgin womb, my Child, I gave you birth, and now as
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode4C21.greekmelody = he.h.m1_en_UK_lash.heHE.EnPnevmatiProvlepon.greekname
 meMA.Ode4C21.melody = he.h.m1_en_UK_lash.heHE.EnPnevmatiProvlepon.name
 meMA.Ode4C21.incipit = "Rejoice, Eleazar, as you see…"
 meMA.Ode4C21.text = "Rejoice, Eleazar, as you see your holy pupils competing devoutly today on behalf of their ancestral laws and commandments, and refuting the raving of the persecutor Antiochos with wise words."
@@ -359,12 +368,14 @@ meMA.Ode4C2T.text = "Holy Virgin, Bride of God, we sing your praise as the one w
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C1H.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C1H.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 meMA.Ode5C11.incipit = "Shout for joy, you nations…"
 meMA.Ode5C11.text = "Shout for joy, you nations, sing, leap and chant, you tribes, to God who has given the Cross as an unshakeable support. As it now set forth let all of us believers rejoice as through it we enjoy the blessings."
@@ -389,6 +400,7 @@ meMA.Ode5C1T.text = "[missing]"
 
 meMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode5C21.greekmelody = he.h.m1_en_UK_lash.heHE.TinSinEirinin.greekname
 meMA.Ode5C21.melody = he.h.m1_en_UK_lash.heHE.TinSinEirinin.name
 meMA.Ode5C21.incipit = "Lovers of Christ, let us…"
 meMA.Ode5C21.text = "Lovers of Christ, let us imitate the seven Youths, whom Moses lawfully brought up and Eleazar instructed in their ancestral Law through true religion."
@@ -419,12 +431,14 @@ meMA.Ode5C2T.text = "O Christ, alone compassionate, grant us peace; for your mos
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C1H.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C1H.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "When the Cross was fixed…"
 meMA.Ode6C11.text = "When the Cross was fixed in the earth, the fall of demons came about. As we see it now gloriously set forth and as we greet it lovingly we rise up from the sin of our falls."
@@ -449,6 +463,7 @@ meMA.Ode6C1T.text = "Give us strength, Pure Virgin, to fast from every evil, and
 
 meMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode6C21.greekmelody = he.h.m1_en_UK_lash.heHE.TonProfitinIonan.greekname
 meMA.Ode6C21.melody = he.h.m1_en_UK_lash.heHE.TonProfitinIonan.name
 meMA.Ode6C21.incipit = "The Wisdom of God built…"
 meMA.Ode6C21.text = "The Wisdom of God built a temple and supported it on seven spiritual pillars, foreshadowing these Youths as guardians of the Law."
@@ -498,12 +513,14 @@ meMA.Oikos2.text = "Sion, praise your God with fervour, for he has truly strengt
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C1H.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C1H.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C11.incipit = "The One beyond time is…"
 meMA.Ode7C11.text = "The One beyond time is revealed in time bearing flesh, and through his loving-kindness he heals our chronic passions of both flesh and spirit; while already he sanctifies us by his divine Cross."
@@ -534,6 +551,7 @@ meMA.Ode7C1T.text = "Make broad the narrowness of my mind by your intercession, 
 
 meMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode7C21.greekmelody = he.h.m1_en_UK_lash.heHE.TousEnKaminoPaidas.greekname
 meMA.Ode7C21.melody = he.h.m1_en_UK_lash.heHE.TousEnKaminoPaidas.name
 meMA.Ode7C21.incipit = "The zealots for the ancestral…"
 meMA.Ode7C21.text = "The zealots for the ancestral Law, the unflinching guardians of Law united in soul, with all devotion confessed one God in three hypostases, faithfully uniting and devoutly distinguishing."
@@ -564,12 +582,14 @@ meMA.Ode7C2T.text = "Hail, wall and joy of all, O Virgin all-praised. Hail, hope
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C1H.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C1H.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 meMA.Ode8C11.incipit = "Godlike Elissaios once drew the…"
 meMA.Ode8C11.text = "Godlike Elissaios once drew the iron from a river with wood, from long ago foreshadowing you, all-honoured Cross. For we who through you have also been drawn out of the abyss of error to sure faith are today counted worthy to behold you and to worship you in faith to all the ages."
@@ -600,6 +620,7 @@ meMA.Ode8C1T.text = "'As I now see you as an innocent lamb hanged and nailed to 
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode8C21.greekmelody = he.h.m1_en_UK_lash.heHE.TonEnSofiaTousOuranous.greekname
 meMA.Ode8C21.melody = he.h.m1_en_UK_lash.heHE.TonEnSofiaTousOuranous.name
 meMA.Ode8C21.incipit = "Those guardians of the laws…"
 meMA.Ode8C21.text = "Those guardians of the laws of their ancestral customs, those heralds of ordinance of Moses, appearing like seven beacons in the world, flood us with the rays of their struggles, those spiritual lanterns."
@@ -636,12 +657,14 @@ meMA.Ode8C2T.text = "You were revealed, Mary, to be the treasure-house of the go
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C1H.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C1H.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C11.incipit = "Once fixed to the Cross…"
 meMA.Ode9C11.text = "Once fixed to the Cross with nails through feet and hands, pierced in the side, your thirst quenched with vinegar and gall, you healed my wounds, O King of all, supremely good, the joy, the sweetness, glory and eternal redemption of all."
@@ -672,6 +695,7 @@ meMA.Ode9C1T.text = "'Without corruption I gave birth to you from the womb, whom
 
 meMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode9C21.greekmelody = he.h.m1_en_UK_lash.heHE.TinFotoforonNefelin.greekname
 meMA.Ode9C21.melody = he.h.m1_en_UK_lash.heHE.TinFotoforonNefelin.name
 meMA.Ode9C21.incipit = "Those brought up in accordance…"
 meMA.Ode9C21.text = "Those brought up in accordance with the Law and who died on behalf of the Law, the pupils of Eleazar, the Children of Solomoni and zealous followers of Moses, as they were being dragged out shouted, 'Antiochos, we do you hesitate, why do you delay, why are you not doing what you want to against us?'"
