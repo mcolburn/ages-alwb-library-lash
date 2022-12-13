@@ -120,11 +120,13 @@ meVE.Apolytikion2.incipit = "Christ our God, who look…"
 meVE.Apolytikion2.text = "Christ our God, who look upon the earth and make it tremble, deliver us from the dread threat of earthquake; and send down upon us your rich mercies, at the prayers of the Mother of God, O lover of mankind."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma11.incipit = "Your memory, glorious Martyr Demetrios…"
 meMA.Kathisma11.text = "Your memory, glorious Martyr Demetrios, has today made Christ’s Church radiant, and gathered all together to praise you fittingly in songs, O God-inspired, as a true soldier and destroyer of foes. And so by your intercessions deliver us from temptations."
 
 meMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma12.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma12.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma12.incipit = "Martyr Demetrios, pride of the…"
 meMA.Kathisma12.text = "Martyr Demetrios, pride of the contest, having put on Christ, you defeated in war the enemy without strength. For having destroyed the error of the lawless, you have become a trainer of true religion for those with faith. And so we reverently keep the festival of your memory."
@@ -135,6 +137,7 @@ meMA.Kathisma1T.incipit = "Hope that cannot be put…"
 meMA.Kathisma1T.text = "Hope that cannot be put to shame of those who trust in you, who alone beyond nature bore in the flesh Christ our God, with the Holy Apostles entreat him to give the inhabited world pardon and peace, and to us all before the end amendment of life."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma21.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma21.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.incipit = "With unwavering faith Christ’s Champion…"
 meMA.Kathisma21.text = "With unwavering faith Christ’s Champion bravely cast down the insolence of tyrants, like an athlete he threw the evil one, and as the reward of his torments he received the gift of wonders from the judge of the contest, the only God; with whom he also intercedes to have mercy on us."
@@ -145,6 +148,7 @@ meMA.Kathisma2T.incipit = "Hail gate of the Lord…"
 meMA.Kathisma2T.text = "Hail gate of the Lord, though which none may pass; hail wall and protection of those who flee to you; hail haven without storms, and who did not know wedlock, who bore in the flesh your Maker and God, do not cease to intercede for those who praise and worship your Offspring."
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Kathisma31.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Kathisma31.incipit = "We implore you faithfully Demetrios…"
 meMA.Kathisma31.text = "We implore you faithfully Demetrios, most compassionate Martyr of the Lord, to deliver us from dangers of every kind that assail us; heal the wounds of our souls and bodies; tame the proud ragings of our foes, O Saint; give peace to our life, that we may ever glorify you."
@@ -363,16 +367,19 @@ meMA.Ode3C3T.incipit = "[English text unavailable at this…"
 meMA.Ode3C3T.text = "[English text unavailable at this time]"
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Rich in the ways of…"
 meMA.Ode3Kathisma1.text = "Rich in the ways of true religion, casting down the error of false religion, you trampled down the insolence of the tyrants, O Martyr; and with your mind on fire with divine love, you drowned the error of idols in the deep. Therefore you fittingly received wonders as the reward of your struggles and are a source of healings. Champion Demetrios, intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "Well-pleasing to the King of…"
 meMA.Ode3Kathisma2.text = "Well-pleasing to the King of the ages, you turned away the whole plan of a lawless king, glorious Martyr, and did not sacrifice to idols. And so, by contesting most valiantly, you offered yourself as a sacrifice to the Word who was sacrificed. Therefore you were also pierced through the side by the lance, healing the passions of those who approach you. Champion Demetrios, intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Ode3Kathisma3.incipit = "Because from your unendurable wrath…"
 meMA.Ode3Kathisma3.text = "Because from your unendurable wrath that threatened us you have delivered us and had mercy on us, showing us, O Christ, an ocean of love for mankind, we now give you thanks, having been chastised so as to turn from our wicked deeds that slay us. But look upon us, have compassion on us, O Saviour, at the entreaties of the one who gave you birth."

@@ -139,16 +139,19 @@ meVE.Apolytikion3.incipit = "Hail full of grace, Virgin…"
 meVE.Apolytikion3.text = "Hail full of grace, Virgin Mother of God, harbour and protection of the human race; for from you the Redeemer of the world became incarnate; for you alone are Mother and Virgin, ever blessed and glorified. Intercede with Christ God to grant peace to the whole inhabited world."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma11.incipit = "O God, who grant fruitful…"
 meMA.Kathisma11.text = "O God, who grant fruitful seasons and rains from heaven for those on earth, now too accept the petitions of your servants and deliver your city from every constraint; for your acts of pity are for all your works. Therefore bless our comings and goings, direct the works of our hands for us and grant us forgiveness of offences; for you, the Powerful One, brought all things from non-existence into being."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma21.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma21.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.incipit = "You adorned your life with…"
 meMA.Kathisma21.text = "You adorned your life with self-mastery, and having slain the body, you wiped out the assaults of the foe, blessed Father; and, as a worthy heir, you passed over to God, to everlasting life; therefore do not cease to intercede that our souls may be saved."
 
 meMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma22.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma22.incipit = "You came to the starting…"
 meMA.Kathisma22.text = "You came to the starting block of martyrdom, Kallisti, with your two brothers faithfully proclaiming Christ our God; for having nurtured them with love you made them true spiritual vessels of Christ's Church; therefore, as a Martyr, you were joined with them for the life on high."
@@ -158,11 +161,13 @@ meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma2T.text = oc.m4.d5_en_UK_lash.ocMA.Kathisma13.text //"Speedily accept our supplications, all-immaculate Sovereign Lady, and offer them to your Son and God; banish the difficulties of those who have recourse to you, scatter the ambushes and the insolence of those who are now in arms against your servants."
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma31.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma31.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma31.incipit = "Rational Lambs, having finished your…"
 meMA.Kathisma31.text = "Rational Lambs, having finished your course and kept the faith, faithfully you were offered through martyrdom to the Lamb and Shepherd. And so today with joy we praise your sacred memory, noble Saints, as we magnify Christ."
 
 meMA.Kathisma32.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma32.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma32.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma32.incipit = "As to the Master of…"
 meMA.Kathisma32.text = "As to the Master of the universe and Giver of good things, with faith we fall down before you, as we fervently cry out: Entreated by your compassion, Saviour, and by the prayers of her who gave you birth, and of those who have ever been well pleasing to you, as you are good vouchsafe to grant a prosperous year to those who honour you in two natures and faithfully glorify you."
@@ -366,16 +371,19 @@ meMA.Ode3C3T.incipit = "Bride of God, ineffably you…"
 meMA.Ode3C3T.text = "Bride of God, ineffably you conceived the Saviour and Lord, who from troubles delivers us who call on you in truth."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Burning with faith, wise Father…"
 meMA.Ode3Kathisma1.text = "Burning with faith, wise Father, and despising all temporary things, you followed Christ, in the power of the Spirit, having melted your body, Venerable One, by self-mastery, ever looking towards the glory of heaven; therefore you found for your divine ascent the ladder of the pillar fitting your longing, holy Symeon. Intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma2.incipit = "Rational Lambs, having finished your…"
 meMA.Ode3Kathisma2.text = "Rational Lambs, having finished your course and kept the faith, faithfully you were offered through martyrdom to the Lamb and Shepherd. And so today with joy we praise your sacred memory, noble Saints, as we magnify Christ."
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Ode3Kathisma3.incipit = "As to the Master of…"
 meMA.Ode3Kathisma3.text = "As to the Master of the universe and Giver of good things, with faith we fall down before you, as we fervently cry out: Entreated by your compassion, Saviour, and by the prayers of her who gave you birth, and of those who have ever been well pleasing to you, as you are good vouchsafe to grant a prosperous year to those who honour you in two natures and faithfully glorify you."
@@ -639,7 +647,7 @@ meMA.Kontakion1.incipit = "You created the universe in…"
 meMA.Kontakion1.text = "You created the universe in your ineffable wisdom, and fixed the seasons by your authority; grant victories to your Christ-loving people; may you bless our goings and comings of the year, directing our works to your divine will."
 
 meMA.Kontakion2.mode = miscellanea_en_UK_lash.misc.Mode2
-meMA.Kontakion2.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Kontakion2.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.melody
 meMA.Kontakion2.incipit = he.a.m2_en_UK_lash.heAU.TaAnoZiton.incipit
 meMA.Kontakion2.text = he.a.m2_en_UK_lash.heAU.TaAnoZiton.text
 

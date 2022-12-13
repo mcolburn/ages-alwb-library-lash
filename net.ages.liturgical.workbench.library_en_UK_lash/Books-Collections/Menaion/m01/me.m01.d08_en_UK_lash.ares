@@ -84,11 +84,13 @@ meVE.Apolytikion1.incipit = me.m01.d06_en_UK_lash.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m01.d06_en_UK_lash.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_UK_lash.heAU.AvlonPoimenikon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_UK_lash.heAU.AvlonPoimenikon.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -210,11 +212,13 @@ meMA.Ode3H.incipit = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.incipit
 meMA.Ode3H.text = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Ode3Kathisma2.incipit = me.m01.d06_en_UK_lash.meMA.Kathisma31.incipit
 meMA.Ode3Kathisma2.text = me.m01.d06_en_UK_lash.meMA.Kathisma31.text

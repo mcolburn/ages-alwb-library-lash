@@ -168,11 +168,13 @@ meCO.Ode9C12.incipit = "Looking to Christ, who humbles…"
 meCO.Ode9C12.text = "Looking to Christ, who humbles himself, let us be lifted up from the passions that seek the ground; with good zeal trained by faith not to think lofty things, let us be humbled in spirit; that by works which exalt we may exalt up the One who is being brought forth."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma11.incipit = "He who bowed the heavens…"
 meMA.Kathisma11.text = "He who bowed the heavens and dwelt in the Virgin comes forth in flesh to be born in the Cave of Bethlehem, as it is written, and to be seen as a babe, he who gives life to babes in the womb; rejoicing in him, let us all now go to meet him in uprightness of heart."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "Sion, be glad, Bethlehem, make…"
 meMA.Kathisma21.text = "Sion, be glad, Bethlehem, make ready; the maintainer of all things, sending the Star ahead, reveals his measureless condescension; for he before whom the Powers of heaven tremble is truly being brought to birth from the Virgin without change, the only Lover of mankind."
@@ -339,16 +341,19 @@ meMA.Kontakion1.text = "Today the Virgin comes to the cave, to give birth ineffa
 meMA.Oikos1.text = "The sacred sayings of the Prophets reach their term. See, a Virgin gives birth to God in the flesh in the city of Bethlehem within the Cave; let all creation be enriched, be glad and dance; the Master of all things is at hand to live among slaves, ransoming us, who are subject to corruption, from the power of the Stranger; and he appears as a babe, swaddled in a manger, a little Child, God before the ages."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "You blazed our from the…"
 meMA.Ode3Kathisma1.text = "You blazed our from the East like a star and with the beams of your words you enlightened the world and banished the darkness, and like Paul you nobly completed the course, having endured dangers among nations and cities. So too you were ground like wheat by the teeth of wild beasts, becoming an offering to your Lord, Godbearer Ignatios. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma2.incipit = "Set apart by Christ God…"
 meMA.Ode3Kathisma2.text = "Set apart by Christ God, you made your sacred robe shine with splendour, and truly you met with martyrdom, O Godbearer. For you roused wild beasts to separate your from the world, imitating Paul the inspired, glorious Martyr. And so at Rome, Father, you fittingly accomplished martyrdom."
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Ode3Kathisma3.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma3.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Ode3Kathisma3.incipit = "All things have been filled…"
 meMA.Ode3Kathisma3.text = "All things have been filled with joy, for the Mother of God is hastening to give birth to the King of the universe. O inexplicable wonder! The one without beginning begins, and the one without flesh takes flesh. A Cave receives the one who upholds all things. Bethlehem be glad and all creation dance on this prefestal day."
@@ -794,7 +799,7 @@ meMA.Exaposteilarion4.text = "Believers, let us now with faith make songs resoun
 
 meMA.Lauds1.poet = poets_en_UK_lash.po.RomanouTouMelodou
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Lauds1.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Lauds1.melody = he.a.m6_en_UK_lash.heAU.AiAngelikai.melody
 meMA.Lauds1.incipit = he.a.m6_en_UK_lash.heAU.AiAngelikai.incipit
 meMA.Lauds1.text = he.a.m6_en_UK_lash.heAU.AiAngelikai.text
 

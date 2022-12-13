@@ -160,16 +160,19 @@ meVE.Apolytikion1.incipit = "Your Nativity, O Mother of…"
 meVE.Apolytikion1.text = "Your Nativity, O Mother of God, has brought joy to all the inhabited world; for from you there dawned the Sun of righteousness, Christ our God. He abolished the curse and gave the blessing; and by making death of no effect, he has bestowed on us eternal life."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = me.m09.d07_en_UK_lash.meVE.Apolytikion1.incipit
 meMA.Kathisma21.text = me.m09.d07_en_UK_lash.meVE.Apolytikion1.text
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -347,6 +350,7 @@ meMA.Hypakoe.incipit = "…"
 meMA.Hypakoe.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

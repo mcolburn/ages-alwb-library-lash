@@ -77,6 +77,7 @@ meVE.Apolytikion1.incipit = "Be glad, O barren one…"
 meVE.Apolytikion1.text = "Be glad, O barren one, who before did not bear child, for see, you have conceived for the sun a lamp that is about to enlighten the whole inhabited world, sick with blindness. Dance Zachary, cry aloud with boldness: The one to be born is Prophet of the Most High!"
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma11.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma11.incipit = "Elizabeth was freed from barrenness…"
 meMA.Kathisma11.text = "Elizabeth was freed from barrenness, while the Virgin remained still a virgin, when at Gabriel's voice each of them conceived in the womb; but the Forerunner John leapt in the womb when he recognized beforehand his God and Master incarnate in a virgin womb for our salvation"
@@ -87,6 +88,7 @@ meMA.Kathisma1T.incipit = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.incipit
 meMA.Kathisma1T.text = oc.m5.d1_en_UK_lash.ocMA.Kathisma13.text
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma21.incipit = "The desert-loving dove, the sacred…"
 meMA.Kathisma21.text = "The desert-loving dove, the sacred Baptist, who preached repentance and revealed Christ become man, has been born, a patron for all who sin, unfailingly helping all who are storm-tossed. At his entreaties, O Christ, save your world."
@@ -151,12 +153,13 @@ meMA.Ode3C1T.incipit = "As he recognised Christ being…"
 meMA.Ode3C1T.text = "As he recognised Christ being carried in the womb of the Virgin, the issue of a barren woman leapt, foretelling the joy that had come to dwell on earth to ransom all from despair."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "To Zachary the priest, as…"
 meMA.Ode3Kathisma1.text = "To Zachary the priest, as he offered incense in the temple, Gabriel appeared from heaven and said to him: In old age you will have a glorious fruit, and Elizabeth's former barrenness and infertile lack of offspring will be at once unloosed, and she will conceive and bear the herald and Forerunner of Jesus. At their intercessions, Saviour of the world, save our souls."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3KathismaT.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Ode3KathismaT.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.melody
 meMA.Ode3KathismaT.incipit = he.a.m4_en_UK_lash.heAU.KateplagiIosif.incipit
 meMA.Ode3KathismaT.text = he.a.m4_en_UK_lash.heAU.KateplagiIosif.text
 

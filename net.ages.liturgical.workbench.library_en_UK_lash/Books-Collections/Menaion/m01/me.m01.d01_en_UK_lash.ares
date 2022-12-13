@@ -130,11 +130,13 @@ meVE.Apolytikion2.incipit = "Without change you took a…"
 meVE.Apolytikion2.text = "Without change you took a human form, by nature being God, O most compassionate Lord; and fulfilling the Law, you willingly accepted circumcision in the flesh, that you might banish shadows, and strip away the covering of our passions. Glory to your goodness; glory to your compassion; glory to your ineffable condescension, O Word!"
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma11.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma11.incipit = "Let us all praise Basil…"
 meMA.Kathisma11.text = "Let us all praise Basil as a royal adornment of Christ's Church, the inexhaustible treasury of doctrines; for he through these has taught us to reverence a holy Trinity, united by being, but distinct by persons."
 
 meMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma12.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma12.incipit = "Wise Basil, as you stand…"
 meMA.Kathisma12.text = "Wise Basil, as you stand before the Trinity, implore that we, who sing your praise and honour your memory, may on the day of judgement receive grace, mercy and pardon of offences; that with mouth and heart we may glorify the only lover of humankind."
@@ -145,21 +147,25 @@ meMA.Kathisma13.incipit = "The Maker of the world…"
 meMA.Kathisma13.text = "The Maker of the world and the Master of all things, who exists above with the Father and the Spirit, is circumcised on earth as a babe of eight days. Truly your works are divine and wondrous! For you, Master, as fulfilment of the Law, are circumcised for our sake."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.incipit = "Drawing out in a manner…"
 meMA.Kathisma21.text = "Drawing out in a manner fitting God the mystical wealth of ineffable wisdom, you have treasured up for all streams of orthodoxy, which with divine inspiration delight hearts of the believers, but fittingly drown the doctrines of the unbelievers. Therefore through both by exertions of true religion you were revealed as an invincible champion of the Trinity. High Priest Basil, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
 
 meMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Kathisma22.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma22.incipit = "As you are the depth…"
 meMA.Kathisma22.text = "As you are the depth of love for humankind, Master, you put on the form of the slave and were circumcised in the flesh, granting to all humankind your great mercy."
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.incipit = "By the power of the…"
 meMA.Kathisma31.text = "By the power of the divine words you destroyed the gloomy heresies, sank all the insolence of Arius; for to mortals you preached the Spirit as God, and by the stretching out of your hands you put enemies to death, dispelled all the service of Sabellios; and abolished all the ideas of Nestorios. High Priest Basil, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
 
 meMA.Kathisma32.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma32.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma32.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma32.incipit = "The grace of your godlike…"
 meMA.Kathisma32.text = "The grace of your godlike words and the mystical elevation of your doctrines has become for a ladder of divine ascent, Father; for you gained a spiritual trumpet and by it proclaimed the divine teachings. Therefore you have made your dwelling in a place of green pasture and obtained the reward of your struggles. High Priest Basil, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
@@ -304,16 +310,19 @@ meMA.Ode3C2T.incipit = "Without seed you conceived in…"
 meMA.Ode3C2T.text = "Without seed you conceived in the womb, and you gave birth ineffably to God, on whom, pure Ever-virgin, the Powers of heaven dare not look."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Opening your mouth with God's…"
 meMA.Ode3Kathisma1.text = "Opening your mouth with God's word, you uttered wisdom, Herald of light, and sowed in the inhabited world thought inspired by God; You truly confirmed the doctrines of the Fathers and appeared in the manner of Paul a champion of the faith. Therefore you are a fellow citizen of the Angels, and have been declared their companion, blest Saint. Basil, revealer of heaven, intercede with Christ God to grant forgiveness of offences to those who feast with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.notmetered
 meMA.Ode3Kathisma2.incipit = "You watered the whole inhabited…"
 meMA.Ode3Kathisma2.text = "You watered the whole inhabited world by your teachings, as by water, sowing doctrines in it; for Christ the source of life truly took his rest in you, Basil; as you have gained boldness, O inspired by God, implore him to grant us his great mercy."
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Ode3Kathisma3.greekmelody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.greekname
 meMA.Ode3Kathisma3.melody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.notmetered
 meMA.Ode3Kathisma3.incipit = "The Lord of all things…"
 meMA.Ode3Kathisma3.text = "The Lord of all things undergoes circumcision, and as he is good circumcises mortals' faults; today he gives salvation to the world, while in the highest the Creator's high priest and bearer of light rejoices, Basil the great initiate of Christ."

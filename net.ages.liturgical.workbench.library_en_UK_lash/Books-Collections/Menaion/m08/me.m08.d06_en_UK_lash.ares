@@ -140,16 +140,19 @@ meVE.Apolytikion1.incipit = "You were transfigured on the…"
 meVE.Apolytikion1.text = "You were transfigured on the mountain, O Christ God, showing your disciples your glory, as far as they could bear it. At the prayers of the Mother of God make your everlasting light shine also on us sinners, Giver of light, glory to you."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma31.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -268,6 +271,7 @@ meMA.Ode3C23.incipit = "…"
 meMA.Ode3C23.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
@@ -611,7 +615,7 @@ meMA.Ode9C23.text = "You have smitten me with longing, O Christ, and changed me 
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.FosAnalloioton.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.FosAnalloioton.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.heAU.FosAnalloioton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.heAU.FosAnalloioton.text
 

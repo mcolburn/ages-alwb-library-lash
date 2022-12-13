@@ -161,6 +161,7 @@ meVE.Apolytikion1.incipit = "Lord, save your people, and…"
 meVE.Apolytikion1.text = "Lord, save your people, and bless your inheritance, granting to faithful Christians victories over their enemies, and protecting your commonwealth by your Cross."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TouLithouSfragisthentos.greekname
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.heAU.TouLithouSfragisthentos.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -171,6 +172,7 @@ meMA.Kathisma21.incipit = oc.m6.d4_en_UK_lash.ocMA.Kathisma11.incipit
 meMA.Kathisma21.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma11.text
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -246,6 +248,7 @@ meMA.Ode3C12.incipit = "…"
 meMA.Ode3C12.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma1.incipit = oc.m8.d4_en_UK_lash.ocMA.Kathisma22.incipit
 meMA.Ode3Kathisma1.text = oc.m8.d4_en_UK_lash.ocMA.Kathisma22.text
@@ -329,7 +332,7 @@ meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Kontakion1.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.melody
 meMA.Kontakion1.incipit = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kontakion1.text = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.text
 

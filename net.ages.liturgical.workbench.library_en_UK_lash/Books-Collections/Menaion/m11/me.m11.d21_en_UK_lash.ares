@@ -147,16 +147,19 @@ meVE.Apolytikion1.incipit = "Today is the foreshadowing of…"
 meVE.Apolytikion1.text = "Today is the foreshadowing of the good-pleasure of God, and the proclaiming of the salvation of mankind. In the Temple of God the Virgin is revealed, and be-forehand she announces Christ to all. To her let us also cry aloud with mighty voice: Hail, the fulfilment of the Creator’s dispensation!"
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -358,6 +361,7 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

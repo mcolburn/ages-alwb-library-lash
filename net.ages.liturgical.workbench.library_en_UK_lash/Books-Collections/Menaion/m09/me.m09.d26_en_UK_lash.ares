@@ -152,16 +152,18 @@ meVE.Apolytikion1.incipit = me.m05.d08_en_UK_lash.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m05.d08_en_UK_lash.meVE.Apolytikion1.text
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma11.incipit = "You were named son of…"
 meMA.Kathisma11.text = "You were named son of divine thunder, for you deafened the ears of the impious, and more sweetly than a trumpet you made the incarnation of the Word sound in upright hearts. As a true friend you leant on his breast; from which you drew out the deep of knowledge, all-wise Apostle John, and proclaimed to all the One who is with the Father without beginning. Intercede with Christ God to bestow forgiveness of faults on those who celebrate with love your holy memory."
 
 meMA.Kathisma1T.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Kathisma1T.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Kathisma1T.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.melody
 meMA.Kathisma1T.incipit = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.incipit
 meMA.Kathisma1T.text = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.text
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma21.incipit = "Having abandoned the deep of…"
 meMA.Kathisma21.text = "Having abandoned the deep of fishing, O all-praised, you caught all the na­tions like fishes with the rod of the Cross; for as Christ had said to you, you were named a fisher of men, catching them for true religion; therefore you sowed the knowledge of the Word of God and made Patmos and Ephesus fruitful by your words. Theologian, Apostle, intercede with Christ God to bestow forgiveness of faults on those who feast with love your holy memory."
@@ -172,6 +174,7 @@ meMA.Kathisma2T.incipit = "I consider the judgement and…"
 meMA.Kathisma2T.text = "I consider the judgement and I quail, for, wretch that I am, I have done deeds of shame, and I ask, all-praised Mother of God: Before the night of death overtakes me, turn me back, guiding me to the way of repentance, that with thanksgiving I may worship and hymn your measureless power and your divine assistance, All-holy Bride of God, as you in­tercede with Christ God for what I ask of you: that there may be given me pardon of sins and his great mercy."
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma31.incipit = me.m05.d08_en_UK_lash.meMA.Kathisma21.incipit
 meMA.Kathisma31.text = me.m05.d08_en_UK_lash.meMA.Kathisma21.text
@@ -371,6 +374,7 @@ meMA.Ode3C3T.incipit = "O Mother of God, when…"
 meMA.Ode3C3T.text = "O Mother of God, when the Word who took flesh ineffably from you, was raised up on the tree of the Cross, he entrusted you, as Virgin Maiden, to the virgin Disciple."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Leaning on Wisdom's breast and…"
 meMA.Ode3Kathisma1.text = "Leaning on Wisdom's breast and learning knowledge from the Word, with inspiration you thundered: In the beginning was the Word; being the first fairly to write of the begetting without beginning and to announce to all the incarnation of the Word; therefore too with your tongue you caught the nations in a net and you teach the ends of the earth the grace of the Holy Spirit. Theologian, Apostle, intercede with Christ God to bestow forgiveness of faults on those who feast with love your holy memory."

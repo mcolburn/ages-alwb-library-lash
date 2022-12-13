@@ -60,7 +60,7 @@ meSV.AposGlory.incipit = me.m08.d14_en_UK_lash.meMA.AposGlory.incipit
 meSV.AposGlory.text = me.m08.d14_en_UK_lash.meMA.AposGlory.text
 
 meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode1
-meVE.Stichera01.melody = miscellanea_en_UK_lash.misc.Automelon
+meVE.Stichera01.melody = he.a.m1_en_UK_lash.heAU.OTouParadoxouThavmatos.melody
 meVE.Stichera01.incipit = he.a.m1_en_UK_lash.heAU.OTouParadoxouThavmatos.incipit
 meVE.Stichera01.text = he.a.m1_en_UK_lash.heAU.OTouParadoxouThavmatos.text
 
@@ -181,16 +181,19 @@ meVE.Apolytikion1.incipit = "In giving birth you retained…"
 meVE.Apolytikion1.text = "In giving birth you retained your virginity; in falling asleep, O Mother of God, you did not abandon the world. You passed over into life, you, the Mother of life; and by your prayers you deliver our souls from death."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma31.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Kathisma31.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
@@ -440,7 +443,7 @@ meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode6
-meMA.Kontakion1.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Kontakion1.melody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.melody
 meMA.Kontakion1.incipit = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.incipit
 meMA.Kontakion1.text = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.text
 
@@ -598,7 +601,7 @@ meMA.Ode9C23.text = ""
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.heAU.ApostoloiEkPeraton.text
 

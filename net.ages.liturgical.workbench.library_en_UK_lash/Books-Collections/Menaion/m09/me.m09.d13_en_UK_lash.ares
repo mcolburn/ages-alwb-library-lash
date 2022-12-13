@@ -100,11 +100,13 @@ meVE.Apolytikion2.incipit = oc.m2.d4_en_UK_lash.ocMA.Kathisma12.incipit
 meVE.Apolytikion2.text = oc.m2.d4_en_UK_lash.ocMA.Kathisma12.text
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma11.incipit = "Christ has enlightened all things…"
 meMA.Kathisma11.text = "Christ has enlightened all things by his presence; he has renewed the world by his divine Spirit; souls are made new; for a house has been dedicated to the glory of the Lord, where too Christ our God makes new the hearts of the faithful for the salvation of mortals."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma21.incipit = "O faithful people, the festive…"
 meMA.Kathisma21.text = "O faithful people, the festive day of the Dedication has come to Christ's chosen flock, and urges us all to be made new and with shining face faithfully to sing from the depths of the heart songs to the Master as deliverer and him who makes us new."
@@ -290,16 +292,19 @@ meMA.Ode3C3T.incipit = "You have become a light-filled…"
 meMA.Ode3C3T.text = "You have become a light-filled dwelling of purity, and you bear the giver of light made flesh, who appeared as a man for our sake through his love for mankind, and abolished corruption, O Incorrupt recalling of mortals."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma1.incipit = "God displayed the Tent of…"
 meMA.Ode3Kathisma1.text = "God displayed the Tent of witness, and Moses set it up on earth, and Solomon dedicated a temple with sacrifices; but we who have taken refuge in faith in the new Jerusalem, let us like David offer a divine song to him who was crucified for us, asking pardon for all in which we have sinned."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma2.incipit = "Your Cross, O Lord, shining…"
 meMA.Ode3Kathisma2.text = "Your Cross, O Lord, shining like light dispels the forces of darkness; and makes bright the faithful who sing: The Cross is the boast of the world."
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Ode3Kathisma3.incipit = "The Church from the nations…"
 meMA.Ode3Kathisma3.text = "The Church from the nations received you as its holy first fruits and you enlightened her by your virtuous deeds, O inspired High Priest Cornelius."

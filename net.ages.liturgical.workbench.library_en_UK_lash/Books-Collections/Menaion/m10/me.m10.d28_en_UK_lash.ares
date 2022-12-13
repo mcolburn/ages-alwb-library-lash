@@ -179,11 +179,13 @@ meMA.Ode3H.incipit = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.incipit
 meMA.Ode3H.text = he.h.m2_en_UK_lash.heHE.ExinthisenIErimos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

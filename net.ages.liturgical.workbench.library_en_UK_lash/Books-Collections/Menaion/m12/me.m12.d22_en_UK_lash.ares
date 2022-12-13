@@ -171,11 +171,13 @@ meCO.Ode9C13.incipit = "O the audacity of blind…"
 meCO.Ode9C13.text = "O the audacity of blind murder! therefore you forgot: that no one takes God into their power and destroys him; for boiling over with rage, Herod, you savagely slaughter the babes. Spare our souls, Christ God, and save us."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma11.incipit = "Inspired by God let creation…"
 meMA.Kathisma11.text = "Inspired by God let creation today be glad; for Christ the Lord, the Son of our God, is born of a pure Maiden, so making the whole human race immortal and abolishing the curse of the foremother Eve; and so as to our benefactor let bring a song."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.greekname
 meMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.notmetered
 meMA.Kathisma21.incipit = "Joseph the just, as he…"
 meMA.Kathisma21.text = "Joseph the just, as he hymned the Virgin who bore the pre-eternal Word, cried out: I see you, who have become the Temple of the Lord, bearing the One who has come to save all mortals, and who shows those who praise him to be temples through pity of the divine."
@@ -350,11 +352,13 @@ meMA.Ode3H.incipit = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

@@ -112,6 +112,7 @@ meVE.Apolytikion1.incipit = "As the First-called of the…"
 meVE.Apolytikion1.text = "As the First-called of the Apostles and full brother of the Prince, implore the Master of all things, Andrew, to give peace to the inhabited world, and to our souls his great mercy."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma11.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma11.incipit = "As a godly Disciple and…"
 meMA.Kathisma11.text = "As a godly Disciple and First-called of all the Disciples of Christ, with love we praise you, Apostle Andrew, and faithfully we cry out to you: Deliver your flock, with which you were entrusted by God, from every tribulation, from constraints and stumblings, and every evil"
@@ -122,6 +123,7 @@ meMA.Kathisma1T.incipit = "As you now stretch out…"
 meMA.Kathisma1T.text = "As you now stretch out your hands in pity, holy Lady, grant us your help from the Holy Place, and may they complete their lives without danger, those who glorify your all-holy Offspring, and claim you, Lady and Maiden, as their hope and boast."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.greekname
 meMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.notmetered
 meMA.Kathisma21.incipit = "Christ found you first, blest…"
 meMA.Kathisma21.text = "Christ found you first, blest Andrew, as you came, a noble initiate, and one who proclaimed his commandments clearly to the inhabited world like a soaring bird, illumining the companies of the nations. Implore him as God to grant us his great mercy."
@@ -132,6 +134,7 @@ meMA.Kathisma2T.incipit = "You became the divine tabernacle…"
 meMA.Kathisma2T.text = "You became the divine tabernacle of the Word, Mother of God alone all-pure, surpassing the Angels in purity. With the divine waters of your prayers purify me, who am befouled more than all by offences of the flesh, granting me God's great mercy."
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma31.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma31.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma31.incipit = "Let us all sing the…"
 meMA.Kathisma31.text = "Let us all sing the praise of the Apostle as eye-witness and godlike herald of the Word, and truly spiritual fisher of nations; because Andrew inspired of God brought us to knowledge of Christ, and now he intercedes without ceasing that our souls may be saved."
@@ -357,11 +360,13 @@ meMA.Ode3C3T.incipit = "Every mother who bears a…"
 meMA.Ode3C3T.text = "Every mother who bears a child can no longer remain virgin; but you gave birth to Christ and appeared as Virgin Mother, suckling our life, and remaining ever pure."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "As First-called of all the…"
 meMA.Ode3Kathisma1.text = "As First-called of all the Disciples, eye-witness and minister of the Word, we honour you as is fitting, Apostle Andrew; for you fervently followed with unwavering love the Lamb who takes away the offences of the world; therefore you were revealed as a partaker in the passion of him who willingly underwent death in the flesh. And so we cry to you: Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "You threw down the insolence…"
 meMA.Ode3Kathisma2.text = "You threw down the insolence of the idols; you longed for the sufferings of the Saviour, blessed Andrew, and you were declared to be an Apostle, a source for all of wonders from heaven; and you became, all-blessed, a Teacher of nations; therefore as we fittingly honour your memory, we give you glory in hymns and faithfully magnify you, Apostle of the Lord. Intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."

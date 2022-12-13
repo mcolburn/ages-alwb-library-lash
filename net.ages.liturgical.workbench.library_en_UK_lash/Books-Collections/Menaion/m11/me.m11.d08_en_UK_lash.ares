@@ -139,6 +139,7 @@ meVE.Apolytikion1.incipit = "Chief Captains of the heavenly…"
 meVE.Apolytikion1.text = "Chief Captains of the heavenly armies, we the unworthy implore you to protect us by your supplications with the shelter of the wings of your immaterial glory, guarding us as we fall down and insistently cry out: Deliver us from dangers, as Chief Captains of the Powers on high."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma11.incipit = "Chief Captain of the bodiless…"
 meMA.Kathisma11.text = "Chief Captain of the bodiless Ministers, you stand before God and are made radiant with the rays that come from him, make bright, make holy those who faithfully sing your praise, deliver them from every tyranny of the foe, and ask for a peaceful life for our Sovereigns and all the ends of the earth."
@@ -149,16 +150,18 @@ meMA.Kathisma1T.incipit = "We your servants, Mother of…"
 meMA.Kathisma1T.text = "We your servants, Mother of God, Sovereign Lady, will never cease to hymn your mercies with thanksgiving from the heart, as we cry out and say: All-holy Virgin, come speedily and deliver us from seen and unseen foes; for you always save your servants from evils of every kind."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 meMA.Kathisma21.incipit = "The Cherubim and many-eyed Seraphim…"
 meMA.Kathisma21.text = "The Cherubim and many-eyed Seraphim, the hosts of ministering Archangels with the Virtues, Thrones, Dominations, Angels, Powers and Principalities implore you, our Maker and God and Master: Do not despise the supplication of a sinful people, O Christ most merciful."
 
 meMA.Kathisma2T.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Kathisma2T.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.melody
 meMA.Kathisma2T.incipit = he.a.m4_en_UK_lash.heAU.TachyProkatalave.incipit
 meMA.Kathisma2T.text = he.a.m4_en_UK_lash.heAU.TachyProkatalave.text
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 meMA.Kathisma31.incipit = "Princes and Chiefs of the…"
 meMA.Kathisma31.text = "Princes and Chiefs of the heavenly realms, of the high-throned and dread regions of the divine glory, Michael and Gabriel, Chief Captains and Ministers, with all the Bodiless Powers, who ever intercede with the Master on the world's behalf, ask forgiveness of offences for us, and that we may find mercy and grace on the day of judgement."
@@ -294,6 +297,7 @@ meMA.Ode3C2T.incipit = "Isaias sang your conceiving beyond…"
 meMA.Ode3C2T.text = "Isaias sang your conceiving beyond understanding, O Pure one; I sing it too, that I may share his cleansing."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 meMA.Ode3Kathisma1.incipit = "In our desire to praise…"
 meMA.Ode3Kathisma1.text = "In our desire to praise the choirs of Bodiless Powers, let us on earth imitate as far as we are able their holiness, by deadening all the limbs of the flesh, asking them as champions and protectors to deliver from every deception of the invisible foe us who sing their praise, that we may find mercy."

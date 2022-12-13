@@ -170,6 +170,7 @@ meVE.Apolytikion1.incipit = "The grace which shone from…"
 meVE.Apolytikion1.text = "The grace which shone from your mouth like a torch of flame enlightened the whole earth; it laid up for the world the treasures of freedom from avarice; it showed us the height of humility. But as you train us by your words, Father John Chrysostom, intercede with Christ God, the Word, that our souls may be saved."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -180,11 +181,13 @@ meMA.Kathisma1T.incipit = "…"
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.greekname
 meMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TheiasPisteos.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma22.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma22.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
@@ -195,11 +198,13 @@ meMA.Kathisma2T.incipit = "…"
 meMA.Kathisma2T.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Kathisma31.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma31.incipit = "The Church, watered by you…"
 meMA.Kathisma31.text = "The Church, watered by you golden words, gives golden streams as drink for all and heals diseases of those who sing your praise, all-blessed Chrysostom."
 
 meMA.Kathisma32.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma32.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma32.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma32.incipit = "Neither the lawless enmity of…"
 meMA.Kathisma32.text = "Neither the lawless enmity of a synod, nor the mindless hatred of an Augusta quenched the virtues that were in you, Father. But tested by trials, like gold in the fire, you intercede unceasingly with the All-holy Trinity, for which you struggled, fervent in the spirit."
@@ -357,6 +362,7 @@ meMA.Ode3C2T.incipit = "In you, all-blameless Virgin, there…"
 meMA.Ode3C2T.text = "In you, all-blameless Virgin, there is no spot or stain at all, rather you appeared as a dwelling of heavenly virtues, for in you all the hallowing of the virtues made its dwelling."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "As one who saw God…"
 meMA.Ode3Kathisma1.text = "As one who saw God having drawn the wealth of the knowledge of the ineffable wisdom, you treasured up for all the waters of orthodoxy that inspired by God make glad the hearts of the faithful, but fittingly drown the doctrines of the faithless. Therefore through both you have been revealed by the hard labours of true religion as an invincible champion of the Trinity, John Chrysostom, intercede with Christ to grant forgiveness of faults to those who celebrate with love your holy memory."

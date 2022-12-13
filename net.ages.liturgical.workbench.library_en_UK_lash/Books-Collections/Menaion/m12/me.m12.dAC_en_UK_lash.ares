@@ -182,11 +182,13 @@ meMA.Ode3C25.incipit = "…"
 meMA.Ode3C25.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3Kathisma2.greekmelody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""

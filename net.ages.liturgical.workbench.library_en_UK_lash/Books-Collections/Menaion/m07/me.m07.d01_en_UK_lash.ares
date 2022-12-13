@@ -20,7 +20,7 @@ meHO.note1 = ""
 meHO.note2 = ""
 
 meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode6
-meVE.Stichera01.melody = miscellanea_en_UK_lash.misc.Automelon
+meVE.Stichera01.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.melody
 meVE.Stichera01.incipit = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.incipit
 meVE.Stichera01.text = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.text
 
@@ -112,6 +112,7 @@ meVE.Apolytikion1.incipit = "Holy Unmercenaries and Wonderworkers, visit…"
 meVE.Apolytikion1.text = "Holy Unmercenaries and Wonderworkers, visit our weaknesses; freely you have received, freely give to us."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kathisma11.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma11.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
@@ -122,6 +123,7 @@ meMA.Kathisma1T.incipit = "…"
 meMA.Kathisma1T.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
@@ -188,6 +190,7 @@ meMA.Ode3C1T.incipit = "…"
 meMA.Ode3C1T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""

@@ -240,21 +240,25 @@ meCO.Ode9C2H.incipit = he.h.m6_en_UK_lash.heHE.TinTimioteran.incipit
 meCO.Ode9C2H.text = he.h.m6_en_UK_lash.heHE.TinTimioteran.text
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma11.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Kathisma11.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Kathisma11.incipit = "The one uncircumscribed in his…"
 meMA.Kathisma11.text = "The one uncircumscribed in his Divinity, now circumscribed by body's matter, is about to approach the streams of Jordan to be baptised. Let us receive him with purity of thought, for he wishes to work the refashioning of all. To him now let us cry in fear: Glory, O Christ, to your Appearing!"
 
 meMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma12.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Kathisma12.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Kathisma12.incipit = "When you appeared in the…"
 meMA.Kathisma12.text = "When you appeared in the Jordan, O Saviour, to be baptized in the flesh by the waters, the hosts of Angels were amazed as they looked on the Master of creation standing with a slave; from above the Father without beginning proclaimed you; and so with gladness we cry to you, Glory, O Christ, to your Appearing!"
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma21.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma21.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma21.incipit = "The Word, equal in honour…"
 meMA.Kathisma21.text = "The Word, equal in honour with the Father and the Spirit, incarnate through pity and baptised, the Angels looking on him trembled; and the river Jordan, with reverence and with fear, was turned back, as it led us, who flowed with passions, to the height of salvation."
 
 meMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode5
+meMA.Kathisma22.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma22.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meMA.Kathisma22.incipit = "The Word without beginning with…"
 meMA.Kathisma22.text = "The Word without beginning with the Father and the Spirit, now taking a strange form through his compassion, is already hastening to be baptised for us; let us go to meet him with pure thought, as we cry, \"Blessed are you, Christ Saviour and Benefactor, who come to sanctify us.\""
@@ -445,16 +449,19 @@ meMA.Ode3H.incipit = he.h.m8_en_UK_lash.heHE.OukEstinAgios.incipit
 meMA.Ode3H.text = he.h.m8_en_UK_lash.heHE.OukEstinAgios.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma3.greekmelody = he.a.m8_en_UK_lash.heAU.AvlonPoimenikon.greekname
 meMA.Ode3Kathisma3.melody = he.a.m8_en_UK_lash.heAU.AvlonPoimenikon.notmetered
 meMA.Ode3Kathisma3.incipit = "The prophetic choir, proclaiming in…"
 meMA.Ode3Kathisma3.text = "The prophetic choir, proclaiming in advance, rejoices at the Baptism of Christ, which pours forth life. Isaias cries out: Draw cleansing water! The Forefather of God writes how the sea flees before the face of God, who in his good pleasure saves the human race."

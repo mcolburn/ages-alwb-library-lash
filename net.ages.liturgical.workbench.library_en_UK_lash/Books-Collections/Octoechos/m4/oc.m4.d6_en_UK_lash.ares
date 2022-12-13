@@ -68,7 +68,7 @@ ocMA.Kathisma11.incipit = oc.m4.d4_en_UK_lash.ocMA.Kathisma11.incipit
 ocMA.Kathisma11.text = oc.m4.d4_en_UK_lash.ocMA.Kathisma11.text
 
 ocMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode4
-ocMA.Kathisma12.melody = miscellanea_en_UK_lash.misc.Automelon
+ocMA.Kathisma12.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.melody
 ocMA.Kathisma12.incipit = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.incipit
 ocMA.Kathisma12.text = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.text
 
@@ -78,7 +78,7 @@ ocMA.Kathisma13.incipit = "When the pure Virgin perceived…"
 ocMA.Kathisma13.text = "When the pure Virgin perceived the voluntary slaughter of the Master, grieving she said with tears: 'My Child so deeply loved, why have you chosen to die? Why are you condemned to death among evil-doers, you by nature the just God? O my Son, I glorify your long-suffering'."
 
 ocMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
-ocMA.Kathisma21.melody = miscellanea_en_UK_lash.misc.Automelon
+ocMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.melody
 ocMA.Kathisma21.incipit = he.a.m4_en_UK_lash.heAU.TachyProkatalave.incipit
 ocMA.Kathisma21.text = he.a.m4_en_UK_lash.heAU.TachyProkatalave.text
 
@@ -575,7 +575,7 @@ ocMA.Aposticha1.incipit = oc.m4.d4_en_UK_lash.ocMA.Aposticha1.incipit
 ocMA.Aposticha1.text = oc.m4.d4_en_UK_lash.ocMA.Aposticha1.text
 
 ocMA.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode4
-ocMA.Aposticha2.melody = miscellanea_en_UK_lash.misc.Automelon
+ocMA.Aposticha2.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.melody
 ocMA.Aposticha2.incipit = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.incipit
 ocMA.Aposticha2.text = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.text
 

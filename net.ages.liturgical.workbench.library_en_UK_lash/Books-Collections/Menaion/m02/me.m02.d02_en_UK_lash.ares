@@ -174,16 +174,19 @@ meVE.Apolytikion1.incipit = "Hail, full of grace, Virgin…"
 meVE.Apolytikion1.text = "Hail, full of grace, Virgin Mother of God, for from you there dawned the Sun of righteousness, Christ our God, who enlightens those in darkness. Be glad too, righteous Elder, for you received in your embrace the Liberator of our souls, who grants us also resurrection."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
-meMA.Kathisma11.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
+meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.greekname
+meMA.Kathisma11.melody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.melody
 meMA.Kathisma11.incipit = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.incipit
 meMA.Kathisma11.text = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.text
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Kathisma21.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma21.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Kathisma21.incipit = "He who is with the…"
 meMA.Kathisma21.text = "He who is with the Father on a holy throne, coming to earth, was born from a Virgin; and he who is uncircumscribed by time became a babe. Symeon received him in his arms and said with joy, 'Now you release me, O Compassionate, for you have made your servant glad.'"
 
 meMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma31.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma31.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma31.incipit = "The Ancient of Days becomes…"
 meMA.Kathisma31.text = "The Ancient of Days becomes an infant for my sake. God, who is most pure, shares in purifications that he may confirm my flesh, which he took from a Virgin. And Symeon, initiated into the mystery, acknowledged him as God who had appeared in flesh and greeted him as Life. As an old man with joy he cried, 'Release me, for I have seen you, the Life of all.'"
@@ -266,6 +269,7 @@ meMA.Ode3C13.incipit = "The Creator, having become a…"
 meMA.Ode3C13.text = "The Creator, having become a child without change, has reshaped according to the form of his godhead our nature born of earth and destined to return to earth again."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Ode3Kathisma1.incipit = "On Mount Sinai of old…"
 meMA.Ode3Kathisma1.text = "On Mount Sinai of old, Moses saw the back parts of God and was found worthy to hear faintly in darkness and in storm the voice of God. Now Symeon holds in his arms God incarnate for our sake without change. And rejoicing he hastens to go from what is here to eternal life. And so he cries, 'Now, Master, you release your servant.'"
@@ -468,7 +472,7 @@ meMA.Ode9C13.text = "Reverently holy Anna, sober and aged, openly confessed the 
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.greekname
-meMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.Automelon
+meMA.Exaposteilarion1.melody = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.melody
 meMA.Exaposteilarion1.incipit = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.incipit
 meMA.Exaposteilarion1.text = he.a.m3_en_UK_lash.heAU.EnPnevmatiToIero.text
 

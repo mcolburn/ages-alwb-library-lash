@@ -81,11 +81,13 @@ meVE.Apolytikion1.incipit = oc.m2.d4_en_UK_lash.ocMA.Kathisma21.incipit
 meVE.Apolytikion1.text = oc.m2.d4_en_UK_lash.ocMA.Kathisma21.text
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma11.incipit = "The armies of the Angels…"
 meMA.Kathisma11.text = "The armies of the Angels as they watched your Translation, immaculate Mother of God, blessed, all-praised All-holy, having the counsel of the One born from you they gathered the band of Disciples and with joy bore your honoured body to Paradise as they sang the praise of Christ, the Giver of life, to the ages."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
 meMA.Kathisma21.incipit = "As your Fashioner and God…"
 meMA.Kathisma21.text = "As your Fashioner and God he translated to perfect joy your soul that had been placed in the hands of the One who had become man from you for our sake; therefore we reverently call you blessed, the only pure and undefiled, and as we all acknowledge you to be in deed Mother of God we cry: Implore Christ, to whom you have passed over, to save our souls."
@@ -208,16 +210,19 @@ meMA.Ode3H.incipit = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.incipit
 meMA.Ode3H.text = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode1
+meMA.Ode3Kathisma1.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 meMA.Ode3Kathisma1.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 meMA.Ode3Kathisma1.incipit = "The king of Edessa, recognising…"
 meMA.Ode3Kathisma1.text = "The king of Edessa, recognising you as King of all things, who do not offer sceptre and army, but with a word multitudes of wonders, implored you, the God-man, to come to him. But seeing your impress on the towel he cried out, 'You are Lord and God'."
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3Kathisma3.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma3.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma3.incipit = "O Virgin, who conceived God…"
 meMA.Ode3Kathisma3.text = "O Virgin, who conceived God without seed and without corruption gave birth to him incarnate, you have been clothed in the new incorruption of the Spirit; for as Mother of Life and Queen of all things you have passed over to immaterial life. Therefore fittingly and truly you have been revealed as a cloud pouring down waters of life for us. All-blameless Mother of God, intercede with your Son and God to grant forgiveness of faults to those who with faith bow down before your divine Falling Asleep."

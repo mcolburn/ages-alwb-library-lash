@@ -141,11 +141,13 @@ meCO.Ode9C13.incipit = "At your former coming, O…"
 meCO.Ode9C13.text = "At your former coming, O Christ, you saved Adam; but at your second, save those who honour your Birth."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Kathisma11.greekmelody = "Ὁ εὐσχήμων Ἰωσήφ."
 meMA.Kathisma11.melody = ""
 meMA.Kathisma11.incipit = "The unapproachable God, through compassion…"
 meMA.Kathisma11.text = "The unapproachable God, through compassion willing to become approachable for me, comes forth in flesh, to be born as man in the city of Bethlehem from a Virgin girl; let us eagerly hasten to receive him as we cry out with fear: Lord, glory to you."
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 meMA.Kathisma21.incipit = "A marvellous wonder appears today!…"
 meMA.Kathisma21.text = "A marvellous wonder appears today! For our Saviour is now hastening to be brought to birth for us in the Cave in flesh from the Virgin. Magi will worship him with gifts as a king. Shepherds and Angels with glorify him, with them let us also cry: Glory to him who for us became man."
@@ -272,16 +274,19 @@ meMA.Ode3H.incipit = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3H.text = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Ode3Kathisma1.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meMA.Ode3Kathisma1.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma2.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3Kathisma3.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Ode3Kathisma3.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

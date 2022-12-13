@@ -58,7 +58,7 @@ ocVE.AposTheotokion.incipit = "For the afflicted, transformation and…"
 ocVE.AposTheotokion.text = "For the afflicted, transformation and liberation for the ailing are you, O Mother of God, most pure Virgin: save your City, save us all. To all those embattled, you are peace, you are calm to those tossed by the tempest the one Protection of the faithful." //For the afflicted, transformation and liberation for the ailing are you, O Virgin Mother of our God; save your City, save us all. To those embattled you are peace; you are calm to those tossed by the tempest, the one Protection of the faithful.
 
 ocVE.ApolTheotokionVM.mode = miscellanea_en_UK_lash.misc.Mode6
-ocVE.ApolTheotokionVM.melody = miscellanea_en_UK_lash.misc.Automelon
+ocVE.ApolTheotokionVM.melody = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.melody
 ocVE.ApolTheotokionVM.incipit = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.incipit
 ocVE.ApolTheotokionVM.text = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.text
 
@@ -88,7 +88,7 @@ ocMA.Kathisma22.incipit = oc.m6.d2_en_UK_lash.ocMA.Kathisma22.incipit
 ocMA.Kathisma22.text = oc.m6.d2_en_UK_lash.ocMA.Kathisma22.text
 
 ocMA.Kathisma23.mode = miscellanea_en_UK_lash.misc.Mode6
-ocMA.Kathisma23.melody = miscellanea_en_UK_lash.misc.Automelon
+ocMA.Kathisma23.melody = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.melody
 ocMA.Kathisma23.incipit = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.incipit
 ocMA.Kathisma23.text = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.text
 
