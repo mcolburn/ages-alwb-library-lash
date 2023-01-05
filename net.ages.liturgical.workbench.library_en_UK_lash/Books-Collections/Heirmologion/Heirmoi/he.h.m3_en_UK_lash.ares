@@ -144,7 +144,7 @@ heHE.FaraoTaArmata.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.FaraoTaArmata.ode = miscellanea_en_UK_lash.misc.Ode1
 heHE.FaraoTaArmata.text = "Drowning Pharao's chariots in the deep, you parted the sea, Lord, and saved the Israelite people as they praised you with songs."
 
-heHE.FotiToAnespero.greekname = ""
+heHE.FotiToAnespero.greekname = "Φωτὶ τῷ ἀνεσπέρῳ."
 heHE.FotiToAnespero.name = "Shed on my humble soul (NM)"
 heHE.FotiToAnespero.incipit = "Shed on my humble soul …"
 heHE.FotiToAnespero.melody = miscellanea_en_UK_lash.misc.Heirmos
@@ -200,7 +200,7 @@ heHE.OTaYdata.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.OTaYdata.ode = miscellanea_en_UK_lash.misc.Ode1
 heHE.OTaYdata.text = "He who of old assembled the waters into one gathering by his divine decree, and divided the sea for the people of Israel. He is our God and he is glorified. To him alone let us sing, for he has been glorified."
 
-heHE.OTinFloga.greekname = ""
+heHE.OTinFloga.greekname = "Ὁ τὴν φλόγα."
 heHE.OTinFloga.name = "You turned the flame. (NM)"
 heHE.OTinFloga.incipit = "You turned the flame. …"
 heHE.OTinFloga.melody = miscellanea_en_UK_lash.misc.Heirmos
@@ -304,7 +304,7 @@ heHE.SovarosOTyrannos.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.SovarosOTyrannos.ode = miscellanea_en_UK_lash.misc.Ode7
 heHE.SovarosOTyrannos.text = ""
 
-heHE.SteiraPsychi.greekname = ""
+heHE.SteiraPsychi.greekname = "Στεῖρα ψυχή."
 heHE.SteiraPsychi.name = "Sterile and barren soul. (NM)"
 heHE.SteiraPsychi.incipit = "Sterile and barren soul. …"
 heHE.SteiraPsychi.melody = miscellanea_en_UK_lash.misc.Heirmos
@@ -328,7 +328,7 @@ heHE.TemnomeninThalassan.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.TemnomeninThalassan.ode = miscellanea_en_UK_lash.misc.Ode1
 heHE.TemnomeninThalassan.text = ""
 
-heHE.ThavmastosEndoxos.greekname = ""
+heHE.ThavmastosEndoxos.greekname = "Θαυμαστὸς ἐνδόξως."
 heHE.ThavmastosEndoxos.name = "You are God, wonderful. (NM)"
 heHE.ThavmastosEndoxos.incipit = "You are God, wonderful. …"
 heHE.ThavmastosEndoxos.melody = miscellanea_en_UK_lash.misc.Heirmos
@@ -360,7 +360,7 @@ heHE.ToFosSouToAnesperon.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.ToFosSouToAnesperon.ode = miscellanea_en_UK_lash.misc.Ode5
 heHE.ToFosSouToAnesperon.text = "O Christ God, make your light that knows no evening shine on my lowly soul, and guide me to fear of you; because your commands are light."
 
-heHE.ToKataskionOros.greekname = ""
+heHE.ToKataskionOros.greekname = "Τὸ κατάσκιον ὄρος."
 heHE.ToKataskionOros.name = "The shaded mountain. (NM)"
 heHE.ToKataskionOros.incipit = "The shaded mountain. …"
 heHE.ToKataskionOros.melody = miscellanea_en_UK_lash.misc.Heirmos
@@ -448,11 +448,10 @@ heHE.VavyloniaKaminos.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.VavyloniaKaminos.ode = miscellanea_en_UK_lash.misc.Ode8
 heHE.VavyloniaKaminos.text = "Babylonian furnace did not burn the Youths, nor the fire of the Godhead destroy the Virgin; and so with the Youths let us believers cry: Bless the Lord, works of the Lord!"
 
-heHE.VythosMoiTonPathon.greekname = ""
+heHE.VythosMoiTonPathon.greekname = "Βυθός μοι τῶν παθῶν."
 heHE.VythosMoiTonPathon.name = "The deep of the passions. (NM)"
 heHE.VythosMoiTonPathon.incipit = "The deep of the passions. …"
 heHE.VythosMoiTonPathon.melody = miscellanea_en_UK_lash.misc.Heirmos
 heHE.VythosMoiTonPathon.mode = miscellanea_en_UK_lash.misc.Mode3
 heHE.VythosMoiTonPathon.ode = miscellanea_en_UK_lash.misc.Ode6
 heHE.VythosMoiTonPathon.text = "The deep of the passions has risen up against me, and a tempest of contrary winds; but come quickly, my Saviour, save me and deliver me from corruption, as you saved the Prophet from the beast."
-

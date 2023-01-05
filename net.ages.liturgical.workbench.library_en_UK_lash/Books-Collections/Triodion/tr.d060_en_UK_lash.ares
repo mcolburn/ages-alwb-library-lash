@@ -61,8 +61,8 @@ trMA.Kathisma31.text = ""
 
 trMA.Kathisma32.mode = miscellanea_en_UK_lash.misc.Mode3
 trMA.Kathisma32.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
-trMA.Kathisma32.incipit = "…"
-trMA.Kathisma32.text = ""
+trMA.Kathisma32.incipit = oc.m3.d4_en_UK_lash.ocMA.Kathisma23.incipit
+trMA.Kathisma32.text = oc.m3.d4_en_UK_lash.ocMA.Kathisma23.text
 
 trMA.C1.poet = poets_en_UK_lash.po.Iosif
 
