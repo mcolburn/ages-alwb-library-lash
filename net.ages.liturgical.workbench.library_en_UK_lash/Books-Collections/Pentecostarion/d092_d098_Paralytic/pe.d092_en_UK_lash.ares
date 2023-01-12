@@ -69,22 +69,26 @@ peMA.Kathisma12.melody = ""
 peMA.Kathisma12.incipit = oc.m3.d1_en_UK_lash.ocMA.Kathisma12.incipit
 peMA.Kathisma12.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma12.text
 
-peMA.Kathisma13.mode = miscellanea_en_UK_lash.misc.Mode3
-peMA.Kathisma13.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
-peMA.Kathisma13.incipit = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.incipit
-peMA.Kathisma13.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.text
+peMA.Kathisma13.mode = he.a.m3_en_UK_lash.heAU.TinOraiotita.mode
+peMA.Kathisma13.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
+peMA.Kathisma13.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.melody
+peMA.Kathisma13.incipit = he.a.m3_en_UK_lash.heAU.TinOraiotita.incipit
+peMA.Kathisma13.text = he.a.m3_en_UK_lash.heAU.TinOraiotita.text
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 peMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Kathisma22.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 peMA.Kathisma22.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 peMA.Kathisma22.incipit = oc.m3.d1_en_UK_lash.ocMA.Kathisma22.incipit
 peMA.Kathisma22.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma22.text
 
 peMA.Kathisma23.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Kathisma23.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 peMA.Kathisma23.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 peMA.Kathisma23.incipit = "…"
 peMA.Kathisma23.text = ""
@@ -99,12 +103,14 @@ peMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode1C1H.greekmelody = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.greekname
 peMA.Ode1C1H.melody = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.melody
 peMA.Ode1C1H.incipit = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.incipit
 peMA.Ode1C1H.text = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.text
 
 peMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode1C11.greekmelody = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.greekname
 peMA.Ode1C11.melody = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.name
 peMA.Ode1C11.incipit = "O only King, who perform…"
 peMA.Ode1C11.text = "O only King, who perform signs and do marvels, as merciful you willingly underwent the Cross; having put death to death by death, you have given us life."
@@ -123,6 +129,7 @@ peMA.Ode1C13.text = "O Christ, who once with divine power braced the limbs of th
 
 peMA.Ode1C1F1.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode1C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.greekname
 peMA.Ode1C1F1.melody = he.h.m3_en_UK_lash.heHE.ThavmastosEndoxos.name
 peMA.Ode1C1F1.incipit = "Once the Angel would come…"
 peMA.Ode1C1F1.text = "Once the Angel would come down into the Sheep Pool and cure one person each year; but now by divine Baptism Christ cleanses unnumbered multitudes."
@@ -147,12 +154,14 @@ peMA.Ode1C1T.text = "O holy one, ever save this your city, which honours you, fr
 
 peMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode3C1H.greekmelody = he.h.m3_en_UK_lash.heHE.SteiraPsychi.greekname
 peMA.Ode3C1H.melody = he.h.m3_en_UK_lash.heHE.SteiraPsychi.melody
 peMA.Ode3C1H.incipit = he.h.m3_en_UK_lash.heHE.SteiraPsychi.incipit
 peMA.Ode3C1H.text = he.h.m3_en_UK_lash.heHE.SteiraPsychi.text
 
 peMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode3C11.greekmelody = he.h.m3_en_UK_lash.heHE.SteiraPsychi.greekname
 peMA.Ode3C11.melody = he.h.m3_en_UK_lash.heHE.SteiraPsychi.name
 peMA.Ode3C11.incipit = "The sun of old seeing…"
 peMA.Ode3C11.text = "The sun of old seeing you hanging upon the tree, O Word, withdrew its light, the whole earth was shaken; when you died the dead arose, O all-powerful."
@@ -165,6 +174,7 @@ peMA.Ode3C12.text = "When you came with your soul to the belly of the earth, Hel
 
 peMA.Ode3C1F1.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode3C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.SteiraPsychi.greekname
 peMA.Ode3C1F1.melody = he.h.m3_en_UK_lash.heHE.SteiraPsychi.name
 peMA.Ode3C1F1.incipit = "O most Good, heal my…"
 peMA.Ode3C1F1.text = "O most Good, heal my soul which for many many years has been grievously sick; that I may tread the paths which you have marked out for those who long for you."
@@ -188,6 +198,7 @@ peMA.Ode3C1T.incipit = "Your conceiving was without seed…"
 peMA.Ode3C1T.text = "Your conceiving was without seed, your child-bearing beyond understanding, O immaculate Virgin-mother; an awesome thing, greatest marvel, feared by Angels, glorified by mortals, O Maiden, Sovereign Lady ."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode3Kathisma1.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 peMA.Ode3Kathisma1.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 peMA.Ode3Kathisma1.incipit = "…"
 peMA.Ode3Kathisma1.text = ""
@@ -199,12 +210,14 @@ peMA.Ode3Kathisma2.text = he.a.m3_en_UK_lash.heAU.TinOraiotita.text
 
 peMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode4C1H.greekmelody = he.h.m3_en_UK_lash.heHE.ToKataskionOros.greekname
 peMA.Ode4C1H.melody = he.h.m3_en_UK_lash.heHE.ToKataskionOros.melody
 peMA.Ode4C1H.incipit = he.h.m3_en_UK_lash.heHE.ToKataskionOros.incipit
 peMA.Ode4C1H.text = he.h.m3_en_UK_lash.heHE.ToKataskionOros.text
 
 peMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode4C11.greekmelody = he.h.m3_en_UK_lash.heHE.ToKataskionOros.greekname
 peMA.Ode4C11.melody = he.h.m3_en_UK_lash.heHE.ToKataskionOros.name
 peMA.Ode4C11.incipit = "Consumed by envy the Hebrew…"
 peMA.Ode4C11.text = "Consumed by envy the Hebrew people crucified you on a tree, O Lord; and having annulled the sentence of death, you rose from the dead as mighty, raising the world with you."
@@ -223,6 +236,7 @@ peMA.Ode4C13.text = "Bearing the image of a servant in your surpassing compassio
 
 peMA.Ode4C1F1.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode4C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.ToKataskionOros.greekname
 peMA.Ode4C1F1.melody = he.h.m3_en_UK_lash.heHE.ToKataskionOros.name
 peMA.Ode4C1F1.incipit = "An Angel of the Lord…"
 peMA.Ode4C1F1.text = "An Angel of the Lord went down at a certain time and stirred up the water in the Sheep Pool, making one, and only one person well; but Christ saves countless multitudes by divine Baptism."
@@ -247,12 +261,14 @@ peMA.Ode4C1T.text = "How did you give suck, O pure one? How give birth to an inf
 
 peMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode5C1H.greekmelody = he.h.m3_en_UK_lash.heHE.FotiToAnespero.greekname
 peMA.Ode5C1H.melody = he.h.m3_en_UK_lash.heHE.FotiToAnespero.melody
 peMA.Ode5C1H.incipit = he.h.m3_en_UK_lash.heHE.FotiToAnespero.incipit
 peMA.Ode5C1H.text = he.h.m3_en_UK_lash.heHE.FotiToAnespero.text
 
 peMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode5C11.greekmelody = he.h.m3_en_UK_lash.heHE.FotiToAnespero.greekname
 peMA.Ode5C11.melody = he.h.m3_en_UK_lash.heHE.FotiToAnespero.name
 peMA.Ode5C11.incipit = "You were lifted up on…"
 peMA.Ode5C11.text = "You were lifted up on the tree of the Cross and you lifted up the whole world with you; and among the dead as God you raise those who have been dead since time began."
@@ -271,6 +287,7 @@ peMA.Ode5C13.text = "A snow-white, dazzling Angel appeared to the women saying, 
 
 peMA.Ode5C1F1.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode5C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.FotiToAnespero.greekname
 peMA.Ode5C1F1.melody = he.h.m3_en_UK_lash.heHE.FotiToAnespero.name
 peMA.Ode5C1F1.incipit = "As you raised the Paralysed…"
 peMA.Ode5C1F1.text = "As you raised the Paralysed Man, O Christ, heal my soul crippled by transgressions, and lead me aright to walk in your straight paths."
@@ -295,12 +312,14 @@ peMA.Ode5C1T.text = "We hymn your child-bearing without seed and your birth-givi
 
 peMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode6C1H.greekmelody = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.greekname
 peMA.Ode6C1H.melody = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.melody
 peMA.Ode6C1H.incipit = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.incipit
 peMA.Ode6C1H.text = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.text
 
 peMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode6C11.greekmelody = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.greekname
 peMA.Ode6C11.melody = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.name
 peMA.Ode6C11.incipit = "Willingly you were raised on…"
 peMA.Ode6C11.text = "Willingly you were raised on a tree, you were placed as a dead man in a tomb, and having given life to all the dead in Hell together, you rose, O Christ, by divine power."
@@ -319,6 +338,7 @@ peMA.Ode6C13.text = "The divine Disciples, when they saw the life of all come fr
 
 peMA.Ode6C1F1.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode6C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.greekname
 peMA.Ode6C1F1.melody = he.h.m3_en_UK_lash.heHE.VythosMoiTonPathon.name
 peMA.Ode6C1F1.incipit = "He who of old had…"
 peMA.Ode6C1F1.text = "He who of old had lain for many years on a bed of pain, at your order, O Christ, was made whole, and with hymns glorified your compassion, O Giver of life."
@@ -363,12 +383,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode7C1H.greekmelody = he.h.m3_en_UK_lash.heHE.OTinFloga.greekname
 peMA.Ode7C1H.melody = he.h.m3_en_UK_lash.heHE.OTinFloga.melody
 peMA.Ode7C1H.incipit = he.h.m3_en_UK_lash.heHE.OTinFloga.incipit
 peMA.Ode7C1H.text = he.h.m3_en_UK_lash.heHE.OTinFloga.text
 
 peMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode7C11.greekmelody = he.h.m3_en_UK_lash.heHE.OTinFloga.greekname
 peMA.Ode7C11.melody = he.h.m3_en_UK_lash.heHE.OTinFloga.name
 peMA.Ode7C11.incipit = "When it saw you stretched…"
 peMA.Ode7C11.text = "When it saw you stretched upon the Tree the sun withdrew its light, unable to shine on the world when you, O King of all, had willingly set to give light to all nations."
@@ -387,6 +409,7 @@ peMA.Ode7C13.text = "'Why do you seek the living as one dead? he has risen. he i
 
 peMA.Ode7C1F1.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode7C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.OTinFloga.greekname
 peMA.Ode7C1F1.melody = he.h.m3_en_UK_lash.heHE.OTinFloga.name
 peMA.Ode7C1F1.incipit = "With a word you healed…"
 peMA.Ode7C1F1.text = "With a word you healed the Paralysed Man, who had lain sick for many years, and you cried to him: Take up your bed, and go, praising the wonderful works of God."
@@ -411,12 +434,14 @@ peMA.Ode7C1T.text = "You remained Virgin when above reason you bore without chan
 
 peMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode8C1H.greekmelody = he.h.m3_en_UK_lash.heHE.TonYpAngelon.greekname
 peMA.Ode8C1H.melody = he.h.m3_en_UK_lash.heHE.TonYpAngelon.melody
 peMA.Ode8C1H.incipit = he.h.m3_en_UK_lash.heHE.TonYpAngelon.incipit
 peMA.Ode8C1H.text = he.h.m3_en_UK_lash.heHE.TonYpAngelon.text
 
 peMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode8C11.greekmelody = he.h.m3_en_UK_lash.heHE.TonYpAngelon.greekname
 peMA.Ode8C11.melody = he.h.m3_en_UK_lash.heHE.TonYpAngelon.name
 peMA.Ode8C11.incipit = "The veil was rent when…"
 peMA.Ode8C11.text = "The veil was rent when you were crucified, O our Saviour, and death gave up the dead whom it had swallowed; and Hell was stripped bare when it saw you in the lowest regions of the earth."
@@ -435,6 +460,7 @@ peMA.Ode8C13.text = "'Run quickly, announce the Resurrection to the Apostles', c
 
 peMA.Ode8C1F1.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode8C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.TonYpAngelon.greekname
 peMA.Ode8C1F1.melody = he.h.m3_en_UK_lash.heHE.TonYpAngelon.name
 peMA.Ode8C1F1.incipit = "The Paralysed Man, who had…"
 peMA.Ode8C1F1.text = "The Paralysed Man, who had lain for many years, cried: Have mercy on me, afflicted by distress, O Redeemer. But he orders him to take up his bed with haste and to walk upright."
@@ -459,12 +485,14 @@ peMA.Ode8C1T.text = "Of old Isaias saw you as a book, Ever-virgin, in which the 
 
 peMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode9C1H.greekmelody = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.greekname
 peMA.Ode9C1H.melody = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.melody
 peMA.Ode9C1H.incipit = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.incipit
 peMA.Ode9C1H.text = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.text
 
 peMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode9C11.greekmelody = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.greekname
 peMA.Ode9C11.melody = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.name
 peMA.Ode9C11.incipit = "Jesus, lifted up upon the…"
 peMA.Ode9C11.text = "Jesus, lifted up upon the tree, you lifted us up with you; and placed willingly in a tomb, you raised from the graves all the dead, who praise your incomprehensible might and your invincible power."
@@ -483,6 +511,7 @@ peMA.Ode9C13.text = "Swiftly the women came to the all-holy grave bringing sighs
 
 peMA.Ode9C1F1.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C1F1.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Ode9C1F1.greekmelody = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.greekname
 peMA.Ode9C1F1.melody = he.h.m3_en_UK_lash.heHE.EnSinaioToOrei.name
 peMA.Ode9C1F1.incipit = "Energy of body followed your…"
 peMA.Ode9C1F1.text = "Energy of body followed your order, O Christ, and the man formerly Paralysed was seen going by in haste, bearing the bed on which he had lain for many years, and praising your great power."

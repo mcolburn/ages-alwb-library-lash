@@ -69,6 +69,7 @@ peMA.Kathisma11.incipit = pe.d099_en_UK_lash.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d099_en_UK_lash.peMA.Kathisma11.text
 
 peMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Kathisma12.greekmelody = pe.d099_en_UK_lash.peMA.Kathisma12.greekmelody
 peMA.Kathisma12.melody = pe.d099_en_UK_lash.peMA.Kathisma12.melody
 peMA.Kathisma12.incipit = pe.d099_en_UK_lash.peMA.Kathisma12.incipit
 peMA.Kathisma12.text = pe.d099_en_UK_lash.peMA.Kathisma12.text
@@ -79,6 +80,7 @@ peMA.Kathisma1T.incipit = oc.m4.d7_en_UK_lash.ocMA.Kathisma14.incipit
 peMA.Kathisma1T.text = oc.m4.d7_en_UK_lash.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 peMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 peMA.Kathisma21.incipit = "Let heaven rejoice, and things…"
 peMA.Kathisma21.text = "Let heaven rejoice, and things on earth dance, for Christ, having appeared from a Virgin as man, has delivered all mankind from corruption by his own death; but, having shone with wonders, he asks water of the Woman of Samaria and bestows a source of healings, for he alone is immortal."

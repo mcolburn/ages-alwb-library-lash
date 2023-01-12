@@ -31,6 +31,7 @@ peVE.Stichera06.incipit = pe.d110_en_UK_lash.peVE.Stichera03.incipit
 peVE.Stichera06.text = pe.d110_en_UK_lash.peVE.Stichera03.text
 
 peVE.Stichera07.mode = miscellanea_en_UK_lash.misc.Mode6
+peVE.Stichera07.greekmelody = he.a.m6_en_UK_lash.heAU.IApegnosmeni.greekname
 peVE.Stichera07.melody = he.a.m6_en_UK_lash.heAU.IApegnosmeni.notmetered
 peVE.Stichera07.incipit = "You were born from the…"
 peVE.Stichera07.text = "You were born from the womb before the morning star, without a mother from the Father before the ages, though Arius dares to call you a creature, and does not glorify you as God, insanely joining you, the Creator, with the creatures, and laying up for himself as treasure the fuel of the eternal fire. But the Council in Nicea loudly proclaimed you, Lord, to be Son of God, equal in rank with the Father and the Spirit."
@@ -130,6 +131,7 @@ peMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintsM.text
 
 peMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode1C11.greekmelody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.greekname
 peMA.Ode1C11.melody = he.h.m6_en_UK_lash.heHE.OsEnIpeiroPezefsas.name
 peMA.Ode1C11.incipit = "I praise the all-holy Council…"
 peMA.Ode1C11.text = "I praise the all-holy Council of the holy Fathers as I cry out: O Christ, I implore you, guard closely in me its all-holy revelation."
@@ -154,6 +156,7 @@ peMA.Ode1C1T.text = "Near her own Son and God the holy Queen stands clothed in m
 
 peMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode3C11.greekmelody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.greekname
 peMA.Ode3C11.melody = he.h.m6_en_UK_lash.heHE.OukEstinAgios.name
 peMA.Ode3C11.incipit = "Grafting impiously flux and change…"
 peMA.Ode3C11.text = "Grafting impiously flux and change and separation onto the divine begetting, the wicked and demented Arius is cut off by the separating sword of the Fathers."
@@ -177,22 +180,26 @@ peMA.Ode3C1T.incipit = "Equal no word, no tongue…"
 peMA.Ode3C1T.text = "Equal no word, no tongue of mortals to praise you worthily, O Virgin; for from you, All-pure, Christ the giver of life was well pleased to become incarnate without seed."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3Kathisma1.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 peMA.Ode3Kathisma1.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 peMA.Ode3Kathisma1.incipit = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.incipit
 peMA.Ode3Kathisma1.text = me.m07.dHF_en_UK_lash.meMA.Ode3Kathisma1.text
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3Kathisma2.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 peMA.Ode3Kathisma2.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 peMA.Ode3Kathisma2.incipit = "You were shown to the…"
 peMA.Ode3Kathisma2.text = "You were shown to the world to be truly brightly shining beacons of Christ's truth upon earth, blessed Fathers, melting the heresies of evil-speaking chatterers, quenching the burning confusions of blasphemers; therefore as Hierarchs of Christ intercede that we may be saved."
 
 peMA.Ode3Kathisma3.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3Kathisma3.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 peMA.Ode3Kathisma3.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 peMA.Ode3Kathisma3.incipit = "The shining city of the…"
 peMA.Ode3Kathisma3.text = "The shining city of the Nicaeans today summoned to herself from all the earth three hundred and eighteen High Priests against Arius who spoke blasphemy and diminished one of the Trinity, who is Son and Word of God; by overthrowing him they strengthened the faith."
 
 peMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode4C11.greekmelody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.greekname
 peMA.Ode4C11.melody = he.h.m6_en_UK_lash.heHE.ChristosMouDynamis.name
 peMA.Ode4C11.incipit = "From the Church the ill-famed…"
 peMA.Ode4C11.text = "From the Church the ill-famed Arius, who corrupted the orthodox Faith with his senseless mind, has been exiled as a rotten limb by the votes of the Fathers."
@@ -217,6 +224,7 @@ peMA.Ode4C1T.text = "Sampling a plant showed me to be a corpse; for the tree of 
 
 peMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode5C11.greekmelody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.greekname
 peMA.Ode5C11.melody = he.h.m6_en_UK_lash.heHE.ToTheioFengeiSou.name
 peMA.Ode5C11.incipit = "Truly beautiful are the feet…"
 peMA.Ode5C11.text = "Truly beautiful are the feet of those who preach you the peace which surpasses every mind, of all Angels and of mortals, O Christ, and by abundance of peace unites the world."
@@ -241,6 +249,7 @@ peMA.Ode5C1T.text = "Since we know you, O all pure, to be the shining lamp which
 
 peMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode6C11.greekmelody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.greekname
 peMA.Ode6C11.melody = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.name
 peMA.Ode6C11.incipit = "Escape the mystery of providence…"
 peMA.Ode6C11.text = "Escape the mystery of providence he could not, the sower of tares, who was called by the surname Lunacy; for having rivalled Judas, like him the wholly evil one was split asunder."
@@ -288,6 +297,7 @@ peSY.lastline = ""
 
 peMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode7C11.greekmelody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.greekname
 peMA.Ode7C11.melody = he.h.m6_en_UK_lash.heHE.DrosovolonMenTinKaminon.name
 peMA.Ode7C11.incipit = "You defeated Arius, whose surname…"
 peMA.Ode7C11.text = "You defeated Arius, whose surname is Frenzy, who raved and spoke the grossest impieties of God; for he refused to cry out to the Son: Blessed are you, the God of our fathers."
@@ -312,6 +322,7 @@ peMA.Ode7C1T.text = "Prefiguring your giving birth, the furnace did not burn the
 
 peMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode8C11.greekmelody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.greekname
 peMA.Ode8C11.melody = he.h.m6_en_UK_lash.heHE.EkFlogosToisOsiois.name
 peMA.Ode8C11.incipit = "Aflame with the rays of…"
 peMA.Ode8C11.text = "Aflame with the rays of your Godhead your goodly Shepherds confessed you to be creator of all things and Lord, whom we highly exalt to all the ages."
@@ -336,6 +347,7 @@ peMA.Ode8C1T.text = "The Prophets in images all mystically foresaw you bearing t
 
 peMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Ode9C11.greekmelody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.greekname
 peMA.Ode9C11.melody = he.h.m6_en_UK_lash.heHE.TheonAnthropois.name
 peMA.Ode9C11.incipit = "The Word before the ages…"
 peMA.Ode9C11.text = "The Word before the ages, like the Father without beginning and equal in majesty, having found you to be allies, assembled you, arming you with the mighty power of the Spirit; whom now, All-hallowed ones, with the heavenly hosts you ever glorify."
@@ -374,6 +386,7 @@ peMA.Exaposteilarion3.incipit = pe.d110_en_UK_lash.peMA.Exaposteilarion1.incipit
 peMA.Exaposteilarion3.text = pe.d110_en_UK_lash.peMA.Exaposteilarion1.text
 
 peMA.Lauds6.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Lauds6.greekmelody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.greekname
 peMA.Lauds6.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.notmetered
 peMA.Lauds6.incipit = me.m07.dHF_en_UK_lash.meMA.Lauds1.incipit
 peMA.Lauds6.text = me.m07.dHF_en_UK_lash.meMA.Lauds1.text

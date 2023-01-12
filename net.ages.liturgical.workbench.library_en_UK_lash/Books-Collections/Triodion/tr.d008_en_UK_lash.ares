@@ -67,6 +67,7 @@ trMA.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 trMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode1C11.greekmelody = he.h.m2_en_UK_lash.heHE.TinMoseosOdin.greekname
 trMA.Ode1C11.melody = he.h.m2_en_UK_lash.heHE.TinMoseosOdin.name
 trMA.Ode1C11.incipit = "Jesus my God, now accept…"
 trMA.Ode1C11.text = "Jesus my God, now accept me too as I repent like the Profligate Son. All my life I have lived in carelessness and provoked you to anger."
@@ -91,6 +92,7 @@ trMA.Ode1C1T.text = "Show in me all your goodness, O God. As my Benefactor, over
 
 trMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode3C11.greekmelody = he.h.m2_en_UK_lash.heHE.SteirothentaMouTonNoun.greekname
 trMA.Ode3C11.melody = he.h.m2_en_UK_lash.heHE.SteirothentaMouTonNoun.name
 trMA.Ode3C11.incipit = "Wholly beside myself, I attached…"
 trMA.Ode3C11.text = "Wholly beside myself, I attached myself in madness to the inventors of passions. But accept me, O Christ, like the Profligate."
@@ -114,17 +116,20 @@ trMA.Ode3C1T.incipit = "O lovely among women, enrich…"
 trMA.Ode3C1T.text = "O lovely among women, enrich me too, reduced to poverty by many sins, pure Virgin, with notions of what is fair and lovely, that I may glorify you."
 
 trMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode3Kathisma1.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma1.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma1.incipit = oc.m1.d2_en_UK_lash.ocMA.Kathisma21.incipit
 trMA.Ode3Kathisma1.text = oc.m1.d2_en_UK_lash.ocMA.Kathisma21.text
 
 trMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode3Kathisma2.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
 trMA.Ode3Kathisma2.melody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.notmetered
 trMA.Ode3Kathisma2.incipit = "Pure Virgin Mother of God…"
 trMA.Ode3Kathisma2.text = "Pure Virgin Mother of God without bridegroom, the only guardian and protection of the faithful, deliver from dangers, afflictions and dread circumstances all who have their hopes on you, O Maiden, and by your godly intercessions save our souls."
 
 trMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode4C11.greekmelody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.greekname
 trMA.Ode4C11.melody = he.h.m2_en_UK_lash.heHE.TinEkParthenou.name
 trMA.Ode4C11.incipit = "The wealth of fair blessings…"
 trMA.Ode4C11.text = "The wealth of fair blessings which you gave me, heavenly Father, I have wrongly squandered, enslaved to citizens of a foreign country, therefore I cry to you, 'I have sinned against you. Receive me like the Profligate of old, unfolding your arms to me'."
@@ -149,6 +154,7 @@ trMA.Ode4C1T.text = "You are the help of humankind, the sure hope of all Christi
 
 trMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode5C11.greekmelody = he.h.m2_en_UK_lash.heHE.TisNyktosDielthousis.greekname
 trMA.Ode5C11.melody = he.h.m2_en_UK_lash.heHE.TisNyktosDielthousis.name
 trMA.Ode5C11.incipit = "I was enslaved to citizens…"
 trMA.Ode5C11.text = "I was enslaved to citizens of a foreign country, I became an exile in a land of destruction, and I was filled with shame. But now, as I return, O Compassionate, I cry to you, 'I have sinned.'"
@@ -173,6 +179,7 @@ trMA.Ode5C1T.text = "All-holy Virgin, full of grace, who gave birth to the propi
 
 trMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode6C11.greekmelody = he.h.m2_en_UK_lash.heHE.VythoAmartimaton.greekname
 trMA.Ode6C11.melody = he.h.m2_en_UK_lash.heHE.VythoAmartimaton.name
 trMA.Ode6C11.incipit = "The depth of sin ever…"
 trMA.Ode6C11.text = "The depth of sin ever holds me fast, and a tempest of transgressions drags me down. Pilot me, Christ my God, to the harbour of life and save me, King of glory."
@@ -217,6 +224,7 @@ trSY.lastline = "By your ineffable love for humankind, Christ our God, have merc
 
 trMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode7C11.greekmelody = he.h.m2_en_UK_lash.heHE.TaCherouvimMimoumenoi.greekname
 trMA.Ode7C11.melody = he.h.m2_en_UK_lash.heHE.TaCherouvimMimoumenoi.name
 trMA.Ode7C11.incipit = "I have bowed down miserably…"
 trMA.Ode7C11.text = "I have bowed down miserably to the pleasures of the body and I have become wholly enslaved to the inventors of the passions; and I have become a stranger to you, lover of humankind. But now I cry with the voice of the Profligate, 'I have sinned, O Christ, do not despise, for you alone are merciful'."
@@ -241,6 +249,7 @@ trMA.Ode7C1T.text = "Mother of God, you are revealed as more radiant than the Ch
 
 trMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode8C11.greekmelody = he.h.m2_en_UK_lash.heHE.TonEnTiVatoMosi.greekname
 trMA.Ode8C11.melody = he.h.m2_en_UK_lash.heHE.TonEnTiVatoMosi.name
 trMA.Ode8C11.incipit = "You, who through great mercy…"
 trMA.Ode8C11.text = "You, who through great mercy came down to earth to save the world by voluntary poverty, save me as you are merciful, for I am poor in all good works."
@@ -265,6 +274,7 @@ trMA.Ode8C1T.text = "Pure Mother of God, only restoration of the broken, restore
 
 trMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Ode9C11.greekmelody = he.h.m2_en_UK_lash.heHE.TonGigenonTisIkouse.greekname
 trMA.Ode9C11.melody = he.h.m2_en_UK_lash.heHE.TonGigenonTisIkouse.name
 trMA.Ode9C11.incipit = "See, O Christ, the affliction…"
 trMA.Ode9C11.text = "See, O Christ, the affliction of my heart; see my turning back; see my tears, O Saviour, and do not despise me. But embrace me once again through your compassion and number me with the multitude of the saved, that with thanksgiving I may sing the praise of your mercies."
@@ -294,16 +304,19 @@ trMA.Ode9C1T.incipit = "I pray you, Virgin, through…"
 trMA.Ode9C1T.text = "I pray you, Virgin, through your radiant intercessions enlighten the eyes of my mind darkened by wickedness and bring me to ways of repentance. So that, as is fitting, I may sing your praise, who beyond reason gave a body to the Word."
 
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion1.incipit = "By uselessly leaving home, wretch…"
 trMA.Exaposteilarion1.text = "By uselessly leaving home, wretch that I am, I wickedly wasted the wealth of grace that you gave me. And living like the Profligate I squandered my wealth deceitfully to demons. But now, as I return, accept me like the Profligate, merciful Father, and save me."
 
 trMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Exaposteilarion2.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 trMA.Exaposteilarion2.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 trMA.Exaposteilarion2.incipit = "I have squandered and spent…"
 trMA.Exaposteilarion2.text = "I have squandered and spent all your wealth and have become the subject to evil demons, wretch that I am. But, most compassionate Saviour, take pity on the Profligate, cleanse me of filth and give me back again the first robe of your kingdom."
 
 trMA.ExapTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.heAU.GynaikesAkoutisthite.notmetered
 trMA.ExapTheotokion.incipit = "Holy Virgin Mother of God…"
 trMA.ExapTheotokion.text = "Holy Virgin Mother of God, the great boast of Martyrs, Prophets and Ascetics, gain the mercy of your Son and Lord for us your servants, when he sits to judge each according to their due."

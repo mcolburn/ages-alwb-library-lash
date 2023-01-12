@@ -3,6 +3,7 @@ A_Resource_Whose_Name = oc.m3.d4_en_UK_lash
 ocBK.ModeNaked = miscellanea_en_UK_lash.misc.Mode3.naked
 
 ocVE.Stichera1.mode = miscellanea_en_UK_lash.misc.Mode3
+ocVE.Stichera1.greekmelody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.greekname
 ocVE.Stichera1.melody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.notmetered
 ocVE.Stichera1.incipit = "Creation was changed at your…"
 ocVE.Stichera1.text = "Creation was changed at your Crucifixion, O Word; the sun withdrew its rays in fear, the veil of the temple was rent and every believer was saved; therefore we glorify your measureless riches."
@@ -18,6 +19,7 @@ ocVE.Stichera3.incipit = "Drops of blood and water…"
 ocVE.Stichera3.text = "Drops of blood and water, which flowed from God, refashioned the world as they poured from your side. With the water, as you are compassionate, you wash away the sins of all, while with the blood, Lord, you write out their pardon."
 
 ocVE.Stichera4.mode = miscellanea_en_UK_lash.misc.Mode3
+ocVE.Stichera4.greekmelody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.greekname
 ocVE.Stichera4.melody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.notmetered
 ocVE.Stichera4.incipit = "In lying on the bed…"
 ocVE.Stichera4.text = "In lying on the bed of my indifference, I have passed the length of my life in sloth, and I tremble at the hour of my departure, but rouse me to repentance by your intercession, O Maiden, and save m"
@@ -33,6 +35,7 @@ ocVE.Stichera6.incipit = "Cast away, my humble soul…"
 ocVE.Stichera6.text = "Cast away, my humble soul, the burdens of wickedness that are hard to bear, and draw near, weeping and crying out, 'Grant, pure Virgin, that I may bear the light yoke of your Son and God'."
 
 ocVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode3
+ocVE.SticTheotokion.greekmelody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.greekname
 ocVE.SticTheotokion.melody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.notmetered
 ocVE.SticTheotokion.incipit = "A sword passed through your…"
 ocVE.SticTheotokion.text = "A sword passed through your heart, O All-pure, when you looked towards your Son on the Cross, and you cried out, 'Do not leave me childless, my Son and my God, who kept me virgin after childbirth!'"
@@ -53,6 +56,7 @@ ocVE.Aposticha3.incipit = "Prophets, Apostles and Martyrs of…"
 ocVE.Aposticha3.text = "Prophets, Apostles and Martyrs of Christ taught that a consubstantial Trinity should be praised and they enlightened the nations that had gone astray and made the children of men fellows of the Angels."
 
 ocVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode3
+ocVE.AposTheotokion.greekmelody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.greekname
 ocVE.AposTheotokion.melody = he.a.m3_en_UK_lash.heAU.MegaliTouStavrouSou.notmetered
 ocVE.AposTheotokion.incipit = "When she saw you nailed…"
 ocVE.AposTheotokion.text = "When she saw you nailed to the Cross, my Christ, the Lamb who gave you birth, without blemish and your Mother, with weeping lamented and cried out, 'Do not make me childless, whom you kept pure after childbirth!'"
@@ -83,26 +87,31 @@ ocMA.Kathisma21.incipit = "You were struck with blows…"
 ocMA.Kathisma21.text = "You were struck with blows for the sake of the human race and were not enraged; free our life from corruption, Lord, and save us."
 
 ocMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode3
+ocMA.Kathisma22.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 ocMA.Kathisma22.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 ocMA.Kathisma22.incipit = "The armies of the Angels…"
 ocMA.Kathisma22.text = "The armies of the Angels are amazed as they contemplate your measureless authority and your voluntary Crucifixion: How is He who cannot be looked at scourged in the flesh? He wishes to de-liver human nature from corruption, and so we cry out to you, Giver of life: Glory, O Christ, to your compassion!"
 
 ocMA.Kathisma23.mode = miscellanea_en_UK_lash.misc.Mode3
+ocMA.Kathisma23.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 ocMA.Kathisma23.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 ocMA.Kathisma23.incipit = "Your pure Mother who knew…"
 ocMA.Kathisma23.text = "Your pure Mother who knew not wedlock, seeing you hanging dead upon the Tree, mourned as a mother and said, 'Is this how the lawless and ungrateful people of the Hebrews, who had the benefit of your many and great gifts, have repaid you, my Son? I hymn your divine condescension.'"
 
 ocMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode3
+ocMA.Kathisma31.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 ocMA.Kathisma31.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 ocMA.Kathisma31.incipit = "Dishonoured you endured the Cross…"
 ocMA.Kathisma31.text = "Dishonoured you endured the Cross, O Master beyond all creation, that you might honour me, of old dreadfully dishonoured; with a lance you were pierced in your side, O Longsuffering, as you wished to ransom me, your fashioning, from corruption. I hymn your great compassion and your goodness, O Lover of humankind."
 
 ocMA.Kathisma32.mode = miscellanea_en_UK_lash.misc.Mode3
+ocMA.Kathisma32.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 ocMA.Kathisma32.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 ocMA.Kathisma32.incipit = "Armoured with the panoply of…"
 ocMA.Kathisma32.text = "Armoured with the panoply of Christ and clothed with the weapons of the Faith you stoutly cast down the battle lines of the foe; for eagerly, in hope of life, you endured all the threats and scourges of the tyrants; and so you have received the crowns, valiant Martyrs of Christ."
 
 ocMA.Kathisma33.mode = miscellanea_en_UK_lash.misc.Mode3
+ocMA.Kathisma33.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 ocMA.Kathisma33.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 ocMA.Kathisma33.incipit = "As your Mother, the pure…"
 ocMA.Kathisma33.text = "As your Mother, the pure and all blameless Virgin who knew not wedlock, saw you nailed to the Tree, O Master, she cried aloud to you, 'Alas, my sweetest Son, how has a lawless people condemned you, the Maker and Master of all, to the tree? I hymn your supreme goodness."
@@ -118,6 +127,7 @@ ocMA.C2.poet = poets_en_UK_lash.po.IoannouMonachou
 
 ocMA.OdeW1C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
+ocMA.OdeW1C1H.greekmelody = he.h.m3_en_UK_lash.heHE.OTaYdata.greekname
 ocMA.OdeW1C1H.melody = he.h.m3_en_UK_lash.heHE.OTaYdata.melody
 ocMA.OdeW1C1H.incipit = he.h.m3_en_UK_lash.heHE.OTaYdata.incipit
 ocMA.OdeW1C1H.text = he.h.m3_en_UK_lash.heHE.OTaYdata.text
@@ -154,6 +164,7 @@ ocMA.OdeW1C1T.text = "You appeared higher than the Hosts on high, O Immaculate, 
 
 ocMA.OdeW1C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW1C21.ode = miscellanea_en_UK_lash.misc.Ode1
+ocMA.OdeW1C21.greekmelody = he.h.m3_en_UK_lash.heHE.OTaYdata.greekname
 ocMA.OdeW1C21.melody = he.h.m3_en_UK_lash.heHE.OTaYdata.name
 ocMA.OdeW1C21.incipit = "…"
 ocMA.OdeW1C21.text = ""
@@ -172,6 +183,7 @@ ocMA.OdeW1C23.text = "You bore the Word, equal in power to his Begetter and who 
 
 ocMA.OdeW3C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
+ocMA.OdeW3C1H.greekmelody = he.h.m3_en_UK_lash.heHE.OEkMiOnton.greekname
 ocMA.OdeW3C1H.melody = he.h.m3_en_UK_lash.heHE.OEkMiOnton.melody
 ocMA.OdeW3C1H.incipit = he.h.m3_en_UK_lash.heHE.OEkMiOnton.incipit
 ocMA.OdeW3C1H.text = he.h.m3_en_UK_lash.heHE.OEkMiOnton.text
@@ -208,6 +220,7 @@ ocMA.OdeW3C1T.text = "Bride who knew not wedlock, seeing Christ suspended on the
 
 ocMA.OdeW3C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW3C21.ode = miscellanea_en_UK_lash.misc.Ode3
+ocMA.OdeW3C21.greekmelody = he.h.m3_en_UK_lash.heHE.OEkMiOnton.greekname
 ocMA.OdeW3C21.melody = he.h.m3_en_UK_lash.heHE.OEkMiOnton.name
 ocMA.OdeW3C21.incipit = "All-holy, you are merciful, ask…"
 ocMA.OdeW3C21.text = "All-holy, you are merciful, ask him who is rich in ineffable mercy and pity to take on us who are afflicted."
@@ -226,6 +239,7 @@ ocMA.OdeW3C23.text = "Mother of God, as you bear in your embrace him who bears a
 
 ocMA.OdeW4C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
+ocMA.OdeW4C1H.greekmelody = he.h.m3_en_UK_lash.heHE.EthouProsImas.greekname
 ocMA.OdeW4C1H.melody = he.h.m3_en_UK_lash.heHE.EthouProsImas.melody
 ocMA.OdeW4C1H.incipit = he.h.m3_en_UK_lash.heHE.EthouProsImas.incipit
 ocMA.OdeW4C1H.text = he.h.m3_en_UK_lash.heHE.EthouProsImas.text
@@ -262,6 +276,7 @@ ocMA.OdeW4C1T.text = "The Prophet once saw you, O Maiden, as a book in which the
 
 ocMA.OdeW4C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW4C21.ode = miscellanea_en_UK_lash.misc.Ode4
+ocMA.OdeW4C21.greekmelody = he.h.m3_en_UK_lash.heHE.EthouProsImas.greekname
 ocMA.OdeW4C21.melody = he.h.m3_en_UK_lash.heHE.EthouProsImas.name
 ocMA.OdeW4C21.incipit = "As you willingly endured bruises…"
 ocMA.OdeW4C21.text = "As you willingly endured bruises and slaughter, O Christ, heal my soul bruised by the thieving malice of demons, at the intercessions of her who bore you, O Most Merciful."
@@ -286,6 +301,7 @@ ocMA.OdeW4C24.text = "At every moment you pour healing from your hand, who are w
 
 ocMA.OdeW5C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
+ocMA.OdeW5C1H.greekmelody = he.h.m3_en_UK_lash.heHE.EpiTisGis.greekname
 ocMA.OdeW5C1H.melody = he.h.m3_en_UK_lash.heHE.EpiTisGis.melody
 ocMA.OdeW5C1H.incipit = he.h.m3_en_UK_lash.heHE.EpiTisGis.incipit
 ocMA.OdeW5C1H.text = he.h.m3_en_UK_lash.heHE.EpiTisGis.text
@@ -322,6 +338,7 @@ ocMA.OdeW5C1T.text = "Our nature which before had changed through transgression 
 
 ocMA.OdeW5C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW5C21.ode = miscellanea_en_UK_lash.misc.Ode5
+ocMA.OdeW5C21.greekmelody = he.h.m3_en_UK_lash.heHE.OsEidenIsaias.greekname
 ocMA.OdeW5C21.melody = he.h.m3_en_UK_lash.heHE.OsEidenIsaias.name
 ocMA.OdeW5C21.incipit = "Transform the pains of my…"
 ocMA.OdeW5C21.text = "Transform the pains of my flesh and the toil of my soul, and dispel the clouds of sloth, O Virgin, cloud of light, and give health in exchange for troubles to me who ask and glorify you with love."
@@ -340,6 +357,7 @@ ocMA.OdeW5C23.text = "Sanctify my mind and lead my soul to light, O Virgin, and 
 
 ocMA.OdeW6C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
+ocMA.OdeW6C1H.greekmelody = he.h.m3_en_UK_lash.heHE.AvyssosEschati.greekname
 ocMA.OdeW6C1H.melody = he.h.m3_en_UK_lash.heHE.AvyssosEschati.melody
 ocMA.OdeW6C1H.incipit = he.h.m3_en_UK_lash.heHE.AvyssosEschati.incipit
 ocMA.OdeW6C1H.text = he.h.m3_en_UK_lash.heHE.AvyssosEschati.text
@@ -376,6 +394,7 @@ ocMA.OdeW6C1T.text = "Seeing the death of the Word who became incarnate of your 
 
 ocMA.OdeW6C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW6C21.ode = miscellanea_en_UK_lash.misc.Ode6
+ocMA.OdeW6C21.greekmelody = he.h.m3_en_UK_lash.heHE.TousEisTaTeli.greekname
 ocMA.OdeW6C21.melody = he.h.m3_en_UK_lash.heHE.TousEisTaTeli.name
 ocMA.OdeW6C21.incipit = "I have exceeded the puffed…"
 ocMA.OdeW6C21.text = "I have exceeded the puffed up mind of the Pharisee, ever giving myself airs and plunging into the deeps of unnumbered falls; O only pure one, take pity on me who have been terribly humbled."
@@ -394,6 +413,7 @@ ocMA.OdeW6C23.text = "I lament and weep and mourn whenever I consider that dread
 
 ocMA.OdeW7C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
+ocMA.OdeW7C1H.greekmelody = he.h.m3_en_UK_lash.heHE.ToPrinEikoni.greekname
 ocMA.OdeW7C1H.melody = he.h.m3_en_UK_lash.heHE.ToPrinEikoni.melody
 ocMA.OdeW7C1H.incipit = he.h.m3_en_UK_lash.heHE.ToPrinEikoni.incipit
 ocMA.OdeW7C1H.text = he.h.m3_en_UK_lash.heHE.ToPrinEikoni.text
@@ -430,6 +450,7 @@ ocMA.OdeW7C1T.text = "You stood watching Christ, whom you had borne, lifted up o
 
 ocMA.OdeW7C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW7C21.ode = miscellanea_en_UK_lash.misc.Ode7
+ocMA.OdeW7C21.greekmelody = he.h.m3_en_UK_lash.heHE.TreisPaidesEnKamino.greekname
 ocMA.OdeW7C21.melody = he.h.m3_en_UK_lash.heHE.TreisPaidesEnKamino.name
 ocMA.OdeW7C21.incipit = "There is no salvation for…"
 ocMA.OdeW7C21.text = "There is no salvation for me from my works, Sovereign Lady, for I have added sins to sins and wickedness to wickedness; by your prayer then, pure Virgin, take pity and save me."
@@ -448,6 +469,7 @@ ocMA.OdeW7C23.text = "I devoured the fruits of sin and I have met my death; and 
 
 ocMA.OdeW8C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
+ocMA.OdeW8C1H.greekmelody = he.h.m3_en_UK_lash.heHE.VavyloniaKaminos.greekname
 ocMA.OdeW8C1H.melody = he.h.m3_en_UK_lash.heHE.VavyloniaKaminos.melody
 ocMA.OdeW8C1H.incipit = he.h.m3_en_UK_lash.heHE.VavyloniaKaminos.incipit
 ocMA.OdeW8C1H.text = he.h.m3_en_UK_lash.heHE.VavyloniaKaminos.text
@@ -484,6 +506,7 @@ ocMA.OdeW8C1T.text = "The One who is above time you bore in time, who looses the
 
 ocMA.OdeW8C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW8C21.ode = miscellanea_en_UK_lash.misc.Ode8
+ocMA.OdeW8C21.greekmelody = he.h.m3_en_UK_lash.heHE.AstektoPyri.greekname
 ocMA.OdeW8C21.melody = he.h.m3_en_UK_lash.heHE.AstektoPyri.name
 ocMA.OdeW8C21.incipit = "As wholly fair and neighbour…"
 ocMA.OdeW8C21.text = "As wholly fair and neighbour to the Universal King, O Mother of God, fill me with good works, for I have lived in wickedness and passed through my whole life in sloth, that I may glorify you to all the ages."
@@ -502,6 +525,7 @@ ocMA.OdeW8C23.text = "The workers of wickedness, finding that I had been clothed
 
 ocMA.OdeW9C1H.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
+ocMA.OdeW9C1H.greekmelody = he.h.m3_en_UK_lash.heHE.TinEnVatoKaiPyri.greekname
 ocMA.OdeW9C1H.melody = he.h.m3_en_UK_lash.heHE.TinEnVatoKaiPyri.melody
 ocMA.OdeW9C1H.incipit = he.h.m3_en_UK_lash.heHE.TinEnVatoKaiPyri.incipit
 ocMA.OdeW9C1H.text = he.h.m3_en_UK_lash.heHE.TinEnVatoKaiPyri.text
@@ -538,6 +562,7 @@ ocMA.OdeW9C1T.text = "O Virgin, you bore the Brightness of the Father, bearing a
 
 ocMA.OdeW9C21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeW9C21.ode = miscellanea_en_UK_lash.misc.Ode9
+ocMA.OdeW9C21.greekmelody = he.h.m3_en_UK_lash.heHE.EnNomoSkia.greekname
 ocMA.OdeW9C21.melody = he.h.m3_en_UK_lash.heHE.EnNomoSkia.name
 ocMA.OdeW9C21.incipit = "My mind is corrupted, my…"
 ocMA.OdeW9C21.text = "My mind is corrupted, my soul is corrupted, with wickedness I have been fouled in my conscience and I have been exposed as naked of any sort of goodness; but Virgin, blameless and incorrupt, do not despise me, but adorn me with works of true religion."
@@ -566,6 +591,7 @@ ocMA.Aposticha1.incipit = "Through jealousy I was cast…"
 ocMA.Aposticha1.text = "Through jealousy I was cast out from delight and fell in a harsh fall; you did not disdain, Master, to assume for me that which was mine and to crucify it, and you save me, you lead me into glory. My Redeemer, glory to you!"
 
 ocMA.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode3
+ocMA.Aposticha2.greekmelody = he.a.m3_en_UK_lash.heAU.StavrofanosMoysis.greekname
 ocMA.Aposticha2.melody = he.a.m3_en_UK_lash.heAU.StavrofanosMoysis.melody
 ocMA.Aposticha2.incipit = he.a.m3_en_UK_lash.heAU.StavrofanosMoysis.incipit
 ocMA.Aposticha2.text = he.a.m3_en_UK_lash.heAU.StavrofanosMoysis.text
@@ -632,6 +658,7 @@ octrMA.Triadic3.incipit = oc.m3.d2_en_UK_lash.octrMA.Triadic3.incipit
 octrMA.Triadic3.text = oc.m3.d2_en_UK_lash.octrMA.Triadic3.text
 
 octrMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode3
+octrMA.Kathisma11.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 octrMA.Kathisma11.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 octrMA.Kathisma11.incipit = ocMA.Kathisma22.incipit
 octrMA.Kathisma11.text = ocMA.Kathisma22.text
@@ -647,6 +674,7 @@ octrMA.Kathisma1T.incipit = ocMA.Kathisma13.incipit
 octrMA.Kathisma1T.text = ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = miscellanea_en_UK_lash.misc.Mode3
+octrMA.Ode7Martyricon.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 octrMA.Ode7Martyricon.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 octrMA.Ode7Martyricon.incipit = oc.m3.d3_en_UK_lash.ocMA.Kathisma32.incipit
 octrMA.Ode7Martyricon.text = oc.m3.d3_en_UK_lash.ocMA.Kathisma32.text

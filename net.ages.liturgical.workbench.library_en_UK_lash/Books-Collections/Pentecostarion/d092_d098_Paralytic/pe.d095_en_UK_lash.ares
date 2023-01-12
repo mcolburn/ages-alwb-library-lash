@@ -66,11 +66,13 @@ peVE.Apolytikion1.incipit = "At the mid-point of the…"
 peVE.Apolytikion1.text = "At the mid-point of the Feast, O Saviour, water my thirsty soul with streams of true devotion; for you cried out to all: Any who thirst, let them come to me, and let them drink! O Source of life, Christ our God, glory to you!"
 
 peMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 peMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 peMA.Kathisma11.incipit = "The One who knows the…"
 peMA.Kathisma11.text = "The One who knows the thoughts of every heart, stood in the midst of the Temple and cried aloud, speaking truth to the liars: Why do you seek to arrest me, the Giver of Life? as he cried out at the mid-point of the Feast: Lawless ones, do not pass judgement by appearances! (Twice)"
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Kathisma21.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 peMA.Kathisma21.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 peMA.Kathisma21.incipit = "The Master of all things…"
 peMA.Kathisma21.text = "The Master of all things, standing in the Temple at the mid-point of the feast of sacred Pentecost, addresses the Hebrews and as King and God clearly refutes their tyrannous daring: but through compassion he gives us all his great mercy."
@@ -90,12 +92,14 @@ peMA.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode1C1H.greekmelody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.greekname
 peMA.Ode1C1H.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.melody
 peMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.incipit
 peMA.Ode1C1H.text = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.text
 
 peMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode1C11.greekmelody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.greekname
 peMA.Ode1C11.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.notmetered
 peMA.Ode1C11.incipit = "The great blessings of your…"
 peMA.Ode1C11.text = "The great blessings of your incarnation beyond understanding shine for us, Master; your graces without price and your divine brightness well up for us as gifts of goodness."
@@ -120,12 +124,14 @@ peMA.Ode1C1T.text = "Your flesh did not know corruption in the grave, Master; bu
 
 peMA.Ode1C2H.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode1C2H.greekmelody = he.h.m8_en_UK_lash.heHE.ThalassanEpixas.greekname
 peMA.Ode1C2H.melody = he.h.m8_en_UK_lash.heHE.ThalassanEpixas.melody
 peMA.Ode1C2H.incipit = he.h.m8_en_UK_lash.heHE.ThalassanEpixas.incipit
 peMA.Ode1C2H.text = he.h.m8_en_UK_lash.heHE.ThalassanEpixas.text
 
 peMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode1C21.greekmelody = he.h.m8_en_UK_lash.heHE.ThalassanEpixas.greekname
 peMA.Ode1C21.melody = he.h.m8_en_UK_lash.heHE.ThalassanEpixas.notmetered
 peMA.Ode1C21.incipit = "Nations clap your hands, Hebrews…"
 peMA.Ode1C21.text = "Nations clap your hands, Hebrews lament, for Christ the giver of life has torn asunder the chains of Hell, and raised the dead, and healed the sick with a word. This is our God, who gives life to those who believe in his name."
@@ -162,12 +168,14 @@ peMA.Ode1C2T.text = "You alone, pure Mother of God, contained your creator in yo
 
 peMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3C1H.greekmelody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.greekname
 peMA.Ode3C1H.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.melody
 peMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.incipit
 peMA.Ode3C1H.text = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.text
 
 peMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3C11.greekmelody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.greekname
 peMA.Ode3C11.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.notmetered
 peMA.Ode3C11.incipit = "You opened springs of life-giving…"
 peMA.Ode3C11.text = "You opened springs of life-giving waters for the Church, O Good One, as you cried: If any thirst, let them with fervour come and drink."
@@ -186,12 +194,14 @@ peMA.Ode3C1T.text = "The Lord, by nature giver of life and born of a Virgin, as 
 
 peMA.Ode3C2H.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3C2H.greekmelody = he.h.m8_en_UK_lash.heHE.EstereothiIKardiaMouEnKyrio.greekname
 peMA.Ode3C2H.melody = he.h.m8_en_UK_lash.heHE.EstereothiIKardiaMouEnKyrio.melody
 peMA.Ode3C2H.incipit = he.h.m8_en_UK_lash.heHE.EstereothiIKardiaMouEnKyrio.incipit
 peMA.Ode3C2H.text = he.h.m8_en_UK_lash.heHE.EstereothiIKardiaMouEnKyrio.text
 
 peMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3C21.greekmelody = he.h.m8_en_UK_lash.heHE.EstereothiIKardiaMouEnKyrio.greekname
 peMA.Ode3C21.melody = he.h.m8_en_UK_lash.heHE.EstereothiIKardiaMouEnKyrio.notmetered
 peMA.Ode3C21.incipit = "Do not judge according to…"
 peMA.Ode3C21.text = "Do not judge according to appearance, O Jews, said the Master, as he stood teaching in the temple, as it is written, at the mid-point of the feast according to the law."
@@ -227,23 +237,27 @@ peMA.Ode3C2T.incipit = "Being one of the Trinity…"
 peMA.Ode3C2T.text = "Being one of the Trinity, you were seen to have become flesh without changing your Essence, Lord, or burning the incorrupt womb of her who bore you, though you are wholly God and fire."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma1.incipit = "Standing in the midst of…"
 peMA.Ode3Kathisma1.text = "Standing in the midst of the Temple at the mid-point of the feast inspired by God, you cried out: Whoever thirsts, let them come to me and drink; for whoever drinks of this divine stream of mine, rivers of my teachings will flow from his belly; whoever believes in me, who have been sent from my divine Begetter, will be glorified with me. Therefore we cry to you: Glory to you, Christ God, for you have richly poured out for your servants the streams of your love for mankind."
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma2.incipit = "As you make the water…"
 peMA.Ode3Kathisma2.text = "As you make the water of wisdom and life well up for the world, you invite all, O Saviour, to draw the streams of salvation; for one who accepts your divine law, by it quenches the burning coals of error; and so they will never thirst, nor ever have their fill of you, Master, heavenly King. Therefore we glorify your might, Christ God, as we ask you to send down richly on your servants forgiveness of offences."
 
 peMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode4C1H.greekmelody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.greekname
 peMA.Ode4C1H.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.melody
 peMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.incipit
 peMA.Ode4C1H.text = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.text
 
 peMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode4C11.greekmelody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.greekname
 peMA.Ode4C11.melody = he.h.m4_en_UK_lash.heHE.EparthentaSeIdousa.notmetered
 peMA.Ode4C11.incipit = "When you broke open the…"
 peMA.Ode4C11.text = "When you broke open the gates of death by your power you made known the ways of life, and opened the gates of immortality to those who cry in faith: Glory to your power, O Lord."
@@ -268,12 +282,14 @@ peMA.Ode4C1T.text = "Mother who knew not wedlock, richly you pour out grace on t
 
 peMA.Ode4C2H.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode4C2H.greekmelody = he.h.m8_en_UK_lash.heHE.OProfitisAvvakoum.greekname
 peMA.Ode4C2H.melody = he.h.m8_en_UK_lash.heHE.OProfitisAvvakoum.melody
 peMA.Ode4C2H.incipit = he.h.m8_en_UK_lash.heHE.OProfitisAvvakoum.incipit
 peMA.Ode4C2H.text = he.h.m8_en_UK_lash.heHE.OProfitisAvvakoum.text
 
 peMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.OProfitisAvvakoum.greekname
 peMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.OProfitisAvvakoum.notmetered
 peMA.Ode4C21.incipit = "If the Messias must come…"
 peMA.Ode4C21.text = "If the Messias must come; but the Messias is Christ, lawless ones, why do you not believe him? See, he has come and what he does bears witness: he made water wine and braced the paralytic with a word."
@@ -316,12 +332,14 @@ peMA.Ode4C2T.text = "In your womb, Bride of God, pure Virgin-mother, you contain
 
 peMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode5C1H.greekmelody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.greekname
 peMA.Ode5C1H.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.melody
 peMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.incipit
 peMA.Ode5C1H.text = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.text
 
 peMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode5C11.greekmelody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.greekname
 peMA.Ode5C11.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.notmetered
 peMA.Ode5C11.incipit = "Now that we have reached…"
 peMA.Ode5C11.text = "Now that we have reached the mid-point of the divine feasts, let us hasten with godly thoughts to work for the perfection of virtue inspired by God."
@@ -340,12 +358,14 @@ peMA.Ode5C1T.text = "My Saviour full of mercy, the mind of the Archangel cannot 
 
 peMA.Ode5C2H.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode5C2H.greekmelody = he.h.m8_en_UK_lash.heHE.KyrieOTheosImon.greekname
 peMA.Ode5C2H.melody = he.h.m8_en_UK_lash.heHE.KyrieOTheosImon.melody
 peMA.Ode5C2H.incipit = he.h.m8_en_UK_lash.heHE.KyrieOTheosImon.incipit
 peMA.Ode5C2H.text = he.h.m8_en_UK_lash.heHE.KyrieOTheosImon.text
 
 peMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode5C21.greekmelody = he.h.m8_en_UK_lash.heHE.KyrieOTheosImon.greekname
 peMA.Ode5C21.melody = he.h.m8_en_UK_lash.heHE.KyrieOTheosImon.notmetered
 peMA.Ode5C21.incipit = "By wonders you made your…"
 peMA.Ode5C21.text = "By wonders you made your Apostles shine, by marvels you magnified your Disciples, glorifying them in all the world, our Saviour, and giving them your kingdom."
@@ -376,12 +396,14 @@ peMA.Ode5C2T.text = "Your womb became a holy table, having the heavenly bread, f
 
 peMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode6C1H.greekmelody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 peMA.Ode6C1H.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.melody
 peMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.incipit
 peMA.Ode6C1H.text = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.text
 
 peMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode6C11.greekmelody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 peMA.Ode6C11.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.notmetered
 peMA.Ode6C11.incipit = "The mid-point of Pentecost is…"
 peMA.Ode6C11.text = "The mid-point of Pentecost is here today, brilliant from the one side in the brightness of the divine Pascha, and shining from the other with grace of the Comforter."
@@ -400,12 +422,14 @@ peMA.Ode6C1T.text = "Be my protection and an unshakeable wall, delivering me fro
 
 peMA.Ode6C2H.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode6C2H.greekmelody = he.h.m8_en_UK_lash.heHE.OsYdataThalassis.greekname
 peMA.Ode6C2H.melody = he.h.m8_en_UK_lash.heHE.OsYdataThalassis.melody
 peMA.Ode6C2H.incipit = he.h.m8_en_UK_lash.heHE.OsYdataThalassis.incipit
 peMA.Ode6C2H.text = he.h.m8_en_UK_lash.heHE.OsYdataThalassis.text
 
 peMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode6C21.greekmelody = he.h.m8_en_UK_lash.heHE.OsYdataThalassis.greekname
 peMA.Ode6C21.melody = he.h.m8_en_UK_lash.heHE.OsYdataThalassis.notmetered
 peMA.Ode6C21.incipit = "O Jesus, who control the…"
 peMA.Ode6C21.text = "O Jesus, who control the ends of the earth, you went up and taught the crowds in the temple the word of truth at the mid-point of the feast, as John declares."
@@ -454,12 +478,14 @@ peMA.Synaxarion.LastLine = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode7C1H.greekmelody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.greekname
 peMA.Ode7C1H.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.melody
 peMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.incipit
 peMA.Ode7C1H.text = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.text
 
 peMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode7C11.greekmelody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.greekname
 peMA.Ode7C11.melody = he.h.m4_en_UK_lash.heHE.EnTiKaminoAvramiaioi.notmetered
 peMA.Ode7C11.incipit = "Saviour, by strength you destroyed…"
 peMA.Ode7C11.text = "Saviour, by strength you destroyed the power of death and made known the path of life to mortals, who cry aloud: Blessed are you, Lord, in the temple of your glory."
@@ -478,12 +504,14 @@ peMA.Ode7C1T.text = "Hallowed, divine dwelling of the Most High, hail! For throu
 
 peMA.Ode7C2H.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode7C2H.greekmelody = he.h.m8_en_UK_lash.heHE.TonChaldaionIKaminos.greekname
 peMA.Ode7C2H.melody = he.h.m8_en_UK_lash.heHE.TonChaldaionIKaminos.melody
 peMA.Ode7C2H.incipit = he.h.m8_en_UK_lash.heHE.TonChaldaionIKaminos.incipit
 peMA.Ode7C2H.text = he.h.m8_en_UK_lash.heHE.TonChaldaionIKaminos.text
 
 peMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode7C21.greekmelody = he.h.m8_en_UK_lash.heHE.TonChaldaionIKaminos.greekname
 peMA.Ode7C21.melody = he.h.m8_en_UK_lash.heHE.TonChaldaionIKaminos.notmetered
 peMA.Ode7C21.incipit = "The repose of all, you…"
 peMA.Ode7C21.text = "The repose of all, you toiled in the flesh; the source of wonders, you thirsted willingly; you asked for water, Jesus, promising living water."
@@ -538,12 +566,14 @@ peMA.Ode7C2T.text = "You contained in your womb the uncontainable Word, you suck
 
 peMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode8C1H.greekmelody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.greekname
 peMA.Ode8C1H.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.melody
 peMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.incipit
 peMA.Ode8C1H.text = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.text
 
 peMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode8C11.greekmelody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.greekname
 peMA.Ode8C11.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.notmetered
 peMA.Ode8C11.incipit = "In beauty you rose from…"
 peMA.Ode8C11.text = "In beauty you rose from the tomb, Lord, adorned in the glory of your Godhead, and appeared to your Apostles, promising to send the force of the Spirit to them as they cried: All you works, praise the Lord!"
@@ -568,12 +598,14 @@ peMA.Ode8C1T.text = "See now a ruler, a leader has now clearly failed from the t
 
 peMA.Ode8C2H.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode8C2H.greekmelody = he.h.m8_en_UK_lash.heHE.AngeloiKaiOuranoi.greekname
 peMA.Ode8C2H.melody = he.h.m8_en_UK_lash.heHE.AngeloiKaiOuranoi.melody
 peMA.Ode8C2H.incipit = he.h.m8_en_UK_lash.heHE.AngeloiKaiOuranoi.incipit
 peMA.Ode8C2H.text = he.h.m8_en_UK_lash.heHE.AngeloiKaiOuranoi.text
 
 peMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode8C21.greekmelody = he.h.m8_en_UK_lash.heHE.AngeloiKaiOuranoi.greekname
 peMA.Ode8C21.melody = he.h.m8_en_UK_lash.heHE.AngeloiKaiOuranoi.notmetered
 peMA.Ode8C21.incipit = "Come, peoples, see the one…"
 peMA.Ode8C21.text = "Come, peoples, see the one who is hymned upon a throne of glory blasphemed by lawless peoples, and seeing, hymn the Messias who was foretold by the prophets."
@@ -628,12 +660,14 @@ peMA.Ode8C2T.text = "Say how you gave birth to him who shone forth eternally fro
 
 peMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode9C1H.greekmelody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.greekname
 peMA.Ode9C1H.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.melody
 peMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.incipit
 peMA.Ode9C1H.text = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 
 peMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode9C11.greekmelody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.greekname
 peMA.Ode9C11.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.notmetered
 peMA.Ode9C11.incipit = "From Christ we have learnt…"
 peMA.Ode9C11.text = "From Christ we have learnt a new and fresh way of life: let us all strive diligently to keep it to the end, that we may enjoy the coming of the Holy Spirit."
@@ -658,12 +692,14 @@ peMA.Ode9C1T.text = "All we faithful, trusting in you, O Virgin, honour you with
 
 peMA.Ode9C2H.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C2H.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode9C2H.greekmelody = he.h.m8_en_UK_lash.heHE.AllotrionTonMiteron.greekname
 peMA.Ode9C2H.melody = he.h.m8_en_UK_lash.heHE.AllotrionTonMiteron.melody
 peMA.Ode9C2H.incipit = he.h.m8_en_UK_lash.heHE.AllotrionTonMiteron.incipit
 peMA.Ode9C2H.text = he.h.m8_en_UK_lash.heHE.AllotrionTonMiteron.text
 
 peMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode9C21.greekmelody = he.h.m8_en_UK_lash.heHE.AllotrionTonMiteron.greekname
 peMA.Ode9C21.melody = he.h.m8_en_UK_lash.heHE.AllotrionTonMiteron.notmetered
 peMA.Ode9C21.incipit = "At the mid-point of the…"
 peMA.Ode9C21.text = "At the mid-point of the feast of the Jews you came, my Saviour, to your temple, and you taught all: but the Jews marvelled, and said: Whence does this man know letters, never having learned?"
@@ -722,16 +758,19 @@ peMA.Exaposteilarion1.incipit = "…"
 peMA.Exaposteilarion1.text = ""
 
 peMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 peMA.Lauds1.incipit = "…"
 peMA.Lauds1.text = ""
 
 peMA.Lauds2.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Lauds2.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds2.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 peMA.Lauds2.incipit = "…"
 peMA.Lauds2.text = ""
 
 peMA.Lauds3.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Lauds3.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 peMA.Lauds3.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 peMA.Lauds3.incipit = "…"
 peMA.Lauds3.text = ""

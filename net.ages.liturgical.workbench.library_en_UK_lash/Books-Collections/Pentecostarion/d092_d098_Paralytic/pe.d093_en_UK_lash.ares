@@ -69,11 +69,13 @@ peMA.Kathisma13.incipit = oc.m3.d2_en_UK_lash.ocMA.Kathisma32.incipit
 peMA.Kathisma13.text = oc.m3.d2_en_UK_lash.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Kathisma1T.greekmelody = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.greekmelody
 peMA.Kathisma1T.melody = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.melody
 peMA.Kathisma1T.incipit = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.incipit
 peMA.Kathisma1T.text = oc.m3.d1_en_UK_lash.ocMA.Kathisma13.text
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 peMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""

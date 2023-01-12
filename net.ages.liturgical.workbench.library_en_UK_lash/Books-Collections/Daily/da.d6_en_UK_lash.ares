@@ -29,16 +29,19 @@ daMA.Photagogic2Beginning.text = prayers_en_UK_lash.pr.photagogic_begin_Saints.t
 daMA.Photagogic3Beginning.text = prayers_en_UK_lash.pr.photagogic_begin_Theotokos.text
 
 daMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+daMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.greekname
 daMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.notmetered
 daMA.Exaposteilarion1.incipit = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.incipit
 daMA.Exaposteilarion1.text = me.m09.d14_en_UK_lash.meMA.Exaposteilarion1.text
 
 daMA.Exaposteilarion2.mode = miscellanea_en_UK_lash.misc.Mode3
+daMA.Exaposteilarion2.greekmelody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.greekname
 daMA.Exaposteilarion2.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.notmetered
 daMA.Exaposteilarion2.incipit = "Cross of my Christ, sceptre…"
 daMA.Exaposteilarion2.text = "Cross of my Christ, sceptre and victory of Sovereigns, glory of the Orthodox, guard those who worship you, that the multitudes of the unorthodox may be defeated."
 
 daMA.ExapTheotokion2.mode = miscellanea_en_UK_lash.misc.Mode3
+daMA.ExapTheotokion2.greekmelody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.greekname
 daMA.ExapTheotokion2.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.notmetered
 daMA.ExapTheotokion2.incipit = "Standing by the Cross and…"
 daMA.ExapTheotokion2.text = "Standing by the Cross and grieving, she who gave you birth without seed, cried out, ‘Alas, my sweetest Child! How have you set from my sight? How have you been numbered among the dead?’"

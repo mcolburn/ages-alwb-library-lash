@@ -91,10 +91,11 @@ peVE.Apolytikion3.melody = ""
 peVE.Apolytikion3.incipit = oc.m4.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 peVE.Apolytikion3.text = oc.m4.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
-peMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode8
-peMA.Kathisma11.melody = miscellanea_en_UK_lash.misc.Automelon
-peMA.Kathisma11.incipit = oc.m8.d1_en_UK_lash.ocMA.Kathisma11.incipit
-peMA.Kathisma11.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma11.text
+peMA.Kathisma11.mode = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.mode
+peMA.Kathisma11.greekmelody = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.greekname
+peMA.Kathisma11.melody = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.melody
+peMA.Kathisma11.incipit = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.incipit
+peMA.Kathisma11.text = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.text
 
 peMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode8
 peMA.Kathisma12.melody = ""
@@ -107,11 +108,13 @@ peMA.Kathisma13.incipit = oc.m8.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 peMA.Kathisma13.text = oc.m8.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Kathisma21.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 peMA.Kathisma21.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Kathisma22.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 peMA.Kathisma22.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 peMA.Kathisma22.incipit = oc.m8.d1_en_UK_lash.ocMA.Kathisma12.incipit
 peMA.Kathisma22.text = oc.m8.d1_en_UK_lash.ocMA.Kathisma12.text
@@ -131,6 +134,7 @@ peMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintsM.text
 
 peMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode1C11.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 peMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 peMA.Ode1C11.incipit = "As I sing the praise…"
 peMA.Ode1C11.text = "As I sing the praise of the ranks of your Saints, I beg you by your light to shed your rays on my soul at their prayers. For you are the unapproachable light, dispelling the gloom of ignorance by your torches, O Word of God, Christ giver of light."
@@ -161,6 +165,7 @@ peMA.Ode1C1T.text = "The virgins, having taken up a manly intent, unflinchingly 
 
 peMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3C11.greekmelody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.greekname
 peMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.OStereosasKatArchas.name
 peMA.Ode3C11.incipit = "The Priests and Shepherds, clothed…"
 peMA.Ode3C11.text = "The Priests and Shepherds, clothed with sacred priesthood, wisely guided it, O Christ, and worthily adorned it, truly enriched with the word of teaching from on high."
@@ -184,17 +189,20 @@ peMA.Ode3C1T.incipit = "Mother of God, from a…"
 peMA.Ode3C1T.text = "Mother of God, from a virgin womb for us you gave birth to God the Word from God; whom pure maidens desired in a godlike manner, and in your train they all followed him."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma1.incipit = "As we celebrate the holy…"
 peMA.Ode3Kathisma1.text = "As we celebrate the holy memory, Christ God, Forebears, Parents, Patriarchs, Apostles, Martyrs, Hierarchs, Prophets and your Holy Ones, Ascetics and Just, and each one whose name is inscribed in the book of life, we urge them all to intercession, as we beg: Give peace to your world through them, as you love mankind, that we may all cry out to you: O God, glorified in the Council of your Saints, you are truly the one who fittingly glorifies their memory."
 
 peMA.Ode3Kathisma2.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3Kathisma2.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma2.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma2.incipit = "Let us praise the heavenly…"
 peMA.Ode3Kathisma2.text = "Let us praise the heavenly gate and ark, the all-holy mountain, the radiant cloud, the heavenly ladder, the spiritual Paradise, the ransom of Eve, the great treasure of the whole inhabited world; because salvation was accomplished in her for the world and forgiveness of ancient offences. Therefore we cry to her: Intercede with your Son and God, to grant forgiveness of faults to those who devoutly worship your all-holy Offspring." //oc.m8.d1_en_UK_lash.ocMA.Kathisma13.text
 
 peMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode4C11.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 peMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 peMA.Ode4C11.incipit = "The company of your Saints…"
 peMA.Ode4C11.text = "The company of your Saints, joined together through love and sincerely and purely delighting in you, dances in joy with the perpetual dance of the Angels around you, who see all, the God and Lord of all."
@@ -225,6 +233,7 @@ peMA.Ode4C1T.text = "Bride of God, you became Mother of God; for you gave birth 
 
 peMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode5C11.greekmelody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.greekname
 peMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 peMA.Ode5C11.incipit = "As godly Prophets you were…"
 peMA.Ode5C11.text = "As godly Prophets you were found worthy to foresee the things to come, longing for which with nobility of soul you purified your selves by holy living, O Godbearers, enlightened by the strength of the Spirit."
@@ -249,6 +258,7 @@ peMA.Ode5C1T.text = "All-holy women, filled with love of most wondrous Offspring
 
 peMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode6C11.greekmelody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 peMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 peMA.Ode6C11.incipit = "The Saints, having found you…"
 peMA.Ode6C11.text = "The Saints, having found you, Master, in Sion placed as a precious, chosen cornerstone, an unshakeable foundation, built themselves on you as chosen stones."
@@ -293,6 +303,7 @@ peSY.lastline = ""
 
 peMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode7C11.greekmelody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.greekname
 peMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 peMA.Ode7C11.incipit = "The ranks of Saints, as…"
 peMA.Ode7C11.text = "The ranks of Saints, as they praise in never silent hymns the One who rests among the Saints, now enjoy divine delight, and joyfully they dance and sing: Blessed is the God of our Fathers."
@@ -323,6 +334,7 @@ peMA.Ode7C1T.text = "All you maidens, having together formed a godly choir, cry 
 
 peMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode8C11.greekmelody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.greekname
 peMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.EptaplasiosKaminon.name
 peMA.Ode8C11.incipit = "Rejoice, Martyrs, Prophets, Apostles, honoured…"
 peMA.Ode8C11.text = "Rejoice, Martyrs, Prophets, Apostles, honoured company of Martyr Priests, godly choir of the Just, of Ascetics and Teachers, who all make melody with the Myrrhbearing women: youths, bless; priests, praise; people, highly exalt him to all the ages."
@@ -347,6 +359,7 @@ peMA.Ode8C1T.text = "With joy all women wise in God and made perfect in Christ b
 
 peMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode9C11.greekmelody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.greekname
 peMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 peMA.Ode9C11.incipit = "The company of the elect…"
 peMA.Ode9C11.text = "The company of the elect, armed with the breastplate of hope and love and fenced about by faith, rejoiced as they nobly endured all the threats of tyrants, the tortures and scourges, for as outstanding witnesses of truth their wealth was Christ who gives victory in contests."

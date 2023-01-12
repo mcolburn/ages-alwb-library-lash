@@ -28,12 +28,14 @@ R05 = ""
 
 hoCA.Ode1H.ode = miscellanea_en_UK_lash.misc.Ode1
 hoCA.Ode1H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode1H.greekmelody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.greekname
+hoCA.Ode1H.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.melody
 hoCA.Ode1H.incipit = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.incipit
 hoCA.Ode1H.text = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.text
 
 hoCA.Ode11.ode = miscellanea_en_UK_lash.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode11.greekmelody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.greekname
 hoCA.Ode11.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.name
 hoCA.Ode11.incipit = "By many temptations I am…"
 hoCA.Ode11.text = "By many temptations I am held fast, * and seeking salvation * come for refuge in flight to you * O Mother of God's own Word and Virgin, * from my dread dangers and troubles now rescue me."
@@ -58,12 +60,14 @@ hoCA.Ode14.text = "In body and soul, sick as I am, * consider me worthy, * only 
 
 hoCA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 hoCA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode3H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode3H.greekmelody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.greekname
+hoCA.Ode3H.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.melody
 hoCA.Ode3H.incipit = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.incipit
 hoCA.Ode3H.text = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.text
 
 hoCA.Ode31.ode = miscellanea_en_UK_lash.misc.Ode3
 hoCA.Ode31.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode31.greekmelody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.greekname
 hoCA.Ode31.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.name
 hoCA.Ode31.incipit = "As protection I set you…"
 hoCA.Ode31.text = "As protection I set you and as the shield of my life, * you gave birth to God, Virgin Mother, guide me as a pilot now * into your anchorage, * you the support of the faithful, * source of all good things, you alone the one all-praised."
@@ -106,12 +110,14 @@ hoCA.Kathisma11.text = "Invincible rampart, fervent intercession, * the wellspri
 
 hoCA.Ode4H.ode = miscellanea_en_UK_lash.misc.Ode4
 hoCA.Ode4H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode4H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode4H.greekmelody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.greekname
+hoCA.Ode4H.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.melody
 hoCA.Ode4H.incipit = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.incipit
 hoCA.Ode4H.text = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.text
 
 hoCA.Ode41.ode = miscellanea_en_UK_lash.misc.Ode4
 hoCA.Ode41.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode41.greekmelody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.greekname
 hoCA.Ode41.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.name
 hoCA.Ode41.incipit = "I entreat you, O Bride…"
 hoCA.Ode41.text = "I entreat you, O Bride of God, * still my passions' tumult, the tempest of my faults, * still the raging turmoil in my soul; * you who brought to birth my pilot and my Lord."
@@ -136,12 +142,14 @@ hoCA.Ode44.text = "As our hope and assurance, * rampart of salvation which none 
 
 hoCA.Ode5H.ode = miscellanea_en_UK_lash.misc.Ode5
 hoCA.Ode5H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode5H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode5H.greekmelody = he.h.m8_en_UK_lash.heHE.FotisonImas.greekname
+hoCA.Ode5H.melody = he.h.m8_en_UK_lash.heHE.FotisonImas.melody
 hoCA.Ode5H.incipit = he.h.m8_en_UK_lash.heHE.FotisonImas.incipit
 hoCA.Ode5H.text = he.h.m8_en_UK_lash.heHE.FotisonImas.text
 
 hoCA.Ode51.ode = miscellanea_en_UK_lash.misc.Ode5
 hoCA.Ode51.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode51.greekmelody = he.h.m8_en_UK_lash.heHE.FotisonImas.greekname
 hoCA.Ode51.melody = he.h.m8_en_UK_lash.heHE.FotisonImas.name
 hoCA.Ode51.incipit = "Fill my heart, I pray…"
 hoCA.Ode51.text = "Fill my heart, I pray, * with your gladness and unsullied joy, * Virgin most pure, the only Mother of our God, * for you who gave birth to him who is the cause of gladness."
@@ -166,12 +174,14 @@ hoCA.Ode54.text = "Heal me, O Most Pure, * heal the sickness that afflicts my so
 
 hoCA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 hoCA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode6H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode6H.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
+hoCA.Ode6H.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.melody
 hoCA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 hoCA.Ode6H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
 
 hoCA.Ode61.ode = miscellanea_en_UK_lash.misc.Ode6
 hoCA.Ode61.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode61.greekmelody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.greekname
 hoCA.Ode61.melody = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.name
 hoCA.Ode61.incipit = "As from death * and…"
 hoCA.Ode61.text = "As from death * and from corruption and decay, * when to death and to decay it captive, * he saved my nature held fast by corruption * giving himself over into the hand of death, * O Virgin, beg your Lord and Son * from the malice of foes to deliver me."
@@ -252,12 +262,14 @@ hoCA.PostGospelHymn3.text = oc.m6.d3_en_UK_lash.ocVE.AposTheotokion.text
 
 hoCA.Ode7H.ode = miscellanea_en_UK_lash.misc.Ode7
 hoCA.Ode7H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode7H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode7H.greekmelody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.greekname
+hoCA.Ode7H.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.melody
 hoCA.Ode7H.incipit = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.incipit
 hoCA.Ode7H.text = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.text
 
 hoCA.Ode71.ode = miscellanea_en_UK_lash.misc.Ode7
 hoCA.Ode71.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode71.greekmelody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.greekname
 hoCA.Ode71.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.name
 hoCA.Ode71.incipit = "With the will to accomplish…"
 hoCA.Ode71.text = "With the will to accomplish * our salvation, O Saviour, you made your dwelling place * within the Virgin's womb, * revealed her as the champion * and protection for all the world. * 'Blessed are you, O God, * the God of our Fathers!'"
@@ -282,12 +294,14 @@ hoCA.Ode74.text = "As you bore Christ the Saviour * for our sake, deign to heal 
 
 hoCA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 hoCA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode8H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode8H.greekmelody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.greekname
+hoCA.Ode8H.melody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.melody
 hoCA.Ode8H.incipit = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.incipit
 hoCA.Ode8H.text = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.text
 
 hoCA.Ode81.ode = miscellanea_en_UK_lash.misc.Ode8
 hoCA.Ode81.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode81.greekmelody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.greekname
 hoCA.Ode81.melody = he.h.m8_en_UK_lash.heHE.TonVasileaTonOuranon.name
 hoCA.Ode81.incipit = "Do not despise those *…"
 hoCA.Ode81.text = "Do not despise those * who beg your help, O pure Virgin, * as their raise their song up in your honour, * praising and exalting you, Maiden, to the ages."
@@ -312,12 +326,14 @@ hoCA.Ode84.text = "The passions' onslaughts * and the assaults of temptations * 
 
 hoCA.Ode9H.ode = miscellanea_en_UK_lash.misc.Ode9
 hoCA.Ode9H.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Ode9H.melody = miscellanea_en_UK_lash.misc.Heirmos
+hoCA.Ode9H.greekmelody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.greekname
+hoCA.Ode9H.melody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.melody
 hoCA.Ode9H.incipit = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.incipit
 hoCA.Ode9H.text = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.text
 
 hoCA.Ode91.ode = miscellanea_en_UK_lash.misc.Ode9
 hoCA.Ode91.mode = miscellanea_en_UK_lash.misc.Mode8
+hoCA.Ode91.greekmelody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.greekname
 hoCA.Ode91.melody = he.h.m8_en_UK_lash.heHE.KyriosTheotokon.name
 hoCA.Ode91.incipit = "Do not reject my weeping…"
 hoCA.Ode91.text = "Do not reject my weeping, * tears that flow unceasing, * for you, O Virgin, gave birth to our Saviour Christ, * and it he who has wiped every tear from every face."

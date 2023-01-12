@@ -34,6 +34,7 @@ peVE.SticGlory.incipit = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.incipit
 peVE.SticGlory.text = pe.d110_en_UK_lash.peMA.PostGospelIdiomelon.text
 
 peVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
+peVE.Aposticha1.greekmelody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.greekname
 peVE.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.notmetered
 peVE.Aposticha1.incipit = "…"
 peVE.Aposticha1.text = ""
@@ -54,11 +55,13 @@ peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = ""
 
 peMA.Kathisma11.mode = pe.d110_en_UK_lash.peMA.Kathisma11.mode
+peMA.Kathisma11.greekmelody = pe.d110_en_UK_lash.peMA.Kathisma11.greekmelody
 peMA.Kathisma11.melody = pe.d110_en_UK_lash.peMA.Kathisma11.melody
 peMA.Kathisma11.incipit = pe.d110_en_UK_lash.peMA.Kathisma11.incipit
 peMA.Kathisma11.text = pe.d110_en_UK_lash.peMA.Kathisma11.text
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode1
+peMA.Kathisma21.greekmelody = he.a.m1_en_UK_lash.heAU.TouLithouSfragisthentos.greekname
 peMA.Kathisma21.melody = he.a.m1_en_UK_lash.heAU.TouLithouSfragisthentos.notmetered
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""

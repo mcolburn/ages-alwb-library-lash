@@ -56,20 +56,24 @@ trSV.AposGlory.incipit = "…"
 trSV.AposGlory.text = ""
 
 trVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode5
+trVE.Stichera01.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 trVE.Stichera01.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 trVE.Stichera01.incipit = "Shine, Cross of the Lord…"
 trVE.Stichera01.text = "Shine, Cross of the Lord, with the bright darting rays of your grace on the hearts of those who honour you, and with love inspired by God, embrace you, O desire of all the world. Through you our tears of sorrow have been wiped away; we have been delivered from the snares of death and have passed over to unending joy. Show us the splendour of your beauty, granting to us your servants the reward of our abstinence, for we entreat with faith your rich protection and great mercy."
 
 trVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode5
+trVE.Stichera02.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 trVE.Stichera02.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 trVE.Stichera02.incipit = "Hail, life-giving Cross! the fair…"
 trVE.Stichera02.text = "Hail, life-giving Cross! the fair Paradise of the Church, Tree of incorruption that blossoms for us with the enjoyment of eternal glory. Through you the hosts of demons are driven back, the companies of the Angels rejoice with one accord and the congregations of the faithful keep the feast. You are an invincible weapon, an unbroken stronghold; you are the victory of kings and the glory of priests. Grant us also now to draw near to the Passion of Christ and to His Resurrection."
 
 trVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode5
+trVE.Stichera03.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 trVE.Stichera03.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 trVE.Stichera03.text = me.m09.d13_en_UK_lash.meVE.Aposticha1.text //Hail, life-giving Cross! unconquerable trophy of the true faith, door to Paradise, succour of the faithful, rampart set about the Church. Through you the curse has utterly destroyed, the power of death swallowed up, and we are raised from earth to heaven: invincible weapon, adversary of demons, glory of martyrs, true ornament of holy monks, haven of salvation bestowing on the world great mercy. (from tr.d043)
 
 trVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode5
+trVE.Stichera04.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 trVE.Stichera04.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 trVE.Stichera04.incipit = "Come, first-fashioned pair, who fell…"
 trVE.Stichera04.text = "Come, first-fashioned pair, who fell from the choir on high through the envy of the murderer of humankind, through the bitter pleasure of tasting from the tree. See, the Tree, revered by all, draws near! Run with haste and embrace it joyfully, and cry to it with faith: O all-honoured Cross, you are our succour; partaking of your fruits we have gained incorruption; we are restored once more to Eden, and we have received great mercy."
@@ -100,6 +104,7 @@ trVE.ApolTheotokion.incipit = oc.m1.d1_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 trVE.ApolTheotokion.text = oc.m1.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 trMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode8
+trMA.Kathisma31.greekmelody = he.a.m8_en_UK_lash.heAU.ToProstachthen.greekname
 trMA.Kathisma31.melody = he.a.m8_en_UK_lash.heAU.ToProstachthen.notmetered
 trMA.Kathisma31.incipit = "In Paradise of old the…"
 trMA.Kathisma31.text = "In Paradise of old the enemy stripped me naked by a tree, for by my tasting it he brought in death. But now the Tree of the Cross, that bears the clothing of life for mortals, has been fixed on the earth, and the whole world filled with every joy. Seeing it worshipped, you peoples, let us with one accord raise our cry to God with faith, 'His house is full of glory!'"
@@ -126,6 +131,7 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 trMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode1C11.greekmelody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.greekname
 trMA.Ode1C11.melody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.name
 trMA.Ode1C11.incipit = "A day of festival! At…"
 trMA.Ode1C11.text = "A day of festival! At Christ's Rising, death has fled away and the light of life has dawned. Adam has arisen and dances for joy. Therefore let us cry aloud as we sing a song of victory."
@@ -162,6 +168,7 @@ trMA.Ode1C1T.text = "Virgin who did not know man, you give birth to an infant wi
 
 trMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 trMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode3C11.greekmelody = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.greekname
 trMA.Ode3C11.melody = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.name
 trMA.Ode3C11.incipit = "Come, let us sing a…"
 trMA.Ode3C11.text = "Come, let us sing a new song, as we celebrate the overthrow of Hell, for Christ has risen from the tomb; capturing death, and saving the whole universe."
@@ -218,6 +225,7 @@ trMA.Ode3Kathisma4.text = oc.m6.d1_en_UK_lash.ocMA.Kathisma23.text
 
 trMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 trMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode4C11.greekmelody = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.greekname
 trMA.Ode4C11.melody = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.name
 trMA.Ode4C11.incipit = "See, Christ has risen', said…"
 trMA.Ode4C11.text = "See, Christ has risen', said the Angel to the Myrrhbearing Women, 'Do not lament, but go, say to the Apostles, 'Rejoice, today is the salvation of the world; for by death the tyranny of the enemy has been destroyed.'"
@@ -254,6 +262,7 @@ trMA.Ode4C1T.text = "You alone among women, pure Lady, were revealed as a marvel
 
 trMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode5C11.greekmelody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.greekname
 trMA.Ode5C11.melody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.name
 trMA.Ode5C11.incipit = "You dawned form the tomb…"
 trMA.Ode5C11.text = "You dawned form the tomb, O Light that never sets, and made incorruption blaze forth on the world. In your compassion you banished the darkness of death from the ends of the earth."
@@ -290,6 +299,7 @@ trMA.Ode5C1T.text = "You conceived by nature's law, but above law; for your chil
 
 trMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode6C11.greekmelody = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.greekname
 trMA.Ode6C11.melody = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.name
 trMA.Ode6C11.incipit = "Having crushed death, O Christ…"
 trMA.Ode6C11.text = "Having crushed death, O Christ, you rose as a great King, calling us back from the storehouses of Hell to the enjoyment of the Kingdom of Heaven, to the land of immortality."
@@ -352,6 +362,7 @@ trSY.lastline = "By its power, Christ God, guard us from the assaults of the evi
 
 trMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 trMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode7C11.greekmelody = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.greekname
 trMA.Ode7C11.melody = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.name
 trMA.Ode7C11.incipit = "You rose on the third…"
 trMA.Ode7C11.text = "You rose on the third day from the tomb as one who slept, Lord, and by your divine power struck down the gatekeepers of hell; you raised up all our forebears from of old, O God of our fathers, alone blessed and greatly glorified."
@@ -388,6 +399,7 @@ trMA.Ode7C1T.text = "With many names you were proclaimed by all the prophets: fo
 
 trMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode8C11.greekmelody = he.h.m1_en_UK_lash.heHE.AftiIKliti.greekname
 trMA.Ode8C11.melody = he.h.m1_en_UK_lash.heHE.AftiIKliti.name
 trMA.Ode8C11.incipit = "'Why do you hold sweet…"
 trMA.Ode8C11.text = "'Why do you hold sweet spices in your hands? Whom are you seeking?', now cries the young man in the tomb. 'Christ our God has risen, raising up the nature of mortals from the vaults of Hell'."
@@ -430,6 +442,7 @@ trMA.Ode8C1T.text = "Alone among mothers, Mary Bride of God, you remained a virg
 
 trMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode1
+trMA.Ode9C11.greekmelody = he.h.m1_en_UK_lash.heHE.FotizouFotizou.greekname
 trMA.Ode9C11.melody = he.h.m1_en_UK_lash.heHE.FotizouFotizou.name
 trMA.Ode9C11.incipit = "You went down into the…"
 trMA.Ode9C11.text = "You went down into the tomb, O God the Giver of Life and you broke all the bolts and bars, raising up the dead who cry aloud: Glory to your Resurrection! O Christ, the Saviour all-powerful."
@@ -471,16 +484,19 @@ trMA.Ode9C1T.incipit = "You are the great mountain…"
 trMA.Ode9C1T.text = "You are the great mountain, O Virgin, in which Christ dwelt, as holy David says. By you we are raised up to heaven, all-blessed Lady, regaining through the Spirit the adoption of sons."
 
 trMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.Exaposteilarion1.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 trMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.Exaposteilarion1.incipit = "Seeing the Precious Cross of…"
 trMA.Exaposteilarion1.text = "Seeing the Precious Cross of Christ placed this day before us, let us venerate it and rejoice in faith; with love let us greet the Lord who by his own free choice was crucified upon it, asking he to grant us all uncondemned to adore his Holy Passion and to attain the Resurrection."
 
 trMA.ExapTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
+trMA.ExapTheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.ExapTheotokion.incipit = "All-hallowed Lady, with true devotion…"
 trMA.ExapTheotokion.text = "All-hallowed Lady, with true devotion now we venerate the Wood on which your Son stretched out his most pure hands and for our sakes was nailed. Give us peace and grant that we may come to the Holy Passion that has saved the world; and may we worship at the radiant Festival of Easter, the Lord's Day that brings light and joy to all creation."
 
 trMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
+trMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
 trMA.Lauds1.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
 trMA.Lauds1.incipit = "With our voices let us…"
 trMA.Lauds1.text = "With our voices let us shout and magnify in songs the Precious Cross; let us kiss it and cry out: O honoured Cross, sanctify our souls and bodies by your power, and keep unharmed from all malice of the enemy those who venerate you with true reverence."

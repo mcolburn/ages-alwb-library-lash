@@ -150,16 +150,19 @@ peVE.Apolytikion1.incipit = "You were taken up in…"
 peVE.Apolytikion1.text = "You were taken up in glory, Christ our God, making the Disciples joyful by the promise of the Holy Spirit. Through the blessing they were assured that you are the Son of God, the Redeemer of the world."
 
 peMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
+peMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TouLithouSfragisthentos.greekname
 peMA.Kathisma11.melody = he.a.m1_en_UK_lash.heAU.TouLithouSfragisthentos.notmetered
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
+peMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 peMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Kathisma31.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 peMA.Kathisma31.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 peMA.Kathisma31.incipit = "…"
 peMA.Kathisma31.text = ""
@@ -196,12 +199,14 @@ peMA.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 peMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode1C1H.greekmelody = he.h.m5_en_UK_lash.heHE.ToSotiriTheo.greekname
 peMA.Ode1C1H.melody = he.h.m5_en_UK_lash.heHE.ToSotiriTheo.melody
 peMA.Ode1C1H.incipit = he.h.m5_en_UK_lash.heHE.ToSotiriTheo.incipit
 peMA.Ode1C1H.text = he.h.m5_en_UK_lash.heHE.ToSotiriTheo.text
 
 peMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode1C11.greekmelody = he.h.m5_en_UK_lash.heHE.ToSotiriTheo.greekname
 peMA.Ode1C11.melody = he.h.m5_en_UK_lash.heHE.ToSotiriTheo.name
 peMA.Ode1C11.incipit = "All peoples, let us sing…"
 peMA.Ode1C11.text = "All peoples, let us sing a song of victory to Christ who has been taken up with glory on the shoulders of the Cherubim, and seated us at the Father's right hand; for he has been glorified."
@@ -226,12 +231,14 @@ peMA.Ode1C1T.text = "Immaculate Mother of God, without ceasing implore the God w
 
 peMA.Ode1C2H.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode1C2H.greekmelody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.greekname
 peMA.Ode1C2H.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.incipit
 peMA.Ode1C2H.text = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.text
 
 peMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 peMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode1C21.greekmelody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.greekname
 peMA.Ode1C21.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.name
 peMA.Ode1C21.incipit = "Immortal by nature, you arose…"
 peMA.Ode1C21.text = "Immortal by nature, you arose on the third day and appeared to the Eleven and to all the Disciples, and riding on a cloud you hastened back to the Father, O Christ, Maker of the universe."
@@ -256,12 +263,14 @@ peMA.Ode1C2T.text = "All-spotless Lady, you bore the Master of all, who accepted
 
 peMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode3C1H.greekmelody = he.h.m5_en_UK_lash.heHE.DynameiTouStavrouSou.greekname
 peMA.Ode3C1H.melody = he.h.m5_en_UK_lash.heHE.DynameiTouStavrouSou.melody
 peMA.Ode3C1H.incipit = he.h.m5_en_UK_lash.heHE.DynameiTouStavrouSou.incipit
 peMA.Ode3C1H.text = he.h.m5_en_UK_lash.heHE.DynameiTouStavrouSou.text
 
 peMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode3C11.greekmelody = he.h.m5_en_UK_lash.heHE.DynameiTouStavrouSou.greekname
 peMA.Ode3C11.melody = he.h.m5_en_UK_lash.heHE.DynameiTouStavrouSou.name
 peMA.Ode3C11.incipit = "O Christ, Giver of life…"
 peMA.Ode3C11.text = "O Christ, Giver of life, lover of humankind, you went up to the Father and exalted our race in your ineffable compassion."
@@ -292,12 +301,14 @@ peMA.Ode3C1T.text = "Intercede unceasingly, pure Lady, with him who came forth f
 
 peMA.Ode3C2H.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3C2H.greekmelody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.greekname
 peMA.Ode3C2H.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.melody
 peMA.Ode3C2H.incipit = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.incipit
 peMA.Ode3C2H.text = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.text
 
 peMA.Ode3C21.ode = miscellanea_en_UK_lash.misc.Ode3
 peMA.Ode3C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode3C21.greekmelody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.greekname
 peMA.Ode3C21.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.name
 peMA.Ode3C21.incipit = "Lift up the heavenly gates…"
 peMA.Ode3C21.text = "Lift up the heavenly gates, for see, Christ the King and Lord, wearing his earthly body, is at hand, said the powers below to those above."
@@ -321,18 +332,21 @@ peMA.Ode3C2T.incipit = "All-pure Virgin mother, who gave…"
 peMA.Ode3C2T.text = "All-pure Virgin mother, who gave birth to the Destroyer of death, the only immortal God, ever implore him to slay the passions which have put me to death and save me."
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma1.incipit = "Mounted on the clouds of…"
 peMA.Ode3Kathisma1.text = "Mounted on the clouds of heaven, leaving behind your peace to those on earth, you went up and sat down on the Father's right hand, as consubstantial with him and the Holy Spirit; for you appeared in the flesh, yet remained unchanged; therefore you await the final consummation, when you are coming on earth to judge the whole world. O Lord, just judge, spare our souls and grant forgiveness of offences, as God who has mercy on your servants."
 
 peMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode4C1H.greekmelody = he.h.m5_en_UK_lash.heHE.EisakikoaTinAkoin.greekname
 peMA.Ode4C1H.melody = he.h.m5_en_UK_lash.heHE.EisakikoaTinAkoin.melody
 peMA.Ode4C1H.incipit = he.h.m5_en_UK_lash.heHE.EisakikoaTinAkoin.incipit
 peMA.Ode4C1H.text = he.h.m5_en_UK_lash.heHE.EisakikoaTinAkoin.text
 
 peMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode4C11.greekmelody = he.h.m5_en_UK_lash.heHE.EisakikoaTinAkoin.greekname
 peMA.Ode4C11.melody = he.h.m5_en_UK_lash.heHE.EisakikoaTinAkoin.name
 peMA.Ode4C11.incipit = "You were taken up in…"
 peMA.Ode4C11.text = "You were taken up in glory, King of the Angels, to send us the Advocate from the Father. And so we cry out: Glory, O Christ, to your Assumption!"
@@ -357,12 +371,14 @@ peMA.Ode4C1T.text = "The Virgin gave birth, and did not know a mother's pangs; b
 
 peMA.Ode4C2H.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode4C2H.greekmelody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.greekname
 peMA.Ode4C2H.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.melody
 peMA.Ode4C2H.incipit = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.incipit
 peMA.Ode4C2H.text = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.text
 
 peMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 peMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode4C21.greekmelody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.greekname
 peMA.Ode4C21.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.name
 peMA.Ode4C21.incipit = "Jesus the Giver of life…"
 peMA.Ode4C21.text = "Jesus the Giver of life, taking those he loved, ascended the mount of Olives and blessed them and, riding on a cloud, he came to the Father's bosom, which he had never left."
@@ -387,12 +403,14 @@ peMA.Ode4C2T.text = "Blessed has your womb become, All-blameless Lady, for you w
 
 peMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode5C1H.greekmelody = he.h.m5_en_UK_lash.heHE.OrthrizontesVoomenSoi.greekname
 peMA.Ode5C1H.melody = he.h.m5_en_UK_lash.heHE.OrthrizontesVoomenSoi.melody
 peMA.Ode5C1H.incipit = he.h.m5_en_UK_lash.heHE.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C1H.text = he.h.m5_en_UK_lash.heHE.OrthrizontesVoomenSoi.text
 
 peMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode5C11.greekmelody = he.h.m5_en_UK_lash.heHE.OrthrizontesVoomenSoi.greekname
 peMA.Ode5C11.melody = he.h.m5_en_UK_lash.heHE.OrthrizontesVoomenSoi.name
 peMA.Ode5C11.incipit = "When you had filled the…"
 peMA.Ode5C11.text = "When you had filled the universe with gladness, merciful Lord, you took your place with your flesh among the powers on high."
@@ -417,12 +435,14 @@ peMA.Ode5C1T.text = "Mother of God, we praise you as Virgin after childbirth; fo
 
 peMA.Ode5C2H.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode5C2H.greekmelody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.greekname
 peMA.Ode5C2H.melody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.melody
 peMA.Ode5C2H.incipit = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.incipit
 peMA.Ode5C2H.text = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.text
 
 peMA.Ode5C21.ode = miscellanea_en_UK_lash.misc.Ode5
 peMA.Ode5C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode5C21.greekmelody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.greekname
 peMA.Ode5C21.melody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.name
 peMA.Ode5C21.incipit = "When you had slain death…"
 peMA.Ode5C21.text = "When you had slain death by your death, Lord, you took those whom you loved and ascended the holy mount of Olives, and from there you hastened back to your Begetter, O Christ, riding on a cloud."
@@ -447,12 +467,14 @@ peMA.Ode5C2T.text = "O Mother of God, Christ, who kept you a virgin after His bi
 
 peMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode6C1H.greekmelody = he.h.m5_en_UK_lash.heHE.EkykloseMeAvyssos.greekname
 peMA.Ode6C1H.melody = he.h.m5_en_UK_lash.heHE.EkykloseMeAvyssos.melody
 peMA.Ode6C1H.incipit = he.h.m5_en_UK_lash.heHE.EkykloseMeAvyssos.incipit
 peMA.Ode6C1H.text = he.h.m5_en_UK_lash.heHE.EkykloseMeAvyssos.text
 
 peMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode6C11.greekmelody = he.h.m5_en_UK_lash.heHE.EkykloseMeAvyssos.greekname
 peMA.Ode6C11.melody = he.h.m5_en_UK_lash.heHE.EkykloseMeAvyssos.name
 peMA.Ode6C11.incipit = "On seeing the Creator lifted…"
 peMA.Ode6C11.text = "On seeing the Creator lifted up on high today, the Apostles leaped for joy in hope of the Spirit, and in fear they cried: Glory to your ascent!"
@@ -477,12 +499,14 @@ peMA.Ode6C1T.text = "As Bush unburned, mountain, living ladder and heavenly gate
 
 peMA.Ode6C2H.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode6C2H.greekmelody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.greekname
 peMA.Ode6C2H.melody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.melody
 peMA.Ode6C2H.incipit = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.incipit
 peMA.Ode6C2H.text = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.text
 
 peMA.Ode6C21.ode = miscellanea_en_UK_lash.misc.Ode6
 peMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode6C21.greekmelody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.greekname
 peMA.Ode6C21.melody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.name
 peMA.Ode6C21.incipit = "Let the clouds rain down…"
 peMA.Ode6C21.text = "Let the clouds rain down for us eternal gladness from above; for Christ, riding on a cloud as on the Cherubim, today ascends to his Father."
@@ -527,12 +551,14 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode7C1H.greekmelody = he.h.m5_en_UK_lash.heHE.OEnKaminoPyros.greekname
 peMA.Ode7C1H.melody = he.h.m5_en_UK_lash.heHE.OEnKaminoPyros.melody
 peMA.Ode7C1H.incipit = he.h.m5_en_UK_lash.heHE.OEnKaminoPyros.incipit
 peMA.Ode7C1H.text = he.h.m5_en_UK_lash.heHE.OEnKaminoPyros.text
 
 peMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode7C11.greekmelody = he.h.m5_en_UK_lash.heHE.OEnKaminoPyros.greekname
 peMA.Ode7C11.melody = he.h.m5_en_UK_lash.heHE.OEnKaminoPyros.name
 peMA.Ode7C11.incipit = "You were taken up on…"
 peMA.Ode7C11.text = "You were taken up on a cloud of light and saved the world; blessed are you the God of our fathers."
@@ -563,12 +589,14 @@ peMA.Ode7C1T.text = "You were born from a Virgin, whom you made Mother of God; b
 
 peMA.Ode7C2H.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode7C2H.greekmelody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.greekname
 peMA.Ode7C2H.melody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.melody
 peMA.Ode7C2H.incipit = he.h.m4_en_UK_lash.heHE.OukElatrefsan.incipit
 peMA.Ode7C2H.text = he.h.m4_en_UK_lash.heHE.OukElatrefsan.text
 
 peMA.Ode7C21.ode = miscellanea_en_UK_lash.misc.Ode7
 peMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode7C21.greekmelody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.greekname
 peMA.Ode7C21.melody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.name
 peMA.Ode7C21.incipit = "A cloud of light received…"
 peMA.Ode7C21.text = "A cloud of light received you, Lord, who are light, as you were being taken up beyond understanding from earth; and heavenly multitudes with the Apostles praised you, saying, 'O God, blessed are you'."
@@ -593,12 +621,14 @@ peMA.Ode7C2T.text = "O marvellous wonders! How did you, O full of God's grace, c
 
 peMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode8C1H.greekmelody = he.h.m5_en_UK_lash.heHE.TonEkPatrosProAionon.greekname
 peMA.Ode8C1H.melody = he.h.m5_en_UK_lash.heHE.TonEkPatrosProAionon.melody
 peMA.Ode8C1H.incipit = he.h.m5_en_UK_lash.heHE.TonEkPatrosProAionon.incipit
 peMA.Ode8C1H.text = he.h.m5_en_UK_lash.heHE.TonEkPatrosProAionon.text
 
 peMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode8C11.greekmelody = he.h.m5_en_UK_lash.heHE.TonEkPatrosProAionon.greekname
 peMA.Ode8C11.melody = he.h.m5_en_UK_lash.heHE.TonEkPatrosProAionon.name
 peMA.Ode8C11.incipit = "Christ, the giver of life…"
 peMA.Ode8C11.text = "Christ, the giver of life, who rose in his two natures with glory to heaven and is now seated with the Father, you priests praise, you people highly exalt to all the ages."
@@ -623,12 +653,14 @@ peMA.Ode8C1T.text = "You were revealed, pure Mother of God, as higher than the C
 
 peMA.Ode8C2H.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode8C2H.greekmelody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.greekname
 peMA.Ode8C2H.melody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.melody
 peMA.Ode8C2H.incipit = he.h.m4_en_UK_lash.heHE.PaidasEvageis.incipit
 peMA.Ode8C2H.text = he.h.m4_en_UK_lash.heHE.PaidasEvageis.text
 
 peMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 peMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode8C21.greekmelody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.greekname
 peMA.Ode8C21.melody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.name
 peMA.Ode8C21.incipit = "The Intelligences appeared to the…"
 peMA.Ode8C21.text = "The Intelligences appeared to the Apostles at the Assumption and said, 'Why do you stand gazing and amazed? He who is ascending into heaven will also come again to judge humankind on earth, for he alone is judge'."
@@ -653,12 +685,14 @@ peMA.Ode8C2T.text = "See, Mother of God, your Son, having despoiled death by his
 
 peMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode9C1H.greekmelody = he.h.m5_en_UK_lash.heHE.SeTinYperNoun.greekname
 peMA.Ode9C1H.melody = he.h.m5_en_UK_lash.heHE.SeTinYperNoun.melody
 peMA.Ode9C1H.incipit = he.h.m5_en_UK_lash.heHE.SeTinYperNoun.incipit
 peMA.Ode9C1H.text = he.h.m5_en_UK_lash.heHE.SeTinYperNoun.text
 
 peMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode5
+peMA.Ode9C11.greekmelody = he.h.m5_en_UK_lash.heHE.SeTinYperNoun.greekname
 peMA.Ode9C11.melody = he.h.m5_en_UK_lash.heHE.SeTinYperNoun.name
 peMA.Ode9C11.incipit = "As they watched you, Christ…"
 peMA.Ode9C11.text = "As they watched you, Christ God, the redeemer of the world, being divinely exalted, the Apostles, leaping for joy, magnified you with awe."
@@ -692,12 +726,14 @@ peMA.Ode9C2M01.text = "Angels, seeing the ascent of the Master, were amazed at h
 
 peMA.Ode9C2H.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C2H.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode9C2H.greekmelody = he.h.m4_en_UK_lash.heHE.ApasGigenis.greekname
 peMA.Ode9C2H.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.melody
 peMA.Ode9C2H.incipit = he.h.m4_en_UK_lash.heHE.ApasGigenis.incipit
 peMA.Ode9C2H.text = he.h.m4_en_UK_lash.heHE.ApasGigenis.text
 
 peMA.Ode9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 peMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Ode9C21.greekmelody = he.h.m4_en_UK_lash.heHE.ApasGigenis.greekname
 peMA.Ode9C21.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.name
 peMA.Ode9C21.incipit = "O gifts beyond understanding! O…"
 peMA.Ode9C21.text = "O gifts beyond understanding! O dread mystery! For the Master of all things, rising from earth to heaven, sent to his Disciples the Holy Spirit, who enlightened their minds and set them afire with grace."
@@ -731,11 +767,13 @@ peMA.Lauds1.incipit = "Let us in the world…"
 peMA.Lauds1.text = "Let us in the world keep festival like the Angels, for God who is borne upon a throne of glory, as we cry aloud the hymn: Holy are you, heavenly Father; holy are you, co-eternal Son; holy are you, all-holy Spirit."
 
 peMA.Lauds2.mode = miscellanea_en_UK_lash.misc.Mode1
+peMA.Lauds2.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 peMA.Lauds2.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 peMA.Lauds2.incipit = "The princes of the Angels…"
 peMA.Lauds2.text = "The princes of the Angels, Saviour, as they saw the strangeness of your ascent, were perplexed and said to one another, 'What is this sight? Human he seems in form, yet as God he ascends with a body far above the heavens'."
 
 peMA.Lauds3.mode = miscellanea_en_UK_lash.misc.Mode1
+peMA.Lauds3.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname
 peMA.Lauds3.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 peMA.Lauds3.incipit = "The men of Galilee, seeing…"
 peMA.Lauds3.text = "The men of Galilee, seeing you, O Word, taken up from the mount of Olives with a body, heard Angels crying out to them, 'Why do you stand gazing? He will come again in the flesh in the same way that you have seen him'."
