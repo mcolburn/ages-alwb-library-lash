@@ -97,7 +97,7 @@ meCO.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meCO.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode3C1H.melody = he.h.m2_en_UK_lash.heHE.TisPisteosEnPetra.melody
 meCO.Ode3C1H.incipit = he.h.m2_en_UK_lash.heHE.TisPisteosEnPetra.incipit
 meCO.Ode3C1H.text = he.h.m2_en_UK_lash.heHE.TisPisteosEnPetra.text
 
@@ -115,7 +115,7 @@ meCO.Ode3C12.text = "The dread council of Herod slew the young babes of old, fil
 
 meCO.Ode5C2H.ode = miscellanea_en_UK_lash.misc.Ode5
 meCO.Ode5C2H.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode5C2H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode5C2H.melody = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo_Epiphany.melody
 meCO.Ode5C2H.incipit = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo_Epiphany.incipit
 meCO.Ode5C2H.text = he.h.m6_en_UK_lash.heHE.ProsSeOrthrizo_Epiphany.text
 
@@ -133,7 +133,7 @@ meCO.Ode5C22.text = "See, friends, the voice of the Word, the lamp of the Sun, t
 
 meCO.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode8C1H.melody = he.h.m2_en_UK_lash.heHE.RimaTyrannou.melody
 meCO.Ode8C1H.incipit = he.h.m2_en_UK_lash.heHE.RimaTyrannou.incipit
 meCO.Ode8C1H.text = he.h.m2_en_UK_lash.heHE.RimaTyrannou.text
 
@@ -187,7 +187,7 @@ meCO.Ode8C2H.text = he.h.m6_en_UK_lash.heHE.StilinKakiasTouDeinou.text
 
 meCO.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode9C1H.melody = he.h.m2_en_UK_lash.heHE.PsychaisKatharais.melody
 meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.PsychaisKatharais.incipit
 meCO.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.PsychaisKatharais.text
 
@@ -235,7 +235,7 @@ meCO.Ode9C24.text = "The hosts of Angels encircled the Redeemer as he was being 
 
 meCO.Ode9C2H.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C2H.mode = miscellanea_en_UK_lash.misc.Mode6
-meCO.Ode9C2H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode9C2H.melody = he.h.m6_en_UK_lash.heHE.TinTimioteran.melody
 meCO.Ode9C2H.incipit = he.h.m6_en_UK_lash.heHE.TinTimioteran.incipit
 meCO.Ode9C2H.text = he.h.m6_en_UK_lash.heHE.TinTimioteran.text
 

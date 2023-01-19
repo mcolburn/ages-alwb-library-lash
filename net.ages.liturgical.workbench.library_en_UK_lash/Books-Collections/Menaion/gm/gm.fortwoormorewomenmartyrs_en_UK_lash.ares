@@ -34,12 +34,13 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintsW.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.incipit
 meMA.Ode1C1H.text = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode1C11.greekmelody =  he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.greekname
 meMA.Ode1C11.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.name
 meMA.Ode1C11.incipit = "You devoutly proclaimed the uncreated…"
 meMA.Ode1C11.text = "You devoutly proclaimed the uncreated Trinity, glorious Martyrs, take pity on us who honour your godly contests and your achievements, O blessed of God."
@@ -64,12 +65,13 @@ meMA.Ode1C1T.text = "As living bridal chamber, incorrupt tabernacle, heavenly ga
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m4_en_UK_lash.heHE.OukEnSofia.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.heHE.OukEnSofia.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.heHE.OukEnSofia.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C11.greekmelody =  he.h.m4_en_UK_lash.heHE.OukEnSofia.greekname
 meMA.Ode3C11.melody = he.h.m4_en_UK_lash.heHE.OukEnSofia.name
 meMA.Ode3C11.incipit = "The lawless tyrant with lifeless…"
 meMA.Ode3C11.text = "The lawless tyrant with lifeless thought tried to compel you terribly to deny Christ our life, all-revered Maidens, by torturing you."
@@ -110,12 +112,13 @@ meMA.Ode3KathismaSt.text = "The all-blameless Lamb and Virgin, when with grief o
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode4C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode4C1H.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.melody
 meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.incipit
 meMA.Ode4C1H.text = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode4C11.greekmelody =  he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.greekname
 meMA.Ode4C11.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.name
 meMA.Ode4C11.incipit = "Made radiant with the beauty…"
 meMA.Ode4C11.text = "Made radiant with the beauty of the noblest contest, you were revealed as shining lamps, Maidens of Christ, with shining rays making resplendent those who cry: Glory to your power, O Lord!"
@@ -140,12 +143,13 @@ meMA.Ode4C1T.text = "All-immaculate, who gave birth to life, make me live, who h
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode5C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.melody
 meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.incipit
 meMA.Ode5C1H.text = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode5C11.greekmelody =  he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.greekname
 meMA.Ode5C11.melody = he.h.m4_en_UK_lash.heHE.SyKyrieMouFos.name
 meMA.Ode5C11.incipit = "The Martyrs, displaying a valiant…"
 meMA.Ode5C11.text = "The Martyrs, displaying a valiant intent and an invincible purpose before the judgement seats, were wreathed with crowns of victory."
@@ -170,12 +174,13 @@ meMA.Ode5C1T.text = "Having found you alone to be chosen, fair and unblemished, 
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C11.greekmelody =  he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C11.incipit = "Longing to see your beauty…"
 meMA.Ode6C11.text = "Longing to see your beauty uncontrived, the Martyrs, wounded with your most sweet love, O Word without beginning, nobly endured the bitterness of torments."
@@ -200,12 +205,13 @@ meMA.Ode6C1T.text = "Holy is the Lord who dwelt in your womb, having found you h
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode7C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode7C1H.melody = he.h.m4_en_UK_lash.heHE.AvramiaioiPote.melody
 meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.heHE.AvramiaioiPote.incipit
 meMA.Ode7C1H.text = he.h.m4_en_UK_lash.heHE.AvramiaioiPote.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode7C11.greekmelody =  he.h.m4_en_UK_lash.heHE.AvramiaioiPote.greekname
 meMA.Ode7C11.melody = he.h.m4_en_UK_lash.heHE.AvramiaioiPote.name
 meMA.Ode7C11.incipit = "When he ordered you to…"
 meMA.Ode7C11.text = "When he ordered you to sacrifice to idols, you utterly despised the impious tyrant, young Maidens, as you cried, 'God of our fathers, blessed are you!'"
@@ -230,12 +236,13 @@ meMA.Ode7C1T.text = "Beyond nature, O Maiden, you were found worthy to bear in y
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C11.greekmelody =  he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.greekname
 meMA.Ode8C11.melody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.name
 meMA.Ode8C11.incipit = "Steeled by love of the…"
 meMA.Ode8C11.text = "Steeled by love of the Creator, you blunted the goads of the serpent, passing through manly struggles in women's bodies, and being crowned with godly crowns."
@@ -260,7 +267,7 @@ meMA.Ode8C1T.text = "As the unsullied enclosure of God, you received him when he
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 

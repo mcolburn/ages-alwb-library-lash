@@ -379,12 +379,12 @@ pePA.Ode9T2.text = "Rejoice, be glad, divine Gate of the Light; for Jesus who se
 
 pePA.Ode9K.ode = miscellanea_en_UK_lash.misc.Ode9
 pePA.Ode9K.mode = miscellanea_en_UK_lash.misc.Mode1
-pePA.Ode9K.melody = miscellanea_en_UK_lash.misc.Heirmos
+pePA.Ode9K.melody = he.h.m1_en_UK_lash.heHE.FotizouFotizou.melody
 pePA.Ode9K.incipit = he.h.m1_en_UK_lash.heHE.FotizouFotizou.incipit
 pePA.Ode9K.text = he.h.m1_en_UK_lash.heHE.FotizouFotizou.text
 
 pePA.Exaposteilarion.mode = miscellanea_en_UK_lash.misc.Mode2
-pePA.Exaposteilarion.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
+pePA.Exaposteilarion.melody = he.a.m2_en_UK_lash.heAU.SarkiYpnosas.melody
 pePA.Exaposteilarion.incipit = he.a.m2_en_UK_lash.heAU.SarkiYpnosas.incipit
 pePA.Exaposteilarion.text = he.a.m2_en_UK_lash.heAU.SarkiYpnosas.text
 

@@ -34,12 +34,13 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintM.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+meMA.Ode1C1H.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.melody
 meMA.Ode1C1H.incipit = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.incipit
 meMA.Ode1C1H.text = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.text
 
 meMA.Ode1C11.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode1C11.greekmelody =  he.h.m8_en_UK_lash.heHE.YgranDiodefsas.greekname
 meMA.Ode1C11.melody = he.h.m8_en_UK_lash.heHE.YgranDiodefsas.name
 meMA.Ode1C11.incipit = "Revered Martyr of Christ, having…"
 meMA.Ode1C11.text = "Revered Martyr of Christ, having accomplished the godly contest, you have been found worthy of the heavenly kingdom, as you intercede on behalf of the world."
@@ -64,12 +65,13 @@ meMA.Ode1C1T.text = "He who is full empties himself, O Pure one, in your womb, y
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode3C11.greekmelody =  he.h.m8_en_UK_lash.heHE.SyEiToStereoma.greekname
 meMA.Ode3C11.melody = he.h.m8_en_UK_lash.heHE.SyEiToStereoma.name
 meMA.Ode3C11.incipit = "Abandoning race and fame, Martyr…"
 meMA.Ode3C11.text = "Abandoning race and fame, Martyr of Christ, you were eager to die; and so you enjoy eternal life."
@@ -110,12 +112,13 @@ meMA.Ode3KathismaSt.text = "By the Cross of your Son, O full of God's grace, all
 
 meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode4C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+meMA.Ode4C1H.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.melody
 meMA.Ode4C1H.incipit = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.incipit
 meMA.Ode4C1H.text = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.text
 
 meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode4C11.greekmelody =  he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.greekname
 meMA.Ode4C11.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.name
 meMA.Ode4C11.incipit = "I have disregarded God's laws…"
 meMA.Ode4C11.text = "I have disregarded God's laws, I have lived in every lawlessness; hasten, holy Martyr, help me, who am under condemnation, I implore you."
@@ -140,12 +143,13 @@ meMA.Ode4C1T.text = "You gave a body to God, who dwelt in you in a manner past u
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode5C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode5C1H.melody = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.melody
 meMA.Ode5C1H.incipit = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.incipit
 meMA.Ode5C1H.text = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.text
 
 meMA.Ode5C11.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode5C11.greekmelody =  he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.greekname
 meMA.Ode5C11.melody = he.h.m8_en_UK_lash.heHE.OrthrizontesVoomenSoi.name
 meMA.Ode5C11.incipit = "United with the heavenly powers…"
 meMA.Ode5C11.text = "United with the heavenly powers, brave Champion, intercede that those who sing your praise on earth may be saved."
@@ -170,12 +174,13 @@ meMA.Ode5C1T.text = "Virgin Mother of God, implore your Son to give us pardon of
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.melody
 meMA.Ode6C1H.incipit = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.incipit
 meMA.Ode6C1H.text = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode6C11.greekmelody =  he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.greekname
 meMA.Ode6C11.melody = he.h.m8_en_UK_lash.heHE.IlasthitiMoiSotir.name
 meMA.Ode6C11.incipit = "Wise Martyr, a light which…"
 meMA.Ode6C11.text = "Wise Martyr, a light which never sets has dawned for you who struggled, and holy tents of joy received you. As you dwell in them remember those who sing your praise on earth."
@@ -200,12 +205,13 @@ meMA.Ode6C1T.text = "Hallow my mind and guide my soul to light, All-holy Maiden,
 
 meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode7C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+meMA.Ode7C1H.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.melody
 meMA.Ode7C1H.incipit = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.incipit
 meMA.Ode7C1H.text = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.text
 
 meMA.Ode7C11.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode7C11.greekmelody =  he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.greekname
 meMA.Ode7C11.melody = he.h.m8_en_UK_lash.heHE.OiEkTisIoudaias.name
 meMA.Ode7C11.incipit = "Joy of Martyrs, save me…"
 meMA.Ode7C11.text = "Joy of Martyrs, save me from the world's stumbling blocks, the dishonour of passions and every tribulation, and grant that I may sing each day: God of our fathers, blessed are you!"
@@ -230,12 +236,13 @@ meMA.Ode7C1T.text = "Having squandered the years of my life in great indifferenc
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m8_en_UK_lash.heHE.NikitaiTyrannou.melody
 meMA.Ode8C1H.incipit = he.h.m8_en_UK_lash.heHE.NikitaiTyrannou.incipit
 meMA.Ode8C1H.text = he.h.m8_en_UK_lash.heHE.NikitaiTyrannou.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode8C11.greekmelody =  he.h.m8_en_UK_lash.heHE.NikitaiTyrannou.greekname
 meMA.Ode8C11.melody = he.h.m8_en_UK_lash.heHE.NikitaiTyrannou.name
 meMA.Ode8C11.incipit = "You were tried, O invincible…"
 meMA.Ode8C11.text = "You were tried, O invincible, like gold in a fire of torments, and were revealed as an imprint of the sufferings of Christ as you cried out: All you works of the Lord, bless the Lord!"
@@ -260,12 +267,13 @@ meMA.Ode8C1T.text = "You gave birth ineffably to the benefactor who became man t
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode8
-meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.melody
 meMA.Ode9C1H.incipit = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.incipit
 meMA.Ode9C1H.text = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.text
 
 meMA.Ode9C11.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C11.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Ode9C11.greekmelody =  he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.greekname
 meMA.Ode9C11.melody = he.h.m8_en_UK_lash.heHE.EfrixePasaAkoi.name
 meMA.Ode9C11.incipit = "That with godly voices we…"
 meMA.Ode9C11.text = "That with godly voices we may call you blessed, revered Martyr, who nobly struggled and smashed the goads of the deceiver, save us, who have gained you as our noble protector, from dangers, afflictions and troubles of many kinds."

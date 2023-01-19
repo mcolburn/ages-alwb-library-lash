@@ -31,7 +31,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_SaintW.text
 
 meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode1C1H.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.melody
 meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.incipit
 meMA.Ode1C1H.text = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.text //not sure this is correct
 
@@ -61,12 +61,13 @@ meMA.Ode1C1T.text = "Without seed by the will of the Father you conceived of the
 
 meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode3C1H.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.melody
 meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.incipit
 meMA.Ode3C1H.text = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.text
 
 meMA.Ode3C11.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode3C11.greekmelody =  he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.greekname
 meMA.Ode3C11.melody = he.h.m4_en_UK_lash.heHE.EffrainetaiEpiSoi.name
 meMA.Ode3C11.incipit = "The divine love set alight…"
 meMA.Ode3C11.text = "The divine love set alight your soul, quenched the love of the flesh and the dire heat of torments."
@@ -167,12 +168,13 @@ meMA.Ode5C1T.text = "We put you forward as an unbreakable weapon against foes; w
 
 meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode6C1H.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.melody
 meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6C1H.text = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.text
 
 meMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode6C11.greekmelody =  he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.greekname
 meMA.Ode6C11.melody = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.name
 meMA.Ode6C11.incipit = "Taking up a manly mind…"
 meMA.Ode6C11.text = "Taking up a manly mind in a woman's body, you went out a Martyr to the combat of the tyrants, and with the sword of endurance you slew them."
@@ -227,12 +229,13 @@ meMA.Ode7C1T.text = "Hail, hallowed and divine tabernacle of the Most High. Hail
 
 meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode8C1H.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.melody
 meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.incipit
 meMA.Ode8C1H.text = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.text
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Ode8C11.greekmelody =  he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.greekname
 meMA.Ode8C11.melody = he.h.m4_en_UK_lash.heHE.CheirasEkpetasasDaniil.name
 meMA.Ode8C11.incipit = "You became lovely by the…"
 meMA.Ode8C11.text = "You became lovely by the beauties of the marks of your sufferings, and as an incorrupt virgin, O all-revered, you drew near to the Bridegroom, God the Word, who for our sake became incarnate of a Virgin; to him we cry: All you his works, praise the Lord!"
@@ -257,7 +260,7 @@ meMA.Ode8C1T.text = "You alone among all generations, immaculate Virgin, were re
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meMA.Ode9C1H.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.melody
 meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.incipit
 meMA.Ode9C1H.text = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.text
 

@@ -530,7 +530,7 @@ peMA.Ode6C2T.incipit = "Pure Maiden, we hymn your…"
 peMA.Ode6C2T.text = "Pure Maiden, we hymn your conceiving, we hymn your ineffable giving birth, through which we have been delivered from the destruction, the wickedness and the gloomy incarceration of Hell."
 
 peMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode6
-peMA.Kontakion1.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
+peMA.Kontakion1.melody = he.a.m6_en_UK_lash.heAU.TinYperImon.melody
 peMA.Kontakion1.incipit = he.a.m6_en_UK_lash.heAU.TinYperImon.incipit
 peMA.Kontakion1.text = he.a.m6_en_UK_lash.heAU.TinYperImon.text
 
@@ -757,7 +757,7 @@ peMA.Ode9C2T.incipit = "The Light which shone from…"
 peMA.Ode9C2T.text = "The Light which shone from Light dawned from you, dispelled all the blackness of atheism and led to the light those who slept in night; and so, as is fitting, to the ages we ever call you blessed."
 
 peMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode2
-peMA.Exaposteilarion1.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
+peMA.Exaposteilarion1.melody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.melody
 peMA.Exaposteilarion1.incipit = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.incipit
 peMA.Exaposteilarion1.text = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.text
 

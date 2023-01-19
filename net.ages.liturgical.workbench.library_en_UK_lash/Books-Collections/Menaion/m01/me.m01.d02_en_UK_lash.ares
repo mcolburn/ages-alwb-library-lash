@@ -99,7 +99,7 @@ meCO.C2.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meCO.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode1C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode1C1H.melody = he.h.m2_en_UK_lash.heHE.ToTinAvaton.melody
 meCO.Ode1C1H.incipit = he.h.m2_en_UK_lash.heHE.ToTinAvaton.incipit
 meCO.Ode1C1H.text = he.h.m2_en_UK_lash.heHE.ToTinAvaton.text
 
@@ -117,7 +117,7 @@ meCO.Ode1C12.text = "About to act as servant of a fearful work the Forerunner, t
 
 meCO.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode8C1H.melody = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.melody
 meCO.Ode8C1H.incipit = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.incipit
 meCO.Ode8C1H.text = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.text
 
@@ -153,13 +153,13 @@ meCO.Ode8C23.text = "Let us the faithful, having adorned with practical reason b
 
 meCO.Ode8C2H.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C2H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode8C2H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode8C2H.melody = he.h.m2_en_UK_lash.heHE.ToDogmatiToTyranniko.melody
 meCO.Ode8C2H.incipit = he.h.m2_en_UK_lash.heHE.ToDogmatiToTyranniko.incipit
 meCO.Ode8C2H.text = he.h.m2_en_UK_lash.heHE.ToDogmatiToTyranniko.text
 
 meCO.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode9C1H.melody = he.h.m2_en_UK_lash.heHE.EmegalynasChriste.melody
 meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.EmegalynasChriste.incipit
 meCO.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.EmegalynasChriste.text
 
@@ -195,7 +195,7 @@ meCO.Ode9C23.text = "O Saviour now accept us who have celebrated at your Nativit
 
 meCO.Ode9C2H.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C2H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode9C2H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+meCO.Ode9C2H.melody = he.h.m2_en_UK_lash.heHE.ITonAchoritonTheon.melody
 meCO.Ode9C2H.incipit = he.h.m2_en_UK_lash.heHE.ITonAchoritonTheon.incipit
 meCO.Ode9C2H.text = he.h.m2_en_UK_lash.heHE.ITonAchoritonTheon.text
 

@@ -754,7 +754,7 @@ alt1.meMA.C2.verse = prayers_en_UK_lash.pr.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 alt1.meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode1C1H.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.melody
 alt1.meMA.Ode1C1H.incipit = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.incipit
 alt1.meMA.Ode1C1H.text = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.text
 
@@ -808,7 +808,7 @@ alt1.meMA.Ode1C24.text = "Full of light, full of mercy, Sovereign Lady, you were
 
 alt1.meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 alt1.meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode3C1H.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.melody
 alt1.meMA.Ode3C1H.incipit = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.incipit
 alt1.meMA.Ode3C1H.text = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.text
 
@@ -867,7 +867,7 @@ alt1.meMA.Ode3Kathisma1.text = "You appeared, O All-praised, as Protection, salv
 
 alt1.meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 alt1.meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode4C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode4C1H.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.melody
 alt1.meMA.Ode4C1H.incipit = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.incipit
 alt1.meMA.Ode4C1H.text = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.text
 
@@ -921,7 +921,7 @@ alt1.meMA.Ode4C24.text = "Your wondrous and dazzling Protection, through which, 
 
 alt1.meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 alt1.meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode5C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode5C1H.melody = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.melody
 alt1.meMA.Ode5C1H.incipit = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.incipit
 alt1.meMA.Ode5C1H.text = he.h.m4_en_UK_lash.heHE.ExestiTaSympanta.text
 
@@ -975,7 +975,7 @@ alt1.meMA.Ode5C24.text = "In the wilderness of old a shining cloud protected the
 
 alt1.meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 alt1.meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode6C1H.melody = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.melody
 alt1.meMA.Ode6C1H.incipit = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.incipit
 alt1.meMA.Ode6C1H.text = he.h.m4_en_UK_lash.heHE.TinTheianTaftin.text
 
@@ -1050,7 +1050,7 @@ alt1.meMA.Oikos18.text = "Hail, Protection wholly light!"
 
 alt1.meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 alt1.meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode7C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode7C1H.melody = he.h.m4_en_UK_lash.heHE.OukElatrefsan.melody
 alt1.meMA.Ode7C1H.incipit = he.h.m4_en_UK_lash.heHE.OukElatrefsan.incipit
 alt1.meMA.Ode7C1H.text = he.h.m4_en_UK_lash.heHE.OukElatrefsan.text
 
@@ -1104,7 +1104,7 @@ alt1.meMA.Ode7C24.text = "Of old a cloud of light covered the tent of witness; w
 
 alt1.meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 alt1.meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode8C1H.melody = he.h.m4_en_UK_lash.heHE.PaidasEvageis.melody
 alt1.meMA.Ode8C1H.incipit = he.h.m4_en_UK_lash.heHE.PaidasEvageis.incipit
 alt1.meMA.Ode8C1H.text = he.h.m4_en_UK_lash.heHE.PaidasEvageis.text
 
@@ -1185,7 +1185,7 @@ alt1.meMA.Ode9C2M04.text = "Magnify, O my soul, the wonderful mighty deeds of th
 
 alt1.meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 alt1.meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode4
-alt1.meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.HeirmosNotMetered
+alt1.meMA.Ode9C1H.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.melody
 alt1.meMA.Ode9C1H.incipit = he.h.m4_en_UK_lash.heHE.ApasGigenis.incipit
 alt1.meMA.Ode9C1H.text = he.h.m4_en_UK_lash.heHE.ApasGigenis.text
 

@@ -80,7 +80,7 @@ meVE.Aposticha2.text = "Come, let us all faithfully celebrate the forefeast of t
 
 meVE.Aposticha3.poet = poets_en_UK_lash.po.Kyprianou
 meVE.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode2
-meVE.Aposticha3.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
+meVE.Aposticha3.melody = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.melody
 meVE.Aposticha3.incipit = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.incipit
 meVE.Aposticha3.text = he.a.m2_en_UK_lash.heAU.OikosTouEfratha.text
 
@@ -115,7 +115,7 @@ meCO.C1.verse = prayers_en_UK_lash.pr.verse_God.text
 
 meCO.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 meCO.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode1C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+meCO.Ode1C1H.melody = he.h.m2_en_UK_lash.heHE.ToTinAvaton.melody
 meCO.Ode1C1H.incipit = he.h.m2_en_UK_lash.heHE.ToTinAvaton.incipit
 meCO.Ode1C1H.text = he.h.m2_en_UK_lash.heHE.ToTinAvaton.text
 
@@ -133,7 +133,7 @@ meCO.Ode1C12.text = "Christ comes willingly to serve the one whose form the fash
 
 meCO.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 meCO.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode8C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+meCO.Ode8C1H.melody = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.melody
 meCO.Ode8C1H.incipit = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.incipit
 meCO.Ode8C1H.text = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.text
 
@@ -151,7 +151,7 @@ meCO.Ode8C12.text = "O Word of God for you being given birth was the reverse of 
 
 meCO.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meCO.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode2
-meCO.Ode9C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+meCO.Ode9C1H.melody = he.h.m2_en_UK_lash.heHE.EmegalynasChriste.melody
 meCO.Ode9C1H.incipit = he.h.m2_en_UK_lash.heHE.EmegalynasChriste.incipit
 meCO.Ode9C1H.text = he.h.m2_en_UK_lash.heHE.EmegalynasChriste.text
 

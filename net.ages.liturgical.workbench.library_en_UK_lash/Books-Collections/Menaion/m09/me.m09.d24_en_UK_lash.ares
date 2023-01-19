@@ -739,7 +739,7 @@ alt1.meMA.C1.verse = prayers_en_UK_lash.pr.verse_Theotokos.text
 
 alt1.meMA.Ode1C1H.ode = miscellanea_en_UK_lash.misc.Ode1
 alt1.meMA.Ode1C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode1C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode1C1H.melody = he.h.m1_en_UK_lash.heHE.PepoikilmeniTiTheiaDoxi.melody
 alt1.meMA.Ode1C1H.incipit = he.h.m1_en_UK_lash.heHE.PepoikilmeniTiTheiaDoxi.incipit
 alt1.meMA.Ode1C1H.text = he.h.m1_en_UK_lash.heHE.PepoikilmeniTiTheiaDoxi.text
 
@@ -769,7 +769,7 @@ alt1.meMA.Ode1C14.text = ""
 
 alt1.meMA.Ode3C1H.ode = miscellanea_en_UK_lash.misc.Ode3
 alt1.meMA.Ode3C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode3C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode3C1H.melody = he.h.m1_en_UK_lash.heHE.IDimiourgiki.melody
 alt1.meMA.Ode3C1H.incipit = he.h.m1_en_UK_lash.heHE.IDimiourgiki.incipit
 alt1.meMA.Ode3C1H.text = he.h.m1_en_UK_lash.heHE.IDimiourgiki.text
 
@@ -809,7 +809,7 @@ alt1.meMA.Ode3Kathisma1.text = ""
 
 alt1.meMA.Ode4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
 alt1.meMA.Ode4C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode4C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode4C1H.melody = he.h.m1_en_UK_lash.heHE.RiseisProfitonKaiAinigmata.melody
 alt1.meMA.Ode4C1H.incipit = he.h.m1_en_UK_lash.heHE.RiseisProfitonKaiAinigmata.incipit
 alt1.meMA.Ode4C1H.text = he.h.m1_en_UK_lash.heHE.RiseisProfitonKaiAinigmata.text
 
@@ -839,7 +839,7 @@ alt1.meMA.Ode4C14.text = ""
 
 alt1.meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 alt1.meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode5C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode5C1H.melody = he.h.m1_en_UK_lash.heHE.ToTheionKaiArriton.melody
 alt1.meMA.Ode5C1H.incipit = he.h.m1_en_UK_lash.heHE.ToTheionKaiArriton.incipit
 alt1.meMA.Ode5C1H.text = he.h.m1_en_UK_lash.heHE.ToTheionKaiArriton.text
 
@@ -869,7 +869,7 @@ alt1.meMA.Ode5C14.text = ""
 
 alt1.meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 alt1.meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode6C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode6C1H.melody = he.h.m1_en_UK_lash.heHE.AlionPontogenes.melody
 alt1.meMA.Ode6C1H.incipit = he.h.m1_en_UK_lash.heHE.AlionPontogenes.incipit
 alt1.meMA.Ode6C1H.text = he.h.m1_en_UK_lash.heHE.AlionPontogenes.text
 
@@ -906,7 +906,7 @@ alt1.meMA.Oikos1.text = ""
 
 alt1.meMA.Ode7C1H.ode = miscellanea_en_UK_lash.misc.Ode7
 alt1.meMA.Ode7C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode7C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode7C1H.melody = he.h.m1_en_UK_lash.heHE.ItamoThymo.melody
 alt1.meMA.Ode7C1H.incipit = he.h.m1_en_UK_lash.heHE.ItamoThymo.incipit
 alt1.meMA.Ode7C1H.text = he.h.m1_en_UK_lash.heHE.ItamoThymo.text
 
@@ -936,7 +936,7 @@ alt1.meMA.Ode7C14.text = ""
 
 alt1.meMA.Ode8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
 alt1.meMA.Ode8C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode8C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode8C1H.melody = he.h.m1_en_UK_lash.heHE.FlogaDrosizousanOsious.melody
 alt1.meMA.Ode8C1H.incipit = he.h.m1_en_UK_lash.heHE.FlogaDrosizousanOsious.incipit
 alt1.meMA.Ode8C1H.text = he.h.m1_en_UK_lash.heHE.FlogaDrosizousanOsious.text
 
@@ -973,7 +973,7 @@ alt1.meMA.Ode9C1M0Th.text = ""
 
 alt1.meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 alt1.meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode1
-alt1.meMA.Ode9C1H.melody = miscellanea_en_UK_lash.misc.Heirmos
+alt1.meMA.Ode9C1H.melody = he.h.m1_en_UK_lash.heHE.NenikintaiTisFyseos.melody
 alt1.meMA.Ode9C1H.incipit = he.h.m1_en_UK_lash.heHE.NenikintaiTisFyseos.incipit
 alt1.meMA.Ode9C1H.text = he.h.m1_en_UK_lash.heHE.NenikintaiTisFyseos.text
 
