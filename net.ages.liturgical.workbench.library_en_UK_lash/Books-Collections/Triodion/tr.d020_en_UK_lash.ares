@@ -534,6 +534,7 @@ trMA.AposMartyric.incipit = oc.m6.d2_en_UK_lash.ocMA.Aposticha3.incipit
 trMA.AposMartyric.text = oc.m6.d2_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
+trMA.AposTheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.greekname
 trMA.AposTheotokion.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.name
 trMA.AposTheotokion.incipit = oc.m6.d4_en_UK_lash.ocMA.AposTheotokion.incipit
 trMA.AposTheotokion.text = oc.m6.d4_en_UK_lash.ocMA.AposTheotokion.text
