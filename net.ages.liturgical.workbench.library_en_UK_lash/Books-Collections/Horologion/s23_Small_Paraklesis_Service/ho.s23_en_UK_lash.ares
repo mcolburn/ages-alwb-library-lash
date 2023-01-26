@@ -13,6 +13,7 @@ R02 = "After the Psalm we sing the following in Tone 4."
 R03 = "This is sung after each of the following verses by the two choirs alternately"
 
 hoCA.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode4
+hoCA.Apolytikion1.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 hoCA.Apolytikion1.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.name
 hoCA.Apolytikion1.incipit = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.incipit
 hoCA.Apolytikion1.text = oc.m4.d3_en_UK_lash.ocVE.ApolTheotokionVM.text
@@ -104,6 +105,7 @@ hoCA.Troparion32.text = "With kindness, all-praised Mother of God, look on the d
 //R07
 
 hoCA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode2
+hoCA.Kathisma11.greekmelody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.greekname
 hoCA.Kathisma11.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.name
 hoCA.Kathisma11.incipit = "Invincible rampart, fervent intercession, *…"
 hoCA.Kathisma11.text = "Invincible rampart, fervent intercession, * the wellspring of mercy, refuge of the world, to you * we all cry insistently, * 'Sovereign Lady, Mother who bore our God, * hasten, from perils swiftly set us free, * alone you are ever swift in our defence'."
@@ -241,6 +243,7 @@ hoCA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
 hoCA.PostGospelVerse.text = ""
 
 hoCA.PostGospelHymn1.mode = miscellanea_en_UK_lash.misc.Mode6
+hoCA.PostGospelHymn1.greekmelody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.greekname
 hoCA.PostGospelHymn1.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.name
 hoCA.PostGospelHymn1.incipit = "Sovereign and all-holy one, *…"
 hoCA.PostGospelHymn1.text = "Sovereign and all-holy one, * do not trust me to protection * which is merely human, * but accept the pleading of your supplicant, * anguish has hold of me, * nor can I endure * the hostile demons' arrows; * no shelter can I find, * no, nor place of refuge, wretch that I am, * from every side I am assailed, * and, save you, I find none that offers solace, * Queen of all creation, * Protection of the faithful and our hope, * do not despise my entreaty, * but take action for my good."
@@ -414,6 +417,7 @@ hoCA.Troparion3.incipit = oc.m6.d5_en_UK_lash.ocMA.Kathisma13.incipit
 hoCA.Troparion3.text = oc.m6.d5_en_UK_lash.ocMA.Kathisma13.text
 
 hoCA.Troparion4.mode = miscellanea_en_UK_lash.misc.Mode2
+hoCA.Troparion4.greekmelody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.greekname
 hoCA.Troparion4.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.name
 hoCA.Troparion4.incipit = oc.m2.d5_en_UK_lash.ocVE.AposTheotokion.incipit
 hoCA.Troparion4.text = oc.m2.d5_en_UK_lash.ocVE.AposTheotokion.text
