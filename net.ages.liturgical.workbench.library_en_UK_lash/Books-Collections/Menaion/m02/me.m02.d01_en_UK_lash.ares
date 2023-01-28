@@ -86,11 +86,13 @@ meVE.AposGlory.incipit = "The sacred Virgin offered the…"
 meVE.AposGlory.text = "The sacred Virgin offered the Sacred One in the Sacred Place to the Sacred Minister. Clasping him in his arms, Symeon received him with joy and cried out, 'Now, Master, you release your servant, according to you word, in peace, O Lord."
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = he.ga_en_UK_lash.heGA.OMartysSouKyrie.incipit
 meVE.Apolytikion1.text = he.ga_en_UK_lash.heGA.OMartysSouKyrie.text
 
 meVE.Apolytikion2.mode = miscellanea_en_UK_lash.misc.Mode1
+meVE.Apolytikion2.greekmelody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.greekname
 meVE.Apolytikion2.melody = he.a.m1_en_UK_lash.heAU.ChorosAngelikos.name
 meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""

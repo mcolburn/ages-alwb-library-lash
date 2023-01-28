@@ -102,17 +102,20 @@ meVE.AposStavrotheotokion.text = oc.m2.d4_en_UK_lash.ocVE.AposTheotokion.text
 
 meVE.Apolytikion1ger.poet = poets_en_UK_lash.po.Gerasimou
 meVE.Apolytikion1ger.mode = miscellanea_en_UK_lash.misc.Mode3
+meVE.Apolytikion1ger.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 meVE.Apolytikion1ger.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.name
 meVE.Apolytikion1ger.incipit = "…"
 meVE.Apolytikion1ger.text = ""
 
 meVE.Apolytikion2ger.poet = poets_en_UK_lash.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Apolytikion2ger.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2ger.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.name
 meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""
 
 meVE.Apolytikion3.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Apolytikion3.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion3.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.name
 meVE.Apolytikion3.incipit = "…"
 meVE.Apolytikion3.text = ""

@@ -97,12 +97,14 @@ meVE.AposBoth.incipit = me.m11.d21_en_UK_lash.meVE.AposGlory.incipit
 meVE.AposBoth.text = me.m11.d21_en_UK_lash.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode5
+meVE.Apolytikion1.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meVE.Apolytikion1.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 meVE.Apolytikion1.incipit = "Let us sing the praise…"
 meVE.Apolytikion1.text = "Let us sing the praise of the far-famed bride of Christ, the godlike Katherine, defender of Sinai, our help and assistance; for brilliantly she silenced the artful speakers of the godless with the sword of the Spirit. And now, as crowned Martyr, she asks for all God’s great mercy."
 
 meVE.Apolytikion2ger.poet = poets_en_UK_lash.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Apolytikion2ger.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2ger.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.name
 meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""

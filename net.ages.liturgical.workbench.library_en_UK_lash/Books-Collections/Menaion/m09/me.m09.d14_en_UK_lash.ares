@@ -152,8 +152,8 @@ meVE.Aposticha3.text = me.m09.d13_en_UK_lash.meVE.Aposticha3.text
 meVE.AposGlory.poet = poets_en_UK_lash.po.IoannouMonachou
 meVE.AposGlory.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.incipit = "…"
-meVE.AposGlory.text = ""
+meVE.AposGlory.incipit = "Your precious Cross, O Christ…"
+meVE.AposGlory.text = "Your precious Cross, O Christ, which Moses of old prefigured in himself when he overthrew and routed Amalek; and of which David in song cried out and decreed that your footstool was to be worshipped, today we sinners worship with unworthy lips, as we sing your praise who deigned to be nailed to it and we beg: O Lord, with the Thief count us worthy of your kingdom."// similar to me.m09.d14_en_UK_lash.meVE.AposGlory.text
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Apolytikion1.melody = ""

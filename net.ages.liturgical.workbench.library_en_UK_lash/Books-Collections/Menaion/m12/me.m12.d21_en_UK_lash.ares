@@ -76,12 +76,14 @@ meVE.AposGlory.incipit = "City of Bethlehem, make ready…"
 meVE.AposGlory.text = "City of Bethlehem, make ready the Cave, the Manger, the swaddling clothes for the Creator; for he is at hand to be brought to birth in you."
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.name
 meVE.Apolytikion1.incipit = me.m12.d20_en_UK_lash.meVE.Apolytikion1.incipit
 meVE.Apolytikion1.text = me.m12.d20_en_UK_lash.meVE.Apolytikion1.text
 
 meVE.Apolytikion2ger.poet = poets_en_UK_lash.po.Gerasimou
 meVE.Apolytikion2ger.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Apolytikion2ger.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meVE.Apolytikion2ger.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.name
 meVE.Apolytikion2ger.incipit = "…"
 meVE.Apolytikion2ger.text = ""
