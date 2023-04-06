@@ -1,0 +1,35 @@
+A_Resource_Whose_Name = me.m01.d27_en_UK_lash
+
+meDA.date = ""
+meDA.commemoration.full = "" // full title of day
+meDA.commemoration.first = ""
+meDA.commemoration.first_short = ""
+meDA.commemoration.first_title = ""
+meDA.commemoration.first_name = ""
+meDA.commemoration.second_title = ""
+meDA.commemoration.second_name = ""
+meDA.insert1 = "" // for use in petitions and dismissal
+meDA.insert2 = "" // for use in petitions and dismissal
+meDA.note = ""
+meLE.commemoration1 = ""
+meLE.commemoration2 = ""
+meHO.number = ""
+meHO.rank = ""
+meHO.commemorations = ""
+meHO.note1 = ""
+meHO.note2 = ""
+
+meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Stichera01.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
+meVE.Stichera01.incipit = "Let us praise in song…"
+meVE.Stichera01.text = "Let us praise in song the golden trumpet, the instrument inspired by God, the inexhaustible ocean of doctrines, the support of the Church, the heavenly mind, the depth of wisdom, the mixing bowl of solid gold which pours out rivers of teachings that flow with honey and which waters creation."
+
+meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Stichera02.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
+meVE.Stichera02.incipit = "Let us fittingly honour John…"
+meVE.Stichera02.text = "Let us fittingly honour John of golden speech, the unsetting star which lights with the rays of its teachings the whole wide earth; the herald of repentance, the all-golden sponge that takes away the sweat of dread despair and moistens hearts wasted by sins."
+
+meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode4
+meVE.Stichera03.melody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.notmetered
+meVE.Stichera03.incipit = "The Angel of earth…"
+meVE.Stichera03.text = "The Angel of earth and man of heaven, the sweet singing swallow of many notes, the treasury of the virtues, the unbreakable rock, pattern for the faithful, rival of the Martyrs, in rank the equal of the holy Angels, in living one with the Apostles, let Chrysostom be magnified in hymns."
