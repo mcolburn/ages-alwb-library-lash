@@ -88,6 +88,13 @@ pePA.Ode1T2.melody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.name
 pePA.Ode1T2.incipit = "Having seen your Son and…"
 pePA.Ode1T2.text = "Having seen your Son and God risen from the dead, rejoice with the Apostles, O holy and full of grace, and as cause of the joy of all, all-pure mother of God, you first received the greeting 'Rejoice'."
 
+pePA.Ode1K.ode = miscellanea_en_UK_lash.misc.Ode1
+pePA.Ode1K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode1K.greekmelody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.greekname
+pePA.Ode1K.melody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.melody
+pePA.Ode1K.incipit = he.h.m1_en_UK_lash.heHE.AnastaseosImera.incipit
+pePA.Ode1K.text = he.h.m1_en_UK_lash.heHE.AnastaseosImera.text
+
 pePA.Ode3H.ode = miscellanea_en_UK_lash.misc.Ode3
 pePA.Ode3H.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode3H.greekmelody = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.greekname
@@ -119,6 +126,13 @@ pePA.Ode3T2.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode3T2.melody = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.name
 pePA.Ode3T2.incipit = "Seeing God, whom you conceived…"
 pePA.Ode3T2.text = "Seeing God, whom you conceived in the flesh, rising from the dead as he said, dance pure Maiden, and magnify him as God, O Immaculate."
+
+pePA.Ode3K.ode = miscellanea_en_UK_lash.misc.Ode3
+pePA.Ode3K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode3K.greekmelody = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.greekname
+pePA.Ode3K.melody = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.melody
+pePA.Ode3K.incipit = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.incipit
+pePA.Ode3K.text = he.h.m1_en_UK_lash.heHE.DeftePomaPiomen.text
 
 pePA.Hypakoe.mode = miscellanea_en_UK_lash.misc.Mode4
 pePA.Hypakoe.incipit = "When those who were with…"
@@ -162,6 +176,13 @@ pePA.Ode4T2.melody = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.name
 pePA.Ode4T2.incipit = "Seeing Christ, whom you bore…"
 pePA.Ode4T2.text = "Seeing Christ, whom you bore, shining in beauty from the dead, O Pure One, fair and lovely, and spotless among women, as you rejoice today with the Apostles at the salvation of all, glorify him."
 
+pePA.Ode4K.ode = miscellanea_en_UK_lash.misc.Ode4
+pePA.Ode4K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode4K.greekmelody = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.greekname
+pePA.Ode4K.melody = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.melody
+pePA.Ode4K.incipit = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.incipit
+pePA.Ode4K.text = he.h.m1_en_UK_lash.heHE.EpiTisTheiasFylakis.text
+
 pePA.Ode5H.ode = miscellanea_en_UK_lash.misc.Ode5
 pePA.Ode5H.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode5H.greekmelody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.greekname
@@ -194,6 +215,13 @@ pePA.Ode5T2.melody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.name
 pePA.Ode5T2.incipit = "You did not open the…"
 pePA.Ode5T2.text = "You did not open the gates of the Virgin, when you took flesh. You did not break the seals of the sepulchre, O King of creation. Therefore when she saw you risen, she rejoiced."
 
+pePA.Ode5K.ode = miscellanea_en_UK_lash.misc.Ode5
+pePA.Ode5K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode5K.greekmelody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.greekname
+pePA.Ode5K.melody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.melody
+pePA.Ode5K.incipit = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.incipit
+pePA.Ode5K.text = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.text
+
 pePA.Ode6H.ode = miscellanea_en_UK_lash.misc.Ode6
 pePA.Ode6H.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode6H.greekmelody = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.greekname
@@ -225,6 +253,13 @@ pePA.Ode6T2.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode6T2.melody = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.name
 pePA.Ode6T2.incipit = "He who went down into…"
 pePA.Ode6T2.text = "He who went down into your womb, O pure Maiden, dwelt there and took flesh beyond understanding, went down into the lowest parts of the earth and raised Adam with himself when he rose from the tomb."
+
+pePA.Ode6K.ode = miscellanea_en_UK_lash.misc.Ode6
+pePA.Ode6K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode6K.greekmelody = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.greekname
+pePA.Ode6K.melody = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.melody
+pePA.Ode6K.incipit = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.incipit
+pePA.Ode6K.text = he.h.m1_en_UK_lash.heHE.KatilthesEnToisKatotatois.text
 
 pePA.Kontakion.mode = miscellanea_en_UK_lash.misc.Mode8
 pePA.Kontakion.melody = ""
@@ -271,6 +306,13 @@ pePA.Ode7T2.melody = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.name
 pePA.Ode7T2.incipit = "He who reigns over all…"
 pePA.Ode7T2.text = "He who reigns over all creation, becoming man, dwelt in your womb, O full of God's grace, and having endured Cross and death, he has risen as God and raised us with him, for he is all powerful."
 
+pePA.Ode7K.ode = miscellanea_en_UK_lash.misc.Ode7
+pePA.Ode7K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode7K.greekmelody = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.greekname
+pePA.Ode7K.melody = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.melody
+pePA.Ode7K.incipit = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.incipit
+pePA.Ode7K.text = he.h.m1_en_UK_lash.heHE.OPaidasEkKaminou.text
+
 pePA.Ode8H.ode = miscellanea_en_UK_lash.misc.Ode8
 pePA.Ode8H.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode8H.greekmelody = he.h.m1_en_UK_lash.heHE.AftiIKliti.greekname
@@ -308,6 +350,13 @@ pePA.Ode8T2.mode = miscellanea_en_UK_lash.misc.Mode1
 pePA.Ode8T2.melody = he.h.m1_en_UK_lash.heHE.AftiIKliti.name
 pePA.Ode8T2.incipit = "Your Son, O Virgin, having…"
 pePA.Ode8T2.text = "Your Son, O Virgin, having overthrown the might of death by his resurrection, as a mighty God has exalted us with himself and made us divine; therefore we praise him to the ages."
+
+pePA.Ode8K.ode = miscellanea_en_UK_lash.misc.Ode8
+pePA.Ode8K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode8K.greekmelody = he.h.m1_en_UK_lash.heHE.AftiIKliti.greekname
+pePA.Ode8K.melody = he.h.m1_en_UK_lash.heHE.AftiIKliti.melody
+pePA.Ode8K.incipit = he.h.m1_en_UK_lash.heHE.AftiIKliti.incipit
+pePA.Ode8K.text = he.h.m1_en_UK_lash.heHE.AftiIKliti.text
 
 pePA.Ode9M01.incipit = "…"
 pePA.Ode9M01.text = ""
@@ -379,6 +428,7 @@ pePA.Ode9T2.text = "Rejoice, be glad, divine Gate of the Light; for Jesus who se
 
 pePA.Ode9K.ode = miscellanea_en_UK_lash.misc.Ode9
 pePA.Ode9K.mode = miscellanea_en_UK_lash.misc.Mode1
+pePA.Ode9K.greekmelody = he.h.m1_en_UK_lash.heHE.FotizouFotizou.greekname
 pePA.Ode9K.melody = he.h.m1_en_UK_lash.heHE.FotizouFotizou.melody
 pePA.Ode9K.incipit = he.h.m1_en_UK_lash.heHE.FotizouFotizou.incipit
 pePA.Ode9K.text = he.h.m1_en_UK_lash.heHE.FotizouFotizou.text
