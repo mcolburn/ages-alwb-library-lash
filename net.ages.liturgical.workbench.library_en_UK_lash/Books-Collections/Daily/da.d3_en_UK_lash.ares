@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d3_en_UK_lash
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onMondayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_UK_lash.d.onMondayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode2
 daVE.Apolytikion1.melody = ""
@@ -39,4 +39,4 @@ daMA.ExapTheotokion1.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.name
 daMA.ExapTheotokion1.incipit = "For you I have as…"
 daMA.ExapTheotokion1.text = "For you I have as advocate * before the God who loves mankind, * do not expose what I have done * before the sight of the Angels, * and I entreat you, O Virgin, * pray, come to my aid, come swiftly." //I have you as intermediary with the God who loves humankind; do not expose my deeds before the Angels. I beg you, O Virgin, help me speedily.
 
-daLI.CommunionHymn.text = properties_en_UK_lash.media.key
+daLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key

@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d4_en_UK_lash
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onTuesdayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_UK_lash.d.onTuesdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -51,4 +51,4 @@ daMA.ExapTheotokion2.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.notmet
 daMA.ExapTheotokion2.incipit = "Those who with all devotion…"
 daMA.ExapTheotokion2.text = "Those who with all devotion and undoubting hearts worship the Cross and sufferings of your Son, Mother of God, show to be citizens of Paradise and partakers in glory."
 
-daLI.CommunionHymn.text = properties_en_UK_lash.media.key
+daLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key

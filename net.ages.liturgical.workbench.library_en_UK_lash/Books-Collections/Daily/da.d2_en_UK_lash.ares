@@ -3,7 +3,7 @@ A_Resource_Whose_Name = da.d2_en_UK_lash
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onSundayEvening
+daVE.OnTheEveningBefore.text = template.titles_en_UK_lash.d.onSundayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode4
 daVE.Apolytikion1.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
@@ -42,4 +42,4 @@ daMA.ExapTheotokion1.text = "You are my defender, O All-pure, and my strong ramp
 
 daLI.EpistleProkeimenon.title = ""
 
-daLI.CommunionHymn.text = properties_en_UK_lash.media.key
+daLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key

@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d6_en_UK_lash
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheMorningBefore = template.titles_en_UK_lash.d.onThursdayMorning
-daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onThursdayEvening
+daVE.OnTheMorningBefore.text = template.titles_en_UK_lash.d.onThursdayMorning
+daVE.OnTheEveningBefore.text = template.titles_en_UK_lash.d.onThursdayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode1
 daVE.Apolytikion1.melody = ""
@@ -46,7 +46,7 @@ daMA.ExapTheotokion2.melody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.notmet
 daMA.ExapTheotokion2.incipit = "Standing by the Cross and…"
 daMA.ExapTheotokion2.text = "Standing by the Cross and grieving, she who gave you birth without seed, cried out, ‘Alas, my sweetest Child! How have you set from my sight? How have you been numbered among the dead?’"
 
-daLI.CommunionHymn.text = "" //for media
+daLI.MM.CommunionHymn.text = "" //for media
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
 

@@ -3,8 +3,8 @@ A_Resource_Whose_Name = da.d7_en_UK_lash
 daDay.text = ""
 daCommemoration.text = ""
 
-daVE.OnTheAfternoonBefore = template.titles_en_UK_lash.d.onFridayAfternoon
-daVE.OnTheEveningBefore = template.titles_en_UK_lash.d.onFridayEvening
+daVE.OnTheAfternoonBefore.text = template.titles_en_UK_lash.d.onFridayAfternoon
+daVE.OnTheEveningBefore.text = template.titles_en_UK_lash.d.onFridayEvening
 
 daVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode2
 daVE.Apolytikion1.melody = ""
@@ -51,6 +51,6 @@ daMA.ExapTheotokion2.melody = he.a.m2_en_UK_lash.heAU.TonMathitonOrontonSe.notme
 daMA.ExapTheotokion2.incipit = "In you we boast, Mother…"
 daMA.ExapTheotokion2.text = "In you we boast, Mother of God, and you we have as advocate before God: stretch out your invincible hand and trounce our foes, send forth your help to your servants from the holy place."
 
-daLI.CommunionHymn.text = "" //for media
+daLI.MM.CommunionHymn.text = "" //for media
 
-daLI.CommunionHymnAlt.text = ""
+daLI.MM.CommunionHymnAlt.text = ""
