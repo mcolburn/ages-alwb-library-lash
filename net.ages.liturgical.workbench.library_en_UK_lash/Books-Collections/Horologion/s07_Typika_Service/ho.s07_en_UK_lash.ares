@@ -57,14 +57,8 @@ hoLI.MM.TrisagiosHymnBimatos.text = properties_en_UK_lash.media.key
 hoLI.TrisagiosHymnDynamis.text = "Dynamis. Holy God, Holy Strong, Holy Immortal, have mercy on us."
 
 hoLI.OsoiEisChriston.title = ""
-hoLI.OsoiEisChriston.incipit = "…"
-hoLI.OsoiEisChriston.text = ""
-hoLI.OsoiEisChriston1.text = ""
-hoLI.OsoiEisChriston2.text = ""
-hoLI.OsoiEisChriston3.text = ""
-hoLI.OsoiEisChriston4.text = ""
+hoLI.MM.OsoiEisChriston.text = properties_en_UK_lash.media.key
 hoLI.MM.OsoiEisChristonBimatos.text = properties_en_UK_lash.media.key
-hoLI.OsoiEisChristonDynamis.text = ""
 
 hoLI.TonStavronSou.title = ""
 hoLI.TonStavronSou.incipit = "…"
