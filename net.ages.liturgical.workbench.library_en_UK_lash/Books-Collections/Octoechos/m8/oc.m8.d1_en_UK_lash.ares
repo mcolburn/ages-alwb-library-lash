@@ -359,7 +359,8 @@ ocMA.Kathisma21.incipit = "Mortals sealed your grave, O…"
 ocMA.Kathisma21.text = "Mortals sealed your grave, O Saviour; an Angel rolled the stone from the door; Women saw you risen from the dead, and it was they who gave the good tidings to your Disciples in Sion: The life of all has risen and the bonds of death are loosed. Lord, glory to you."
 
 ocMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode8
-ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.greekmelody = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.greekname
+ocMA.Kathisma22.melody = he.a.m8_en_UK_lash.heAU.AnestisEkNekron.melody
 ocMA.Kathisma22.incipit = "The women who brought spices…"
 ocMA.Kathisma22.text = "The women who brought spices for the burial heard from the tomb an Angel's voice: Cease your tears, and bring joy instead of sorrow. Cry aloud in hymns that Christ the Lord has risen, who as God was well-pleased to save the human race."
 
@@ -961,6 +962,7 @@ ocMA.MM.Lauds02.text = properties_en_UK_lash.media.key
 ocMA.MM.LaudsStichologia.text = ""
 
 ocMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode8
+ocMA.Lauds1.greekmelody = he.a.m8_en_UK_lash.heAU.KyrieEiKaiKritirio.greekname
 ocMA.Lauds1.melody = he.a.m8_en_UK_lash.heAU.KyrieEiKaiKritirio.melody
 ocMA.Lauds1.incipit = he.a.m8_en_UK_lash.heAU.KyrieEiKaiKritirio.incipit
 ocMA.Lauds1.text = he.a.m8_en_UK_lash.heAU.KyrieEiKaiKritirio.text
@@ -971,11 +973,12 @@ ocMA.Lauds2.incipit = "Lord, though Jews had laid…"
 ocMA.Lauds2.text = "Lord, though Jews had laid you as a corpse in a grave, yet soldiers were guarding you as a sleeping king, and they sealed you with a seal as treasure-house of life; but you arose and granted incorruption to our souls."
 
 ocMA.Lauds3.mode = miscellanea_en_UK_lash.misc.Mode8
-ocMA.Lauds3.melody = ""
+ocMA.Lauds3.melody = he.a.m8_en_UK_lash.heAU.KyrieEiKaiKritirio.notmetered
 ocMA.Lauds3.incipit = "Lord, you have given us…"
 ocMA.Lauds3.text = "Lord, you have given us your Cross as a weapon against the devil; for he quails and trembles, unable to contemplate your power; for you raise the dead and made death of no effect: therefore we worship your Burial and your Rising."
 
 ocMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode8
+ocMA.Lauds4.greekmelody = he.a.m8_en_UK_lash.heAU.OAngelosSouKyrie.greekname
 ocMA.Lauds4.melody = he.a.m8_en_UK_lash.heAU.OAngelosSouKyrie.melody
 ocMA.Lauds4.incipit = he.a.m8_en_UK_lash.heAU.OAngelosSouKyrie.incipit
 ocMA.Lauds4.text = he.a.m8_en_UK_lash.heAU.OAngelosSouKyrie.text
