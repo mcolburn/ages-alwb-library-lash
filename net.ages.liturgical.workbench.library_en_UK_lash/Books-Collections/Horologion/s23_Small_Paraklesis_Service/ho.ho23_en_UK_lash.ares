@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = ho.s23_en_UK_lash
+A_Resource_Whose_Name = ho.ho23_en_UK_lash
 
 //Small Paraklesis
 hoCA.title = "SERVICE OF THE LITTLE CANON OF SUPPLICATION"
@@ -221,8 +221,8 @@ hoCA.Troparion62.text = "Immaculate, who through a word gave birth to the Word b
 
 hoCA.Kontakion.mode = miscellanea_en_UK_lash.misc.Mode2
 hoCA.Kontakion.melody  = ""
-hoCA.Kontakion.incipit = ho.s07_en_UK_lash.hoTY.Key0408.incipit
-hoCA.Kontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
+hoCA.Kontakion.incipit = ho.ho07_en_UK_lash.hoTY.Key0408.incipit
+hoCA.Kontakion.text = ho.ho07_en_UK_lash.hoTY.Key0408.text
 
 //R10
 //First Antiphon Mode 4
@@ -233,12 +233,12 @@ hoCA.Kontakion.text = ho.s07_en_UK_lash.hoTY.Key0408.text
 hoCA.PostGospelGlory.mode = miscellanea_en_UK_lash.misc.Mode2
 hoCA.PostGospelGlory.melody  = ""
 hoCA.PostGospelGlory.incipit = "…"
-hoCA.PostGospelGlory.text = ho.s03_en_UK_lash.hoMA.PostGospelTrinity.text
+hoCA.PostGospelGlory.text = ho.ho03_en_UK_lash.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = miscellanea_en_UK_lash.misc.Mode2
 hoCA.PostGospelBoth.melody  = ""
 hoCA.PostGospelBoth.incipit = "…"
-hoCA.PostGospelBoth.text = ho.s03_en_UK_lash.hoMA.PostGospelTheotokos.text
+hoCA.PostGospelBoth.text = ho.ho03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
 hoCA.PostGospelVerse.text = ""
 
@@ -368,7 +368,7 @@ hoCA.Ode95.text = "Heal one laid low and wretched, * in a place of sickness, * a
 //R14
 
 hoCA.Meg00.incipit = "…"
-hoCA.Meg00.text = ho.s03_en_UK_lash.hoMA.Ode9.Meg00.text
+hoCA.Meg00.text = ho.ho03_en_UK_lash.hoMA.Ode9.Meg00.text
 hoCA.Meg01.melody = he.h.m6_en_UK_lash.heHE.TinTimioteran.melody
 hoCA.Meg01.incipit = he.h.m6_en_UK_lash.heHE.TinTimioteran.incipit
 hoCA.Meg01.text = he.h.m6_en_UK_lash.heHE.TinTimioteran.text
