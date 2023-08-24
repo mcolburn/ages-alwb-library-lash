@@ -696,11 +696,13 @@ meMA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.OsTonProfitinErryso.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.heHE.OsTonProfitinErryso.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "…"
 meMA.Kontakion1.text = ""
 
 meMA.Kontakion2.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Kontakion2.greekmelody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.greekname
 meMA.Kontakion2.melody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion2.incipit = "…"
 meMA.Kontakion2.text = ""
@@ -1026,6 +1028,7 @@ meMA.AposGlory.incipit = "The brightness of the Father's…"
 meMA.AposGlory.text = "The brightness of the Father's glory has appeared in Jordan's streams, cleansing by Baptism the stain of our souls."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

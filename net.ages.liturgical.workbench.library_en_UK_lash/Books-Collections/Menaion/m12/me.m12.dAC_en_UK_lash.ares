@@ -374,6 +374,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode3
+meMA.Kontakion1.greekmelody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.greekname
 meMA.Kontakion1.melody = he.a.m3_en_UK_lash.heAU.IParthenosSimeron.notmetered
 meMA.Kontakion1.incipit = "Today godly David is filled…"
 meMA.Kontakion1.text = "Today godly David is filled with gladness and Joseph with James offers praise, for having received a crown by their kinship with Christ, they rejoice and sing the praise of him who has been born ineffably on earth, and they cry: O Compassionate, save those who honour you!"
@@ -605,6 +606,7 @@ meMA.LaudsGlory.incipit = "…"
 meMA.LaudsGlory.text = ""
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

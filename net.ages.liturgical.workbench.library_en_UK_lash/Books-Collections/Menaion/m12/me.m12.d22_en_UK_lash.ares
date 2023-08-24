@@ -589,6 +589,7 @@ meMA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "Those in trials and tribulations…"
 meMA.Kontakion1.text = "Those in trials and tribulations hasten to your temple and receive the revered gifts of the divine grace which dwells in you, Anastasia; for you ever pour out healings for the world."
@@ -915,6 +916,7 @@ meMA.AposBoth.incipit = "‘Do not be downcast, Joseph…"
 meMA.AposBoth.text = "‘Do not be downcast, Joseph, when you see my womb. For you will see what is born of me and you will rejoice and worship him as God’, said the Mother of God to her own betrothed, as she was about to give birth to Christ. Let us sing her praise, as we say, ‘Hail, full of grace, the Lord is with you; and through you, with us’."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

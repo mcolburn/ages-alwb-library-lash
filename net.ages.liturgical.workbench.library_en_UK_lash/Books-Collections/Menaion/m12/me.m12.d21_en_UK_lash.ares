@@ -454,6 +454,7 @@ meMA.Ode6H.incipit = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.incipit
 meMA.Ode6H.text = he.h.m4_en_UK_lash.heHE.ThysoSoiMetaFonis.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.notmetered
 meMA.Kontakion1.incipit = "As we see him who…"
 meMA.Kontakion1.text = "As we see him who holds the whole earth in his hand wrapped in swaddling clothes in Bethlehem, let us bring prefestal songs to the one who gave him birth; for as a mother she rejoices as she holds in her bosom the Son of God."
@@ -699,6 +700,7 @@ meMA.AposGlory.incipit = "Come, let us who are…"
 meMA.AposGlory.text = "Come, let us who are born of earth ceaselessly hymn with one voice the Virgin, Mary, Mother of God, from Christ is brought to birth."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

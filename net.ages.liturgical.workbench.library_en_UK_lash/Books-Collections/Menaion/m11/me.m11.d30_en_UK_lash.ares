@@ -659,6 +659,7 @@ meMA.Ode6C3T.incipit = "By the Father's good pleasure…"
 meMA.Ode6C3T.text = "By the Father's good pleasure the Son became incarnate through the Spirit of God in your womb, pure Mother of God, and saved the former image."
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.notmetered
 meMA.Kontakion1.incipit = "Let us sing the praise…"
 meMA.Kontakion1.text = "Let us sing the praise of God's herald, whose name is 'courage', the First-called of the Saviour's disciples, the brother of Peter; because, as to him of old, so now to us he cries, 'Come, we have found the one so longed for'."
@@ -1011,6 +1012,7 @@ meMA.LaudsBoth.text = "Bethlehem receive the Mother City of God; for she has com
 meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

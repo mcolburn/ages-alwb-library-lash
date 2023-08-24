@@ -332,6 +332,7 @@ meMA.Ode6C12.incipit = "…"
 meMA.Ode6C12.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.melody
 meMA.Kontakion1.incipit = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kontakion1.text = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.text
@@ -510,6 +511,7 @@ meMA.AdditionalIdiomelonGlory.text = "The saying of your Prophet Moses has been 
 meLI.MM.EntranceHymn.text = "" // for media
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

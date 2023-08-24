@@ -242,6 +242,7 @@ meMA.Ode6H.incipit = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.incipit
 meMA.Ode6H.text = he.h.m6_en_UK_lash.heHE.TouViouTinThalassan.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.greekname
 meMA.Kontakion1.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.name
 meMA.Kontakion1.incipit = "Ever looking towards the hour…"
 meMA.Kontakion1.text = "Ever looking towards the hour of the trial you lamented bitterly, venerable Ephrem, as a lover of stillness; but you became by your actions a teacher in deed. And therefore, universal Father, you rouse the idle to repentance."
@@ -355,6 +356,7 @@ meMA.AposStavrotheotokion.incipit = me.m01.d22_en_UK_lash.meVE.AposStavrotheotok
 meMA.AposStavrotheotokion.text = me.m01.d22_en_UK_lash.meVE.AposStavrotheotokion.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -632,6 +632,7 @@ meMA.Ode6C3T.incipit = "[English text unavailable at this…"
 meMA.Ode6C3T.text = "[English text unavailable at this time]"
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Kontakion1.greekmelody = he.a.m2_en_UK_lash.heAU.ToisTonAimatonSou.greekname
 meMA.Kontakion1.melody = he.a.m2_en_UK_lash.heAU.ToisTonAimatonSou.melody
 meMA.Kontakion1.incipit = he.a.m2_en_UK_lash.heAU.ToisTonAimatonSou.incipit
 meMA.Kontakion1.text = he.a.m2_en_UK_lash.heAU.ToisTonAimatonSou.text
@@ -937,6 +938,7 @@ meMA.LaudsTheotokion.text = oc.m4.d5_en_UK_lash.ocVE.AposTheotokion.text
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

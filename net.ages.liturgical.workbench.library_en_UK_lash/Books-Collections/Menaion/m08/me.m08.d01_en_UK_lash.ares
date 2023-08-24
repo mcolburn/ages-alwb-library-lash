@@ -280,6 +280,7 @@ meMA.Ode3C2T.incipit = "You were prefigured by the…"
 meMA.Ode3C2T.text = "You were prefigured by the Bush on Sinai that was unconsumed; you appeared to Daniel as a divine Mountain, from which was cut without human hand the indivisible, Christ the rock of our life, who is one Son, born from you, O Mother of God."
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.melody
 meMA.Kontakion1.incipit = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.incipit
 meMA.Kontakion1.text = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.text
@@ -509,6 +510,7 @@ meMA.Ode6C2T.incipit = "How did you bear a…"
 meMA.Ode6C2T.text = "How did you bear a Son whom no father had begotten? How did you remain pure after child-birth as you were before? It is God who knows, who does all things just as he wills."
 
 meMA.Kontakion2.mode = miscellanea_en_UK_lash.misc.Mode2
+meMA.Kontakion2.greekmelody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.notmetered
 meMA.Kontakion2.incipit = "You pillars of God's Wisdom…"
 meMA.Kontakion2.text = "You pillars of God's Wisdom, in umber seven, and lamps with seven lights of the divine light, all-wise Maccabees, greatest of martyrs before the Martyrs, with them ask the God of all things that those who sing your praise may be saved."
@@ -813,6 +815,7 @@ meMA.AdditionalIdiomelon1.incipit = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomel
 meMA.AdditionalIdiomelon1.text = me.m09.d14_en_UK_lash.meMA.AdditionalIdiomelon1.text
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

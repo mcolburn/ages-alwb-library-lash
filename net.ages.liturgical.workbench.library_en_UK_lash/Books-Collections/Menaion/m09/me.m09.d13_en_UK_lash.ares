@@ -561,6 +561,7 @@ meMA.Ode6C3T.incipit = "The Lord of glory was…"
 meMA.Ode6C3T.text = "The Lord of glory was alone incarnate from your maiden blood, as he purposed to save us, O all-pure, by his goodness."
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "The Church has been declared…"
 meMA.Kontakion1.text = "The Church has been declared a heaven filled with light, which guides all the faithful to the light; standing in it we cry: Establish this house, O Lord."
@@ -902,6 +903,7 @@ meMA.LaudsBoth.text = "Christ, our God, you accepted your voluntary crucifixion 
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -508,6 +508,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "You dawned like as a…"
 meMA.Kontakion1.text = "You dawned like as a beacon from the East and enlightened the faithful with the bolts of wonders, Bishop and Martyr Charalampis; therefore we honour your godly struggle."
@@ -705,6 +706,7 @@ meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 meMA.MM.Lauds123as456.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

@@ -409,6 +409,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_UK_lash.heAU.TiYpermacho.greekname
 meMA.Kontakion1.melody = he.a.m8_en_UK_lash.heAU.TiYpermacho.notmetered
 meMA.Kontakion1.incipit = "As noblest contemplator of the…"
 meMA.Kontakion1.text = "As noblest contemplator of the immaterial beings and truest ascetic teacher we your flock praise you and we cry: Do not cease to intercede with the Lord that they may be delivered from trials and dangers those who cry out to you: Hail Father Athanasios!"
@@ -606,6 +607,7 @@ meMA.LaudsTheotokion.text = he.o_en_UK_lash.heOT.TheotokeSyEiOsiou.text
 meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

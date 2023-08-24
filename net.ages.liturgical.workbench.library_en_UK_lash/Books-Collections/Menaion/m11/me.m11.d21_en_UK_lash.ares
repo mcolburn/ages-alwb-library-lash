@@ -616,6 +616,7 @@ meMA.Ode6C2T.incipit = "…"
 meMA.Ode6C2T.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.name
 meMA.Kontakion1.incipit = "The all-pure Temple of the…"
 meMA.Kontakion1.text = "The all-pure Temple of the Saviour, the precious Bridal Chamber and Virgin, the sacred Treasury of the glory of God, is being brought today into the house of the Lord; and with her she brings the grace of the divine Spirit; of her God’s Angels sing in praise: She is indeed the heavenly Tabernacle."
@@ -951,6 +952,7 @@ meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

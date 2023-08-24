@@ -277,6 +277,7 @@ meMA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode8
+meMA.Kontakion1.greekmelody = he.a.m8_en_UK_lash.heAU.OsAparchas.greekname
 meMA.Kontakion1.melody = he.a.m8_en_UK_lash.heAU.OsAparchas.notmetered
 meMA.Kontakion1.incipit = "You shone out with the…"
 meMA.Kontakion1.text = "You shone out with the beauty of virginity, you were adorned with a crown of martyrdom, you were entrusted with the work of an apostle, glorious Virgin; and you changed the fire’s flame to dew, while by prayer you tamed the raging of the bull as victorious first Champion."
@@ -455,6 +456,7 @@ meMA.AposStavrotheotokion.incipit = "You gave birth to the…"
 meMA.AposStavrotheotokion.text = "You gave birth to the grape cluster of life that you bore unhusbanded in your womb. But when you saw him hanging you raised a loud lament and cried: My child, who drop down sweetness through which, O Benefactor, may all the intoxication of the passions be abolished by showing your compassion through me who gave you birth."
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

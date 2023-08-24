@@ -556,6 +556,7 @@ meMA.Ode6C2T.incipit = "The Lover of mankind who…"
 meMA.Ode6C2T.text = "The Lover of mankind who carries the universe by his almighty power, clothed himself in the weakness of flesh from you, all-blameless Virgin, for the benefit of mankind."
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_UK_lash.heAU.TinYperImon.greekname
 meMA.Kontakion1.melody = he.a.m6_en_UK_lash.heAU.TinYperImon.notmetered
 meMA.Kontakion1.incipit = "You received divine grace from…"
 meMA.Kontakion1.text = "You received divine grace from heaven, and through your lips you teach us all to worship one God in Trinity, venerable John Chrysostom, wholly blessed. Fittingly we praise you, for you are a teacher who makes clear things divine."
@@ -792,6 +793,7 @@ meMA.LaudsTheotokion.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 meMA.MM.Lauds1234as5678.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

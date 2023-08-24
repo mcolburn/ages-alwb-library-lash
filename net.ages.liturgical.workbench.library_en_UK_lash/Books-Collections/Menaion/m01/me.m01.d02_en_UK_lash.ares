@@ -542,6 +542,7 @@ meMA.Ode6H.incipit = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.incipit
 meMA.Ode6H.text = he.h.m8_en_UK_lash.heHE.TinDeisinEkcheo.text
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.greekname
 meMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.EpefanisSimeron.notmetered
 meMA.Kontakion1.incipit = "Today the Lord has come…"
 meMA.Kontakion1.text = "Today the Lord has come to the streams of Jordan, and cries aloud to John, 'Do not be afraid to baptise me; for I have come to save Adam the First-formed'."
@@ -549,6 +550,7 @@ meMA.Kontakion1.text = "Today the Lord has come to the streams of Jordan, and cr
 meMA.Oikos1.text = "'I am not requiring you, O Baptist, to go beyond the limits; I do not say to you, 'Say to me what you said to the lawless, what you urged on the sinners. Only baptize me in silence, and await what comes by Baptism. For through this you will acquire a dignity that has not been given to the Angels; for I will make you greater than all the Prophets. Not one of them saw me clearly, but only in types and shadows and dreams; while you see me standing by you of set purpose, for I have come to save Adam the First-formed'."
 
 meMA.Kontakion2.mode = miscellanea_en_UK_lash.misc.Mode4
+meMA.Kontakion2.greekmelody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.greekname
 meMA.Kontakion2.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.notmetered
 meMA.Kontakion2.incipit = "Having filled your mouth with…"
 meMA.Kontakion2.text = "Having filled your mouth with the wisdom of God, you made clear to us the knowledge of the Trinity and cast down the godlessness of tyrants with the sling of your words, Silvester. And so entreat the Lord on our behalf."
@@ -834,6 +836,7 @@ meMA.AposGlory.incipit = "'John Baptist, who in the…"
 meMA.AposGlory.text = "'John Baptist, who in the womb recognized me the Lamb, be my servant in the river, minister to me with Angels; stretch out to touch my immaculate head with your palm; and when you see the mountains tremble and Jordan being turned back, shout with them, 'Lord, incarnate from a Virgin for our salvation, glory to you!''"
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text

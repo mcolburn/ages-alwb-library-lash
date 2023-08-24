@@ -444,6 +444,7 @@ meMA.Ode6C22.incipit = "…"
 meMA.Ode6C22.text = ""
 
 meMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode6
+meMA.Kontakion1.greekmelody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.greekname
 meMA.Kontakion1.melody = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.melody
 meMA.Kontakion1.incipit = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.incipit
 meMA.Kontakion1.text = he.a.m6_en_UK_lash.heAU.TinEnPresveiais.text
@@ -633,6 +634,7 @@ meMA.MM.Lauds1123as5678.text = properties_en_UK_lash.media.key
 meLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 
 meLI.Kontakion1.mode = meMA.Kontakion1.mode
+meLI.Kontakion1.greekmelody= meMA.Kontakion1.greekmelody
 meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
