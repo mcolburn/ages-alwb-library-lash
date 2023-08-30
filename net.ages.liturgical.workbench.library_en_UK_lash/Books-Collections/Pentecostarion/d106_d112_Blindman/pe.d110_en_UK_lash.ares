@@ -530,6 +530,7 @@ peMA.Ode6C2T.incipit = "Pure Maiden, we hymn your…"
 peMA.Ode6C2T.text = "Pure Maiden, we hymn your conceiving, we hymn your ineffable giving birth, through which we have been delivered from the destruction, the wickedness and the gloomy incarceration of Hell."
 
 peMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode6
+peMA.Kontakion1.greekmelody = he.a.m6_en_UK_lash.heAU.TinYperImon.greekname
 peMA.Kontakion1.melody = he.a.m6_en_UK_lash.heAU.TinYperImon.melody
 peMA.Kontakion1.incipit = he.a.m6_en_UK_lash.heAU.TinYperImon.incipit
 peMA.Kontakion1.text = he.a.m6_en_UK_lash.heAU.TinYperImon.text
@@ -790,6 +791,7 @@ peMA.LaudsGlory.text = peVE.Aposticha1.text
 peLI.MM.EntranceHymn.text = properties_en_UK_lash.media.key
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text

@@ -282,6 +282,7 @@ peMA.Ode6C1T.incipit = "We all know you as…"
 peMA.Ode6C1T.text = "We all know you as most truly Mother of God, through whom women's nature was given strength, O all-blameless, and so competed on behalf of Christ and became filled devoutly with every virtue."
 
 peMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode8
+peMA.Kontakion1.greekmelody = he.a.m8_en_UK_lash.heAU.OsAparchas.greekname
 peMA.Kontakion1.melody = he.a.m8_en_UK_lash.heAU.OsAparchas.melody
 peMA.Kontakion1.incipit = he.a.m8_en_UK_lash.heAU.OsAparchas.incipit
 peMA.Kontakion1.text = he.a.m8_en_UK_lash.heAU.OsAparchas.text
@@ -410,6 +411,7 @@ peMA.Lauds8.text = ""
 peMA.Lauds345 = "" // for media
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text

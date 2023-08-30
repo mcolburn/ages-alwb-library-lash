@@ -465,6 +465,7 @@ peMA.Ode6C2T.incipit = "As Virgin after childbirth we…"
 peMA.Ode6C2T.text = "As Virgin after childbirth we hymn you; as alone Virgin and Mother we glorify you, pure Maiden, bride of God; for from you God was truly incarnate, making us new."
 
 peMA.Kontakion1.mode = miscellanea_en_UK_lash.misc.Mode4
+peMA.Kontakion1.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 peMA.Kontakion1.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.notmetered
 peMA.Kontakion1.incipit = "At the mid-point of the…"
 peMA.Kontakion1.text = "At the mid-point of the feast according to the Law, Maker of all things and Master, you said to those who were there, Christ God: Come, and draw the water of immortality. Therefore we fall down before you and with faith we cry: Grant us your mercies, for you are the source of our life."
@@ -783,6 +784,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
