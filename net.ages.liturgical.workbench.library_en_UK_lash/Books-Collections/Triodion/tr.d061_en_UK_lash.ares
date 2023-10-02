@@ -272,13 +272,13 @@ trMA.AposIdiomelon1.text = ""
 
 trMA.AposMartyric.mode = miscellanea_en_UK_lash.misc.Mode5
 trMA.AposMartyric.melody = ""
-trMA.AposMartyric.incipit = "…"
-trMA.AposMartyric.text = ""
+trMA.AposMartyric.incipit = oc.m5.d5_en_UK_lash.ocMA.Aposticha3.incipit
+trMA.AposMartyric.text = oc.m5.d5_en_UK_lash.ocMA.Aposticha3.text
 
 trMA.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode5
 trMA.AposTheotokion.melody = ""
-trMA.AposTheotokion.incipit = "…"
-trMA.AposTheotokion.text = ""
+trMA.AposTheotokion.incipit = oc.m5.d5_en_UK_lash.ocMA.AposTheotokion.incipit
+trMA.AposTheotokion.text = oc.m5.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 trTE.Troparion.mode = miscellanea_en_UK_lash.misc.Mode1
 trTE.Troparion.melody = ""
