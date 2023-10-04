@@ -552,7 +552,7 @@ meLI.Kontakion1.melody = meMA.Kontakion1.melody
 meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
 meLI.Kontakion1.text = meMA.Kontakion1.text
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
 
 alt1.meDA.date = "October 28"
 alt1.meDA.commemoration.full = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
@@ -1328,6 +1328,6 @@ alt1.meLI.Kontakion1.text = alt1.meMA.Kontakion1.text
 
 alt1.meLI.MM.CommunionHymn.text = ""
 
-alt1.meMegalynarion.text = "You are the Protection of Orthodox Christians, O Virgin, protecting all the faithful. And so your people takes refuge in your Protection, and with faith magnifies your watchful care."
-alt1.meMegalynarion2.text = ""
+alt1.meLI.Megalynarion.text = "You are the Protection of Orthodox Christians, O Virgin, protecting all the faithful. And so your people takes refuge in your Protection, and with faith magnifies your watchful care."
+alt1.meLI.Megalynarion2.text = ""
 

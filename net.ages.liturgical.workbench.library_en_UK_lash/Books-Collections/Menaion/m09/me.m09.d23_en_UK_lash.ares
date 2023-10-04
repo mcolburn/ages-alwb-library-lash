@@ -80,8 +80,8 @@ meVE.Apolytikion1.text = "Be glad, O barren one, who before did not bear child, 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Kathisma11.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
-meMA.Kathisma11.incipit = "Elizabeth was freed from barrenness…"
-meMA.Kathisma11.text = "Elizabeth was freed from barrenness, while the Virgin remained still a virgin, when at Gabriel's voice each of them conceived in the womb; but the Forerunner John leapt in the womb when he recognized beforehand his God and Master incarnate in a virgin womb for our salvation"
+meMA.Kathisma11.incipit = oc.m5.d3_en_UK_lash.ocMA.Kathisma31.incipit
+meMA.Kathisma11.text = oc.m5.d3_en_UK_lash.ocMA.Kathisma31.text //"Elizabeth was freed from barrenness, while the Virgin remained still a virgin, when at Gabriel's voice each of them conceived in the womb; but the Forerunner John leapt in the womb when he recognized beforehand his God and Master incarnate in a virgin womb for our salvation"
 
 meMA.Kathisma1T.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Kathisma1T.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
@@ -362,4 +362,4 @@ meLI.Kontakion1.text = meMA.Kontakion1.text
 
 meLI.MM.CommunionHymn.text = properties_en_UK_lash.media.key
 
-meMegalynarion.text = ""
+meLI.Megalynarion.text = ""
