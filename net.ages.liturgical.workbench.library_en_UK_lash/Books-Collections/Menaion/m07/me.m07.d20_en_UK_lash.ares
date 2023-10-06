@@ -695,7 +695,6 @@ alt1.meMA.Kathisma3T.incipit = "…"
 alt1.meMA.Kathisma3T.text = ""
 
 //Not in Menaion, optional Matins Gospel
-alt1.meMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
 alt1.meMA.PostGospelGlory.mode = miscellanea_en_UK_lash.misc.Mode2
 alt1.meMA.PostGospelGlory.melody = ""
