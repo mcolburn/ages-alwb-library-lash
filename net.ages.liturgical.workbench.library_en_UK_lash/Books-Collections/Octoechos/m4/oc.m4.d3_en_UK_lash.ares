@@ -707,14 +707,14 @@ octrMA.Triadic3.text = oc.m4.d2_en_UK_lash.octrMA.Triadic3.text
 octrMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
 octrMA.Kathisma11.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 octrMA.Kathisma11.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
-octrMA.Kathisma11.incipit = oc.m4.d2_en_UK_lash.ocMA.Kathisma21.incipit
-octrMA.Kathisma11.text = oc.m4.d2_en_UK_lash.ocMA.Kathisma21.text
+octrMA.Kathisma11.incipit = "With haste let us enter…"
+octrMA.Kathisma11.text = "With haste let us enter the bridal-chamber of Christ together and let us all hear the blessed voice of our God himself. Come, lovers of the heavenly glory, let us become companions of the wise virgins and make our lamps radiant through the faith."
 
 octrMA.Kathisma12.mode = miscellanea_en_UK_lash.misc.Mode4
 octrMA.Kathisma12.greekmelody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.greekname
 octrMA.Kathisma12.melody = he.a.m4_en_UK_lash.heAU.KateplagiIosif.notmetered
-octrMA.Kathisma12.incipit = oc.m4.d2_en_UK_lash.ocMA.Kathisma22.incipit
-octrMA.Kathisma12.text = oc.m4.d2_en_UK_lash.ocMA.Kathisma22.text
+octrMA.Kathisma12.incipit = "…"
+octrMA.Kathisma12.text = ""
 
 octrMA.Kathisma1T.mode = miscellanea_en_UK_lash.misc.Mode4
 octrMA.Kathisma1T.melody = ""
