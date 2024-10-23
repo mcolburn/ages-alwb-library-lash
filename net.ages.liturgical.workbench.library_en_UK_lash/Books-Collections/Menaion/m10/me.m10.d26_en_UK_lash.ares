@@ -134,8 +134,8 @@ meMA.Kathisma12.text = "Martyr Demetrios, pride of the contest, having put on Ch
 
 meMA.Kathisma1T.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Kathisma1T.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
-meMA.Kathisma1T.incipit = "Hope that cannot be put…"
-meMA.Kathisma1T.text = "Hope that cannot be put to shame of those who trust in you, who alone beyond nature bore in the flesh Christ our God, with the Holy Apostles entreat him to give the inhabited world pardon and peace, and to us all before the end amendment of life."
+meMA.Kathisma1T.incipit = me.m06.d22_en_UK_lash.meMA.Ode3KathismaT.incipit
+meMA.Kathisma1T.text = me.m06.d22_en_UK_lash.meMA.Ode3KathismaT.text
 
 meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Kathisma21.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
