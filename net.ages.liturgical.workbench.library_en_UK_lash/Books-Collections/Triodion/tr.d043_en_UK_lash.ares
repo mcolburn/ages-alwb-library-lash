@@ -134,13 +134,13 @@ trMA.Ode1C11.mode = miscellanea_en_UK_lash.misc.Mode1
 trMA.Ode1C11.greekmelody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.greekname
 trMA.Ode1C11.melody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.name
 trMA.Ode1C11.incipit = "A day of festival! At…"
-trMA.Ode1C11.text = "A day of festival! At Christ's Rising, death has fled away and the light of life has dawned. Adam has arisen and dances for joy. Therefore let us cry aloud as we sing a song of victory."
+trMA.Ode1C11.text = "A day of festival! At Christ’s Rising, death has fled away and the light of life has dawned. Adam has arisen and dances for joy. Therefore let us cry aloud as we sing a song of victory."
 
 trMA.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
 trMA.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode1
 trMA.Ode1C12.melody = he.h.m1_en_UK_lash.heHE.AnastaseosImera.name
 trMA.Ode1C12.incipit = "A day of worship of…"
-trMA.Ode1C12.text = "A day of worship of the Precious Cross! Come, let all approach it! For now it is set forth, shining with the bright beams of Christ's Rising. Let us kiss it, as we rejoice in soul."
+trMA.Ode1C12.text = "A day of worship of the Precious Cross! Come, let all approach it! For now it is set forth, shining with the bright beams of Christ’s Rising. Let us kiss it, as we rejoice in soul."
 
 trMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
 trMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -294,8 +294,8 @@ trMA.Ode5C1Tr.text = "I glorify Three without beginning, God in one Essence, Fat
 trMA.Ode5C1T.ode = miscellanea_en_UK_lash.misc.Ode5
 trMA.Ode5C1T.mode = miscellanea_en_UK_lash.misc.Mode1
 trMA.Ode5C1T.melody = he.h.m1_en_UK_lash.heHE.OrthrisomenOrthrouVatheos.name
-trMA.Ode5C1T.incipit = "You conceived by nature's law…"
-trMA.Ode5C1T.text = "You conceived by nature's law, but above law; for your child-bearing alone was without seed. Fearful to think or speak of was the manner of your giving birth, O all-unblemished Virgin."
+trMA.Ode5C1T.incipit = "You conceived by nature’s law…"
+trMA.Ode5C1T.text = "You conceived by nature’s law, but above law; for your child-bearing alone was without seed. Fearful to think or speak of was the manner of your giving birth, O all-unblemished Virgin."
 
 trMA.Ode6C11.ode = miscellanea_en_UK_lash.misc.Ode6
 trMA.Ode6C11.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -345,7 +345,7 @@ trMA.Kontakion1.melody = miscellanea_en_UK_lash.misc.AutomelonNotMetered
 trMA.Kontakion1.incipit = "The sword of flame no…"
 trMA.Kontakion1.text = "The sword of flame no longer guards the gate of Eden, / For a strange bond came upon it: the wood of the Cross. / The sting of Death and the victory of Hell were nailed to it. / But you appeared, my Saviour, crying to those in Hell: / 'Be brought back / Again to Paradise'."
 
-trMA.Oikos1.text = "Three crosses Pilate fixed on Golgotha, / Two for the thieves and one for the Giver of life, / Whom Hades saw and said to those below, / 'My ministers and powers, / Who has fixed a nail in my heart? / A wooden lance has suddenly pierced me and I am being torn apart. / My insides are in pain, my belly in agony. / My senses make my spirit tremble, / And I am compelled to disgorge / Adam and Adam's race, given me by a tree, / A tree is bringing them back / Again to Paradise'."
+trMA.Oikos1.text = "Three crosses Pilate fixed on Golgotha, / Two for the thieves and one for the Giver of life, / Whom Hades saw and said to those below, / 'My ministers and powers, / Who has fixed a nail in my heart? / A wooden lance has suddenly pierced me and I am being torn apart. / My insides are in pain, my belly in agony. / My senses make my spirit tremble, / And I am compelled to disgorge / Adam and Adam’s race, given me by a tree, / A tree is bringing them back / Again to Paradise'."
 
 trSY.commemoration.text = "On the same day, the 3rd Sunday of the Fast, we celebrate the adoration of the precious and life-giving Cross."
 trSY.commemoration.couplet1.title = titles_en_UK_lash.ti.Verses
@@ -408,7 +408,7 @@ trMA.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode1
 trMA.Ode8C12.melody = he.h.m1_en_UK_lash.heHE.AftiIKliti.name
 trMA.Ode8C12.incipit = "Hail, O Cross, thrice-blessed and…"
-trMA.Ode8C12.text = "Hail, O Cross, thrice-blessed and divine Tree, a light for those in darkness. By your shining you herald to the four-cornered World the rays of Christ's Rising. Grant that all the faithful may reach Pascha."
+trMA.Ode8C12.text = "Hail, O Cross, thrice-blessed and divine Tree, a light for those in darkness. By your shining you herald to the four-cornered World the rays of Christ’s Rising. Grant that all the faithful may reach Pascha."
 
 trMA.Ode8C13.ode = miscellanea_en_UK_lash.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -426,7 +426,7 @@ trMA.Ode8C15.ode = miscellanea_en_UK_lash.misc.Ode8
 trMA.Ode8C15.mode = miscellanea_en_UK_lash.misc.Mode1
 trMA.Ode8C15.melody = he.h.m1_en_UK_lash.heHE.AftiIKliti.name
 trMA.Ode8C15.incipit = "Of old Jacob prefigured your…"
-trMA.Ode8C15.text = "Of old Jacob prefigured your Cross, O Christ, when he worshipped the top of Joseph's holy staff, foreseeing this dread sceptre of your Kingdom, which now we worship in faith to the ages."
+trMA.Ode8C15.text = "Of old Jacob prefigured your Cross, O Christ, when he worshipped the top of Joseph’s holy staff, foreseeing this dread sceptre of your Kingdom, which now we worship in faith to the ages."
 
 trMA.Ode8C1Tr.ode = miscellanea_en_UK_lash.misc.Ode8
 trMA.Ode8C1Tr.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -493,7 +493,7 @@ trMA.ExapTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
 trMA.ExapTheotokion.greekmelody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.greekname
 trMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 trMA.ExapTheotokion.incipit = "All-hallowed Lady, with true devotion…"
-trMA.ExapTheotokion.text = "All-hallowed Lady, with true devotion now we venerate the Wood on which your Son stretched out his most pure hands and for our sakes was nailed. Give us peace and grant that we may come to the Holy Passion that has saved the world; and may we worship at the radiant Festival of Easter, the Lord's Day that brings light and joy to all creation."
+trMA.ExapTheotokion.text = "All-hallowed Lady, with true devotion now we venerate the Wood on which your Son stretched out his most pure hands and for our sakes was nailed. Give us peace and grant that we may come to the Holy Passion that has saved the world; and may we worship at the radiant Festival of Easter, the Lord’s Day that brings light and joy to all creation."
 
 trMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
 trMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname

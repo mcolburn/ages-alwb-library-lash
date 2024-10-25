@@ -32,7 +32,7 @@ ocVE.Stichera5.text = "The Evil One, who at first shone with you as the Morning 
 ocVE.Stichera6.mode = miscellanea_en_UK_lash.misc.Mode5
 ocVE.Stichera6.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 ocVE.Stichera6.incipit = "I should have become in…"
-ocVE.Stichera6.text = "I should have become in accordance with God's image and been numbered with you, and not, alas, bowed down entirely to the evil foe; but by the advice of the boaster I did not rival you, I spurned the commandment and fell from the honour of the Maker, O Archangels, and I am dragged down by slavery. Nevertheless, seeing me wholly yielded to the passions, give me your hand to the path which bears me upwards, as you beg that I may find salvation and the ancient glory of my beauty."
+ocVE.Stichera6.text = "I should have become in accordance with God’s image and been numbered with you, and not, alas, bowed down entirely to the evil foe; but by the advice of the boaster I did not rival you, I spurned the commandment and fell from the honour of the Maker, O Archangels, and I am dragged down by slavery. Nevertheless, seeing me wholly yielded to the passions, give me your hand to the path which bears me upwards, as you beg that I may find salvation and the ancient glory of my beauty."
 
 ocVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode5
 ocVE.SticTheotokion.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
@@ -100,7 +100,7 @@ ocMA.Kathisma31.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.Kathisma31.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 ocMA.Kathisma31.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 ocMA.Kathisma31.incipit = "I tremble at the fearful…"
-ocMA.Kathisma31.text = "I tremble at the fearful judgement, and I shudder at the Judge's righteous sentence; for my conscience ever questions me; but living with indifference I am at a loss and I quail. By your holy prayers, Archangels, who watch over believers, rescue me from the fire."
+ocMA.Kathisma31.text = "I tremble at the fearful judgement, and I shudder at the Judge’s righteous sentence; for my conscience ever questions me; but living with indifference I am at a loss and I quail. By your holy prayers, Archangels, who watch over believers, rescue me from the fire."
 
 ocMA.Kathisma32.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.Kathisma32.melody = ""
@@ -111,7 +111,7 @@ ocMA.Kathisma33.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.Kathisma33.greekmelody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.greekname
 ocMA.Kathisma33.melody = he.a.m5_en_UK_lash.heAU.TonSynanarchonLogon.notmetered
 ocMA.Kathisma33.incipit = "Gabriel marvellously brought to you…"
-ocMA.Kathisma33.text = "Gabriel marvellously brought to you on earth heaven's Hail; for seeing the Maker of the Angels incarnate in you, he sang you the song of joy, O Honoured One; through it teaching mortals that you the only cause of joy have appeared to all mankind."
+ocMA.Kathisma33.text = "Gabriel marvellously brought to you on earth heaven’s Hail; for seeing the Maker of the Angels incarnate in you, he sang you the song of joy, O Honoured One; through it teaching mortals that you the only cause of joy have appeared to all mankind."
 
 ocMA.C1.poet = poets_en_UK_lash.po.KyriouIosif
 ocMA.C1.acrostic.title = ""
@@ -202,7 +202,7 @@ ocMA.OdeW3C13.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW3C13.ode = miscellanea_en_UK_lash.misc.Ode3
 ocMA.OdeW3C13.melody = he.h.m5_en_UK_lash.heHE.EpiTaEthni.name
 ocMA.OdeW3C13.incipit = "That you might put to…"
-ocMA.OdeW3C13.text = "That you might put to death the living sin and prove the foe was dead, you had no thought, blest Martyrs, for your bodies' death."
+ocMA.OdeW3C13.text = "That you might put to death the living sin and prove the foe was dead, you had no thought, blest Martyrs, for your bodies’ death."
 
 ocMA.OdeW3C14.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW3C14.ode = miscellanea_en_UK_lash.misc.Ode3
@@ -314,7 +314,7 @@ ocMA.OdeW5C14.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW5C14.ode = miscellanea_en_UK_lash.misc.Ode5
 ocMA.OdeW5C14.melody = he.h.m5_en_UK_lash.heHE.ToFosToAlithinon.name
 ocMA.OdeW5C14.incipit = "Being unenslaved to the foe…"
-ocMA.OdeW5C14.text = "Being unenslaved to the foe, O Champions, you enslaved him and appeared as Christ's true friends."
+ocMA.OdeW5C14.text = "Being unenslaved to the foe, O Champions, you enslaved him and appeared as Christ’s true friends."
 
 ocMA.OdeW5C1T.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW5C1T.ode = miscellanea_en_UK_lash.misc.Ode5
@@ -426,7 +426,7 @@ ocMA.OdeW7C1T.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW7C1T.ode = miscellanea_en_UK_lash.misc.Ode7
 ocMA.OdeW7C1T.melody = he.h.m5_en_UK_lash.heHE.EvlogitosEiOTheos.name
 ocMA.OdeW7C1T.incipit = "Blessed are you, O God…"
-ocMA.OdeW7C1T.text = "Blessed are you, O God, who stole into a Virgin's womb and saved mankind, highly praised and highly exalted."
+ocMA.OdeW7C1T.text = "Blessed are you, O God, who stole into a Virgin’s womb and saved mankind, highly praised and highly exalted."
 
 ocMA.OdeW7C21.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW7C21.ode = miscellanea_en_UK_lash.misc.Ode7
@@ -464,7 +464,7 @@ ocMA.OdeW8C12.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW8C12.ode = miscellanea_en_UK_lash.misc.Ode8
 ocMA.OdeW8C12.melody = he.h.m5_en_UK_lash.heHE.TonPoiitinTisKtiseos.name
 ocMA.OdeW8C12.incipit = "Make me shine by repentance…"
-ocMA.OdeW8C12.text = "Make me shine by repentance, deliver me from sin's darkness, Lord, that I may glorify you to all the ages."
+ocMA.OdeW8C12.text = "Make me shine by repentance, deliver me from sin’s darkness, Lord, that I may glorify you to all the ages."
 
 ocMA.OdeW8C13.mode = miscellanea_en_UK_lash.misc.Mode5
 ocMA.OdeW8C13.ode = miscellanea_en_UK_lash.misc.Ode8

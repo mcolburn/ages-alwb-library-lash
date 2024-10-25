@@ -6,7 +6,7 @@ ocVE.Stichera1.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.Stichera1.greekmelody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.greekname
 ocVE.Stichera1.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.notmetered
 ocVE.Stichera1.incipit = "Having received the heavenly power…"
-ocVE.Stichera1.text = "Having received the heavenly power of the Paraclete, Christ's Apostles routed the regiments of the foe. They rebuked kings, put the wise to shame, simple and unlettered, naked and unarmed they were drawn up in accordance with the Gospel. While they worked deeds of wonder by the word of grace. And so, making the nations obedient to Christ, they intercede with boldness on behalf of our souls."
+ocVE.Stichera1.text = "Having received the heavenly power of the Paraclete, Christ’s Apostles routed the regiments of the foe. They rebuked kings, put the wise to shame, simple and unlettered, naked and unarmed they were drawn up in accordance with the Gospel. While they worked deeds of wonder by the word of grace. And so, making the nations obedient to Christ, they intercede with boldness on behalf of our souls."
 
 ocVE.Stichera2.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.Stichera2.melody = he.a.m6_en_UK_lash.heAU.OlinApothemenoi.notmetered
@@ -37,13 +37,13 @@ ocVE.Stichera6.text = "With faith we have now gained you, O Hierarch, as a haven
 ocVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.SticTheotokion.greekmelody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.greekname
 ocVE.SticTheotokion.melody = he.a.m6_en_UK_lash.heAU.TriimerosAnestis.notmetered
-ocVE.SticTheotokion.incipit = "The Virgin's giving birth without…"
-ocVE.SticTheotokion.text = "The Virgin's giving birth without travail has clearly become for us the greatest of gifts, for God makes new again our nature that was corrupted and refashions what is human."
+ocVE.SticTheotokion.incipit = "The Virgin’s giving birth without…"
+ocVE.SticTheotokion.text = "The Virgin’s giving birth without travail has clearly become for us the greatest of gifts, for God makes new again our nature that was corrupted and refashions what is human."
 
 ocVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.Aposticha1.melody = ""
 ocVE.Aposticha1.incipit = "When your Disciples were storm-tossed…"
-ocVE.Aposticha1.text = "When your Disciples were storm-tossed in the boat, O Christ, they shouted out, 'Teacher, save us, we are perishing!' And now we cry aloud, 'Saviour who love mankind, deliver us from our constraints, we beg.'"
+ocVE.Aposticha1.text = "When your Disciples were storm-tossed in the boat, O Christ, they shouted out, 'Teacher, save us, we are perishing!' And now we cry aloud, ’saviour who love mankind, deliver us from our constraints, we beg.'"
 
 ocVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.Aposticha2.melody = ""
@@ -58,7 +58,7 @@ ocVE.Aposticha3.text = "Your Cross, Lord, became for your Martyrs an invincible 
 ocVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.incipit = "Mother of God, you are…"
-ocVE.AposTheotokion.text = "Mother of God, you are the true vine who gave bud to the fruit of life. We implore you, 'Intercede, Sovereign Lady, with the Apostles and all the Saints, that he have mercy on our souls'."
+ocVE.AposTheotokion.text = "Mother of God, you are the true vine who gave bud to the fruit of life. We implore you, 'Intercede, Sovereign Lady, with the Apostles and all the Saints, that he have mercy on our souls’."
 
 ocVE.ApolTheotokionVM.mode = miscellanea_en_UK_lash.misc.Mode6
 ocVE.ApolTheotokionVM.melody = he.a.m6_en_UK_lash.heAU.ElpisTouKosmouAgathi.notmetered

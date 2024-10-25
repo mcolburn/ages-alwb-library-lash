@@ -37,7 +37,7 @@ meVE.Stichera03.text = "What may we now call you, who saw God? Most active minis
 meVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.Stichera04.melody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.notmetered
 meVE.Stichera04.incipit = "What may we now call…"
-meVE.Stichera04.text = "What may we now call you, glorious Saint? Safe treasury of the gifts of heaven's grace. Skilled physician of both souls and bodies. Paul's co-worker and companion of his journeys, who set down the Acts of the Apostles. Virtue, Luke, has made for you many names. Intercede that our souls may be saved."
+meVE.Stichera04.text = "What may we now call you, glorious Saint? Safe treasury of the gifts of heaven’s grace. Skilled physician of both souls and bodies. Paul’s co-worker and companion of his journeys, who set down the Acts of the Apostles. Virtue, Luke, has made for you many names. Intercede that our souls may be saved."
 
 meVE.MM.Stichera78910.text = "" // for media
 
@@ -49,7 +49,7 @@ meVE.Stichera05.text = "What titles may I address you by, Inspired of God? Disci
 meVE.Stichera06.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.Stichera06.melody = he.a.m8_en_UK_lash.heAU.TiYmasKalesomen.notmetered
 meVE.Stichera06.incipit = "How may I now address…"
-meVE.Stichera06.text = "How may I now address you, wondrous Saint? Unerring contemplator of wisdom's teachings. Active writer of the teaching of the Apostles and unshakeable pillar of true religion, or indestructible tower of the Church. Many are you achievements and greater your graces. Intercede that our souls may be saved."
+meVE.Stichera06.text = "How may I now address you, wondrous Saint? Unerring contemplator of wisdom’s teachings. Active writer of the teaching of the Apostles and unshakeable pillar of true religion, or indestructible tower of the Church. Many are you achievements and greater your graces. Intercede that our souls may be saved."
 
 meVE.SticGlory.poet = poets_en_UK_lash.po.Anatoliou
 meVE.SticGlory.mode = miscellanea_en_UK_lash.misc.Mode6
@@ -67,7 +67,7 @@ meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
 meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
 meVE.Aposticha1.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
 meVE.Aposticha1.incipit = "Grace was poured out on…"
-meVE.Aposticha1.text = "Grace was poured out on your lips in a fiery tongue, Apostle Luke, and you were revealed as a tongue of fire as you sent forth words of light by your preaching for those worthy of light, but bolts of shame for those who longed for the darkness, as you wrote and taught the honoured Gospel; and you appeared as a fragrance of life for those who truly wished for life, as Paul said, whom you had as teacher; but again as the odour of death for those who did not love life. But grant us peace and life and light and God's great mercy."
+meVE.Aposticha1.text = "Grace was poured out on your lips in a fiery tongue, Apostle Luke, and you were revealed as a tongue of fire as you sent forth words of light by your preaching for those worthy of light, but bolts of shame for those who longed for the darkness, as you wrote and taught the honoured Gospel; and you appeared as a fragrance of life for those who truly wished for life, as Paul said, whom you had as teacher; but again as the odour of death for those who did not love life. But grant us peace and life and light and God’s great mercy."
 
 meVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode5
 meVE.Aposticha2.melody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.notmetered
@@ -83,7 +83,7 @@ meVE.Aposticha4.poet = poets_en_UK_lash.po.Vasileiou
 meVE.Aposticha4.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Aposticha4.melody = ""
 meVE.Aposticha4.incipit = "As you searched the depth…"
-meVE.Aposticha4.text = "As you searched the depth of the spiritual sea with the fishing rod of Wisdom, all-blessed Luke, you caught from the death-bearing deep the souls of the faithful. Therefore, having become Paul's disciple, you cleansed your whole heart by the radiance of the Spirit; and having enlightened the nations by your doctrines and healed by your wonders all the diseases of the passions, you ever implore Christ God for us that our souls may be saved."
+meVE.Aposticha4.text = "As you searched the depth of the spiritual sea with the fishing rod of Wisdom, all-blessed Luke, you caught from the death-bearing deep the souls of the faithful. Therefore, having become Paul’s disciple, you cleansed your whole heart by the radiance of the Spirit; and having enlightened the nations by your doctrines and healed by your wonders all the diseases of the passions, you ever implore Christ God for us that our souls may be saved."
 
 meVE.AposGlory.mode = miscellanea_en_UK_lash.misc.Mode6
 meVE.AposGlory.melody = ""
@@ -127,8 +127,8 @@ meMA.Ode1C12.text = "By leading you into the mysteries of heaven and opening to 
 meMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C13.melody = he.h.m8_en_UK_lash.heHE.IKekommeni.name
-meMA.Ode1C13.incipit = "Christ's Church ordained you, all-blessed…"
-meMA.Ode1C13.text = "Christ's Church ordained you, all-blessed Luke, to be the companion of Paul's journeys, as you shone out directly with his grace and followed in his footsteps, and cried with him, ''Let us sing to the Lord; for he has been greatly glorified.'"
+meMA.Ode1C13.incipit = "Christ’s Church ordained you, all-blessed…"
+meMA.Ode1C13.text = "Christ’s Church ordained you, all-blessed Luke, to be the companion of Paul’s journeys, as you shone out directly with his grace and followed in his footsteps, and cried with him, ''Let us sing to the Lord; for he has been greatly glorified.'"
 
 meMA.Ode1C1T.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C1T.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -172,7 +172,7 @@ meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
 meMA.Ode3Kathisma1.incipit = "Revealed as the companion of…"
-meMA.Ode3Kathisma1.text = "Revealed as the companion of Paul's journeys, you bravely endured dangers of many kinds, all-praised Apostle of the Lord; and having completed the course of the faith by contest, blessed Saint, you rejoice with him in the highest. Therefore, having proclaimed to the world the Gospel of Christ, you enlightened the whole earth under heaven. All-honoured Luke, intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
+meMA.Ode3Kathisma1.text = "Revealed as the companion of Paul’s journeys, you bravely endured dangers of many kinds, all-praised Apostle of the Lord; and having completed the course of the faith by contest, blessed Saint, you rejoice with him in the highest. Therefore, having proclaimed to the world the Gospel of Christ, you enlightened the whole earth under heaven. All-honoured Luke, intercede with Christ God to grant forgiveness of faults to those who celebrate with love your holy memory."
 
 meMA.Ode3KathismaT.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3KathismaT.melody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.notmetered
@@ -392,7 +392,7 @@ meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Lauds1.greekmelody = he.a.m1_en_UK_lash.heAU.NefelinSeFotos.greekname
 meMA.Lauds1.melody = he.a.m1_en_UK_lash.heAU.NefelinSeFotos.notmetered
 meMA.Lauds1.incipit = "Believers, in hymns let us…"
-meMA.Lauds1.text = "Believers, in hymns let us honour Christ's Disciple, wise writer of the Gospel, fair living imprint of the vessel of election, whose praise is in all the Churches, Luke the Apostle. For he proclaimed the marvellous wonders of God, enlightening those on earth with beams of theology through grace."
+meMA.Lauds1.text = "Believers, in hymns let us honour Christ’s Disciple, wise writer of the Gospel, fair living imprint of the vessel of election, whose praise is in all the Churches, Luke the Apostle. For he proclaimed the marvellous wonders of God, enlightening those on earth with beams of theology through grace."
 
 meMA.Lauds2.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Lauds2.melody = he.a.m1_en_UK_lash.heAU.NefelinSeFotos.notmetered

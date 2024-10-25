@@ -46,7 +46,7 @@ ocBK.ModeNaked = miscellanea_en_UK_lash.misc.Mode3.naked
 ocVE.Stichera1.mode = miscellanea_en_UK_lash.misc.Mode3
 ocVE.Stichera1.melody = ""
 ocVE.Stichera1.incipit = "By your Cross, Christ Saviour…"
-ocVE.Stichera1.text = "By your Cross, Christ Saviour, death's might has been abolished, the devil's deception destroyed, while the human race, saved by faith, each evening offers you its hymn."
+ocVE.Stichera1.text = "By your Cross, Christ Saviour, death’s might has been abolished, the devil’s deception destroyed, while the human race, saved by faith, each evening offers you its hymn."
 
 ocVE.Stichera2.mode = miscellanea_en_UK_lash.misc.Mode3
 ocVE.Stichera2.melody = ""
@@ -91,7 +91,7 @@ ocVE.Aposticha1.text = "By your passion, O Christ, you darkened the sun, and by 
 ocVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode3
 ocVE.Aposticha2.melody = ""
 ocVE.Aposticha2.incipit = "Gracious Lord, your Rising that…"
-ocVE.Aposticha2.text = "Gracious Lord, your Rising that received life has enlightened the world, and recalled your own fashioning which had become corrupt. And so, delivered from Adam's curse, we cry, 'All-powerful Lord, glory to you!'"
+ocVE.Aposticha2.text = "Gracious Lord, your Rising that received life has enlightened the world, and recalled your own fashioning which had become corrupt. And so, delivered from Adam’s curse, we cry, 'All-powerful Lord, glory to you!'"
 
 ocVE.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode3
 ocVE.Aposticha3.melody = ""
@@ -105,8 +105,8 @@ ocVE.Aposticha4.text = "In order to ransom our race from death, O Christ, you un
 
 ocVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode3
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.incipit = "By the Father's will, without…"
-ocVE.AposTheotokion.text = "By the Father's will, without seed you conceived from the divine Spirit the Son of God, who from before the ages is from the Father without mother. But you gave birth in the flesh and suckled as a babe him who for our sake had come from you without father. Therefore do not cease to intercede that our souls may be delivered from dangers."
+ocVE.AposTheotokion.incipit = "By the Father’s will, without…"
+ocVE.AposTheotokion.text = "By the Father’s will, without seed you conceived from the divine Spirit the Son of God, who from before the ages is from the Father without mother. But you gave birth in the flesh and suckled as a babe him who for our sake had come from you without father. Therefore do not cease to intercede that our souls may be delivered from dangers."
 
 ocVE.Apolytikion.mode = miscellanea_en_UK_lash.misc.Mode3
 ocVE.Apolytikion.melody = ""
@@ -337,7 +337,7 @@ ocMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.Kathisma21.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
 ocMA.Kathisma21.melody = he.a.m3_en_UK_lash.heAU.TinOraiotita.notmetered
 ocMA.Kathisma21.incipit = "Awed by your unchanging Godhead…"
-ocMA.Kathisma21.text = "Awed by your unchanging Godhead and your voluntary passion, Lord, Hell mourned, 'I tremble at your body's substance, which is not corrupted. I see you, the invisible, mystically making war on me; and so those whom I hold cry out, Glory, O Christ, to your Resurrection!'"
+ocMA.Kathisma21.text = "Awed by your unchanging Godhead and your voluntary passion, Lord, Hell mourned, 'I tremble at your body’s substance, which is not corrupted. I see you, the invisible, mystically making war on me; and so those whom I hold cry out, Glory, O Christ, to your Resurrection!'"
 
 ocMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.Kathisma22.greekmelody = he.a.m3_en_UK_lash.heAU.TinOraiotita.greekname
@@ -505,8 +505,8 @@ ocMA.OdeS3C31.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeS3C31.ode = miscellanea_en_UK_lash.misc.Ode3
 ocMA.OdeS3C31.greekmelody = he.h.m3_en_UK_lash.heHE.ToxonEthrafsasEchthron.greekname
 ocMA.OdeS3C31.melody = he.h.m3_en_UK_lash.heHE.ToxonEthrafsasEchthron.name
-ocMA.OdeS3C31.incipit = "A rod from Jesse's root…"
-ocMA.OdeS3C31.text = "A rod from Jesse's root has budded, as the Prophet said, the Virgin who blossomed with a flower for us: you, O Christ. Holy are you, O Lord."
+ocMA.OdeS3C31.incipit = "A rod from Jesse’s root…"
+ocMA.OdeS3C31.text = "A rod from Jesse’s root has budded, as the Prophet said, the Virgin who blossomed with a flower for us: you, O Christ. Holy are you, O Lord."
 
 ocMA.OdeS3C32.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeS3C32.ode = miscellanea_en_UK_lash.misc.Ode3
@@ -550,7 +550,7 @@ ocMA.OdeS4C22.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeS4C22.ode = miscellanea_en_UK_lash.misc.Ode4
 ocMA.OdeS4C22.melody = he.h.m3_en_UK_lash.heHE.ToXenonKaiAporriton.name
 ocMA.OdeS4C22.incipit = "Death gave up the dead…"
-ocMA.OdeS4C22.text = "Death gave up the dead whom it had swallowed, while Hell's palace, which brings corruption, was destroyed when you rose from the tomb, O Lord."
+ocMA.OdeS4C22.text = "Death gave up the dead whom it had swallowed, while Hell’s palace, which brings corruption, was destroyed when you rose from the tomb, O Lord."
 
 ocMA.OdeS4C31.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeS4C31.ode = miscellanea_en_UK_lash.misc.Ode4
@@ -657,8 +657,8 @@ ocMA.OdeS6C21.text = "Tried by stripes, by the Passion of the Cross you raised w
 ocMA.OdeS6C22.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeS6C22.ode = miscellanea_en_UK_lash.misc.Ode6
 ocMA.OdeS6C22.melody = he.h.m3_en_UK_lash.heHE.SkinoseosIonas.name
-ocMA.OdeS6C22.incipit = "Hell's gates open to you…"
-ocMA.OdeS6C22.text = "Hell's gates open to you in fear, O Christ, the enemy's possessions are seized. Therefore the Women met you and received joy instead of sorrow."
+ocMA.OdeS6C22.incipit = "Hell’s gates open to you…"
+ocMA.OdeS6C22.text = "Hell’s gates open to you in fear, O Christ, the enemy’s possessions are seized. Therefore the Women met you and received joy instead of sorrow."
 
 ocMA.OdeS6C31.mode = miscellanea_en_UK_lash.misc.Mode3
 ocMA.OdeS6C31.ode = miscellanea_en_UK_lash.misc.Ode6

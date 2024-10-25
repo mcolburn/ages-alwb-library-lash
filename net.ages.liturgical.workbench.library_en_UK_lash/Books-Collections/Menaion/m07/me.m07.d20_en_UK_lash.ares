@@ -114,8 +114,8 @@ meVE.AposTheotokion.text = he.o_en_UK_lash.heOT.TheotokeSyEiProfitou.text
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Apolytikion1.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
-meVE.Apolytikion1.incipit = "The angel embodied, the Prophets'…"
-meVE.Apolytikion1.text = "The angel embodied, the Prophets' foundation, the second forerunner of the coming of Christ, Elias the glorious, by sending down grace from on high to Elissaios drives out diseases, cleanses lepers; and so he overflows with healings for those who honour him."
+meVE.Apolytikion1.incipit = "The angel embodied, the Prophets’…"
+meVE.Apolytikion1.text = "The angel embodied, the Prophets’ foundation, the second forerunner of the coming of Christ, Elias the glorious, by sending down grace from on high to Elissaios drives out diseases, cleanses lepers; and so he overflows with healings for those who honour him."
 
 meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
@@ -150,7 +150,7 @@ meMA.C1.verse = prayers_en_UK_lash.pr.verse_Prophet.text
 
 meMA.C2.acrostic.title = "Second Canon."
 meMA.C2.acrostic.notice1 = "whose acrostic is:"
-meMA.C2.acrostic.text = "Give to me God's grace, blessed Elias. Joseph."
+meMA.C2.acrostic.text = "Give to me God’s grace, blessed Elias. Joseph."
 meMA.C2.title = titles_en_UK_lash.ti.Canon2Prophet
 meMA.C2.verse = prayers_en_UK_lash.pr.verse_Prophet.text
 
@@ -183,8 +183,8 @@ meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C21.greekmelody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.greekname
 meMA.Ode1C21.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
-meMA.Ode1C21.incipit = "As to the widow's son…"
-meMA.Ode1C21.text = "As to the widow's son, give life to my soul, which has become a corpse, and make it bright with godly virtues, blessed Saint, guide it towards life and make it a partaker of everlasting delight, longing to take delight in you."
+meMA.Ode1C21.incipit = "As to the widow’s son…"
+meMA.Ode1C21.text = "As to the widow’s son, give life to my soul, which has become a corpse, and make it bright with godly virtues, blessed Saint, guide it towards life and make it a partaker of everlasting delight, longing to take delight in you."
 
 meMA.Ode1C22.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C22.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -196,7 +196,7 @@ meMA.Ode1C23.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C23.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode1C23.melody = he.h.m8_en_UK_lash.heHE.ArmatilatinFarao.name
 meMA.Ode1C23.incipit = "Made great by your inclinations…"
-meMA.Ode1C23.text = "Made great by your inclinations towards God, O blessed one, you were truly always greatly zealous for the Lord. Therefore empower me, once I am filled with divine zeal, to do God's will so that saved I may honour you."
+meMA.Ode1C23.text = "Made great by your inclinations towards God, O blessed one, you were truly always greatly zealous for the Lord. Therefore empower me, once I am filled with divine zeal, to do God’s will so that saved I may honour you."
 
 meMA.Ode1C2T.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C2T.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -252,7 +252,7 @@ meMA.Ode3C2T.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C2T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3C2T.melody = he.h.m8_en_UK_lash.heHE.OuraniasApsidos.name
 meMA.Ode3C2T.incipit = "Gate through which none may…"
-meMA.Ode3C2T.text = "Gate through which none may pass that leads to God, open to me I beg, O Maiden, gates of repentance, cleansing me from the stain of sins with showers of your mercy, O full of God's grace."
+meMA.Ode3C2T.text = "Gate through which none may pass that leads to God, open to me I beg, O Maiden, gates of repentance, cleansing me from the stain of sins with showers of your mercy, O full of God’s grace."
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_UK_lash.heAU.TinSofianKaiLogon.greekname
@@ -295,7 +295,7 @@ meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 meMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 meMA.Ode4C21.incipit = "God turned all your fiery…"
-meMA.Ode4C21.text = "God turned all your fiery zeal and sent you to nourish a widow, inspired Elias, who by a woman's threat had of old become a fugitive. And so I implore you to nourish my hungry soul with divine gifts of grace."
+meMA.Ode4C21.text = "God turned all your fiery zeal and sent you to nourish a widow, inspired Elias, who by a woman’s threat had of old become a fugitive. And so I implore you to nourish my hungry soul with divine gifts of grace."
 
 meMA.Ode4C22.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -439,7 +439,7 @@ meMA.Ode7C13.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C13.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.Ode7C13.melody = he.h.m2_en_UK_lash.heHE.VatosEnOrei.name
 meMA.Ode7C13.incipit = "Like the great Moses you…"
-meMA.Ode7C13.text = "Like the great Moses you were found worthy of the manifestation of God and of prophecy, inspired Elias, anointing prophets and kings; and as you contemplated Christ's glory on Thabor you cried out: Blessed is the God of our Fathers."
+meMA.Ode7C13.text = "Like the great Moses you were found worthy of the manifestation of God and of prophecy, inspired Elias, anointing prophets and kings; and as you contemplated Christ’s glory on Thabor you cried out: Blessed is the God of our Fathers."
 
 meMA.Ode7C1T.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C1T.mode = miscellanea_en_UK_lash.misc.Mode2
@@ -463,14 +463,14 @@ meMA.Ode7C22.text = "On mount Thabor you were counted worthy to see the face of 
 meMA.Ode7C23.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C23.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode7C23.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
-meMA.Ode7C23.incipit = "As I journey on life's…"
-meMA.Ode7C23.text = "As I journey on life's road I take up many false paths. Elias, my loving protector, with your protection pilot me, who am shaken by my own inclination and assent to pleasures."
+meMA.Ode7C23.incipit = "As I journey on life’s…"
+meMA.Ode7C23.text = "As I journey on life’s road I take up many false paths. Elias, my loving protector, with your protection pilot me, who am shaken by my own inclination and assent to pleasures."
 
 meMA.Ode7C2T.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C2T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode7C2T.melody = he.h.m8_en_UK_lash.heHE.TheouSynkatavasin.name
 meMA.Ode7C2T.incipit = "O All-praised, I hymn you…"
-meMA.Ode7C2T.text = "O All-praised, I hymn you and I magnify your pure child-bearing, O full of God's grace. Help me who am storm-tossed by the waves of life and give to my humble soul compunction that cleanses from stains."
+meMA.Ode7C2T.text = "O All-praised, I hymn you and I magnify your pure child-bearing, O full of God’s grace. Help me who am storm-tossed by the waves of life and give to my humble soul compunction that cleanses from stains."
 
 meMA.Ode8C11.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C11.mode = miscellanea_en_UK_lash.misc.Mode2
@@ -483,7 +483,7 @@ meMA.Ode8C12.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C12.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.Ode8C12.melody = he.h.m2_en_UK_lash.heHE.EfrixePaidonEvagon.name
 meMA.Ode8C12.incipit = "Fire rained from heaven for…"
-meMA.Ode8C12.text = "Fire rained from heaven for you, Elias, as God's good servant, consuming twice fifty who attacked you; for to the One who is Lord of ever-living life you cried out in a manner fitting God the hymn: Praise the Lord, you his works, and highly exalt him to all the ages."
+meMA.Ode8C12.text = "Fire rained from heaven for you, Elias, as God’s good servant, consuming twice fifty who attacked you; for to the One who is Lord of ever-living life you cried out in a manner fitting God the hymn: Praise the Lord, you his works, and highly exalt him to all the ages."
 
 meMA.Ode8C1T.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_UK_lash.misc.Mode2
@@ -576,7 +576,7 @@ meMA.Ode9C2T.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C2T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode9C2T.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 meMA.Ode9C2T.incipit = "As you are loving, do…"
-meMA.Ode9C2T.text = "As you are loving, do not despise the voices of your servants, all-blameless Lady; but insistently beg the Master of all things, O Virgin, to grant trophies of victory to our Sovereign, health of soul and a share in and the splendour of God's kingdom."
+meMA.Ode9C2T.text = "As you are loving, do not despise the voices of your servants, all-blameless Lady; but insistently beg the Master of all things, O Virgin, to grant trophies of victory to our Sovereign, health of soul and a share in and the splendour of God’s kingdom."
 
 meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
 meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.FosAnalloioton.greekname

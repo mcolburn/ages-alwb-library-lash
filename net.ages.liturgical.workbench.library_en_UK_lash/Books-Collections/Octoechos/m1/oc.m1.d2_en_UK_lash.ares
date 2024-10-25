@@ -11,7 +11,7 @@ ocVE.Stichera1.text = "Through goodness you brought all things into being, Lord,
 ocVE.Stichera2.mode = miscellanea_en_UK_lash.misc.Mode1
 ocVE.Stichera2.melody = he.a.m1_en_UK_lash.heAU.PaneffimoiMartyres.notmetered
 ocVE.Stichera2.incipit = "Learn, my wretched soul, of…"
-ocVE.Stichera2.text = "Learn, my wretched soul, of God's kindness and the incorruptible fatherland, and ever hasten to obtain it by good works. Fix to yourself nothing of things which perish; your destiny is on high, while the body is earth and decays; may what is worse not defeat the better."
+ocVE.Stichera2.text = "Learn, my wretched soul, of God’s kindness and the incorruptible fatherland, and ever hasten to obtain it by good works. Fix to yourself nothing of things which perish; your destiny is on high, while the body is earth and decays; may what is worse not defeat the better."
 
 ocVE.Stichera3.mode = miscellanea_en_UK_lash.misc.Mode1
 ocVE.Stichera3.melody = he.a.m1_en_UK_lash.heAU.PaneffimoiMartyres.notmetered
@@ -48,7 +48,7 @@ ocVE.Aposticha1.text = "Because I have sunk in the deep ocean of my transgressio
 ocVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode1
 ocVE.Aposticha2.melody = ""
 ocVE.Aposticha2.incipit = "Because I have been condemned…"
-ocVE.Aposticha2.text = "Because I have been condemned, O Saviour, by my evil thoughts and deeds, grant me the idea of turning back, O God, that I may cry, 'Save me, good Benefactor, and have mercy on me'."
+ocVE.Aposticha2.text = "Because I have been condemned, O Saviour, by my evil thoughts and deeds, grant me the idea of turning back, O God, that I may cry, ’save me, good Benefactor, and have mercy on me'."
 
 ocVE.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode1
 ocVE.Aposticha3.melody = ""
@@ -172,7 +172,7 @@ ocMA.OdeW1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 ocMA.OdeW1C21.greekmelody = he.h.m1_en_UK_lash.heHE.SouITropaiouchos.greekname
 ocMA.OdeW1C21.melody = he.h.m1_en_UK_lash.heHE.SouITropaiouchos.name
 ocMA.OdeW1C21.incipit = "As you stand in splendour…"
-ocMA.OdeW1C21.text = "As you stand in splendour by the Master's throne, all-holy Angels, implore the One who with his Father is without beginning and the Angel of his great counsel to inspire my word as I sing your praise."
+ocMA.OdeW1C21.text = "As you stand in splendour by the Master’s throne, all-holy Angels, implore the One who with his Father is without beginning and the Angel of his great counsel to inspire my word as I sing your praise."
 
 ocMA.OdeW1C22.mode = miscellanea_en_UK_lash.misc.Mode1
 ocMA.OdeW1C22.ode = miscellanea_en_UK_lash.misc.Ode1
@@ -234,13 +234,13 @@ ocMA.OdeW3C22.mode = miscellanea_en_UK_lash.misc.Mode1
 ocMA.OdeW3C22.ode = miscellanea_en_UK_lash.misc.Ode3
 ocMA.OdeW3C22.melody = he.h.m1_en_UK_lash.heHE.OMonosEidos.name
 ocMA.OdeW3C22.incipit = "Aiming to hymn with zeal…"
-ocMA.OdeW3C22.text = "Aiming to hymn with zeal the Angels' radiance, let us believers, with purity of mind and unpolluted mouths, through them ask for help from God, and may we attain their brilliance."
+ocMA.OdeW3C22.text = "Aiming to hymn with zeal the Angels’ radiance, let us believers, with purity of mind and unpolluted mouths, through them ask for help from God, and may we attain their brilliance."
 
 ocMA.OdeW3C2T.mode = miscellanea_en_UK_lash.misc.Mode1
 ocMA.OdeW3C2T.ode = miscellanea_en_UK_lash.misc.Ode3
 ocMA.OdeW3C2T.melody = he.h.m1_en_UK_lash.heHE.OMonosEidos.name
 ocMA.OdeW3C2T.incipit = "Found worthy as is right…"
-ocMA.OdeW3C2T.text = "Found worthy as is right to see the Mind beyond all being, Gabriel brought to you, Virgin all-blameless, a message full of the joy, openly declaring to you the Word's conception, and proclaiming your ineffable giving birth."
+ocMA.OdeW3C2T.text = "Found worthy as is right to see the Mind beyond all being, Gabriel brought to you, Virgin all-blameless, a message full of the joy, openly declaring to you the Word’s conception, and proclaiming your ineffable giving birth."
 
 ocMA.OdeW4C1H.mode = miscellanea_en_UK_lash.misc.Mode1
 ocMA.OdeW4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
@@ -615,7 +615,7 @@ ocMA.Aposticha2.text = "Do not reject me, held fast by sloth, my Saviour. Rouse 
 ocMA.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode1
 ocMA.Aposticha3.melody = ""
 ocMA.Aposticha3.incipit = "Come, all you peoples, and…"
-ocMA.Aposticha3.text = "Come, all you peoples, and let us honour with hymns and spirituals songs Christ's Champions, the beacons of the world and heralds of the Faith, the ever-flowing source from which healings spring up for the faithful. At their intercessions, Christ our God, grant peace to your world and to our souls your great mercy."
+ocMA.Aposticha3.text = "Come, all you peoples, and let us honour with hymns and spirituals songs Christ’s Champions, the beacons of the world and heralds of the Faith, the ever-flowing source from which healings spring up for the faithful. At their intercessions, Christ our God, grant peace to your world and to our souls your great mercy."
 
 ocMA.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode1
 ocMA.AposTheotokion.greekmelody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.greekname

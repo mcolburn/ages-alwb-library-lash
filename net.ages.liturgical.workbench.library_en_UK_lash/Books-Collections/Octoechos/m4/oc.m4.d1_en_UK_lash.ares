@@ -61,7 +61,7 @@ ocVE.Stichera3.text = "You smashed the gates of Hell, Lord, and by your death yo
 ocVE.Stichera4.mode = miscellanea_en_UK_lash.misc.Mode4
 ocVE.Stichera4.melody = ""
 ocVE.Stichera4.incipit = "Come you peoples, let us…"
-ocVE.Stichera4.text = "Come you peoples, let us hymn the Saviour's Rising on the third day, through which we were redeemed from unbreakable bonds of Hell and all received incorruption and life, as we cry: You, who were crucified and buried and rose again, save us by your Resurrection, only lover of mankind."
+ocVE.Stichera4.text = "Come you peoples, let us hymn the Saviour’s Rising on the third day, through which we were redeemed from unbreakable bonds of Hell and all received incorruption and life, as we cry: You, who were crucified and buried and rose again, save us by your Resurrection, only lover of mankind."
 
 ocVE.Stichera5.mode = miscellanea_en_UK_lash.misc.Mode4
 ocVE.Stichera5.melody = ""
@@ -408,12 +408,12 @@ ocMA.Antiphon31.text = "Let my heart be raised to you, O Lord; and let none of t
 ocMA.Antiphon32.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Antiphon32.melody = ""
 ocMA.Antiphon32.incipit = "As one has tender love…"
-ocMA.Antiphon32.text = "As one has tender love for one's mother; so we should have even more fervent love for the Lord."
+ocMA.Antiphon32.text = "As one has tender love for one’s mother; so we should have even more fervent love for the Lord."
 
 ocMA.Antiphon33.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.incipit = "By the Holy Spirit comes…"
-ocMA.Antiphon33.text = "By the Holy Spirit comes wealth of divine knowledge, contemplation and wisdom; for by him the Word unveils all the Father's teachings."
+ocMA.Antiphon33.text = "By the Holy Spirit comes wealth of divine knowledge, contemplation and wisdom; for by him the Word unveils all the Father’s teachings."
 
 ocMA.MM.Prokeimenon.text = properties_en_UK_lash.media.key
 
@@ -450,7 +450,7 @@ ocMA.OdeS1C1T.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS1C1T.ode = miscellanea_en_UK_lash.misc.Ode1
 ocMA.OdeS1C1T.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 ocMA.OdeS1C1T.incipit = "Without seed you conceived the…"
-ocMA.OdeS1C1T.text = "Without seed you conceived the Son of God by the Father's will from the divine Spirit, and you bore in the flesh the One who from his Father is without mother and for our sake from you without father."
+ocMA.OdeS1C1T.text = "Without seed you conceived the Son of God by the Father’s will from the divine Spirit, and you bore in the flesh the One who from his Father is without mother and for our sake from you without father."
 
 ocMA.OdeS1C2H.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS1C2H.ode = miscellanea_en_UK_lash.misc.Ode1
@@ -551,7 +551,7 @@ ocMA.OdeS3C32.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS3C32.ode = miscellanea_en_UK_lash.misc.Ode3
 ocMA.OdeS3C32.melody = he.h.m4_en_UK_lash.heHE.AfYpsousKatilthes.name
 ocMA.OdeS3C32.incipit = "Who is this who is…"
-ocMA.OdeS3C32.text = "Who is this who is truly God's neighbour, for she is higher than all the ranks of Angels? She who alone in the beauty of virginity shines as the Mother of the Almighty."
+ocMA.OdeS3C32.text = "Who is this who is truly God’s neighbour, for she is higher than all the ranks of Angels? She who alone in the beauty of virginity shines as the Mother of the Almighty."
 
 ocMA.OdeS4C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS4C1H.ode = miscellanea_en_UK_lash.misc.Ode4
@@ -689,7 +689,7 @@ ocMA.OdeS5C33.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS5C33.ode = miscellanea_en_UK_lash.misc.Ode5
 ocMA.OdeS5C33.melody = he.h.m4_en_UK_lash.heHE.NynAnastisomai.name
 ocMA.OdeS5C33.incipit = "A virgin womb has shamed…"
-ocMA.OdeS5C33.text = "A virgin womb has shamed the tyrant's plot; for a babe has searched out with his hand the soul-destroying hole of asps, overthrown the boastful rebel and subjected him under the feet of the faithful."
+ocMA.OdeS5C33.text = "A virgin womb has shamed the tyrant’s plot; for a babe has searched out with his hand the soul-destroying hole of asps, overthrown the boastful rebel and subjected him under the feet of the faithful."
 
 ocMA.OdeS6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
@@ -886,8 +886,8 @@ ocMA.OdeS8C31.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS8C31.ode = miscellanea_en_UK_lash.misc.Ode8
 ocMA.OdeS8C31.greekmelody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.greekname
 ocMA.OdeS8C31.melody = he.h.m4_en_UK_lash.heHE.LytrotaTouPantos.name
-ocMA.OdeS8C31.incipit = "Having fashioned you from Adam's…"
-ocMA.OdeS8C31.text = "Having fashioned you from Adam's side, he was incarnate from your virginity, the Lord of all, whom we praise as we cry out: All you his works, bless the Lord."
+ocMA.OdeS8C31.incipit = "Having fashioned you from Adam’s…"
+ocMA.OdeS8C31.text = "Having fashioned you from Adam’s side, he was incarnate from your virginity, the Lord of all, whom we praise as we cry out: All you his works, bless the Lord."
 
 ocMA.OdeS8C32.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeS8C32.ode = miscellanea_en_UK_lash.misc.Ode8
@@ -993,7 +993,7 @@ ocMA.Lauds3.text = "With your Cross, Christ Saviour, guide us to your truth, and
 ocMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Lauds4.melody = ""
 ocMA.Lauds4.incipit = "Only-begotten Word of God, without…"
-ocMA.Lauds4.text = "Only-begotten Word of God, without being parted from the Father's bosom, you came on earth through love for mankind, becoming man without change, and though impassible in your Godhead, you endured Cross and death in the flesh; but risen from the dead you granted the human race immortality, as you alone are all-powerful."
+ocMA.Lauds4.text = "Only-begotten Word of God, without being parted from the Father’s bosom, you came on earth through love for mankind, becoming man without change, and though impassible in your Godhead, you endured Cross and death in the flesh; but risen from the dead you granted the human race immortality, as you alone are all-powerful."
 
 ocMA.Lauds5.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Lauds5.melody = ""
@@ -1013,7 +1013,7 @@ ocMA.Lauds7.text = "Women longed to see your Resurrection, Christ God; Mary Magd
 ocMA.Lauds8.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Lauds8.melody = ""
 ocMA.Lauds8.incipit = "Where is Jesus, whom you…"
-ocMA.Lauds8.text = "Where is Jesus, whom you thought to guard? say, O Jews. Where is he whom you placed in the grave, then sealed the stone? Give back the dead, you who denied life; give back the buried or believe in the Risen One. Though you keep silent about the Lord's Rising, the stones will cry out, above all the one that was rolled away from the grave. Great is your mercy! Great the mystery of your dispensation! Our Saviour, glory to you!"
+ocMA.Lauds8.text = "Where is Jesus, whom you thought to guard? say, O Jews. Where is he whom you placed in the grave, then sealed the stone? Give back the dead, you who denied life; give back the buried or believe in the Risen One. Though you keep silent about the Lord’s Rising, the stones will cry out, above all the one that was rolled away from the grave. Great is your mercy! Great the mystery of your dispensation! Our Saviour, glory to you!"
 
 ocMA.ApolTheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.ApolTheotokion.melody = ""
@@ -1023,12 +1023,12 @@ ocMA.ApolTheotokion.text = ""
 ocLI.Beatitudes1.mode = miscellanea_en_UK_lash.misc.Mode4
 ocLI.Beatitudes1.melody = ""
 ocLI.Beatitudes1.incipit = "Through a tree Adam became…"
-ocLI.Beatitudes1.text = "Through a tree Adam became an exile from Paradise; but through the tree of the Cross the Thief made his home in Paradise, for the former through tasting set aside his Maker's commandment, while the latter, crucified with him, confessed the hidden God, as he cried, 'Remember me in your kingdom'."
+ocLI.Beatitudes1.text = "Through a tree Adam became an exile from Paradise; but through the tree of the Cross the Thief made his home in Paradise, for the former through tasting set aside his Maker’s commandment, while the latter, crucified with him, confessed the hidden God, as he cried, 'Remember me in your kingdom'."
 
 ocLI.Beatitudes2.mode = miscellanea_en_UK_lash.misc.Mode4
 ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.incipit = "You were lifted up on…"
-ocLI.Beatitudes2.text = "You were lifted up on the Cross, O Lord, and you abolished the power of death, and as God you expunged the record against us. O only lover of mankind, grant the Thief's repentance to us also, who serve you with faith, O Christ our God, and cry to you, 'Remember us also in your kingdom'."
+ocLI.Beatitudes2.text = "You were lifted up on the Cross, O Lord, and you abolished the power of death, and as God you expunged the record against us. O only lover of mankind, grant the Thief’s repentance to us also, who serve you with faith, O Christ our God, and cry to you, 'Remember us also in your kingdom'."
 
 ocLI.Beatitudes3.mode = miscellanea_en_UK_lash.misc.Mode4
 ocLI.Beatitudes3.melody = ""

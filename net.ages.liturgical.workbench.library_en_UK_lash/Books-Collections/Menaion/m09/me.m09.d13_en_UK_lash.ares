@@ -39,7 +39,7 @@ meVE.Stichera03.text = "O Christ, you have set up a tower of strength, your Chur
 meVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Stichera04.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meVE.Stichera04.incipit = "Christ assented to your good…"
-meVE.Stichera04.text = "Christ assented to your good deeds, admirable Cornelius, and to your godly entreaties and sent you a Holy Angel to lead you wholly to the light, and the Prince of the sacred Apostles to renew you, with all your household, by water and the Spirit and to initiate you into greater things by the Spirit's grace."
+meVE.Stichera04.text = "Christ assented to your good deeds, admirable Cornelius, and to your godly entreaties and sent you a Holy Angel to lead you wholly to the light, and the Prince of the sacred Apostles to renew you, with all your household, by water and the Spirit and to initiate you into greater things by the Spirit’s grace."
 
 meVE.Stichera05.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Stichera05.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
@@ -49,7 +49,7 @@ meVE.Stichera05.text = "Clothed in the anointing of the priesthood you hastened 
 meVE.Stichera06.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Stichera06.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meVE.Stichera06.incipit = "By following you ways of…"
-meVE.Stichera06.text = "By following you ways of goodness the foolish were declared wise; dying by nature's law, wise Cornelius, and dwelling in a blest tomb you render it a source of many wonders, healing the weary and driving out the spirits of evil by the Holy Spirit, O God-inspired."
+meVE.Stichera06.text = "By following you ways of goodness the foolish were declared wise; dying by nature’s law, wise Cornelius, and dwelling in a blest tomb you render it a source of many wonders, healing the weary and driving out the spirits of evil by the Holy Spirit, O God-inspired."
 
 meVE.SticGlory.poet = poets_en_UK_lash.po.IoannouMonachou
 meVE.SticGlory.mode = miscellanea_en_UK_lash.misc.Mode6
@@ -109,7 +109,7 @@ meMA.Kathisma21.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Kathisma21.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma21.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma21.incipit = "O faithful people, the festive…"
-meMA.Kathisma21.text = "O faithful people, the festive day of the Dedication has come to Christ's chosen flock, and urges us all to be made new and with shining face faithfully to sing from the depths of the heart songs to the Master as deliverer and him who makes us new."
+meMA.Kathisma21.text = "O faithful people, the festive day of the Dedication has come to Christ’s chosen flock, and urges us all to be made new and with shining face faithfully to sing from the depths of the heart songs to the Master as deliverer and him who makes us new."
 
 meMA.C1.acrostic.title = "Canon of the Forefeast,"
 meMA.C1.acrostic.notice1 = "whose Acrostic is the Alphabet, excluding the Theotokia."
@@ -182,7 +182,7 @@ meMA.Ode1C2T.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C2T.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode1C2T.melody = he.h.m4_en_UK_lash.heHE.ThalassisToErythraion.name
 meMA.Ode1C2T.incipit = oc.m4.d1_en_UK_lash.ocMA.OdeS1C1T.incipit
-meMA.Ode1C2T.text = oc.m4.d1_en_UK_lash.ocMA.OdeS1C1T.text //At the Father's will, from the divine Spirit, you conceived without seed the Son of God, and you bore in the flesh him who came from the Father without mother and for our sakes from you without father.
+meMA.Ode1C2T.text = oc.m4.d1_en_UK_lash.ocMA.OdeS1C1T.text //At the Father’s will, from the divine Spirit, you conceived without seed the Son of God, and you bore in the flesh him who came from the Father without mother and for our sakes from you without father.
 
 meMA.Ode1C31.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C31.mode = miscellanea_en_UK_lash.misc.Mode5
@@ -221,7 +221,7 @@ meMA.Ode3C11.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode3C11.greekmelody = he.h.m4_en_UK_lash.heHE.OukEnSofia.greekname
 meMA.Ode3C11.melody = he.h.m4_en_UK_lash.heHE.OukEnSofia.name
 meMA.Ode3C11.incipit = "O glorified Cross of the…"
-meMA.Ode3C11.text = "O glorified Cross of the Lord, who bear the title of Christ's glory, we glorify you in faith, glorified and enlightened by your holy embraces."
+meMA.Ode3C11.text = "O glorified Cross of the Lord, who bear the title of Christ’s glory, we glorify you in faith, glorified and enlightened by your holy embraces."
 
 meMA.Ode3C12.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C12.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -271,7 +271,7 @@ meMA.Ode3C31.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode3C31.greekmelody = he.h.m5_en_UK_lash.heHE.OPixasEpOudenos.greekname
 meMA.Ode3C31.melody = he.h.m5_en_UK_lash.heHE.OPixasEpOudenos.name
 meMA.Ode3C31.incipit = "You received the enlightenment of…"
-meMA.Ode3C31.text = "You received the enlightenment of the Holy Spirit and with your whole house wholly accepted God's grace from a godly mouth, when the godly Prince of the Apostles with care declared the saving teachings."
+meMA.Ode3C31.text = "You received the enlightenment of the Holy Spirit and with your whole house wholly accepted God’s grace from a godly mouth, when the godly Prince of the Apostles with care declared the saving teachings."
 
 meMA.Ode3C32.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C32.mode = miscellanea_en_UK_lash.misc.Mode5
@@ -325,8 +325,8 @@ meMA.Ode4C11.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode4C11.greekmelody = he.h.m4_en_UK_lash.heHE.DiAgapisinOiktirmon.greekname
 meMA.Ode4C11.melody = he.h.m4_en_UK_lash.heHE.DiAgapisinOiktirmon.name
-meMA.Ode4C11.incipit = "The Lord's Cross, appearing like…"
-meMA.Ode4C11.text = "The Lord's Cross, appearing like the sun, is worshipped by faithful men; as we greet it our souls are enlightened."
+meMA.Ode4C11.incipit = "The Lord’s Cross, appearing like…"
+meMA.Ode4C11.text = "The Lord’s Cross, appearing like the sun, is worshipped by faithful men; as we greet it our souls are enlightened."
 
 meMA.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -343,8 +343,8 @@ meMA.Ode4C13.text = "O Word of God, grant us pardon and forgiveness of offences,
 meMA.Ode4C1T.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C1T.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode4C1T.melody = he.h.m4_en_UK_lash.heHE.DiAgapisinOiktirmon.name
-meMA.Ode4C1T.incipit = "Without emptying his Father's bosom…"
-meMA.Ode4C1T.text = "Without emptying his Father's bosom the Word was laid as an infant in your bosom, O Maid, as he wished to refashion me, who am subject to corruption."
+meMA.Ode4C1T.incipit = "Without emptying his Father’s bosom…"
+meMA.Ode4C1T.text = "Without emptying his Father’s bosom the Word was laid as an infant in your bosom, O Maid, as he wished to refashion me, who am subject to corruption."
 
 meMA.Ode4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -394,7 +394,7 @@ meMA.Ode4C3T.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C3T.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode4C3T.melody = he.h.m5_en_UK_lash.heHE.TinTheianEnnoisas.name
 meMA.Ode4C3T.incipit = "Pure Virgin, above nature you…"
-meMA.Ode4C3T.text = "Pure Virgin, above nature you have become the pure dwelling of the Father's Wisdom; through whom we have now been delivered from the wickedness of the cunning one."
+meMA.Ode4C3T.text = "Pure Virgin, above nature you have become the pure dwelling of the Father’s Wisdom; through whom we have now been delivered from the wickedness of the cunning one."
 
 meMA.Ode5C1H.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1H.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -552,7 +552,7 @@ meMA.Ode6C33.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C33.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode6C33.melody = he.h.m5_en_UK_lash.heHE.MainomeninKlydoni.name
 meMA.Ode6C33.incipit = "Blest Martyr, of old darkened…"
-meMA.Ode6C33.text = "Blest Martyr, of old darkened by error, you rejected it by your entreaty, acknowledged the Lord and your whole household received God's cleansing."
+meMA.Ode6C33.text = "Blest Martyr, of old darkened by error, you rejected it by your entreaty, acknowledged the Lord and your whole household received God’s cleansing."
 
 meMA.Ode6C3T.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C3T.mode = miscellanea_en_UK_lash.misc.Mode5
@@ -636,7 +636,7 @@ meMA.Ode7C32.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C32.mode = miscellanea_en_UK_lash.misc.Mode5
 meMA.Ode7C32.melody = he.h.m5_en_UK_lash.heHE.OYperypsoumenos.name
 meMA.Ode7C32.incipit = "Mighty wonders you performed by…"
-meMA.Ode7C32.text = "Mighty wonders you performed by God's grace; you caught for the faith those who before thought wrongly and taught them to sing: O God, blessed are you."
+meMA.Ode7C32.text = "Mighty wonders you performed by God’s grace; you caught for the faith those who before thought wrongly and taught them to sing: O God, blessed are you."
 
 meMA.Ode7C33.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C33.mode = miscellanea_en_UK_lash.misc.Mode5
@@ -787,7 +787,7 @@ meMA.Ode9C21.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode9C21.greekmelody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.greekname
 meMA.Ode9C21.melody = he.h.m4_en_UK_lash.heHE.LithosAcheirotmitos.name
 meMA.Ode9C21.incipit = "Come and contemplating with pure…"
-meMA.Ode9C21.text = "Come and contemplating with pure heart and sober spiritual eyes the loveliness of the Church, the King's daughter, which shines brighter tan gold, let us magnify her."
+meMA.Ode9C21.text = "Come and contemplating with pure heart and sober spiritual eyes the loveliness of the Church, the King’s daughter, which shines brighter tan gold, let us magnify her."
 
 meMA.Ode9C22.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C22.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -853,7 +853,7 @@ meMA.Exaposteilarion2.text = "The Lord and God, willingly incarnate has worked s
 meMA.ExapTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.ExapTheotokion.melody = he.a.m2_en_UK_lash.heAU.ToisMathitaisSynelthomen.notmetered
 meMA.ExapTheotokion.incipit = "With gladness we cry 'Hail'…"
-meMA.ExapTheotokion.text = "With gladness we cry 'Hail' to you, O Virgin; hail Adam's redemption and Eve's; hail through whom mortal nature has been exalted to the glory beyond the world of your Son and God; hail through whom he is ever worshipped in heaven by Angels, O all-praised Mary, Mother of God."
+meMA.ExapTheotokion.text = "With gladness we cry 'Hail' to you, O Virgin; hail Adam’s redemption and Eve’s; hail through whom mortal nature has been exalted to the glory beyond the world of your Son and God; hail through whom he is ever worshipped in heaven by Angels, O all-praised Mary, Mother of God."
 
 meMA.Lauds1.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Lauds1.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname

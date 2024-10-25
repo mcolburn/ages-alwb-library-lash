@@ -29,12 +29,12 @@ meVE.Stichera01.text = he.a.m5_en_UK_lash.heAU.OsiePater.text
 meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode5
 meVE.Stichera02.melody = he.a.m5_en_UK_lash.heAU.OsiePater.notmetered
 meVE.Stichera02.incipit = "Venerable Father, God-bearer Theodosios, the…"
-meVE.Stichera02.text = "Venerable Father, God-bearer Theodosios, the grace of the All-holy Spirit, finding your pure soul, as it desired, dwelt in you as an immaculate light. By its action you became radiantly bright and you ceaselessly glorify Christ, the one Son in two natures, who was baptized by the hand of the Forerunner and witnessed to by the Father's voice. Entreat him, implore him, Venerable Father, that the inhabited world may be given harmony, peace and great mercy."
+meVE.Stichera02.text = "Venerable Father, God-bearer Theodosios, the grace of the All-holy Spirit, finding your pure soul, as it desired, dwelt in you as an immaculate light. By its action you became radiantly bright and you ceaselessly glorify Christ, the one Son in two natures, who was baptized by the hand of the Forerunner and witnessed to by the Father’s voice. Entreat him, implore him, Venerable Father, that the inhabited world may be given harmony, peace and great mercy."
 
 meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode5
 meVE.Stichera03.melody = he.a.m5_en_UK_lash.heAU.OsiePater.notmetered
 meVE.Stichera03.incipit = "Venerable Father, God-bearer Theodosios, rightly…"
-meVE.Stichera03.text = "Venerable Father, God-bearer Theodosios, rightly you were counted worthy of the blessed life, having found it by purity and ascetic practice; for while living you passed over to the life on high, bidding all things farewell, and with the Bodiless Powers ceaselessly glorifying Christ, who took flesh ineffably from a Virgin and sunk our sins by Baptism in Jordan's streams. Entreat him, implore him, Venerable Father, that the inhabited world may be given harmony, peace and great mercy."
+meVE.Stichera03.text = "Venerable Father, God-bearer Theodosios, rightly you were counted worthy of the blessed life, having found it by purity and ascetic practice; for while living you passed over to the life on high, bidding all things farewell, and with the Bodiless Powers ceaselessly glorifying Christ, who took flesh ineffably from a Virgin and sunk our sins by Baptism in Jordan’s streams. Entreat him, implore him, Venerable Father, that the inhabited world may be given harmony, peace and great mercy."
 
 meVE.Stichera8910.text = "" // for media
 
@@ -53,24 +53,24 @@ meVE.SticBoth.text = me.m01.d06_en_UK_lash.meVE.SticGlory.text
 meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Aposticha1.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
 meVE.Aposticha1.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
-meVE.Aposticha1.incipit = "'See how I wear your…"
-meVE.Aposticha1.text = "'See how I wear your image which I fashioned, humbling myself beyond understanding', said the Lord, 'What is strange then, my friend, if I bow low beneath your right hand, like one of your fellow servants, and stripped naked wrap myself in the waters? For I wish to clothe those who have been stripped naked with everlasting incorruption.'"
+meVE.Aposticha1.incipit = "’see how I wear your…"
+meVE.Aposticha1.text = "’see how I wear your image which I fashioned, humbling myself beyond understanding', said the Lord, 'What is strange then, my friend, if I bow low beneath your right hand, like one of your fellow servants, and stripped naked wrap myself in the waters? For I wish to clothe those who have been stripped naked with everlasting incorruption.'"
 
 meVE.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meVE.Aposticha2.incipit = "'You appeared in a body…"
-meVE.Aposticha2.text = "'You appeared in a body, but a womb received you and remained unconsumed by fire; for the furnace of old which did not burn the Youths was its image. While I who am grass to fire, how may I place my hands on you, Master, before whom tremble all things in heaven and on earth? Jesus, all-powerful, the Saviour of our souls'."
+meVE.Aposticha2.text = "'You appeared in a body, but a womb received you and remained unconsumed by fire; for the furnace of old which did not burn the Youths was its image. While I who am grass to fire, how may I place my hands on you, Master, before whom tremble all things in heaven and on earth? Jesus, all-powerful, the Saviour of our souls’."
 
 meVE.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.notmetered
 meVE.Aposticha3.incipit = "'Wash me, who am wholly…"
-meVE.Aposticha3.text = "'Wash me, who am wholly without stain, in the waters of Jordan', said the Lord, 'and human nature, stained by Adam's transgression, when washed will become new. For when I am baptised, there is the rebirth of every human being through water and the Spirit'."
+meVE.Aposticha3.text = "'Wash me, who am wholly without stain, in the waters of Jordan', said the Lord, 'and human nature, stained by Adam’s transgression, when washed will become new. For when I am baptised, there is the rebirth of every human being through water and the Spirit'."
 
 meVE.AposGlory.poet = poets_en_UK_lash.po.Sykeotou
 meVE.AposGlory.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.AposGlory.melody = ""
 meVE.AposGlory.incipit = "We, the multitudes of monastics…"
-meVE.AposGlory.text = "We, the multitudes of monastics, honour you, our Father Theodosios, for through you we have learnt to walk the truly straight path. Blessed are you, for you became Christ's slave and triumphed over the power of the foe, companion of Angels, colleague of the Venerable and the Righteous. With them intercede with the Lord to have mercy on our souls."
+meVE.AposGlory.text = "We, the multitudes of monastics, honour you, our Father Theodosios, for through you we have learnt to walk the truly straight path. Blessed are you, for you became Christ’s slave and triumphed over the power of the foe, companion of Angels, colleague of the Venerable and the Righteous. With them intercede with the Lord to have mercy on our souls."
 
 meVE.AposBoth.poet = poets_en_UK_lash.po.IoannouMonachou
 meVE.AposBoth.mode = miscellanea_en_UK_lash.misc.Mode8

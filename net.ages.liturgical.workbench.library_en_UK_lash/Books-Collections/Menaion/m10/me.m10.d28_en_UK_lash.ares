@@ -563,7 +563,7 @@ alt1.meDA.commemoration.second_title = ""
 alt1.meDA.commemoration.second_name = ""
 alt1.meDA.insert1 = "" // for use in petitions and dismissal
 alt1.meDA.insert2 = "the commemoration of whose Holy Protecting Veil we celebrate;" // for use in petitions and dismissal
-alt1.meDA.note = "The Office I have translated here is that written by the late Father Gerasimos and first published in 1952 in connection with the decision by the Church of Greece to move the day of the feast to the 28th of the month, to commemorate the famous 'No' of the Greeks to the Italians in 1941. Father Gerasimos's text is centred on the original story of the vision of the monk Andrew in the church at Vlachernae and not in the least nationalistic. It is interesting, however, to note that in the text of the October Menaion published by the Apostoliki Diakonia in Athens altered the third line of the verses of the Synaxarion reads, 'Protection of God's Mother now veils Greece,' where Fr Gerasimos had written, 'Protection of God's Mother veils God's people.'"
+alt1.meDA.note = "The Office I have translated here is that written by the late Father Gerasimos and first published in 1952 in connection with the decision by the Church of Greece to move the day of the feast to the 28th of the month, to commemorate the famous 'No' of the Greeks to the Italians in 1941. Father Gerasimos’s text is centred on the original story of the vision of the monk Andrew in the church at Vlachernae and not in the least nationalistic. It is interesting, however, to note that in the text of the October Menaion published by the Apostoliki Diakonia in Athens altered the third line of the verses of the Synaxarion reads, 'Protection of God’s Mother now veils Greece,' where Fr Gerasimos had written, 'Protection of God’s Mother veils God’s people.'"
 alt1.meLE.commemoration1 = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
 alt1.meLE.commemoration2 = ""
 alt1.meHO.number = ""
@@ -635,12 +635,12 @@ alt1.meVE.Stichera01.text = "O marvellous wonder! The pure Mother of God each da
 alt1.meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode1
 alt1.meVE.Stichera02.melody = he.a.m1_en_UK_lash.heAU.OTouParadoxouThavmatos.notmetered
 alt1.meVE.Stichera02.incipit = "Ah, your wonders, Pure Virgin!…"
-alt1.meVE.Stichera02.text = "Ah, your wonders, Pure Virgin! For you marvellously unfolded your Protecting Veil and wondrously protected the Queen of cities; while later by the grace of your light-bearing Protection you openly saved the people that bears Christ's name from hostile threat. Therefore, raising songs of grateful praise, rejoicing we commemorate your many wonders."
+alt1.meVE.Stichera02.text = "Ah, your wonders, Pure Virgin! For you marvellously unfolded your Protecting Veil and wondrously protected the Queen of cities; while later by the grace of your light-bearing Protection you openly saved the people that bears Christ’s name from hostile threat. Therefore, raising songs of grateful praise, rejoicing we commemorate your many wonders."
 
 alt1.meVE.Stichera03.mode = miscellanea_en_UK_lash.misc.Mode1
 alt1.meVE.Stichera03.melody = he.a.m1_en_UK_lash.heAU.OTouParadoxouThavmatos.notmetered
 alt1.meVE.Stichera03.incipit = "The choirs of believers, Sovereign…"
-alt1.meVE.Stichera03.text = "The choirs of believers, Sovereign Lady, proclaim your providence towards us, as we praise your mother's care. For from of old in your compassion you placed us beneath your Protection, and declared the race of the Orthodox to be your chosen lot. Therefore, O Full of grace, we cry to you: Hail! and magnify the graces of your godly Protecting Veil."
+alt1.meVE.Stichera03.text = "The choirs of believers, Sovereign Lady, proclaim your providence towards us, as we praise your mother’s care. For from of old in your compassion you placed us beneath your Protection, and declared the race of the Orthodox to be your chosen lot. Therefore, O Full of grace, we cry to you: Hail! and magnify the graces of your godly Protecting Veil."
 
 alt1.meVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode4
 alt1.meVE.Stichera04.greekmelody = he.a.m4_en_UK_lash.heAU.OsGennaionEnMartysi.greekname
@@ -687,7 +687,7 @@ alt1.meVE.Lity4.text = "Your Protecting Veil, Virgin Mother of God, shining out 
 alt1.meVE.LityGlory.mode = miscellanea_en_UK_lash.misc.Mode5
 alt1.meVE.LityGlory.melody = ""
 alt1.meVE.LityGlory.incipit = "Today the Queen of all…"
-alt1.meVE.LityGlory.text = "Today the Queen of all, the Virgin Mother, spreading out her Protecting Veil formed of light, like a mother protects our race. Come, then, Orthodox peoples, let us with pure minds contemplate the Mother of God's abundant providence for us. Because she is near us in good times and in afflictions, and she safely guides us to the aim of our calling on high, and, as Mother of God, she obtains for us grace and mercy and eternal salvation."
+alt1.meVE.LityGlory.text = "Today the Queen of all, the Virgin Mother, spreading out her Protecting Veil formed of light, like a mother protects our race. Come, then, Orthodox peoples, let us with pure minds contemplate the Mother of God’s abundant providence for us. Because she is near us in good times and in afflictions, and she safely guides us to the aim of our calling on high, and, as Mother of God, she obtains for us grace and mercy and eternal salvation."
 
 alt1.meVE.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode5
 alt1.meVE.Aposticha1.greekmelody = he.a.m5_en_UK_lash.heAU.ChairoisAskitikon.greekname
@@ -720,7 +720,7 @@ alt1.meVE.Apolytikion1.text = "We sing the praise of the graces of your Protecti
 alt1.meVE.Apolytikion2.mode = miscellanea_en_UK_lash.misc.Mode8
 alt1.meVE.Apolytikion2.melody = ""
 alt1.meVE.Apolytikion2.incipit = "Mother of God Ever-Virgin, you…"
-alt1.meVE.Apolytikion2.text = "Mother of God Ever-Virgin, you have given your holy Protection, through which you protect those who hope in you, as a mighty refuge for your race. For as of old so now you have wondrously saved us, enveloping your people like a spiritual cloud. And so we implore you to grant peace to your commonwealth, and to our souls God's great mercy."
+alt1.meVE.Apolytikion2.text = "Mother of God Ever-Virgin, you have given your holy Protection, through which you protect those who hope in you, as a mighty refuge for your race. For as of old so now you have wondrously saved us, enveloping your people like a spiritual cloud. And so we implore you to grant peace to your commonwealth, and to our souls God’s great mercy."
 
 alt1.meMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode1
 alt1.meMA.Kathisma11.greekmelody = he.a.m1_en_UK_lash.heAU.TonTafonSouSotir.greekname
@@ -796,8 +796,8 @@ alt1.meMA.Ode1C13.text = "Venerable Andrew saw you of old in an ineffable vision
 alt1.meMA.Ode1C14.ode = miscellanea_en_UK_lash.misc.Ode1
 alt1.meMA.Ode1C14.mode = miscellanea_en_UK_lash.misc.Mode4
 alt1.meMA.Ode1C14.melody = he.h.m4_en_UK_lash.heHE.AnoixoToStomaMou.name
-alt1.meMA.Ode1C14.incipit = "Your race's army, taking invincible…"
-alt1.meMA.Ode1C14.text = "Your race's army, taking invincible strength from your Protection, defeated regiments of foes and won a radiant victory. And so, Sovereign Lady, it sings your mighty deeds."
+alt1.meMA.Ode1C14.incipit = "Your race’s army, taking invincible…"
+alt1.meMA.Ode1C14.text = "Your race’s army, taking invincible strength from your Protection, defeated regiments of foes and won a radiant victory. And so, Sovereign Lady, it sings your mighty deeds."
 
 alt1.meMA.Ode1C21.ode = miscellanea_en_UK_lash.misc.Ode1
 alt1.meMA.Ode1C21.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -848,7 +848,7 @@ alt1.meMA.Ode3C13.ode = miscellanea_en_UK_lash.misc.Ode3
 alt1.meMA.Ode3C13.mode = miscellanea_en_UK_lash.misc.Mode4
 alt1.meMA.Ode3C13.melody = he.h.m4_en_UK_lash.heHE.TousSousYmnologous.name
 alt1.meMA.Ode3C13.incipit = "When godly Epiphanios heard the…"
-alt1.meMA.Ode3C13.text = "When godly Epiphanios heard the words of Venerable Andrew, he saw you as a heavenly queen protecting the people that bears Christ's name."
+alt1.meMA.Ode3C13.text = "When godly Epiphanios heard the words of Venerable Andrew, he saw you as a heavenly queen protecting the people that bears Christ’s name."
 
 alt1.meMA.Ode3C14.ode = miscellanea_en_UK_lash.misc.Ode3
 alt1.meMA.Ode3C14.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -924,7 +924,7 @@ alt1.meMA.Ode4C21.mode = miscellanea_en_UK_lash.misc.Mode8
 alt1.meMA.Ode4C21.greekmelody = he.h.m8_en_UK_lash.heHE.SyMouIschys.greekname
 alt1.meMA.Ode4C21.melody = he.h.m8_en_UK_lash.heHE.SyMouIschys.name
 alt1.meMA.Ode4C21.incipit = "By the overshadowing of your…"
-alt1.meMA.Ode4C21.text = "By the overshadowing of your Protecting Veil, Mother of God, you dispel from our hearts the night of passions, for you are loving, and you make the day of joy and the brightness of gladness shine out; and you make radiant those who cry out to you: Hail, the world's Protection filled with light."
+alt1.meMA.Ode4C21.text = "By the overshadowing of your Protecting Veil, Mother of God, you dispel from our hearts the night of passions, for you are loving, and you make the day of joy and the brightness of gladness shine out; and you make radiant those who cry out to you: Hail, the world’s Protection filled with light."
 
 alt1.meMA.Ode4C22.ode = miscellanea_en_UK_lash.misc.Ode4
 alt1.meMA.Ode4C22.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -999,7 +999,7 @@ alt1.meMA.Ode5C24.ode = miscellanea_en_UK_lash.misc.Ode5
 alt1.meMA.Ode5C24.mode = miscellanea_en_UK_lash.misc.Mode8
 alt1.meMA.Ode5C24.melody = he.h.m8_en_UK_lash.heHE.InaTiMeAposo.name
 alt1.meMA.Ode5C24.incipit = "In the wilderness of old…"
-alt1.meMA.Ode5C24.text = "In the wilderness of old a shining cloud protected the Israelite people, O Maiden; while now your all-radiant Protecting Veil protects us and guides us, and directs us to the light of your Son's commandments every day."
+alt1.meMA.Ode5C24.text = "In the wilderness of old a shining cloud protected the Israelite people, O Maiden; while now your all-radiant Protecting Veil protects us and guides us, and directs us to the light of your Son’s commandments every day."
 
 alt1.meMA.Ode6C1H.ode = miscellanea_en_UK_lash.misc.Ode6
 alt1.meMA.Ode6C1H.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -1074,7 +1074,7 @@ alt1.meMA.Oikos14.text = "Hail, Ever-Virgin Mother of Christ the universal King.
 
 alt1.meMA.Oikos15.text = "Hail, for you appeared protecting your race. Hail, for you grant victories to the troops."
 
-alt1.meMA.Oikos16.text = "Hail, source of abundant goodness. Hail, lamp of God's loving-kindness."
+alt1.meMA.Oikos16.text = "Hail, source of abundant goodness. Hail, lamp of God’s loving-kindness."
 
 alt1.meMA.Oikos17.text = "Hail, for through you we conquer the foe. Hail, for to you we cry out each day:"
 
@@ -1239,7 +1239,7 @@ alt1.meMA.Ode9C12.ode = miscellanea_en_UK_lash.misc.Ode9
 alt1.meMA.Ode9C12.mode = miscellanea_en_UK_lash.misc.Mode4
 alt1.meMA.Ode9C12.melody = he.h.m4_en_UK_lash.heHE.ApasGigenis.name
 alt1.meMA.Ode9C12.incipit = "The Church of the faithful…"
-alt1.meMA.Ode9C12.text = "The Church of the faithful celebrates a sacred memorial of your wonders to your glory and praise, O All-blameless, and with faith taking refuge under your Protection, cries out to you: Protect and guard me until my life's end, O All-praised."
+alt1.meMA.Ode9C12.text = "The Church of the faithful celebrates a sacred memorial of your wonders to your glory and praise, O All-blameless, and with faith taking refuge under your Protection, cries out to you: Protect and guard me until my life’s end, O All-praised."
 
 alt1.meMA.Ode9C13.ode = miscellanea_en_UK_lash.misc.Ode9
 alt1.meMA.Ode9C13.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -1276,7 +1276,7 @@ alt1.meMA.Ode9C24.ode = miscellanea_en_UK_lash.misc.Ode9
 alt1.meMA.Ode9C24.mode = miscellanea_en_UK_lash.misc.Mode8
 alt1.meMA.Ode9C24.melody = he.h.m8_en_UK_lash.heHE.ExestiEpiTouto.name
 alt1.meMA.Ode9C24.incipit = "As we sing the praise…"
-alt1.meMA.Ode9C24.text = "As we sing the praise of the manifold gifts of your Protection and its unstinted grace, pure Mother, which we unceasingly enjoy, we cry out to you from our souls: As of old you protected your people, so now too protect us with your hand and save us until our life's end, O Immaculate."
+alt1.meMA.Ode9C24.text = "As we sing the praise of the manifold gifts of your Protection and its unstinted grace, pure Mother, which we unceasingly enjoy, we cry out to you from our souls: As of old you protected your people, so now too protect us with your hand and save us until our life’s end, O Immaculate."
 
 alt1.meMA.Exaposteilarion1.mode = miscellanea_en_UK_lash.misc.Mode3
 alt1.meMA.Exaposteilarion1.greekmelody = he.a.m3_en_UK_lash.heAU.OOuranonToisAstrois.greekname

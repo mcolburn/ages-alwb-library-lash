@@ -18,7 +18,7 @@ ocSV.Dogmatic.text = "O the great mystery! As I contemplate the wonders I procla
 ocSV.Aposticha1.mode = miscellanea_en_UK_lash.misc.Mode2
 ocSV.Aposticha1.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.name
 ocSV.Aposticha1.incipit = "Joy of all who are…"
-ocSV.Aposticha1.text = "Joy of all who are afflicted, * champion of all dealt injustice, * the food for those who are in need, * you, the stranger's advocate, support and staff of the blind, * loving care of the sick are you, to all who are crushed down * shield, defence and aid are you, the orphan's succour and help, * Mother of our God the Most High, * hasten, All-Immaculate, hasten, * hear our prayer, deliver all your servants." //Of all who are afflicted the joy, protector of the wronged, sustenance of those in need, staff of the blind, visitation of the sick, shelter and assistance of the oppressed, helper of orphans and Mother of God Most High are you, O All-pure. Hasten, we beseech you, to deliver your servants.
+ocSV.Aposticha1.text = "Joy of all who are afflicted, * champion of all dealt injustice, * the food for those who are in need, * you, the stranger’s advocate, support and staff of the blind, * loving care of the sick are you, to all who are crushed down * shield, defence and aid are you, the orphan’s succour and help, * Mother of our God the Most High, * hasten, All-Immaculate, hasten, * hear our prayer, deliver all your servants." //Of all who are afflicted the joy, protector of the wronged, sustenance of those in need, staff of the blind, visitation of the sick, shelter and assistance of the oppressed, helper of orphans and Mother of God Most High are you, O All-pure. Hasten, we beseech you, to deliver your servants.
 
 ocSV.Aposticha2.mode = miscellanea_en_UK_lash.misc.Mode2
 ocSV.Aposticha2.melody = he.a.m2_en_UK_lash.heAU.OteEkTouXylou.notmetered
@@ -71,12 +71,12 @@ ocVE.Stichera5.text = "By your Cross you destroyed the curse of the tree; by you
 ocVE.Stichera6.mode = miscellanea_en_UK_lash.misc.Mode2
 ocVE.Stichera6.melody = ""
 ocVE.Stichera6.incipit = "The gates of death opened…"
-ocVE.Stichera6.text = "The gates of death opened to you Lord, in fear; Hades' gate-keepers shuddered when they saw you; for you smashed the gates of brass, crushed to powder the iron bars, led us out of darkness and the shadow of death and tore our bonds asunder."
+ocVE.Stichera6.text = "The gates of death opened to you Lord, in fear; Hades’ gate-keepers shuddered when they saw you; for you smashed the gates of brass, crushed to powder the iron bars, led us out of darkness and the shadow of death and tore our bonds asunder."
 
 ocVE.Stichera7.mode = miscellanea_en_UK_lash.misc.Mode2
 ocVE.Stichera7.melody = ""
 ocVE.Stichera7.incipit = "As we sing the hymn…"
-ocVE.Stichera7.text = "As we sing the hymn of salvation, let this song rise from our lips; 'Come all in the Lord's house, let us fall down in worship as we say; 'You who were crucified on the Tree, rose from the dead and are in the bosom of the Father, have mercy on our sins!''"
+ocVE.Stichera7.text = "As we sing the hymn of salvation, let this song rise from our lips; 'Come all in the Lord’s house, let us fall down in worship as we say; 'You who were crucified on the Tree, rose from the dead and are in the bosom of the Father, have mercy on our sins!''"
 
 ocVE.SticTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
 ocVE.SticTheotokion.melody = ""
@@ -106,7 +106,7 @@ ocVE.Aposticha4.text = "For the sake of mortals, O Christ, Giver of life, willin
 ocVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode2
 ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.incipit = "O new wonder, greater than…"
-ocVE.AposTheotokion.text = "O new wonder, greater than all the wonders of old! For who has ever known of a Mother who without a man has borne a child and carried in her arms the One who holds fast all creation? The Child conceived is the Counsel of God, whom you, All-pure, carried in your embrace and towards whom you have gained a mother's freedom to speak. Therefore do not cease to intercede with him on behalf of those who honour you, that he take pity and save our souls."
+ocVE.AposTheotokion.text = "O new wonder, greater than all the wonders of old! For who has ever known of a Mother who without a man has borne a child and carried in her arms the One who holds fast all creation? The Child conceived is the Counsel of God, whom you, All-pure, carried in your embrace and towards whom you have gained a mother’s freedom to speak. Therefore do not cease to intercede with him on behalf of those who honour you, that he take pity and save our souls."
 
 ocVE.Apolytikion.mode = miscellanea_en_UK_lash.misc.Mode2
 ocVE.Apolytikion.melody = ""
@@ -441,7 +441,7 @@ ocMA.OdeS1C12.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS1C12.ode = miscellanea_en_UK_lash.misc.Ode1
 ocMA.OdeS1C12.melody = he.h.m2_en_UK_lash.heHE.EnVythoKatestrose.name
 ocMA.OdeS1C12.incipit = "You came into the world…"
-ocMA.OdeS1C12.text = "You came into the world as Redeemer of the race of mortals and prince of the life without corruption; for you tore apart death's winding sheets by your Resurrection, which we all glorify; for it has been greatly glorified."
+ocMA.OdeS1C12.text = "You came into the world as Redeemer of the race of mortals and prince of the life without corruption; for you tore apart death’s winding sheets by your Resurrection, which we all glorify; for it has been greatly glorified."
 
 ocMA.OdeS1C1T.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS1C1T.ode = miscellanea_en_UK_lash.misc.Ode1
@@ -562,7 +562,7 @@ ocMA.OdeS4C21.ode = miscellanea_en_UK_lash.misc.Ode4
 ocMA.OdeS4C21.greekmelody = he.h.m2_en_UK_lash.heHE.AkikoaKyrieTinEndoxon.greekname
 ocMA.OdeS4C21.melody = he.h.m2_en_UK_lash.heHE.AkikoaKyrieTinEndoxon.name
 ocMA.OdeS4C21.incipit = "Seeing you nailed to the…"
-ocMA.OdeS4C21.text = "Seeing you nailed to the Cross, O Christ, the Virgin who had borne you without pains, endured a mother's pains."
+ocMA.OdeS4C21.text = "Seeing you nailed to the Cross, O Christ, the Virgin who had borne you without pains, endured a mother’s pains."
 
 ocMA.OdeS4C22.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS4C22.ode = miscellanea_en_UK_lash.misc.Ode4
@@ -755,7 +755,7 @@ ocMA.OdeS7C33.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS7C33.ode = miscellanea_en_UK_lash.misc.Ode7
 ocMA.OdeS7C33.melody = he.h.m2_en_UK_lash.heHE.RitoresAnedeichthisanPaides.name
 ocMA.OdeS7C33.incipit = "Profane the one who does…"
-ocMA.OdeS7C33.text = "Profane the one who does not proclaim you, the Virgin's Son, one of the Trinity, nor cries with unwavering mind and tongue: O God of our fathers, supremely divine and most glorious."
+ocMA.OdeS7C33.text = "Profane the one who does not proclaim you, the Virgin’s Son, one of the Trinity, nor cries with unwavering mind and tongue: O God of our fathers, supremely divine and most glorious."
 
 ocMA.OdeS8C1H.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS8C1H.ode = miscellanea_en_UK_lash.misc.Ode8
@@ -825,7 +825,7 @@ ocMA.OdeS9C12.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS9C12.ode = miscellanea_en_UK_lash.misc.Ode9
 ocMA.OdeS9C12.melody = he.h.m2_en_UK_lash.heHE.AnarchouGennitoros.name
 ocMA.OdeS9C12.incipit = "Crucified, O all-powerful, you laid…"
-ocMA.OdeS9C12.text = "Crucified, O all-powerful, you laid low the mighty, and exalting human nature which lay below in Hell's prison, you placed it on your Father's throne: as you are coming with that nature we worship and magnify you."
+ocMA.OdeS9C12.text = "Crucified, O all-powerful, you laid low the mighty, and exalting human nature which lay below in Hell’s prison, you placed it on your Father’s throne: as you are coming with that nature we worship and magnify you."
 
 ocMA.OdeS9C1Tr.mode = miscellanea_en_UK_lash.misc.Mode2
 ocMA.OdeS9C1Tr.ode = miscellanea_en_UK_lash.misc.Ode9

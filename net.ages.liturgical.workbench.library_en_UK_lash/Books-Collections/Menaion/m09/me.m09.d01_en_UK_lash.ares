@@ -22,7 +22,7 @@ meHO.note2 = ""
 meVE.Stichera01.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Stichera01.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
 meVE.Stichera01.incipit = "Having learned to pray in…"
-meVE.Stichera01.text = "Having learned to pray in his own words from Christ's divine teaching, let us cry out each day to the Creator: Our Father, who dwell in heaven, give us our daily bread, overlooking our faults."
+meVE.Stichera01.text = "Having learned to pray in his own words from Christ’s divine teaching, let us cry out each day to the Creator: Our Father, who dwell in heaven, give us our daily bread, overlooking our faults."
 
 meVE.Stichera02.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Stichera02.melody = he.a.m1_en_UK_lash.heAU.TonOuranionTagmaton.notmetered
@@ -154,7 +154,7 @@ meMA.Kathisma22.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Kathisma22.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 meMA.Kathisma22.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 meMA.Kathisma22.incipit = "You came to the starting…"
-meMA.Kathisma22.text = "You came to the starting block of martyrdom, Kallisti, with your two brothers faithfully proclaiming Christ our God; for having nurtured them with love you made them true spiritual vessels of Christ's Church; therefore, as a Martyr, you were joined with them for the life on high."
+meMA.Kathisma22.text = "You came to the starting block of martyrdom, Kallisti, with your two brothers faithfully proclaiming Christ our God; for having nurtured them with love you made them true spiritual vessels of Christ’s Church; therefore, as a Martyr, you were joined with them for the life on high."
 
 meMA.Kathisma2T.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Kathisma2T.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
@@ -223,7 +223,7 @@ meMA.Ode1C12.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C12.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Ode1C12.melody = he.h.m1_en_UK_lash.heHE.AsomenPantesLaoi.name
 meMA.Ode1C12.incipit = "Let us all sing a…"
-meMA.Ode1C12.text = "Let us all sing a song of victory to Christ, who at the Father's good pleasure appeared from a Virgin and proclaimed an acceptable year of the Lord, redemption for us; for he has been glorified."
+meMA.Ode1C12.text = "Let us all sing a song of victory to Christ, who at the Father’s good pleasure appeared from a Virgin and proclaimed an acceptable year of the Lord, redemption for us; for he has been glorified."
 
 meMA.Ode1C13.ode = miscellanea_en_UK_lash.misc.Ode1
 meMA.Ode1C13.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -330,7 +330,7 @@ meMA.Ode3C22.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C22.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode3C22.melody = he.h.m4_en_UK_lash.heHE.ToxonDynatonIsthenise.name
 meMA.Ode3C22.incipit = "The jaws of the wild…"
-meMA.Ode3C22.text = "The jaws of the wild beasts were seen to be powerless through Christ's divine might, and you were delivered, God-bearers, unharmed as you honoured God."
+meMA.Ode3C22.text = "The jaws of the wild beasts were seen to be powerless through Christ’s divine might, and you were delivered, God-bearers, unharmed as you honoured God."
 
 meMA.Ode3C23.ode = miscellanea_en_UK_lash.misc.Ode3
 meMA.Ode3C23.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -399,7 +399,7 @@ meMA.Ode4C11.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Ode4C11.greekmelody = he.h.m1_en_UK_lash.heHE.KatenoisaPantodyname.greekname
 meMA.Ode4C11.melody = he.h.m1_en_UK_lash.heHE.KatenoisaPantodyname.name
 meMA.Ode4C11.incipit = "Your people offers you its…"
-meMA.Ode4C11.text = "Your people offers you its annual firstfruits, glorifying you with Angels' hymns, O Saviour."
+meMA.Ode4C11.text = "Your people offers you its annual firstfruits, glorifying you with Angels’ hymns, O Saviour."
 
 meMA.Ode4C12.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C12.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -430,13 +430,13 @@ meMA.Ode4C22.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C22.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode4C22.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.name
 meMA.Ode4C22.incipit = "The Powers of heaven marvelled…"
-meMA.Ode4C22.text = "The Powers of heaven marvelled at the struggle of the blessed maidens, how they routed the foe, being given power in their woman's nature by the power of him who dawned from a woman."
+meMA.Ode4C22.text = "The Powers of heaven marvelled at the struggle of the blessed maidens, how they routed the foe, being given power in their woman’s nature by the power of him who dawned from a woman."
 
 meMA.Ode4C23.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C23.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode4C23.melody = he.h.m4_en_UK_lash.heHE.OKathimenosEnDoxi.name
 meMA.Ode4C23.incipit = "Having cast aside all the…"
-meMA.Ode4C23.text = "Having cast aside all the vanity of the world, you clung with your whole soul to God and to him alone; therefore, Brides of Christ, you endured most stoutly the toils of the ascetic life and of the martyr's contest."
+meMA.Ode4C23.text = "Having cast aside all the vanity of the world, you clung with your whole soul to God and to him alone; therefore, Brides of Christ, you endured most stoutly the toils of the ascetic life and of the martyr’s contest."
 
 meMA.Ode4C24.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C24.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -460,8 +460,8 @@ meMA.Ode4C31.text = "It was not on sand but on the deepest toils that you laid t
 meMA.Ode4C32.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C32.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode4C32.melody = he.h.m8_en_UK_lash.heHE.EisakikoaKyrie.name
-meMA.Ode4C32.incipit = "The roughest rope your body's…"
-meMA.Ode4C32.text = "The roughest rope your body's lot to nail it to the fear of the spirit, you found, O Venerable one, the allotment of a divine inheritance."
+meMA.Ode4C32.incipit = "The roughest rope your body’s…"
+meMA.Ode4C32.text = "The roughest rope your body’s lot to nail it to the fear of the spirit, you found, O Venerable one, the allotment of a divine inheritance."
 
 meMA.Ode4C33.ode = miscellanea_en_UK_lash.misc.Ode4
 meMA.Ode4C33.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -505,7 +505,7 @@ meMA.Ode5C13.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C13.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Ode5C13.melody = he.h.m1_en_UK_lash.heHE.EkNyktosOrthrizontesYmnoumenSe.name
 meMA.Ode5C13.incipit = "Without beginning with the Father…"
-meMA.Ode5C13.text = "Without beginning with the Father, you who are beyond time came upon earth, announcing in the Father's name forgiveness for prisoners and new sight for the maimed."
+meMA.Ode5C13.text = "Without beginning with the Father, you who are beyond time came upon earth, announcing in the Father’s name forgiveness for prisoners and new sight for the maimed."
 
 meMA.Ode5C1T.ode = miscellanea_en_UK_lash.misc.Ode5
 meMA.Ode5C1T.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -594,7 +594,7 @@ meMA.Ode6C21.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode6C21.greekmelody = he.h.m4_en_UK_lash.heHE.EvoiseProtypon.greekname
 meMA.Ode6C21.melody = he.h.m4_en_UK_lash.heHE.EvoiseProtypon.name
 meMA.Ode6C21.incipit = "Their foremother was overjoyed as…"
-meMA.Ode6C21.text = "Their foremother was overjoyed as she watched the one who formerly exiled her by trickery from Paradise broken and trampled down by women's feet."
+meMA.Ode6C21.text = "Their foremother was overjoyed as she watched the one who formerly exiled her by trickery from Paradise broken and trampled down by women’s feet."
 
 meMA.Ode6C22.ode = miscellanea_en_UK_lash.misc.Ode6
 meMA.Ode6C22.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -652,7 +652,7 @@ meMA.Kontakion2.melody = he.a.m2_en_UK_lash.heAU.TaAnoZiton.melody
 meMA.Kontakion2.incipit = he.a.m2_en_UK_lash.heAU.TaAnoZiton.incipit
 meMA.Kontakion2.text = he.a.m2_en_UK_lash.heAU.TaAnoZiton.text
 
-meMA.Oikos2.text = "What human will ever suffice to sing the praise of Symeon's blameless life? Nevertheless with God's wisdom I shall hymn the contests and struggles of the hero, of the one who appeared on earth as a beacon for all mortals, and by perseverance shone brightly for the choir of Angels; for singing with them unceasingly he does not cease imploring Christ on behalf of us all."
+meMA.Oikos2.text = "What human will ever suffice to sing the praise of Symeon’s blameless life? Nevertheless with God’s wisdom I shall hymn the contests and struggles of the hero, of the one who appeared on earth as a beacon for all mortals, and by perseverance shone brightly for the choir of Angels; for singing with them unceasingly he does not cease imploring Christ on behalf of us all."
 
 meMA.Kontakion3.poet = poets_en_UK_lash.po.IakovouProtopsaltou
 meMA.Kontakion3.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -694,7 +694,7 @@ meMA.Ode7C21.mode = miscellanea_en_UK_lash.misc.Mode4
 meMA.Ode7C21.greekmelody = he.h.m4_en_UK_lash.heHE.ODiasosasEnPyri.greekname
 meMA.Ode7C21.melody = he.h.m4_en_UK_lash.heHE.ODiasosasEnPyri.name
 meMA.Ode7C21.incipit = "How undaunted your resolution, Godbearing…"
-meMA.Ode7C21.text = "How undaunted your resolution, Godbearing Ammoun; for as leader of the choir of virgins you did not flinch at tortures, but died with them, as minister and initiate of God's glory."
+meMA.Ode7C21.text = "How undaunted your resolution, Godbearing Ammoun; for as leader of the choir of virgins you did not flinch at tortures, but died with them, as minister and initiate of God’s glory."
 
 meMA.Ode7C22.ode = miscellanea_en_UK_lash.misc.Ode7
 meMA.Ode7C22.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -775,7 +775,7 @@ meMA.Ode8C1T.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C1T.mode = miscellanea_en_UK_lash.misc.Mode1
 meMA.Ode8C1T.melody = he.h.m1_en_UK_lash.heHE.TonTousYmnologousEnKamino.name
 meMA.Ode8C1T.incipit = "In the passing and the…"
-meMA.Ode8C1T.text = "In the passing and the revolutions of the years the ranks of Orthodox mortals, pure Virgin Mother of God, sing your praise as God's Mother and salvation of all."
+meMA.Ode8C1T.text = "In the passing and the revolutions of the years the ranks of Orthodox mortals, pure Virgin Mother of God, sing your praise as God’s Mother and salvation of all."
 
 meMA.Ode8C21.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C21.mode = miscellanea_en_UK_lash.misc.Mode4
@@ -813,7 +813,7 @@ meMA.Ode8C31.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C31.greekmelody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.greekname
 meMA.Ode8C31.melody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.name
 meMA.Ode8C31.incipit = "Having left every attachment and…"
-meMA.Ode8C31.text = "Having left every attachment and pitying a mother's weakness, as though living you appeared after death, crying out: Hymn the Lord and highly exalt him to all the ages."
+meMA.Ode8C31.text = "Having left every attachment and pitying a mother’s weakness, as though living you appeared after death, crying out: Hymn the Lord and highly exalt him to all the ages."
 
 meMA.Ode8C32.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C32.mode = miscellanea_en_UK_lash.misc.Mode8
@@ -830,14 +830,14 @@ meMA.Ode8C33.text = "He who made Job shine brightly through suffering, when your
 meMA.Ode8C34.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C34.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C34.melody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.name
-meMA.Ode8C34.incipit = "At Symeon's entreaties, Master, you…"
-meMA.Ode8C34.text = "At Symeon's entreaties, Master, you summoned a vengeful robber chief, as of old the Thief on the tree; therefore we hymn you and highly exalt you to all the ages."
+meMA.Ode8C34.incipit = "At Symeon’s entreaties, Master, you…"
+meMA.Ode8C34.text = "At Symeon’s entreaties, Master, you summoned a vengeful robber chief, as of old the Thief on the tree; therefore we hymn you and highly exalt you to all the ages."
 
 meMA.Ode8C3T.ode = miscellanea_en_UK_lash.misc.Ode8
 meMA.Ode8C3T.mode = miscellanea_en_UK_lash.misc.Mode8
 meMA.Ode8C3T.melody = he.h.m8_en_UK_lash.heHE.TonEnOreiAgio.name
 meMA.Ode8C3T.incipit = "Virgin Mother of God, who…"
-meMA.Ode8C3T.text = "Virgin Mother of God, who received the Angel's 'Hail!', bore the Lord of glory and made the light dawn on the world, we all hymn you and glorify you."
+meMA.Ode8C3T.text = "Virgin Mother of God, who received the Angel’s 'Hail!', bore the Lord of glory and made the light dawn on the world, we all hymn you and glorify you."
 
 meMA.Ode9C1H.ode = miscellanea_en_UK_lash.misc.Ode9
 meMA.Ode9C1H.mode = miscellanea_en_UK_lash.misc.Mode1
@@ -954,7 +954,7 @@ meMA.Lauds4.poet = poets_en_UK_lash.po.Germanou
 meMA.Lauds4.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.Lauds4.melody = miscellanea_en_UK_lash.misc.Idiomelon
 meMA.Lauds4.incipit = "When by your Passion, Lord…"
-meMA.Lauds4.text = "When by your Passion, Lord, you established the whole world, then the weak clothed themselves in power: women showed manly courage against the villainous tyrant, and having reversed the mother's defeat of old, they have reached the pleasure of Paradise, to your glory, who were born of a woman and have saved the human race."
+meMA.Lauds4.text = "When by your Passion, Lord, you established the whole world, then the weak clothed themselves in power: women showed manly courage against the villainous tyrant, and having reversed the mother’s defeat of old, they have reached the pleasure of Paradise, to your glory, who were born of a woman and have saved the human race."
 
 meMA.LaudsGlory.mode = miscellanea_en_UK_lash.misc.Mode2
 meMA.LaudsGlory.melody = miscellanea_en_UK_lash.misc.Idiomelon

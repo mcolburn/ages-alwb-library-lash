@@ -54,7 +54,7 @@ ocVE.Aposticha2.text = oc.m4.d2_en_UK_lash.ocVE.Aposticha2.text
 ocVE.Aposticha3.mode = miscellanea_en_UK_lash.misc.Mode4
 ocVE.Aposticha3.melody = ""
 ocVE.Aposticha3.incipit = "As you accepted the holy…"
-ocVE.Aposticha3.text = "As you accepted the holy Martyrs' endurance, accept from us a song of praise, O Lover of mankind, and at their supplications grant us your great mercy."
+ocVE.Aposticha3.text = "As you accepted the holy Martyrs’ endurance, accept from us a song of praise, O Lover of mankind, and at their supplications grant us your great mercy."
 
 ocVE.AposTheotokion.mode = miscellanea_en_UK_lash.misc.Mode4
 ocVE.AposTheotokion.greekmelody = he.a.m4_en_UK_lash.heAU.EdokasSimeiosin.greekname
@@ -65,8 +65,8 @@ ocVE.AposTheotokion.text = "I implore you, O All-praised, most pure palace of th
 ocVE.ApolTheotokionVM.mode = miscellanea_en_UK_lash.misc.Mode4
 ocVE.ApolTheotokionVM.greekmelody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.greekname
 ocVE.ApolTheotokionVM.melody = he.a.m4_en_UK_lash.heAU.OYpsotheisEnToStavro.name
-ocVE.ApolTheotokionVM.incipit = "Now to God's Mother let…"
-ocVE.ApolTheotokionVM.text = "Now to God's Mother let us humble sinners run in haste * and in repentance let us fall down before her feet, * crying aloud with fervour from the depths of our souls, * 'Sovereign Lady, help us now, * have compassion upon us, * hasten, for we perish * from our many offences. * Let not your servants go empty away; * we have you as our only hope'."
+ocVE.ApolTheotokionVM.incipit = "Now to God’s Mother let…"
+ocVE.ApolTheotokionVM.text = "Now to God’s Mother let us humble sinners run in haste * and in repentance let us fall down before her feet, * crying aloud with fervour from the depths of our souls, * ’sovereign Lady, help us now, * have compassion upon us, * hasten, for we perish * from our many offences. * Let not your servants go empty away; * we have you as our only hope'."
 
 ocMA.Kathisma11.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Kathisma11.melody = ""
@@ -115,7 +115,7 @@ ocMA.Kathisma33.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.Kathisma33.greekmelody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.greekname
 ocMA.Kathisma33.melody = he.a.m4_en_UK_lash.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma33.incipit = "O All-Immaculate, who alone bore…"
-ocMA.Kathisma33.text = "O All-Immaculate, who alone bore the Maker of all, who alone adorned humanity by your child-bearing, deliver me from the snares of cunning Beliar, stand me on the rock of Christ's wishes, as you earnestly entreat him, to whom you gave a body."
+ocMA.Kathisma33.text = "O All-Immaculate, who alone bore the Maker of all, who alone adorned humanity by your child-bearing, deliver me from the snares of cunning Beliar, stand me on the rock of Christ’s wishes, as you earnestly entreat him, to whom you gave a body."
 
 ocMA.C1.acrostic.title = ""
 ocMA.C1.acrostic.notice1 = ""
@@ -402,7 +402,7 @@ ocMA.OdeW6C14.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeW6C14.ode = miscellanea_en_UK_lash.misc.Ode6
 ocMA.OdeW6C14.melody = he.h.m4_en_UK_lash.heHE.EnPelageiTouViou.name
 ocMA.OdeW6C14.incipit = "Surpassing the limits of the…"
-ocMA.OdeW6C14.text = "Surpassing the limits of the human, Christ's Martyrs, with their divine urge towards the Creator, endured rejoicing the trials of tortures as though in bodies not their own."
+ocMA.OdeW6C14.text = "Surpassing the limits of the human, Christ’s Martyrs, with their divine urge towards the Creator, endured rejoicing the trials of tortures as though in bodies not their own."
 
 ocMA.OdeW6C1T.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeW6C1T.ode = miscellanea_en_UK_lash.misc.Ode6
@@ -607,7 +607,7 @@ ocMA.OdeW9C21.ode = miscellanea_en_UK_lash.misc.Ode9
 ocMA.OdeW9C21.greekmelody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.greekname
 ocMA.OdeW9C21.melody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.name
 ocMA.OdeW9C21.incipit = "My strength and my song…"
-ocMA.OdeW9C21.text = "My strength and my song is Christ the Lord; implore Him, blest Forerunner, to strengthen me against the passions and every assault of the boaster that guided successfully I may hymn you who work God's will."
+ocMA.OdeW9C21.text = "My strength and my song is Christ the Lord; implore Him, blest Forerunner, to strengthen me against the passions and every assault of the boaster that guided successfully I may hymn you who work God’s will."
 
 ocMA.OdeW9C22.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeW9C22.ode = miscellanea_en_UK_lash.misc.Ode9
@@ -618,8 +618,8 @@ ocMA.OdeW9C22.text = "Fair turtle-dove and sweet-voiced swallow you have been re
 ocMA.OdeW9C23.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeW9C23.ode = miscellanea_en_UK_lash.misc.Ode9
 ocMA.OdeW9C23.melody = he.h.m4_en_UK_lash.heHE.EvaMenToTisParakois.name
-ocMA.OdeW9C23.incipit = "By leaping in your mother's…"
-ocMA.OdeW9C23.text = "By leaping in your mother's womb you revealed him who shone from a Virgin; implore him to slay the leapings of the flesh which slay me and to fill my heart with joy, that I may hymn you, godlike Forerunner."
+ocMA.OdeW9C23.incipit = "By leaping in your mother’s…"
+ocMA.OdeW9C23.text = "By leaping in your mother’s womb you revealed him who shone from a Virgin; implore him to slay the leapings of the flesh which slay me and to fill my heart with joy, that I may hymn you, godlike Forerunner."
 
 ocMA.OdeW9C24.mode = miscellanea_en_UK_lash.misc.Mode4
 ocMA.OdeW9C24.ode = miscellanea_en_UK_lash.misc.Ode9
@@ -666,7 +666,7 @@ ocLI.Beatitudes1.text = oc.m4.d1_en_UK_lash.ocLI.Beatitudes1.text
 ocLI.Beatitudes2.mode = miscellanea_en_UK_lash.misc.Mode4
 ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.incipit = "O Christ the Word, who…"
-ocLI.Beatitudes2.text = "O Christ the Word, who accepted Peter's weeping and the Harlot's tears and the Publican when he only sighed, take pity too on me, as you are compassionate, as I fall down and beg that I be granted pardon of offences. Supremely loving Lord, ransom me from Hell in the other world as you are compassionate."
+ocLI.Beatitudes2.text = "O Christ the Word, who accepted Peter’s weeping and the Harlot’s tears and the Publican when he only sighed, take pity too on me, as you are compassionate, as I fall down and beg that I be granted pardon of offences. Supremely loving Lord, ransom me from Hell in the other world as you are compassionate."
 
 ocLI.Beatitudes3.mode = miscellanea_en_UK_lash.misc.Mode4
 ocLI.Beatitudes3.melody = ""
