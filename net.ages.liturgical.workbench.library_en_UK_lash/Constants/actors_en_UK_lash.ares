@@ -34,3 +34,7 @@ ac.Reader = "READER"
 ac.Respondent = ""
 ac.Superior = ""
 ac.SuperiorOrReader = ""
+
+ac.LC.Archbishop = "Archbishop"
+ac.LC.Hierarch = "Hierarch"
+ac.LC.Deacon = "Deacon"
