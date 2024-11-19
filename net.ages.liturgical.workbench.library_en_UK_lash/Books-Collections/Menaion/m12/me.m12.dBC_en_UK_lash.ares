@@ -36,8 +36,8 @@ meVE.Stichera03.text = "The All-holy and blameless Virgin, realising that her ch
 
 meVE.Stichera04.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.Stichera04.melody = he.a.m8_en_UK_lash.heAU.OEnEdemParadeisos.notmetered
-meVE.Stichera04.incipit = "As we believers celebrate today…"
-meVE.Stichera04.text = "As we believers celebrate today the memorials of the Fathers, let us sing in praise to Christ the Redeemer; the Lord, who as mighty and powerful magnified them among all the nations and faithfully performed extraordinary wonders; and has revealed from among them a rod of power, Mary the only pure Child of God, who has not known man; from her Christ has come forth, the flower that blossoms with life for all, the inexhaustible delight and the salvation of our souls."
+meVE.Stichera04.incipit = me.m12.dFF_en_UK_lash.meVE.Stichera01.incipit
+meVE.Stichera04.text = me.m12.dFF_en_UK_lash.meVE.Stichera01.text
 
 meVE.Stichera05.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.Stichera05.melody = he.a.m8_en_UK_lash.heAU.OEnEdemParadeisos.notmetered
