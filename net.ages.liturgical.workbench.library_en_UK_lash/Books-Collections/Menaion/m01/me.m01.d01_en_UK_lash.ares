@@ -116,8 +116,8 @@ meVE.AposGlory.text = "You received the grace of wonders from heaven and held up
 meVE.AposBoth.poet = poets_en_UK_lash.po.Anatoliou
 meVE.AposBoth.mode = miscellanea_en_UK_lash.misc.Mode8
 meVE.AposBoth.melody = ""
-meVE.AposBoth.incipit = "God the supremely good was…"
-meVE.AposBoth.text = "God the supremely good was not ashamed to be severed by circumcision of the flesh, but gave us himself as a type and example for all for salvation. For the Maker of the Law fulfilled the requirements of the Law and the sayings of the Prophets concerning him. You who hold all things in the hollow of your hand and were wrapped in swaddling clothes, Lord, glory to you!"
+meVE.AposBoth.incipit = me.m01.d01_en_UK_lash.meVE.Stichera02.incipit
+meVE.AposBoth.text = me.m01.d01_en_UK_lash.meVE.Stichera02.text
 
 meVE.Apolytikion1.mode = miscellanea_en_UK_lash.misc.Mode1
 meVE.Apolytikion1.melody = ""
