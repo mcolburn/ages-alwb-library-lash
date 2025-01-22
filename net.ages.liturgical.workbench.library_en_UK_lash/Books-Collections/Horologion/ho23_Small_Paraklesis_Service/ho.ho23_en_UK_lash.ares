@@ -92,12 +92,12 @@ hoCA.Ode34.incipit = "Cruel illnesses test me, and…"
 hoCA.Ode34.text = "Cruel illnesses test me, and passions most damaging, * help me, I beseech you, O Virgin, aid me, all-blameless one, * for I know you to be * the inexhaustible treasure, * never failing storehouse, of healings that have no price."
 
 hoCA.Troparion31.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Troparion31.melody  = ""
+hoCA.Troparion31.melody = ""
 hoCA.Troparion31.incipit = "Save your servants, from every…"
 hoCA.Troparion31.text = "Save your servants, from every danger, O Mother of God, for next after God we all fly for refuge to you as unbreachable wall and protection."
 
 hoCA.Troparion32.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Troparion32.melody  = ""
+hoCA.Troparion32.melody = ""
 hoCA.Troparion32.incipit = "With kindness, all-praised Mother of…"
 hoCA.Troparion32.text = "With kindness, all-praised Mother of God, look on the dire affliction of my body and heal the pain of my soul."
 
@@ -207,12 +207,12 @@ hoCA.Ode64.incipit = "In sickness * and with…"
 hoCA.Ode64.text = "In sickness * and with no healing in my flesh * now I lie upon my bed, yet I implore you, * as you gave birth to our God and the world’s Saviour, * to him who frees us from sickness and malady, * O good one, hear me, I implore, * 'From disease’s corruption now raise me up'."
 
 hoCA.Troparion61.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Troparion61.melody  = ""
+hoCA.Troparion61.melody = ""
 hoCA.Troparion61.incipit = hoCA.Troparion31.incipit
 hoCA.Troparion61.text = hoCA.Troparion31.text
 
 hoCA.Troparion62.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Troparion62.melody  = ""
+hoCA.Troparion62.melody = ""
 hoCA.Troparion62.incipit = "Immaculate, who through a word…"
 hoCA.Troparion62.text = "Immaculate, who through a word gave birth to the Word beyond explanation in the last days, make intercession, as you have a mother’s freedom to speak."
 
@@ -220,7 +220,7 @@ hoCA.Troparion62.text = "Immaculate, who through a word gave birth to the Word b
 //R09
 
 hoCA.Kontakion.mode = miscellanea_en_UK_lash.misc.Mode2
-hoCA.Kontakion.melody  = ""
+hoCA.Kontakion.melody = ""
 hoCA.Kontakion.incipit = ho.ho07_en_UK_lash.hoTY.Key0408.incipit
 hoCA.Kontakion.text = ho.ho07_en_UK_lash.hoTY.Key0408.text
 
@@ -231,12 +231,12 @@ hoCA.Kontakion.text = ho.ho07_en_UK_lash.hoTY.Key0408.text
 
 //R12 ""
 hoCA.PostGospelGlory.mode = miscellanea_en_UK_lash.misc.Mode2
-hoCA.PostGospelGlory.melody  = ""
+hoCA.PostGospelGlory.melody = ""
 hoCA.PostGospelGlory.incipit = "…"
 hoCA.PostGospelGlory.text = ho.ho03_en_UK_lash.hoMA.PostGospelTrinity.text
 
 hoCA.PostGospelBoth.mode = miscellanea_en_UK_lash.misc.Mode2
-hoCA.PostGospelBoth.melody  = ""
+hoCA.PostGospelBoth.melody = ""
 hoCA.PostGospelBoth.incipit = "…"
 hoCA.PostGospelBoth.text = ho.ho03_en_UK_lash.hoMA.PostGospelTheotokos.text
 
@@ -249,12 +249,12 @@ hoCA.PostGospelHymn1.incipit = "Sovereign and all-holy one, *…"
 hoCA.PostGospelHymn1.text = "Sovereign and all-holy one, * do not trust me to protection * which is merely human, * but accept the pleading of your supplicant, * anguish has hold of me, * nor can I endure * the hostile demons’ arrows; * no shelter can I find, * no, nor place of refuge, wretch that I am, * from every side I am assailed, * and, save you, I find none that offers solace, * Queen of all creation, * Protection of the faithful and our hope, * do not despise my entreaty, * but take action for my good."
 
 hoCA.PostGospelHymn2.mode = miscellanea_en_UK_lash.misc.Mode6
-hoCA.PostGospelHymn2.melody  = ""
+hoCA.PostGospelHymn2.melody = ""
 hoCA.PostGospelHymn2.incipit = oc.m6.d3_en_UK_lash.ocMA.AposTheotokion.incipit
 hoCA.PostGospelHymn2.text = oc.m6.d3_en_UK_lash.ocMA.AposTheotokion.text
 
 hoCA.PostGospelHymn3.mode = miscellanea_en_UK_lash.misc.Mode6
-hoCA.PostGospelHymn3.melody  = ""
+hoCA.PostGospelHymn3.melody = ""
 hoCA.PostGospelHymn3.incipit = oc.m6.d3_en_UK_lash.ocVE.AposTheotokion.incipit
 hoCA.PostGospelHymn3.text = oc.m6.d3_en_UK_lash.ocVE.AposTheotokion.text
 
@@ -402,17 +402,17 @@ hoCA.Meg0F.text = "All you hosts of heaven, the Angel Bands, * John, the Lord’
 //Trisagion Prayers with exclamation
 
 hoCA.Troparion1.mode = miscellanea_en_UK_lash.misc.Mode6
-hoCA.Troparion1.melody  = ""
+hoCA.Troparion1.melody = ""
 hoCA.Troparion1.incipit = oc.m6.d3_en_UK_lash.octrMA.Kathisma12.incipit
 hoCA.Troparion1.text = oc.m6.d3_en_UK_lash.octrMA.Kathisma12.text
 
 hoCA.Troparion2.mode = miscellanea_en_UK_lash.misc.Mode6
-hoCA.Troparion2.melody  = ""
+hoCA.Troparion2.melody = ""
 hoCA.Troparion2.incipit = oc.m6.d2_en_UK_lash.ocMA.Kathisma22.incipit
 hoCA.Troparion2.text = oc.m6.d2_en_UK_lash.ocMA.Kathisma22.text
 
 hoCA.Troparion3.mode = miscellanea_en_UK_lash.misc.Mode6
-hoCA.Troparion3.melody  = ""
+hoCA.Troparion3.melody = ""
 hoCA.Troparion3.incipit = oc.m6.d5_en_UK_lash.ocMA.Kathisma13.incipit
 hoCA.Troparion3.text = oc.m6.d5_en_UK_lash.ocMA.Kathisma13.text
 
@@ -428,12 +428,12 @@ hoCA.Troparion5.incipit = oc.m2.d1_en_UK_lash.ocSV.Aposticha1.incipit
 hoCA.Troparion5.text = oc.m2.d1_en_UK_lash.ocSV.Aposticha1.text
 
 hoCA.Troparion6.mode = miscellanea_en_UK_lash.misc.Mode8
-hoCA.Troparion6.melody  = ""
+hoCA.Troparion6.melody = ""
 hoCA.Troparion6.incipit = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.incipit
 hoCA.Troparion6.text = oc.m8.d5_en_UK_lash.ocMA.AposTheotokion.text
 
 hoCA.Troparion7.mode = miscellanea_en_UK_lash.misc.Mode2
-hoCA.Troparion7.melody  = ""
+hoCA.Troparion7.melody = ""
 hoCA.Troparion7.incipit = "All my hope I lay…"
 hoCA.Troparion7.text = "All my hope I lay on you, Mother of God. Guard me beneath your protection."
 
